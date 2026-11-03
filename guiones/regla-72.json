@@ -3,19 +3,104 @@
   "duracion": 49,
   "aviso": "Cálculo aproximado con fines educativos. No es asesoramiento financiero.",
   "escenas": [
-    { "tipo": "titular", "inicio": 0, "lineas": ["¿Tu dinero, el doble en 12 años…", "…o la mitad en 24?"] },
-    { "tipo": "titular", "inicio": 5.6, "lineas": ["Las dos cosas se calculan", "con un solo número"] },
-    { "tipo": "titular", "inicio": 9.2, "destacado": "72", "lineas": ["La regla del 72"] },
-    { "tipo": "titular", "inicio": 13.8, "lineas": ["72 ÷ lo que gana", "tu dinero al año"] },
-    { "tipo": "ecuacion", "inicio": 18.7, "a": "72", "b": "6 %", "resultado": "12", "etiqueta": "años para duplicarse" },
-    { "tipo": "barras", "inicio": 25.0, "titulo": "Años para duplicarse", "barras": [
-      { "etiqueta": "al 6 %", "valor": 12, "texto": "12 años" },
-      { "etiqueta": "al 9 %", "valor": 8, "texto": "8 años" }
-    ] },
-    { "tipo": "titular", "inicio": 28.2, "lineas": ["Funciona al revés", "con la inflación"] },
-    { "tipo": "ecuacion", "inicio": 30.5, "a": "72", "b": "3 %", "resultado": "24", "etiqueta": "años para perder la mitad" },
-    { "tipo": "encoger", "inicio": 35.0, "titulo": "Lo que compran tus ahorros", "desde": 100, "hasta": 50, "pie": "Dinero quieto, con un 3 % de inflación" },
-    { "tipo": "titular", "inicio": 39.4, "lineas": ["Guardar sin más", "no es quedarse igual.", "Es perder despacio."] },
-    { "tipo": "titular", "inicio": 44.3, "destacado": "72", "lineas": ["Ya sabes qué número buscar", "Sígueme para más"] }
+    {
+      "tipo": "titular",
+      "inicio": 0,
+      "lineas": [
+        "¿Tu dinero, el doble en 12 años…",
+        "…o la mitad en 24?"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 6.1,
+      "lineas": [
+        "Las dos cosas se calculan",
+        "con un solo número"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 9.2,
+      "destacado": "72",
+      "lineas": [
+        "La regla del 72"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 13.2,
+      "lineas": [
+        "72 ÷ lo que gana",
+        "tu dinero al año"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "inicio": 17.2,
+      "a": "72",
+      "b": "6 %",
+      "resultado": "12",
+      "etiqueta": "años para duplicarse"
+    },
+    {
+      "tipo": "barras",
+      "inicio": 23.6,
+      "titulo": "Años para duplicarse",
+      "barras": [
+        {
+          "etiqueta": "al 6 %",
+          "valor": 12,
+          "texto": "12 años"
+        },
+        {
+          "etiqueta": "al 9 %",
+          "valor": 8,
+          "texto": "8 años"
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 26.4,
+      "lineas": [
+        "Funciona al revés",
+        "con la inflación"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "inicio": 28.3,
+      "a": "72",
+      "b": "3 %",
+      "resultado": "24",
+      "etiqueta": "años para perder la mitad"
+    },
+    {
+      "tipo": "encoger",
+      "inicio": 33.2,
+      "titulo": "Lo que compran tus ahorros",
+      "desde": 100,
+      "hasta": 50,
+      "pie": "Dinero quieto, con un 3 % de inflación"
+    },
+    {
+      "tipo": "titular",
+      "inicio": 38.2,
+      "lineas": [
+        "Guardar sin más",
+        "no es quedarse igual.",
+        "Es perder despacio."
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 43.2,
+      "destacado": "72",
+      "lineas": [
+        "Ya sabes qué número buscar",
+        "Sígueme para más"
+      ]
+    }
   ]
 }

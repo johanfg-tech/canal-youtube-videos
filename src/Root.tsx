@@ -1,6 +1,6 @@
 import { Composition } from "remotion";
-import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
-import { SECONDS_PER_POINT, ShortVideo, shortVideoSchema } from "./compositions/ShortVideo";
+import { IntroVideo, introVideoSchema, tiemposIntro } from "./compositions/IntroVideo";
+import { ShortVideo, shortVideoSchema, tiemposShort } from "./compositions/ShortVideo";
 
 const FPS = 30;
 
@@ -19,6 +19,7 @@ export const RemotionRoot: React.FC = () => {
           title: "Título del vídeo",
           subtitle: "Subtítulo o pregunta gancho",
         }}
+        calculateMetadata={({ props }) => ({ durationInFrames: tiemposIntro(props, FPS).duracion })}
       />
       <Composition
         id="ShortVideo"
@@ -33,9 +34,7 @@ export const RemotionRoot: React.FC = () => {
           points: ["Primera idea", "Segunda idea", "Tercera idea"],
           cta: "Sígueme para más",
         }}
-        calculateMetadata={({ props }) => ({
-          durationInFrames: FPS * (2 + props.points.length * SECONDS_PER_POINT + 3),
-        })}
+        calculateMetadata={({ props }) => ({ durationInFrames: tiemposShort(props, FPS).duracion })}
       />
     </>
   );

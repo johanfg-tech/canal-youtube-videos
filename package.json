@@ -9,7 +9,9 @@
   },
   "private": true,
   "dependencies": {
+    "@remotion/captions": "4.0.540",
     "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "remotion": "4.0.540",
@@ -27,7 +29,8 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "narrar": "node scripts/narrar.mjs"
   },
   "allowScripts": {
     "esbuild": false

@@ -1,0 +1,16 @@
+{
+  "composicion": "ShortVideo",
+  "hook": "3 cosas que nadie te cuenta",
+  "points": ["Primera idea", "Segunda idea", "Tercera idea"],
+  "cta": "Sígueme para más",
+  "subtitulos": true,
+  "locucion": {
+    "hook": "Tres cosas que nadie te cuenta, y que ojalá hubiera sabido antes.",
+    "points": [
+      "La primera: empieza antes de sentirte preparado.",
+      "La segunda: lo que no se mide, no mejora.",
+      "Y la tercera: la constancia gana al talento."
+    ],
+    "cta": "Sígueme para más ideas como estas."
+  }
+}

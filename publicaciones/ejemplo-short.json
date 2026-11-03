@@ -1,0 +1,14 @@
+{
+  "video": "out/short-ejemplo.mp4",
+  "titulo": "3 trucos que nadie te cuenta #Shorts",
+  "descripcion": "Tres ideas rápidas para empezar hoy.\n\n#Shorts",
+  "etiquetas": ["trucos", "productividad"],
+  "youtube": {
+    "privacidad": "privado",
+    "categoria": "27"
+  },
+  "tiktok": {
+    "modo": "borrador",
+    "texto": "3 trucos que nadie te cuenta #trucos #productividad"
+  }
+}

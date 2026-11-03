@@ -8,9 +8,15 @@ variables de entorno del entorno en la nube de Claude (o en un `.env` local si l
 
 ## 0. Entorno en la nube (una vez, sirve también para ElevenLabs)
 
-1. Abre **Project settings → Cloud environment → Add cloud environment**.
-2. En **Network access** elige **Limited** (deja marcada la casilla de gestores de paquetes) y en
-   **Allowed domains** añade:
+Los nombres de los botones van en español; si tu Claude los muestra en inglés, el original está entre
+paréntesis.
+
+1. En este proyecto de Claude abre **Ajustes del proyecto** (*Project settings*) → apartado **Entorno**
+   (*Environment*) → menú **Entorno en la nube** (*Cloud environment*) → **Añadir entorno en la nube**
+   (*Add cloud environment*). Al crearlo queda elegido para el proyecto.
+2. En **Acceso a la red** (*Network access*) elige el nivel **Limitado** (*Limited*), deja marcada la
+   casilla de gestores de paquetes (*Allow package managers*) y en **Dominios permitidos**
+   (*Allowed domains*) añade, uno por línea:
    ```
    oauth2.googleapis.com
    www.googleapis.com
@@ -18,7 +24,8 @@ variables de entorno del entorno en la nube de Claude (o en un `.env` local si l
    open-upload.tiktokapis.com
    api.elevenlabs.io
    ```
-3. En **Environment variables** irás pegando las variables de los pasos siguientes:
+3. En **Variables de entorno** (*Environment variables*) irás pegando, con este formato, los valores que
+   consigas en los pasos siguientes (puedes volver a editarlas cuando quieras):
    ```
    YOUTUBE_CLIENT_ID=...
    YOUTUBE_CLIENT_SECRET=...
@@ -29,7 +36,8 @@ variables de entorno del entorno en la nube de Claude (o en un `.env` local si l
    ELEVENLABS_API_KEY=...
    ELEVENLABS_VOICE_ID=...
    ```
-4. Guarda. Las sesiones nuevas de Claude ya arrancan con ese entorno (las que estaban abiertas no).
+   Los nombres de la izquierda (en mayúsculas) no se traducen: tienen que quedar tal cual.
+4. Guarda. Las conversaciones nuevas con Claude ya usan ese entorno (las que estaban abiertas no).
 
 ---
 
@@ -63,15 +71,18 @@ variables de entorno del entorno en la nube de Claude (o en un `.env` local si l
 
 ### 1.4 Token del canal (OAuth Playground)
 1. Abre <https://developers.google.com/oauthplayground>.
-2. Rueda dentada (arriba a la derecha) → marca **Use your own OAuth credentials** → pega el ID y el
-   secreto del paso anterior.
-3. A la izquierda, en *Input your own scopes*, pega:
+Esta página de Google solo está en inglés:
+
+2. Rueda dentada (arriba a la derecha) → marca **Use your own OAuth credentials** (usar tus propias
+   credenciales) → pega el ID y el secreto del paso anterior en *OAuth Client ID* y *OAuth Client secret*.
+3. A la izquierda, abajo del todo, en el cuadro *Input your own scopes* (escribe tus propios permisos), pega:
    `https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl`
-   → **Authorize APIs**.
+   → botón azul **Authorize APIs** (autorizar).
 4. Entra con la cuenta del canal. Si el canal es una *cuenta de marca*, elige el canal, no tu perfil
    personal. Saldrá "Google no ha verificado esta app": **Configuración avanzada → Ir a Publicador del
    canal** (es tu propia app) → Continuar.
-5. Pulsa **Exchange authorization code for tokens** y copia el **Refresh token** a la variable
+5. Vuelves al Playground. Pulsa **Exchange authorization code for tokens** (canjear el código por
+   tokens) y copia el valor de **Refresh token** (token de actualización) a la variable
    `YOUTUBE_REFRESH_TOKEN`.
 
 ### Límites de YouTube
@@ -97,22 +108,27 @@ bandeja de tu TikTok y tú, desde el móvil, abres la notificación, revisas y p
 privacidad que quieras. Son dos toques.
 
 ### 2.1 App de desarrollador
-1. Entra en <https://developers.tiktok.com> con la cuenta del canal → **Manage apps → Connect an app**.
+El portal de desarrolladores de TikTok solo está en inglés; al lado de cada botón va lo que significa.
+
+1. Entra en <https://developers.tiktok.com> con la cuenta del canal (*Log in*) → **Manage apps**
+   (gestionar apps) → **Connect an app** (crear app).
 2. Rellena icono, nombre (`Publicador del canal`), categoría y descripción. Plataforma: **Web**.
    Te pedirá URL de web, términos y política de privacidad: si no tienes, dímelo y te preparo unas
    páginas sencillas.
-3. **Add products**:
-   - **Login Kit**: en *Redirect URI* pon una URL https tuya (por ejemplo la de tu web). Es solo adonde
+3. **Add products** (añadir productos):
+   - **Login Kit** (inicio de sesión): en *Redirect URI* (dirección de vuelta) pon una URL https tuya (por ejemplo la de tu web). Es solo adonde
      TikTok te devuelve tras aceptar; no hace falta que la página haga nada. Copia esa URL exacta a la
      variable `TIKTOK_REDIRECT_URI`.
-   - **Content Posting API**: actívalo. Si quieres probar el modo directo, activa también *Direct Post*.
-4. Permisos (scopes): `user.info.basic`, `video.upload` y `video.publish`.
+   - **Content Posting API** (publicar contenido): actívalo. Si quieres probar el modo directo, activa
+     también *Direct Post* (publicación directa).
+4. Permisos (*Scopes*): `user.info.basic`, `video.upload` y `video.publish`.
 5. Copia **Client key** y **Client secret** a `TIKTOK_CLIENT_KEY` y `TIKTOK_CLIENT_SECRET`.
-6. Para probar ya: pestaña **Sandbox → Create sandbox** y añade tu cuenta de TikTok como *Target user*.
-   Para usarlo sin sandbox, envía la app a revisión (*Submit for review*); TikTok tarda unos días.
+6. Para probar ya: pestaña **Sandbox** (entorno de pruebas) → **Create sandbox** y añade tu cuenta de
+   TikTok en **Target users** (usuarios de prueba). Para usarlo sin sandbox, envía la app a revisión
+   (**Submit for review**); TikTok tarda unos días.
 
 ### 2.2 Autorizar tu cuenta (una vez al año)
-1. En una sesión nueva de Claude (con el entorno ya configurado), dile: *"autoriza TikTok"*.
+1. En una conversación nueva con Claude (con el entorno ya configurado), dile: *"autoriza TikTok"*.
 2. Claude te da un enlace. Ábrelo, acepta, y TikTok te mandará a tu Redirect URI con `?code=...` en la
    barra de direcciones (aunque la página dé error).
 3. Pega esa URL a Claude en los siguientes minutos. Ese código caduca enseguida, solo sirve una vez y no

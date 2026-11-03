@@ -7,3 +7,4 @@ Proyecto Remotion (React) para generar los vídeos del canal. Idioma del canal y
 - Skills oficiales de Remotion en `.claude/skills/` (empieza por `remotion-best-practices`). Anima siempre con `useCurrentFrame()` + `interpolate()`, nunca con CSS transitions.
 - Comprobar: `npm run lint`. Render: `npx remotion render <Id> out/<nombre>.mp4 --props='{"...":"..."}'`. En el entorno en la nube añade `--browser-executable=/opt/pw-browsers/chromium`.
 - `out/` está en .gitignore; los MP4 finales se entregan en la carpeta de archivos del proyecto, no en el repo.
+- Publicar: `npm run publicar -- publicaciones/<ficha>.json` (prueba antes con `--simular`). Guía y límites en `docs/PUBLICAR.md`. YouTube se sube como privado salvo que Johan pida otra cosa; TikTok va como borrador a su bandeja. Credenciales solo por variables de entorno; nunca pidas claves por el chat. Los tokens de TikTok viven en `/mnt/project-files/.credenciales/` y nunca se imprimen ni se suben al repo.

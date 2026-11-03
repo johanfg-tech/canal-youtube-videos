@@ -1,0 +1,13 @@
+{
+  "video": "out/intro-ejemplo.mp4",
+  "titulo": "Cómo empezar un canal de YouTube desde cero",
+  "descripcion": "En este vídeo te cuento paso a paso cómo empezar.\n\n00:00 Introducción",
+  "etiquetas": ["youtube", "crear canal"],
+  "youtube": {
+    "privacidad": "privado",
+    "programar": "2030-01-15T18:00:00+01:00",
+    "categoria": "27",
+    "miniatura": "out/intro-ejemplo.png",
+    "subtitulos": "out/intro-ejemplo.srt"
+  }
+}

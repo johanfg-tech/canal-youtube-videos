@@ -14,7 +14,7 @@ import json, re, subprocess, sys
 
 NUMEROS = {"0": "cero", "1": "uno", "2": "dos", "3": "tres", "4": "cuatro", "5": "cinco", "6": "seis",
            "7": "siete", "8": "ocho", "9": "nueve", "10": "diez", "12": "doce", "20": "veinte",
-           "24": "veinticuatro", "25": "veinticinco", "75": "setenta y cinco", "80": "ochenta", "400": "cuatrocientos", "40": "cuarenta", "50": "cincuenta", "60": "sesenta", "70": "setenta",
+           "24": "veinticuatro", "25": "veinticinco", "75": "setenta y cinco", "80": "ochenta", "400": "cuatrocientos", "11": "once", "32": "treinta y dos", "1000": "mil", "40": "cuarenta", "50": "cincuenta", "60": "sesenta", "70": "setenta",
            "72": "setenta y dos", "100": "cien", "%": "por ciento", "€": "euros", "×": "por", "÷": "entre"}
 
 

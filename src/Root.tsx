@@ -1,4 +1,6 @@
 import { Composition } from "remotion";
+import { Avatar } from "./compositions/Avatar";
+import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
 import regla72 from "../guiones/regla-72.json";
@@ -52,6 +54,16 @@ export const RemotionRoot: React.FC = () => {
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}
       />
+      <Composition
+        id="Banner"
+        component={Banner}
+        durationInFrames={1}
+        fps={FPS}
+        width={2560}
+        height={1440}
+        defaultProps={{ nombre: "Cifras Claras", lema: "Dinero y economía explicados con números" }}
+      />
+      <Composition id="Avatar" component={Avatar} durationInFrames={1} fps={FPS} width={800} height={800} />
     </>
   );
 };

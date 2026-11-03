@@ -33,6 +33,8 @@ const ecuacionSchema = z.object({
   b: z.string(),
   resultado: z.number(),
   etiqueta: z.string(),
+  operador: z.string().optional(), // "÷" por defecto; también "×", "−", "+"
+  decimales: z.number().optional(), // decimales del resultado (se muestran con coma)
   // Segundo (desde el inicio de la escena) en que aparece el resultado, cuando la voz lo dice.
   revelar: z.number().optional(),
 });
@@ -170,7 +172,15 @@ const Estallido: React.FC<{ delay: number; color?: string }> = ({ delay, color =
   );
 };
 
-const limpiar = (w: string) => w.replace(/[¿?¡!.,…:]/g, "");
+// "50 %" o "100 €" no se parten en dos líneas.
+const unirSimbolos = (ws: string[]) =>
+  ws.reduce<string[]>((acc, w) => {
+    if (acc.length && /^[%€]/.test(w)) acc[acc.length - 1] += "\u00a0" + w;
+    else acc.push(w);
+    return acc;
+  }, []);
+
+const limpiar = (w: string) => w.replace(/[¿?¡!.,…:]|\u00a0[%€]/g, "");
 
 const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [], destacado, final }) => {
   const frame = useCurrentFrame();
@@ -202,7 +212,7 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
       ) : null}
       {lineas.map((l, li) => (
         <div key={li} style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0 26px" }}>
-          {l.split(" ").map((w, wi) => {
+          {unirSimbolos(l.split(" ")).map((w, wi) => {
             const d = base + 0.12 * n++;
             const marcada = resaltar.includes(limpiar(w));
             return (
@@ -249,11 +259,20 @@ const useContadorSeguro = (valor: string) => {
   return Number.isFinite(num) ? String(c) : valor;
 };
 
-const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({ a, b, resultado, etiqueta, revelar = 1.7 }) => {
+const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
+  a,
+  b,
+  resultado,
+  etiqueta,
+  revelar = 1.7,
+  operador = "÷",
+  decimales = 0,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const r = Math.max(1.2, revelar);
-  const valor = useContador(resultado, r - 0.5, 0.5);
+  const factor = 10 ** decimales;
+  const valor = (useContador(resultado * factor, r - 0.5, 0.5) / factor).toFixed(decimales).replace(".", ",");
   const pr = useResorte(r - 0.5, 8);
   const temblor = useTemblor(r);
   const giro = useResorte(0.25);
@@ -261,13 +280,13 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({ a, b, resultado, e
     <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", gap: 40, translate: temblor }}>
       <div style={{ display: "flex", gap: 36, alignItems: "center" }}>
         <Pop desde="-500px 0px">
-          <div style={estiloTexto(210)}>{a}</div>
+          <div style={{ ...estiloTexto(a.length > 3 ? 140 : 210), whiteSpace: "nowrap" }}>{a}</div>
         </Pop>
         <Pop delay={0.25} desde="0px -300px">
-          <div style={{ ...estiloTexto(170, AMARILLO), rotate: `${interpolate(giro, [0, 1], [-180, 0])}deg` }}>÷</div>
+          <div style={{ ...estiloTexto(170, AMARILLO), rotate: `${interpolate(giro, [0, 1], [-180, 0])}deg` }}>{operador}</div>
         </Pop>
         <Pop delay={0.5} desde="500px 0px">
-          <div style={estiloTexto(210)}>{b}</div>
+          <div style={{ ...estiloTexto(b.length > 3 ? 140 : 210), whiteSpace: "nowrap" }}>{b}</div>
         </Pop>
       </div>
       <div

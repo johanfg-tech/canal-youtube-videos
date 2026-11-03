@@ -1,5 +1,7 @@
 import { Composition } from "remotion";
+import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
+import regla72 from "../guiones/regla-72.json";
 import { SECONDS_PER_POINT, ShortVideo, shortVideoSchema } from "./compositions/ShortVideo";
 
 const FPS = 30;
@@ -35,6 +37,19 @@ export const RemotionRoot: React.FC = () => {
         }}
         calculateMetadata={({ props }) => ({
           durationInFrames: FPS * (2 + props.points.length * SECONDS_PER_POINT + 3),
+        })}
+      />
+      <Composition
+        id="DatosShort"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(regla72)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
         })}
       />
     </>

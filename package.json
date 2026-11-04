@@ -27,7 +27,9 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "publicar": "node scripts/publicar.mjs",
+    "tiktok:autorizar": "node scripts/tiktok-autorizar.mjs"
   },
   "allowScripts": {
     "esbuild": false

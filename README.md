@@ -19,4 +19,14 @@ npx remotion render ShortVideo out/short.mp4 --props='{"hook":"Mi gancho","point
 
 Colores y fuente en `src/theme.ts`.
 
+## Publicar en YouTube y TikTok
+
+```bash
+npm run publicar -- publicaciones/ejemplo-short.json --simular   # valida la ficha sin subir nada
+npm run publicar -- publicaciones/ejemplo-short.json             # sube a YouTube y TikTok
+npm run tiktok:autorizar                                         # autoriza TikTok (una vez al año)
+```
+
+Cómo crear las credenciales, la ficha de publicación y los límites de cada plataforma: [docs/PUBLICAR.md](docs/PUBLICAR.md).
+
 Licencia de Remotion: gratis para particulares y equipos de hasta 3 personas ([detalles](https://www.remotion.pro/license)).

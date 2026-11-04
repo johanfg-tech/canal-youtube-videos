@@ -93,6 +93,9 @@ const useResorte = (delay = 0, damping = 11) => {
   return spring({ frame: frame - Math.round(delay * fps), fps, config: { damping, mass: 0.6 } });
 };
 
+// 11574 -> "11.574" (separador de miles español, también con 4 cifras).
+const miles = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+
 const useContador = (hasta: number, delay: number, dur: number) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -256,7 +259,7 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
 const useContadorSeguro = (valor: string) => {
   const num = Number(valor);
   const c = useContador(Number.isFinite(num) ? num : 0, 0.1, 0.7);
-  return Number.isFinite(num) ? String(c) : valor;
+  return Number.isFinite(num) ? miles(c) : valor;
 };
 
 const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
@@ -380,7 +383,7 @@ const Barra: React.FC<{ b: { etiqueta: string; valor: number; texto: string }; i
   const color = ultima ? AMARILLO : theme.accent;
   return (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 20 }}>
-      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>{valor}</div>
+      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>{miles(valor)}</div>
       <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>{b.texto}</div>
       <div
         style={{

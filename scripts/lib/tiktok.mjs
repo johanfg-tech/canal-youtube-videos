@@ -12,7 +12,7 @@
 //   TIKTOK_REFRESH_TOKEN                      opcional: si no hay archivo de tokens, se usa este
 //   TIKTOK_TOKEN_FILE                         opcional: dónde guardar los tokens (ver rutaTokens)
 //
-// Dominios que el entorno debe permitir: open.tiktokapis.com, open-upload.tiktokapis.com
+// Dominios que el entorno debe permitir: open.tiktokapis.com, open-upload.tiktokapis.com y el regional que devuelva TikTok (p. ej. open-upload-sg.tiktokapis.com)
 
 import { existsSync, readFileSync } from "node:fs";
 import { open, stat } from "node:fs/promises";
@@ -121,14 +121,20 @@ const subirTrozos = async (url, ruta, total, { chunk_size, total_chunk_count }) 
       const buf = Buffer.alloc(fin - inicio);
       await archivo.read(buf, 0, buf.length, inicio);
       for (let intento = 1; ; intento++) {
+        let motivo = "";
         const res = await fetch(url, {
           method: "PUT",
           headers: { "Content-Type": "video/mp4", "Content-Length": String(buf.length), "Content-Range": `bytes ${inicio}-${fin - 1}/${total}` },
-          body: buf,
-        }).catch(() => null);
+          body: new Blob([buf]), // Blob: con un Buffer, fetch tras el proxy falla (ArrayBuffer "detached")
+        }).catch((e) => { motivo = e.cause?.message ?? e.message; return null; });
         if (res && (res.status === 201 || res.status === 206)) break;
         if (res && res.status < 500) fallar(`TikTok rechazó el trozo ${i + 1}/${total_chunk_count} (${res.status}): ${await res.text()}`);
-        if (intento >= 4) fallar("La subida a TikTok falló varias veces seguidas. Vuelve a intentarlo más tarde.");
+        if (res) motivo = `HTTP ${res.status}`;
+        if (intento >= 4) {
+          const host = new URL(url).host;
+          const pista = /ENOTFOUND|403|tunnel/i.test(motivo) ? ` Si estás en el entorno en la nube, añade ${host} a los dominios permitidos.` : "";
+          fallar(`La subida a TikTok (${host}) falló varias veces seguidas: ${motivo}.${pista}`);
+        }
         await esperar(2000 * intento);
       }
       process.stdout.write(`\r  Subiendo a TikTok: ${Math.round((fin / total) * 100)}%   `);

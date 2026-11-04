@@ -22,8 +22,11 @@ paréntesis.
    www.googleapis.com
    open.tiktokapis.com
    open-upload.tiktokapis.com
+   open-upload-sg.tiktokapis.com
    api.elevenlabs.io
    ```
+   TikTok da la dirección de subida según la región (para esta cuenta, `open-upload-sg`). Si una subida
+   falla diciendo que falta un dominio, añade el que indique el mensaje.
 3. En **Variables de entorno** (*Environment variables*) irás pegando, con este formato, los valores que
    consigas en los pasos siguientes (puedes volver a editarlas cuando quieras):
    ```

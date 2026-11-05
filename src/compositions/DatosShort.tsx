@@ -378,12 +378,13 @@ const Duplicar: React.FC<z.infer<typeof duplicarSchema>> = ({ monedas, etiqueta 
 
 const Barra: React.FC<{ b: { etiqueta: string; valor: number; texto: string }; i: number; max: number }> = ({ b, i, max }) => {
   const p = useResorte(0.3 + i * 0.45, 9);
-  const valor = useContador(b.valor, 0.3 + i * 0.45, 0.6);
+  const dec = Number.isInteger(b.valor) ? 1 : 10;
+  const valor = useContador(b.valor * dec, 0.3 + i * 0.45, 0.6) / dec;
   const ultima = i === 1;
   const color = ultima ? AMARILLO : theme.accent;
   return (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 20 }}>
-      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>{miles(valor)}</div>
+      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>{dec === 1 ? miles(valor) : valor.toFixed(1).replace(".", ",")}</div>
       <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>{b.texto}</div>
       <div
         style={{

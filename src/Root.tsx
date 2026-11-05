@@ -9,7 +9,7 @@ import recuperar from "../guiones/recuperar.json";
 import millon from "../guiones/millon.json";
 import ahorro10 from "../guiones/ahorro10.json";
 import regla115 from "../guiones/regla115.json";
-import largo5reglas from "../guiones/largo-5reglas.json";
+import largo7reglas from "../guiones/largo-7reglas.json";
 import { SECONDS_PER_POINT, ShortVideo, shortVideoSchema } from "./compositions/ShortVideo";
 
 const FPS = 30;
@@ -126,14 +126,14 @@ export const RemotionRoot: React.FC = () => {
         })}
       />
       <Composition
-        id="Largo5Reglas"
+        id="Largo7Reglas"
         component={DatosShort}
         schema={datosShortSchema}
         fps={FPS}
         width={1920}
         height={1080}
         durationInFrames={FPS * 10}
-        defaultProps={datosShortSchema.parse(largo5reglas)}
+        defaultProps={datosShortSchema.parse(largo7reglas)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

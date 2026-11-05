@@ -554,7 +554,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           </Sequence>
         );
       })}
-      {palabras ? <Subtitulos palabras={palabras} top={horizontal ? 915 : 1440} /> : null}
+      {palabras ? <Subtitulos palabras={palabras} top={horizontal ? 868 : 1440} /> : null}
       <div
         style={{
           position: "absolute",

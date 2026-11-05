@@ -66,37 +66,52 @@ def main():
             x -= b - a
         return hablado[-1][1]
 
-    # 1) reparto proporcional por todo el tiempo hablado
-    bruto, acum = [], 0.0
-    for p in pesos:
-        bruto.append((acum, acum + p * escala))
-        acum += p * escala
-    # 2) cada final de frase se ancla al final de tramo hablado más cercano (en tiempo de habla),
-    #    y las palabras de esa frase se reparten de nuevo entre los dos anclajes
-    finales, x = [], 0.0
-    for a, b in hablado:
-        x += b - a
-        finales.append(x)
-    cortes = [i for i, t in enumerate(toks) if re.search(r"[.:;…?!]$", t)]
-    if not cortes or cortes[-1] != len(toks) - 1:
-        cortes.append(len(toks) - 1)
-    tiempos, desde_i, desde_x = [None] * len(toks), 0, 0.0
-    for c in cortes:
-        hasta_x = min(finales, key=lambda f: abs(f - bruto[c][1])) if c != len(toks) - 1 else total_habla
-        if hasta_x <= desde_x:
-            hasta_x = bruto[c][1]
-        grupo = range(desde_i, c + 1)
-        sp = sum(pesos[i] for i in grupo)
-        y = desde_x
-        for i in grupo:
-            d_ = (hasta_x - desde_x) * pesos[i] / sp
-            tiempos[i] = (y, y + d_)
+    # Alineación por programación dinámica: cada tramo hablado (entre silencios) se asigna a un
+    # bloque seguido de palabras, de forma que la velocidad de habla de cada tramo se parezca lo más
+    # posible a la media. Los cortes de tramo prefieren caer tras una coma o un punto.
+    import math
+    n, m = len(toks), len(hablado)
+    media = sum(pesos) / total_habla
+    acum = [0.0]
+    for p_ in pesos:
+        acum.append(acum[-1] + p_)
+    puntuado = [bool(re.search(r"[.,:;…?!]$", t)) for t in toks]
+    VENTANA = 80
+    INF = float("inf")
+    coste = [[INF] * (n + 1) for _ in range(m + 1)]
+    previo = [[-1] * (n + 1) for _ in range(m + 1)]
+    coste[0][0] = 0.0
+    for i in range(1, m + 1):
+        dur_t = hablado[i - 1][1] - hablado[i - 1][0]
+        for j in range(i, n + 1):
+            extra = 0.0 if (j == n or puntuado[j - 1]) else 1.0
+            mejor, arg = INF, -1
+            for k in range(max(i - 1, j - VENTANA), j):
+                if coste[i - 1][k] == INF:
+                    continue
+                vel = (acum[j] - acum[k]) / dur_t
+                c = coste[i - 1][k] + math.log(vel / media) ** 2 * (0.5 + dur_t) + extra
+                if c < mejor:
+                    mejor, arg = c, k
+            coste[i][j], previo[i][j] = mejor, arg
+    limites, j = [], n
+    for i in range(m, 0, -1):
+        k = previo[i][j]
+        limites.append((k, j, i - 1))
+        j = k
+    tiempos = [None] * n
+    for k, j, t in limites:
+        a0, b0 = hablado[t]
+        sp = acum[j] - acum[k]
+        y = a0
+        for idx in range(k, j):
+            d_ = (b0 - a0) * pesos[idx] / sp
+            tiempos[idx] = (y, y + d_)
             y += d_
-        desde_i, desde_x = c + 1, hasta_x
 
     palabras = []
     for t, (x0, x1) in zip(toks, tiempos):
-        palabras.append({"texto": t, "inicio": round(a_tiempo(x0 + 0.001), 2), "fin": round(a_tiempo(x1), 2),
+        palabras.append({"texto": t, "inicio": round(x0, 2), "fin": round(x1, 2),
                          "corte": bool(re.search(r"[.:;…?!]$", t))})
     d = json.load(open(guion, encoding="utf-8"))
     d["palabras"], d["duracion"] = palabras, round(dur + 0.5, 1)

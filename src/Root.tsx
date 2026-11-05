@@ -1,5 +1,6 @@
 import { Composition } from "remotion";
 import { Avatar } from "./compositions/Avatar";
+import { Miniatura } from "./compositions/Miniatura";
 import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
@@ -137,6 +138,15 @@ export const RemotionRoot: React.FC = () => {
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}
+      />
+      <Composition
+        id="Miniatura"
+        component={Miniatura}
+        fps={FPS}
+        width={1280}
+        height={720}
+        durationInFrames={1}
+        defaultProps={{ numero: "7", arriba: "reglas de dinero", abajo: "que nadie te explica", chips: ["72", "115", "50/30/20", "×25"] }}
       />
       <Composition
         id="Banner"

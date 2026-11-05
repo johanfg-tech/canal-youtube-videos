@@ -75,6 +75,8 @@ export const datosShortSchema = z.object({
   duracion: z.number(),
   aviso: z.string(),
   sfx: z.boolean().optional(),
+  // Vídeo largo 16:9 (1920x1080): las escenas se dibujan en una zona de 1800x1240 reducida.
+  horizontal: z.boolean().optional(),
   palabras: z
     .array(z.object({ texto: z.string(), inicio: z.number(), fin: z.number(), corte: z.boolean().optional() }))
     .optional(),
@@ -505,7 +507,17 @@ const momentosDing = (e: Escena) => {
   return [];
 };
 
-export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({ audio, duracion, aviso, sfx, palabras, escenas }) => {
+const H_ESCALA = 0.74;
+
+export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
+  audio,
+  duracion,
+  aviso,
+  sfx,
+  horizontal,
+  palabras,
+  escenas,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const total = Math.round(duracion * fps);
@@ -519,7 +531,13 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({ audio, 
         const dur = Math.max(1, to - from);
         return (
           <Sequence key={i} from={from} durationInFrames={dur} name={`${i + 1}. ${e.tipo}`}>
-            <div style={{ position: "absolute", top: 150, left: 0, right: 0, height: ZONA_ALTO }}>
+            <div
+              style={
+                horizontal
+                  ? { position: "absolute", top: 10, left: 60, width: 1800, height: ZONA_ALTO, scale: String(H_ESCALA), transformOrigin: "50% 0" }
+                  : { position: "absolute", top: 150, left: 0, right: 0, height: ZONA_ALTO }
+              }
+            >
               <Transicion frames={dur}>
                 <EscenaVista escena={e} />
               </Transicion>
@@ -536,7 +554,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({ audio, 
           </Sequence>
         );
       })}
-      {palabras ? <Subtitulos palabras={palabras} top={1440} /> : null}
+      {palabras ? <Subtitulos palabras={palabras} top={horizontal ? 915 : 1440} /> : null}
       <div
         style={{
           position: "absolute",
@@ -547,7 +565,17 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({ audio, 
           width: `${interpolate(frame, [0, total], [0, 100], clamp)}%`,
         }}
       />
-      <div style={{ position: "absolute", bottom: 70, left: 90, right: 90, ...estiloTexto(30, theme.muted, 500) }}>{aviso}</div>
+      <div
+        style={{
+          position: "absolute",
+          bottom: horizontal ? 24 : 70,
+          left: 90,
+          right: 90,
+          ...estiloTexto(horizontal ? 24 : 30, theme.muted, 500),
+        }}
+      >
+        {aviso}
+      </div>
     </AbsoluteFill>
   );
 };

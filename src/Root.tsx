@@ -7,6 +7,7 @@ import regla72 from "../guiones/regla-72.json";
 import descuentos from "../guiones/descuentos.json";
 import recuperar from "../guiones/recuperar.json";
 import millon from "../guiones/millon.json";
+import ahorro10 from "../guiones/ahorro10.json";
 import { SECONDS_PER_POINT, ShortVideo, shortVideoSchema } from "./compositions/ShortVideo";
 
 const FPS = 30;
@@ -92,6 +93,19 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(millon)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Ahorro10"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(ahorro10)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

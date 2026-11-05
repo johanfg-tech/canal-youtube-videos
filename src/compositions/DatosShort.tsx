@@ -202,7 +202,7 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
           <Pop>
             <div
               style={{
-                ...estiloTexto(380, theme.accent),
+                ...estiloTexto(numero.length <= 3 ? 380 : numero.length <= 5 ? 280 : 210, theme.accent),
                 letterSpacing: -12,
                 scale: String(pulso),
                 textShadow: `0 0 60px ${theme.accent}aa, 0 14px 0 rgba(0,0,0,0.4)`,

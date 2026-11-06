@@ -1,0 +1,607 @@
+{
+  "audio": "narraciones/millon.mp3",
+  "duracion": 32.9,
+  "aviso": "Cálculo aproximado con fines educativos.",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "inicio": 0,
+      "lineas": [
+        "1 millón",
+        "vs 1.000 millones"
+      ],
+      "resaltar": [
+        "millón",
+        "1.000"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 3.4,
+      "lineas": [
+        "Cuéntalos",
+        "en segundos"
+      ],
+      "resaltar": [
+        "segundos"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 9.0,
+      "destacado": "11",
+      "lineas": [
+        "días y medio",
+        "= 1 millón de segundos"
+      ],
+      "resaltar": [
+        "días"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 12.3,
+      "destacado": "32",
+      "lineas": [
+        "años",
+        "= 1.000 millones de segundos"
+      ],
+      "resaltar": [
+        "años"
+      ]
+    },
+    {
+      "tipo": "barras",
+      "inicio": 16.4,
+      "titulo": "Días contando segundos",
+      "barras": [
+        {
+          "etiqueta": "1 millón",
+          "valor": 11,
+          "texto": "días"
+        },
+        {
+          "etiqueta": "1.000 mill.",
+          "valor": 11574,
+          "texto": "días"
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 19.2,
+      "destacado": "1000",
+      "lineas": [
+        "veces más"
+      ],
+      "resaltar": [
+        "más"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 21.2,
+      "lineas": [
+        "Cuando oigas",
+        "«miles de millones»…"
+      ],
+      "resaltar": [
+        "miles",
+        "millones»…"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 26.6,
+      "lineas": [
+        "11 días…",
+        "o 32 años"
+      ],
+      "resaltar": [
+        "11",
+        "32"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 29.6,
+      "destacado": "1M",
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.23,
+      "corte": false
+    },
+    {
+      "texto": "millón",
+      "inicio": 0.23,
+      "fin": 0.72,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 0.72,
+      "fin": 0.88,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 0.88,
+      "fin": 1.17,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 1.17,
+      "fin": 1.79,
+      "corte": false
+    },
+    {
+      "texto": "suenan",
+      "inicio": 1.79,
+      "fin": 2.28,
+      "corte": false
+    },
+    {
+      "texto": "parecido.",
+      "inicio": 2.28,
+      "fin": 3.41,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 3.41,
+      "fin": 3.7,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 3.7,
+      "fin": 3.89,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 3.89,
+      "fin": 4.12,
+      "corte": false
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 4.12,
+      "fin": 4.57,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 4.57,
+      "fin": 4.75,
+      "corte": false
+    },
+    {
+      "texto": "segundos,",
+      "inicio": 4.75,
+      "fin": 5.25,
+      "corte": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 5.25,
+      "fin": 5.49,
+      "corte": false
+    },
+    {
+      "texto": "dura",
+      "inicio": 5.49,
+      "fin": 5.77,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 5.78,
+      "fin": 6.06,
+      "corte": false
+    },
+    {
+      "texto": "días…",
+      "inicio": 6.06,
+      "fin": 6.35,
+      "corte": true
+    },
+    {
+      "texto": "y",
+      "inicio": 6.77,
+      "fin": 6.95,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 6.95,
+      "fin": 7.2,
+      "corte": false
+    },
+    {
+      "texto": "otro,",
+      "inicio": 7.2,
+      "fin": 7.59,
+      "corte": false
+    },
+    {
+      "texto": "media",
+      "inicio": 7.59,
+      "fin": 8.05,
+      "corte": false
+    },
+    {
+      "texto": "vida.",
+      "inicio": 8.05,
+      "fin": 9.01,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 9.01,
+      "fin": 9.2,
+      "corte": false
+    },
+    {
+      "texto": "millón",
+      "inicio": 9.2,
+      "fin": 9.6,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.6,
+      "fin": 9.79,
+      "corte": false
+    },
+    {
+      "texto": "segundos",
+      "inicio": 9.79,
+      "fin": 10.29,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 10.29,
+      "fin": 10.53,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 10.53,
+      "fin": 10.82,
+      "corte": false
+    },
+    {
+      "texto": "11",
+      "inicio": 10.82,
+      "fin": 11.11,
+      "corte": false
+    },
+    {
+      "texto": "días",
+      "inicio": 11.12,
+      "fin": 11.41,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 11.41,
+      "fin": 11.54,
+      "corte": false
+    },
+    {
+      "texto": "medio.",
+      "inicio": 11.54,
+      "fin": 12.3,
+      "corte": true
+    },
+    {
+      "texto": "Mil",
+      "inicio": 12.31,
+      "fin": 12.59,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 12.59,
+      "fin": 13.19,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.19,
+      "fin": 13.41,
+      "corte": false
+    },
+    {
+      "texto": "segundos",
+      "inicio": 13.41,
+      "fin": 14.02,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 14.02,
+      "fin": 14.3,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 14.3,
+      "fin": 14.65,
+      "corte": false
+    },
+    {
+      "texto": "32",
+      "inicio": 14.65,
+      "fin": 15.57,
+      "corte": false
+    },
+    {
+      "texto": "años.",
+      "inicio": 15.57,
+      "fin": 16.4,
+      "corte": true
+    },
+    {
+      "texto": "Mil",
+      "inicio": 16.4,
+      "fin": 16.62,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 16.62,
+      "fin": 17.09,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 17.09,
+      "fin": 17.26,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 17.26,
+      "fin": 17.43,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 17.43,
+      "fin": 17.61,
+      "corte": false
+    },
+    {
+      "texto": "poco",
+      "inicio": 17.61,
+      "fin": 17.88,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 17.88,
+      "fin": 18.1,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 18.1,
+      "fin": 18.32,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 18.32,
+      "fin": 18.49,
+      "corte": false
+    },
+    {
+      "texto": "millón.",
+      "inicio": 18.49,
+      "fin": 19.22,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 19.22,
+      "fin": 19.52,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 19.52,
+      "fin": 19.91,
+      "corte": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 19.91,
+      "fin": 20.47,
+      "corte": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 20.47,
+      "fin": 21.25,
+      "corte": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 21.25,
+      "fin": 21.48,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 21.48,
+      "fin": 21.72,
+      "corte": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 21.72,
+      "fin": 22.11,
+      "corte": false
+    },
+    {
+      "texto": "oigas",
+      "inicio": 22.11,
+      "fin": 22.45,
+      "corte": false
+    },
+    {
+      "texto": "\"millones\"",
+      "inicio": 22.45,
+      "fin": 22.94,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 22.94,
+      "fin": 23.07,
+      "corte": false
+    },
+    {
+      "texto": "\"miles",
+      "inicio": 23.07,
+      "fin": 23.41,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 23.41,
+      "fin": 23.6,
+      "corte": false
+    },
+    {
+      "texto": "millones\"",
+      "inicio": 23.6,
+      "fin": 24.09,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 24.09,
+      "fin": 24.27,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 24.28,
+      "fin": 24.51,
+      "corte": false
+    },
+    {
+      "texto": "noticias,",
+      "inicio": 24.51,
+      "fin": 25.0,
+      "corte": false
+    },
+    {
+      "texto": "piensa",
+      "inicio": 25.01,
+      "fin": 25.71,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 25.71,
+      "fin": 25.9,
+      "corte": false
+    },
+    {
+      "texto": "esto:",
+      "inicio": 25.9,
+      "fin": 26.18,
+      "corte": true
+    },
+    {
+      "texto": "11",
+      "inicio": 26.66,
+      "fin": 27.07,
+      "corte": false
+    },
+    {
+      "texto": "días…",
+      "inicio": 27.07,
+      "fin": 27.47,
+      "corte": true
+    },
+    {
+      "texto": "o",
+      "inicio": 27.88,
+      "fin": 28.03,
+      "corte": false
+    },
+    {
+      "texto": "32",
+      "inicio": 28.03,
+      "fin": 28.86,
+      "corte": false
+    },
+    {
+      "texto": "años.",
+      "inicio": 28.86,
+      "fin": 29.18,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 29.64,
+      "fin": 30.12,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 30.12,
+      "fin": 30.43,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 30.43,
+      "fin": 30.68,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 30.69,
+      "fin": 31.11,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 31.11,
+      "fin": 31.71,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 31.71,
+      "fin": 31.96,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 31.96,
+      "fin": 32.44,
+      "corte": true
+    }
+  ]
+}

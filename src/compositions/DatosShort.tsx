@@ -50,7 +50,9 @@ const barrasSchema = z.object({
   tipo: z.literal("barras"),
   inicio: z.number(),
   titulo: z.string(),
-  barras: z.array(z.object({ etiqueta: z.string(), valor: z.number(), texto: z.string() })),
+  barras: z.array(
+    z.object({ etiqueta: z.string(), valor: z.number(), texto: z.string() }),
+  ),
 });
 
 const encogerSchema = z.object({
@@ -73,12 +75,19 @@ const escenaSchema = z.discriminatedUnion("tipo", [
 export const datosShortSchema = z.object({
   audio: z.string().optional(),
   duracion: z.number(),
-  aviso: z.string(),
+  aviso: z.string(), // texto pequeño abajo; "" para no mostrarlo (el aviso va en la descripción)
   sfx: z.boolean().optional(),
   // Vídeo largo 16:9 (1920x1080): las escenas se dibujan en una zona de 1800x1240 reducida.
   horizontal: z.boolean().optional(),
   palabras: z
-    .array(z.object({ texto: z.string(), inicio: z.number(), fin: z.number(), corte: z.boolean().optional() }))
+    .array(
+      z.object({
+        texto: z.string(),
+        inicio: z.number(),
+        fin: z.number(),
+        corte: z.boolean().optional(),
+      }),
+    )
     .optional(),
   escenas: z.array(escenaSchema),
 });
@@ -92,7 +101,11 @@ const ZONA_ALTO = 1240; // alto de la zona de escenas; debajo van los subtítulo
 const useResorte = (delay = 0, damping = 11) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  return spring({ frame: frame - Math.round(delay * fps), fps, config: { damping, mass: 0.6 } });
+  return spring({
+    frame: frame - Math.round(delay * fps),
+    fps,
+    config: { damping, mass: 0.6 },
+  });
 };
 
 // 11574 -> "11.574" (separador de miles español, también con 4 cifras).
@@ -102,7 +115,10 @@ const useContador = (hasta: number, delay: number, dur: number) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   return Math.round(
-    interpolate(frame, [delay * fps, (delay + dur) * fps], [0, hasta], { ...clamp, easing: Easing.out(Easing.cubic) }),
+    interpolate(frame, [delay * fps, (delay + dur) * fps], [0, hasta], {
+      ...clamp,
+      easing: Easing.out(Easing.cubic),
+    }),
   );
 };
 
@@ -116,7 +132,11 @@ const useTemblor = (delay: number) => {
   return `${Math.sin(f * 2.1) * 14 * k}px ${Math.cos(f * 2.7) * 10 * k}px`;
 };
 
-const estiloTexto = (size: number, color = theme.text, weight = 900): React.CSSProperties => ({
+const estiloTexto = (
+  size: number,
+  color = theme.text,
+  weight = 900,
+): React.CSSProperties => ({
   fontFamily: theme.font,
   fontSize: size,
   fontWeight: weight,
@@ -125,12 +145,12 @@ const estiloTexto = (size: number, color = theme.text, weight = 900): React.CSSP
   textAlign: "center",
 });
 
-const Pop: React.FC<{ delay?: number; desde?: string; children: React.ReactNode; style?: React.CSSProperties }> = ({
-  delay = 0,
-  desde = "0px 80px",
-  children,
-  style,
-}) => {
+const Pop: React.FC<{
+  delay?: number;
+  desde?: string;
+  children: React.ReactNode;
+  style?: React.CSSProperties;
+}> = ({ delay = 0, desde = "0px 80px", children, style }) => {
   const p = useResorte(delay);
   const [dx, dy] = desde.split(" ").map((v) => parseFloat(v));
   return (
@@ -148,13 +168,24 @@ const Pop: React.FC<{ delay?: number; desde?: string; children: React.ReactNode;
 };
 
 // Rayos que salen del centro, para remarcar un resultado.
-const Estallido: React.FC<{ delay: number; color?: string }> = ({ delay, color = AMARILLO }) => {
+const Estallido: React.FC<{ delay: number; color?: string }> = ({
+  delay,
+  color = AMARILLO,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const p = interpolate(frame, [delay * fps, (delay + 0.5) * fps], [0, 1], { ...clamp, easing: Easing.out(Easing.quad) });
+  const p = interpolate(frame, [delay * fps, (delay + 0.5) * fps], [0, 1], {
+    ...clamp,
+    easing: Easing.out(Easing.quad),
+  });
   if (p <= 0 || p >= 1) return null;
   return (
-    <svg width={900} height={900} viewBox="-450 -450 900 900" style={{ position: "absolute" }}>
+    <svg
+      width={900}
+      height={900}
+      viewBox="-450 -450 900 900"
+      style={{ position: "absolute" }}
+    >
       {new Array(14).fill(0).map((_, i) => {
         const a = (i / 14) * Math.PI * 2;
         const r1 = 160 + 200 * p;
@@ -187,7 +218,12 @@ const unirSimbolos = (ws: string[]) =>
 
 const limpiar = (w: string) => w.replace(/[¿?¡!.,…:]|\u00a0[%€]/g, "");
 
-const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [], destacado, final }) => {
+const Titular: React.FC<z.infer<typeof titularSchema>> = ({
+  lineas,
+  resaltar = [],
+  destacado,
+  final,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const numero = useContadorSeguro(destacado ?? "");
@@ -195,16 +231,45 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
   let n = 0;
   const base = destacado ? 0.7 : 0;
   return (
-    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", gap: 36, padding: 70 }}>
+    <AbsoluteFill
+      style={{
+        justifyContent: "center",
+        alignItems: "center",
+        gap: 36,
+        padding: 70,
+      }}
+    >
       {destacado ? (
-        <div style={{ position: "relative", display: "flex", justifyContent: "center", alignItems: "center" }}>
-          <svg width={620} height={620} viewBox="-310 -310 620 620" style={{ position: "absolute", rotate: `${frame * 1.5}deg` }}>
-            <circle r={280} fill="none" stroke={theme.accent} strokeWidth={10} strokeDasharray="40 30" opacity={0.6} />
+        <div
+          style={{
+            position: "relative",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <svg
+            width={620}
+            height={620}
+            viewBox="-310 -310 620 620"
+            style={{ position: "absolute", rotate: `${frame * 1.5}deg` }}
+          >
+            <circle
+              r={280}
+              fill="none"
+              stroke={theme.accent}
+              strokeWidth={10}
+              strokeDasharray="40 30"
+              opacity={0.6}
+            />
           </svg>
           <Pop>
             <div
               style={{
-                ...estiloTexto(numero.length <= 3 ? 380 : numero.length <= 5 ? 280 : 210, theme.accent),
+                ...estiloTexto(
+                  numero.length <= 3 ? 380 : numero.length <= 5 ? 280 : 210,
+                  theme.accent,
+                ),
                 letterSpacing: -12,
                 scale: String(pulso),
                 textShadow: `0 0 60px ${theme.accent}aa, 0 14px 0 rgba(0,0,0,0.4)`,
@@ -216,7 +281,15 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
         </div>
       ) : null}
       {lineas.map((l, li) => (
-        <div key={li} style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0 26px" }}>
+        <div
+          key={li}
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "center",
+            gap: "0 26px",
+          }}
+        >
           {unirSimbolos(l.split(" ")).map((w, wi) => {
             const d = base + 0.12 * n++;
             const marcada = resaltar.includes(limpiar(w));
@@ -224,10 +297,15 @@ const Titular: React.FC<z.infer<typeof titularSchema>> = ({ lineas, resaltar = [
               <Pop key={wi} delay={d} desde={`0px ${li % 2 ? 120 : -120}px`}>
                 <span
                   style={{
-                    ...estiloTexto(destacado ? 88 : 120, marcada ? AMARILLO : theme.text),
+                    ...estiloTexto(
+                      destacado ? 88 : 120,
+                      marcada ? AMARILLO : theme.text,
+                    ),
                     display: "inline-block",
                     textShadow: "0 10px 0 rgba(0,0,0,0.35)",
-                    rotate: marcada ? `${3 * Math.sin((frame / fps) * 4 + wi)}deg` : "0deg",
+                    rotate: marcada
+                      ? `${3 * Math.sin((frame / fps) * 4 + wi)}deg`
+                      : "0deg",
                   }}
                 >
                   {w}
@@ -277,21 +355,51 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
   const { fps } = useVideoConfig();
   const r = Math.max(1.2, revelar);
   const factor = 10 ** decimales;
-  const valor = (useContador(resultado * factor, r - 0.5, 0.5) / factor).toFixed(decimales).replace(".", ",");
+  const valor = (useContador(resultado * factor, r - 0.5, 0.5) / factor)
+    .toFixed(decimales)
+    .replace(".", ",");
   const pr = useResorte(r - 0.5, 8);
   const temblor = useTemblor(r);
   const giro = useResorte(0.25);
   return (
-    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", gap: 40, translate: temblor }}>
+    <AbsoluteFill
+      style={{
+        justifyContent: "center",
+        alignItems: "center",
+        gap: 40,
+        translate: temblor,
+      }}
+    >
       <div style={{ display: "flex", gap: 36, alignItems: "center" }}>
         <Pop desde="-500px 0px">
-          <div style={{ ...estiloTexto(a.length > 3 ? 140 : 210), whiteSpace: "nowrap" }}>{a}</div>
+          <div
+            style={{
+              ...estiloTexto(a.length > 3 ? 140 : 210),
+              whiteSpace: "nowrap",
+            }}
+          >
+            {a}
+          </div>
         </Pop>
         <Pop delay={0.25} desde="0px -300px">
-          <div style={{ ...estiloTexto(170, AMARILLO), rotate: `${interpolate(giro, [0, 1], [-180, 0])}deg` }}>{operador}</div>
+          <div
+            style={{
+              ...estiloTexto(170, AMARILLO),
+              rotate: `${interpolate(giro, [0, 1], [-180, 0])}deg`,
+            }}
+          >
+            {operador}
+          </div>
         </Pop>
         <Pop delay={0.5} desde="500px 0px">
-          <div style={{ ...estiloTexto(b.length > 3 ? 140 : 210), whiteSpace: "nowrap" }}>{b}</div>
+          <div
+            style={{
+              ...estiloTexto(b.length > 3 ? 140 : 210),
+              whiteSpace: "nowrap",
+            }}
+          >
+            {b}
+          </div>
         </Pop>
       </div>
       <div
@@ -299,10 +407,22 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
           height: 14,
           borderRadius: 7,
           background: theme.accent,
-          width: interpolate(frame, [(r - 0.9) * fps, (r - 0.5) * fps], [0, 720], { ...clamp, easing: Easing.out(Easing.cubic) }),
+          width: interpolate(
+            frame,
+            [(r - 0.9) * fps, (r - 0.5) * fps],
+            [0, 720],
+            { ...clamp, easing: Easing.out(Easing.cubic) },
+          ),
         }}
       />
-      <div style={{ position: "relative", display: "flex", justifyContent: "center", alignItems: "center" }}>
+      <div
+        style={{
+          position: "relative",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
         <Estallido delay={r} />
         <div
           style={{
@@ -351,12 +471,17 @@ const Pila: React.FC<{ n: number; delay: number }> = ({ n, delay }) => (
   </div>
 );
 
-const Duplicar: React.FC<z.infer<typeof duplicarSchema>> = ({ monedas, etiqueta }) => {
+const Duplicar: React.FC<z.infer<typeof duplicarSchema>> = ({
+  monedas,
+  etiqueta,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const badge = useResorte(1.1, 7);
   return (
-    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", gap: 50 }}>
+    <AbsoluteFill
+      style={{ justifyContent: "center", alignItems: "center", gap: 50 }}
+    >
       <div style={{ display: "flex", gap: 90, alignItems: "flex-end" }}>
         <Pila n={monedas} delay={0} />
         <Pila n={monedas} delay={0.5} />
@@ -378,16 +503,31 @@ const Duplicar: React.FC<z.infer<typeof duplicarSchema>> = ({ monedas, etiqueta 
   );
 };
 
-const Barra: React.FC<{ b: { etiqueta: string; valor: number; texto: string }; i: number; max: number }> = ({ b, i, max }) => {
+const Barra: React.FC<{
+  b: { etiqueta: string; valor: number; texto: string };
+  i: number;
+  max: number;
+}> = ({ b, i, max }) => {
   const p = useResorte(0.3 + i * 0.45, 9);
   const dec = Number.isInteger(b.valor) ? 1 : 10;
   const valor = useContador(b.valor * dec, 0.3 + i * 0.45, 0.6) / dec;
   const ultima = i === 1;
   const color = ultima ? AMARILLO : theme.accent;
   return (
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 20 }}>
-      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>{dec === 1 ? miles(valor) : valor.toFixed(1).replace(".", ",")}</div>
-      <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>{b.texto}</div>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        gap: 20,
+      }}
+    >
+      <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>
+        {dec === 1 ? miles(valor) : valor.toFixed(1).replace(".", ",")}
+      </div>
+      <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>
+        {b.texto}
+      </div>
       <div
         style={{
           width: 230,
@@ -405,7 +545,9 @@ const Barra: React.FC<{ b: { etiqueta: string; valor: number; texto: string }; i
 const Barras: React.FC<z.infer<typeof barrasSchema>> = ({ titulo, barras }) => {
   const max = Math.max(...barras.map((b) => b.valor));
   return (
-    <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", gap: 50 }}>
+    <AbsoluteFill
+      style={{ alignItems: "center", justifyContent: "center", gap: 50 }}
+    >
       <Pop>
         <div style={estiloTexto(84)}>{titulo}</div>
       </Pop>
@@ -418,43 +560,119 @@ const Barras: React.FC<z.infer<typeof barrasSchema>> = ({ titulo, barras }) => {
   );
 };
 
-const Encoger: React.FC<z.infer<typeof encogerSchema>> = ({ titulo, desde, hasta, pie }) => {
+const Encoger: React.FC<z.infer<typeof encogerSchema>> = ({
+  titulo,
+  desde,
+  hasta,
+  pie,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const p = interpolate(frame, [0.8 * fps, 3.4 * fps], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
+  const p = interpolate(frame, [0.8 * fps, 3.4 * fps], [0, 1], {
+    ...clamp,
+    easing: Easing.inOut(Easing.cubic),
+  });
   const valor = Math.round(interpolate(p, [0, 1], [desde, hasta]));
   const escala = Math.sqrt(valor / desde);
-  const flecha = interpolate(Math.sin((frame / fps) * Math.PI * 4), [-1, 1], [0, 30]);
+  const flecha = interpolate(
+    Math.sin((frame / fps) * Math.PI * 4),
+    [-1, 1],
+    [0, 30],
+  );
   return (
-    <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", gap: 40 }}>
+    <AbsoluteFill
+      style={{ alignItems: "center", justifyContent: "center", gap: 40 }}
+    >
       <Pop>
         <div style={estiloTexto(80)}>{titulo}</div>
       </Pop>
-      <div style={{ height: 560, display: "flex", alignItems: "center", justifyContent: "center", position: "relative" }}>
+      <div
+        style={{
+          height: 560,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          position: "relative",
+        }}
+      >
         <Pop delay={0.2}>
           <svg
             width={760}
             height={400}
             viewBox="0 0 760 400"
-            style={{ scale: String(escala), rotate: `${-4 + 8 * p}deg`, filter: `saturate(${1 - p * 0.8})` }}
+            style={{
+              scale: String(escala),
+              rotate: `${-4 + 8 * p}deg`,
+              filter: `saturate(${1 - p * 0.8})`,
+            }}
           >
-            <rect x={6} y={6} width={748} height={388} rx={34} fill="#1f9d55" stroke="#0d5c2f" strokeWidth={12} />
-            <rect x={40} y={40} width={680} height={320} rx={20} fill="none" stroke="#a7f3c4" strokeWidth={5} strokeDasharray="14 10" />
-            <circle cx={380} cy={200} r={110} fill="#167a41" stroke="#a7f3c4" strokeWidth={6} />
-            <text x={380} y={235} textAnchor="middle" fontFamily={theme.font} fontWeight={900} fontSize={110} fill="#eafff2">
+            <rect
+              x={6}
+              y={6}
+              width={748}
+              height={388}
+              rx={34}
+              fill="#1f9d55"
+              stroke="#0d5c2f"
+              strokeWidth={12}
+            />
+            <rect
+              x={40}
+              y={40}
+              width={680}
+              height={320}
+              rx={20}
+              fill="none"
+              stroke="#a7f3c4"
+              strokeWidth={5}
+              strokeDasharray="14 10"
+            />
+            <circle
+              cx={380}
+              cy={200}
+              r={110}
+              fill="#167a41"
+              stroke="#a7f3c4"
+              strokeWidth={6}
+            />
+            <text
+              x={380}
+              y={235}
+              textAnchor="middle"
+              fontFamily={theme.font}
+              fontWeight={900}
+              fontSize={110}
+              fill="#eafff2"
+            >
               {valor}
             </text>
-            <text x={90} y={110} fontFamily={theme.font} fontWeight={900} fontSize={60} fill="#eafff2">
+            <text
+              x={90}
+              y={110}
+              fontFamily={theme.font}
+              fontWeight={900}
+              fontSize={60}
+              fill="#eafff2"
+            >
               %
             </text>
           </svg>
         </Pop>
-        <div style={{ position: "absolute", right: -40, top: 60 + flecha, opacity: p > 0.05 ? 1 : 0 }}>
+        <div
+          style={{
+            position: "absolute",
+            right: -40,
+            top: 60 + flecha,
+            opacity: p > 0.05 ? 1 : 0,
+          }}
+        >
           <div style={estiloTexto(180, theme.accent)}>↓</div>
         </div>
       </div>
       <Pop delay={3.2}>
-        <div style={{ ...estiloTexto(62, theme.text, 800), padding: "0 70px" }}>{pie}</div>
+        <div style={{ ...estiloTexto(62, theme.text, 800), padding: "0 70px" }}>
+          {pie}
+        </div>
       </Pop>
     </AbsoluteFill>
   );
@@ -476,16 +694,26 @@ const EscenaVista: React.FC<{ escena: Escena }> = ({ escena }) => {
 };
 
 // Transición: entra con zoom y desenfoque, se acerca poco a poco y sale encogiendo.
-const Transicion: React.FC<{ frames: number; children: React.ReactNode }> = ({ frames, children }) => {
+const Transicion: React.FC<{ frames: number; children: React.ReactNode }> = ({
+  frames,
+  children,
+}) => {
   const frame = useCurrentFrame();
-  const entrada = interpolate(frame, [0, 9], [0, 1], { ...clamp, easing: Easing.out(Easing.cubic) });
+  const entrada = interpolate(frame, [0, 9], [0, 1], {
+    ...clamp,
+    easing: Easing.out(Easing.cubic),
+  });
   const salida = interpolate(frame, [frames - 7, frames], [0, 1], clamp);
   const zoomLento = interpolate(frame, [0, frames], [1, 1.05]);
   return (
     <AbsoluteFill
       style={{
         opacity: entrada * (1 - salida),
-        scale: String(interpolate(entrada, [0, 1], [1.3, 1]) * zoomLento * interpolate(salida, [0, 1], [1, 0.8])),
+        scale: String(
+          interpolate(entrada, [0, 1], [1.3, 1]) *
+            zoomLento *
+            interpolate(salida, [0, 1], [1, 0.8]),
+        ),
         filter: `blur(${(1 - entrada) * 14 + salida * 10}px)`,
       }}
     >
@@ -497,7 +725,11 @@ const Transicion: React.FC<{ frames: number; children: React.ReactNode }> = ({ f
 const Destello: React.FC = () => {
   const frame = useCurrentFrame();
   const o = interpolate(frame, [0, 4], [0.18, 0], clamp);
-  return <AbsoluteFill style={{ background: "#ffffff", opacity: o, pointerEvents: "none" }} />;
+  return (
+    <AbsoluteFill
+      style={{ background: "#ffffff", opacity: o, pointerEvents: "none" }}
+    />
+  );
 };
 
 const momentosDing = (e: Escena) => {
@@ -527,15 +759,37 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
       {audio ? <Audio src={staticFile(audio)} /> : null}
       {escenas.map((e, i) => {
         const from = Math.round(e.inicio * fps);
-        const to = i + 1 < escenas.length ? Math.round(escenas[i + 1].inicio * fps) : total;
+        const to =
+          i + 1 < escenas.length
+            ? Math.round(escenas[i + 1].inicio * fps)
+            : total;
         const dur = Math.max(1, to - from);
         return (
-          <Sequence key={i} from={from} durationInFrames={dur} name={`${i + 1}. ${e.tipo}`}>
+          <Sequence
+            key={i}
+            from={from}
+            durationInFrames={dur}
+            name={`${i + 1}. ${e.tipo}`}
+          >
             <div
               style={
                 horizontal
-                  ? { position: "absolute", top: 10, left: 60, width: 1800, height: ZONA_ALTO, scale: String(H_ESCALA), transformOrigin: "50% 0" }
-                  : { position: "absolute", top: 150, left: 0, right: 0, height: ZONA_ALTO }
+                  ? {
+                      position: "absolute",
+                      top: 10,
+                      left: 60,
+                      width: 1800,
+                      height: ZONA_ALTO,
+                      scale: String(H_ESCALA),
+                      transformOrigin: "50% 0",
+                    }
+                  : {
+                      position: "absolute",
+                      top: 150,
+                      left: 0,
+                      right: 0,
+                      height: ZONA_ALTO,
+                    }
               }
             >
               <Transicion frames={dur}>
@@ -543,7 +797,9 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
               </Transicion>
             </div>
             {i > 0 ? <Destello /> : null}
-            {sfx ? <Audio src={staticFile("sfx/whoosh.wav")} volume={0.35} /> : null}
+            {sfx ? (
+              <Audio src={staticFile("sfx/whoosh.wav")} volume={0.35} />
+            ) : null}
             {sfx
               ? momentosDing(e).map((s) => (
                   <Sequence key={s} from={Math.round(s * fps)} layout="none">
@@ -554,7 +810,9 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           </Sequence>
         );
       })}
-      {palabras ? <Subtitulos palabras={palabras} top={horizontal ? 868 : 1440} /> : null}
+      {palabras ? (
+        <Subtitulos palabras={palabras} top={horizontal ? 868 : 1440} />
+      ) : null}
       <div
         style={{
           position: "absolute",
@@ -565,17 +823,19 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           width: `${interpolate(frame, [0, total], [0, 100], clamp)}%`,
         }}
       />
-      <div
-        style={{
-          position: "absolute",
-          bottom: horizontal ? 24 : 70,
-          left: 90,
-          right: 90,
-          ...estiloTexto(horizontal ? 24 : 30, theme.muted, 500),
-        }}
-      >
-        {aviso}
-      </div>
+      {aviso ? (
+        <div
+          style={{
+            position: "absolute",
+            bottom: horizontal ? 24 : 70,
+            left: 90,
+            right: 90,
+            ...estiloTexto(horizontal ? 24 : 30, theme.muted, 500),
+          }}
+        >
+          {aviso}
+        </div>
+      ) : null}
     </AbsoluteFill>
   );
 };

@@ -1,11 +1,11 @@
 import { Easing, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
 import { theme } from "../theme";
 
-export const AnimatedTitle: React.FC<{ text: string; size: number; delay?: number }> = ({
-  text,
-  size,
-  delay = 0,
-}) => {
+export const AnimatedTitle: React.FC<{
+  text: string;
+  size: number;
+  delay?: number;
+}> = ({ text, size, delay = 0 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const start = delay * fps;
@@ -23,11 +23,16 @@ export const AnimatedTitle: React.FC<{ text: string; size: number; delay?: numbe
           extrapolateLeft: "clamp",
           extrapolateRight: "clamp",
         }),
-        translate: interpolate(frame, [start, start + 0.8 * fps], ["0px 60px", "0px 0px"], {
-          extrapolateLeft: "clamp",
-          extrapolateRight: "clamp",
-          easing: Easing.bezier(0.16, 1, 0.3, 1),
-        }),
+        translate: interpolate(
+          frame,
+          [start, start + 0.8 * fps],
+          ["0px 60px", "0px 0px"],
+          {
+            extrapolateLeft: "clamp",
+            extrapolateRight: "clamp",
+            easing: Easing.bezier(0.16, 1, 0.3, 1),
+          },
+        ),
       }}
     >
       {text}

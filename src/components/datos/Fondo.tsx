@@ -1,4 +1,10 @@
-import { AbsoluteFill, interpolate, random, useCurrentFrame, useVideoConfig } from "remotion";
+import {
+  AbsoluteFill,
+  interpolate,
+  random,
+  useCurrentFrame,
+  useVideoConfig,
+} from "remotion";
 import { theme } from "../../theme";
 
 // Fondo vivo: manchas de color que se mueven, cuadrícula que sube y símbolos flotando.
@@ -24,8 +30,18 @@ export const Fondo: React.FC = () => {
   );
   return (
     <AbsoluteFill style={{ background: theme.bg, overflow: "hidden" }}>
-      {mancha(width * (0.25 + 0.15 * Math.sin(t * 0.5)), height * (0.25 + 0.08 * Math.cos(t * 0.4)), theme.accent, 1100)}
-      {mancha(width * (0.8 + 0.12 * Math.cos(t * 0.35)), height * (0.7 + 0.1 * Math.sin(t * 0.45)), "#3b6cff", 1200)}
+      {mancha(
+        width * (0.25 + 0.15 * Math.sin(t * 0.5)),
+        height * (0.25 + 0.08 * Math.cos(t * 0.4)),
+        theme.accent,
+        1100,
+      )}
+      {mancha(
+        width * (0.8 + 0.12 * Math.cos(t * 0.35)),
+        height * (0.7 + 0.1 * Math.sin(t * 0.45)),
+        "#3b6cff",
+        1200,
+      )}
       <AbsoluteFill
         style={{
           backgroundImage: `linear-gradient(${theme.text}0d 2px, transparent 2px), linear-gradient(90deg, ${theme.text}0d 2px, transparent 2px)`,
@@ -35,7 +51,10 @@ export const Fondo: React.FC = () => {
       />
       {new Array(14).fill(0).map((_, i) => {
         const speed = 0.6 + random(`v${i}`) * 1.2;
-        const y = height + 200 - ((frame * speed + random(`y${i}`) * (height + 400)) % (height + 400));
+        const y =
+          height +
+          200 -
+          ((frame * speed + random(`y${i}`) * (height + 400)) % (height + 400));
         const x = random(`x${i}`) * width + 40 * Math.sin(t + i);
         return (
           <div

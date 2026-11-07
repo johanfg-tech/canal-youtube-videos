@@ -18,7 +18,8 @@ export const Avatar: React.FC = () => {
           width: 560,
           height: 560,
           borderRadius: "50%",
-          background: "linear-gradient(160deg, #fff1a8 0%, #ffd60a 40%, #c99400 100%)",
+          background:
+            "linear-gradient(160deg, #fff1a8 0%, #ffd60a 40%, #c99400 100%)",
           border: "18px solid #8a6500",
           boxShadow: "0 30px 60px rgba(0,0,0,0.45), inset 0 0 0 14px #ffe680",
           display: "flex",

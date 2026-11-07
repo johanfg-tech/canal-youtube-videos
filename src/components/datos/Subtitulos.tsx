@@ -1,7 +1,12 @@
 import { spring, useCurrentFrame, useVideoConfig } from "remotion";
 import { theme } from "../../theme";
 
-export type Palabra = { texto: string; inicio: number; fin: number; corte?: boolean };
+export type Palabra = {
+  texto: string;
+  inicio: number;
+  fin: number;
+  corte?: boolean;
+};
 
 // Agrupa las palabras en bloques cortos (máx. 3) sin cruzar el final de una frase.
 const agrupar = (palabras: Palabra[]) => {
@@ -19,24 +24,35 @@ const agrupar = (palabras: Palabra[]) => {
 };
 
 // Subtítulos estilo Shorts: bloque de 1-3 palabras, la palabra que suena se resalta y salta.
-export const Subtitulos: React.FC<{ palabras: Palabra[]; top: number }> = ({ palabras, top }) => {
+export const Subtitulos: React.FC<{
+  palabras: Palabra[];
+  top: number;
+  derecha?: number;
+}> = ({ palabras, top, derecha = 60 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps;
   const grupos = agrupar(palabras);
   const grupo = grupos.find((g, i) => {
-    const fin = i + 1 < grupos.length ? grupos[i + 1][0].inicio : g[g.length - 1].fin + 0.4;
+    const fin =
+      i + 1 < grupos.length
+        ? grupos[i + 1][0].inicio
+        : g[g.length - 1].fin + 0.4;
     return t >= g[0].inicio && t < Math.min(fin, g[g.length - 1].fin + 0.4);
   });
   if (!grupo) return null;
-  const entrada = spring({ frame: frame - Math.round(grupo[0].inicio * fps), fps, config: { damping: 12, mass: 0.5 } });
+  const entrada = spring({
+    frame: frame - Math.round(grupo[0].inicio * fps),
+    fps,
+    config: { damping: 12, mass: 0.5 },
+  });
   return (
     <div
       style={{
         position: "absolute",
         top,
         left: 60,
-        right: 60,
+        right: derecha,
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "center",
@@ -46,7 +62,11 @@ export const Subtitulos: React.FC<{ palabras: Palabra[]; top: number }> = ({ pal
     >
       {grupo.map((p, i) => {
         const activa = t >= p.inicio && t < p.fin + 0.05;
-        const salto = spring({ frame: frame - Math.round(p.inicio * fps), fps, config: { damping: 10, mass: 0.4 } });
+        const salto = spring({
+          frame: frame - Math.round(p.inicio * fps),
+          fps,
+          config: { damping: 10, mass: 0.4 },
+        });
         return (
           <span
             key={i}

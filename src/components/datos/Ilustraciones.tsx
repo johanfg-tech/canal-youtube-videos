@@ -1,6 +1,8 @@
 import {
   AbsoluteFill,
   Easing,
+  Img,
+  staticFile,
   interpolate,
   random,
   spring,
@@ -47,6 +49,39 @@ const texto = (
 // ---------------------------------------------------------------- Mascota
 
 export type Cara = "feliz" | "sorpresa" | "pensando" | "guino" | "preocupada";
+
+// Poses de la mascota del canal (PNG recortados de la hoja creada por Johan, en public/mascota/).
+const ALIAS: Record<string, string> = {
+  feliz: "alegre",
+  sorpresa: "sorprendido",
+  guino: "alegre",
+  preocupada: "preocupado",
+};
+
+export const MascotaImg: React.FC<{
+  pose: string;
+  alto: number;
+  habla?: boolean;
+}> = ({ pose, alto, habla = false }) => {
+  const { frame, fps, t } = useT();
+  const archivo = ALIAS[pose] ?? pose;
+  // Cada cambio de pose entra con un pequeño salto (el componente se monta de nuevo con key).
+  const p = spring({ frame, fps, config: { damping: 9, mass: 0.5 } });
+  const voz = habla ? 1 + 0.035 * Math.abs(Math.sin(t * 11)) : 1;
+  return (
+    <Img
+      src={staticFile(`mascota/${archivo}.png`)}
+      style={{
+        height: alto,
+        width: "auto",
+        scale: String(interpolate(p, [0, 1], [0.6, 1]) * voz),
+        rotate: `${(1 - p) * -12 + Math.sin(t * 2.2) * 2}deg`,
+        transformOrigin: "50% 100%",
+        filter: "drop-shadow(0 18px 18px rgba(0,0,0,0.45))",
+      }}
+    />
+  );
+};
 
 export const Moneda: React.FC<{
   cara: Cara;
@@ -203,7 +238,7 @@ export const Moneda: React.FC<{
 
 // Mascota fija abajo a la derecha, con bocadillo opcional. "habla" mueve la boca mientras suena la voz.
 export const MascotaEsquina: React.FC<{
-  cara: Cara;
+  cara: string;
   texto?: string;
   habla: boolean;
   desdeFrame: number;
@@ -220,11 +255,12 @@ export const MascotaEsquina: React.FC<{
     <div
       style={{
         position: "absolute",
-        right: 30,
-        bottom: 14,
+        right: 10,
+        bottom: -10,
         translate: `${(1 - entrada) * 400}px ${bob - Math.sin(Math.min(1, salto) * Math.PI) * 40}px`,
         display: "flex",
-        alignItems: "center",
+        flexDirection: "row",
+        alignItems: "flex-end",
         gap: 10,
       }}
     >
@@ -232,18 +268,20 @@ export const MascotaEsquina: React.FC<{
         <div
           style={{
             ...texto(46, theme.bg, 900),
-            background: "#fff",
+            background: "#f3ead8",
             borderRadius: 30,
             padding: "16px 26px",
             scale: String(interpolate(salto, [0, 1], [0.3, 1], clamp)),
-            transformOrigin: "100% 50%",
+            transformOrigin: "100% 100%",
+            marginRight: -30,
+            marginBottom: 70,
             boxShadow: "0 10px 0 rgba(0,0,0,0.35)",
           }}
         >
           {dicho}
         </div>
       ) : null}
-      <Moneda cara={cara} habla={habla} tam={180} />
+      <MascotaImg key={cara} pose={cara} alto={380} habla={habla} />
     </div>
   );
 };
@@ -252,19 +290,19 @@ export const MascotaEsquina: React.FC<{
 
 export type PasoEtiqueta = { en: number; descuento: string; precio?: number };
 
-const Camiseta: React.FC<{ color?: string }> = ({ color = "#3b6cff" }) => (
+const Camiseta: React.FC<{ color?: string }> = ({ color = "#6b2440" }) => (
   <svg width={520} height={480} viewBox="0 0 260 240">
     <path
       d="M80 10 L40 30 L6 74 L44 98 L60 80 L60 230 L200 230 L200 80 L216 98 L254 74 L220 30 L180 10 Q130 46 80 10 Z"
       fill={color}
-      stroke="#1d3a9e"
+      stroke="#c99a2e"
       strokeWidth={6}
       strokeLinejoin="round"
     />
     <path
       d="M80 10 Q130 46 180 10"
       fill="none"
-      stroke="#1d3a9e"
+      stroke="#c99a2e"
       strokeWidth={6}
     />
     <path
@@ -444,8 +482,8 @@ const Pegatina: React.FC<{ texto: string; en: number; i: number }> = ({
         width: 230,
         height: 230,
         borderRadius: "50%",
-        background: i % 2 ? AMARILLO : theme.accent,
-        border: "8px solid #fff",
+        background: i % 2 ? AMARILLO : "#b8324f",
+        border: "8px solid #f3ead8",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
@@ -473,12 +511,11 @@ export const EscenaPensamiento: React.FC<{
   const nube = useResorte(0.2, 10);
   const x = useResortePlano(tachar ?? 9999);
   const c = useResortePlano((tachar ?? 9999) + 0.6);
-  const cara: Cara =
-    tachar !== undefined && t >= tachar ? "sorpresa" : "pensando";
+  const cara = tachar !== undefined && t >= tachar ? "sorprendido" : "pensando";
   return (
     <AbsoluteFill style={{ alignItems: "center" }}>
       <div style={{ position: "absolute", left: 60, bottom: 40 }}>
-        <Moneda cara={cara} tam={420} />
+        <MascotaImg key={cara} pose={cara} alto={560} />
       </div>
       {[0, 1, 2].map((i) => (
         <div
@@ -490,7 +527,7 @@ export const EscenaPensamiento: React.FC<{
             width: 40 + i * 24,
             height: 40 + i * 24,
             borderRadius: "50%",
-            background: "#fff",
+            background: "#f3ead8",
             scale: String(interpolate(nube, [0, 1], [0, 1])),
           }}
         />
@@ -502,7 +539,7 @@ export const EscenaPensamiento: React.FC<{
           left: 60,
           right: 60,
           padding: "70px 40px",
-          background: "#fff",
+          background: "#f3ead8",
           borderRadius: 160,
           scale: String(interpolate(nube, [0, 1], [0.2, 1])),
           display: "flex",
@@ -624,12 +661,12 @@ export const EscenaBilletes: React.FC<{
                 width: 380,
                 height: 150,
                 borderRadius: 18,
-                background: "linear-gradient(135deg, #2fbf71, #167a41)",
-                border: "5px solid #a7f3c4",
+                background: "linear-gradient(135deg, #e8b93a, #a8741a)",
+                border: "5px solid #ffe08a",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
-                ...texto(70, "#eafff2"),
+                ...texto(70, "#3a2600"),
                 opacity: llega * (1 - p),
                 translate: `${dir * p * 700}px ${-p * 900 + (1 - llega) * 300}px`,
                 rotate: `${dir * p * 60}deg`,
@@ -640,7 +677,7 @@ export const EscenaBilletes: React.FC<{
                   width: 96,
                   height: 96,
                   borderRadius: 48,
-                  border: "5px dashed #a7f3c4",
+                  border: "5px dashed #fff0c0",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",

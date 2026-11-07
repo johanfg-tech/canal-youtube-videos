@@ -2,12 +2,12 @@ import { AbsoluteFill } from "remotion";
 import { theme } from "../theme";
 
 // Miniatura para vídeos largos (1280x720). Se exporta con `npx remotion still`.
-export const Miniatura: React.FC<{ numero: string; arriba: string; abajo: string; chips: string[] }> = ({
-  numero,
-  arriba,
-  abajo,
-  chips,
-}) => (
+export const Miniatura: React.FC<{
+  numero: string;
+  arriba: string;
+  abajo: string;
+  chips: string[];
+}> = ({ numero, arriba, abajo, chips }) => (
   <AbsoluteFill
     style={{
       background: `radial-gradient(ellipse at 25% 50%, #8a1236 0%, ${theme.bg} 60%), ${theme.bg}`,
@@ -21,12 +21,39 @@ export const Miniatura: React.FC<{ numero: string; arriba: string; abajo: string
         backgroundSize: "80px 80px",
       }}
     />
-    <div style={{ position: "absolute", left: 60, top: 70, display: "flex", alignItems: "center", gap: 30 }}>
-      <div style={{ fontSize: 400, fontWeight: 900, lineHeight: 0.85, color: "#ffd60a", textShadow: "0 14px 0 rgba(0,0,0,0.5)" }}>
+    <div
+      style={{
+        position: "absolute",
+        left: 60,
+        top: 70,
+        display: "flex",
+        alignItems: "center",
+        gap: 30,
+      }}
+    >
+      <div
+        style={{
+          fontSize: 400,
+          fontWeight: 900,
+          lineHeight: 0.85,
+          color: "#ffd60a",
+          textShadow: "0 14px 0 rgba(0,0,0,0.5)",
+        }}
+      >
         {numero}
       </div>
       <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
-        <div style={{ fontSize: 120, fontWeight: 900, lineHeight: 0.95, letterSpacing: -3, textTransform: "uppercase" }}>{arriba}</div>
+        <div
+          style={{
+            fontSize: 120,
+            fontWeight: 900,
+            lineHeight: 0.95,
+            letterSpacing: -3,
+            textTransform: "uppercase",
+          }}
+        >
+          {arriba}
+        </div>
         <div
           style={{
             fontSize: 62,
@@ -43,7 +70,16 @@ export const Miniatura: React.FC<{ numero: string; arriba: string; abajo: string
         </div>
       </div>
     </div>
-    <div style={{ position: "absolute", left: 60, right: 60, bottom: 60, display: "flex", gap: 22 }}>
+    <div
+      style={{
+        position: "absolute",
+        left: 60,
+        right: 60,
+        bottom: 60,
+        display: "flex",
+        gap: 22,
+      }}
+    >
       {chips.map((c, i) => (
         <div
           key={c}

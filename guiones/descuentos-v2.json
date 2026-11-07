@@ -689,7 +689,7 @@
         }
       ],
       "mascota": {
-        "cara": "sorpresa",
+        "cara": "sorprendido",
         "texto": "¡Oferta!"
       }
     },
@@ -712,7 +712,7 @@
         "detrás"
       ],
       "mascota": {
-        "cara": "guino",
+        "cara": "idea",
         "texto": "¡Ojo!"
       }
     },
@@ -730,7 +730,7 @@
         }
       ],
       "mascota": {
-        "cara": "feliz"
+        "cara": "presupuesto"
       }
     },
     {
@@ -760,7 +760,7 @@
       "etiqueta": "€ de descuento",
       "revelar": 3.2,
       "mascota": {
-        "cara": "feliz"
+        "cara": "explicando"
       }
     },
     {
@@ -772,7 +772,7 @@
       "quitar": 1.0,
       "pie": "Pagas 40 € → −60 %",
       "mascota": {
-        "cara": "sorpresa",
+        "cara": "sorprendido",
         "texto": "¡60 %!"
       }
     },
@@ -794,7 +794,7 @@
       "revelar": 4.85,
       "pie": "Pagas el 40 %",
       "mascota": {
-        "cara": "guino"
+        "cara": "presupuesto"
       }
     },
     {
@@ -809,7 +809,7 @@
         "sumes"
       ],
       "mascota": {
-        "cara": "feliz",
+        "cara": "alegre",
         "texto": "¡Multiplica!"
       }
     },
@@ -825,7 +825,7 @@
       ],
       "final": true,
       "mascota": {
-        "cara": "feliz",
+        "cara": "suscribete",
         "texto": "¡Suscríbete!"
       }
     }

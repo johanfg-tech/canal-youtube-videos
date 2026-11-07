@@ -24,13 +24,9 @@ import {
 // Short 9:16 de "dinero explicado con datos": narración, subtítulos palabra a palabra
 // y escenas animadas que empiezan en los segundos indicados en el guion.
 
-const caraSchema = z.enum([
-  "feliz",
-  "sorpresa",
-  "pensando",
-  "guino",
-  "preocupada",
-]);
+// Pose de la mascota: nombre de un PNG en public/mascota/ (alegre, sorprendido, pensando, idea,
+// explicando, preocupado, ahorro, presupuesto, riesgo, suscribete, tu…).
+const caraSchema = z.string();
 // Reacción de la mascota (abajo a la derecha) mientras dura la escena.
 const mascotaSchema = z
   .object({ cara: caraSchema, texto: z.string().optional() })
@@ -929,7 +925,11 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
       })}
       {mascota ? <Mascota escenas={escenas} palabras={palabras ?? []} /> : null}
       {palabras ? (
-        <Subtitulos palabras={palabras} top={horizontal ? 868 : 1440} />
+        <Subtitulos
+          palabras={palabras}
+          top={horizontal ? 868 : 1440}
+          derecha={mascota ? 330 : 60}
+        />
       ) : null}
       <div
         style={{

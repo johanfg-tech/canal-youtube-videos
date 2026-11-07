@@ -13,7 +13,11 @@ import regla115 from "../guiones/regla115.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
-import { SECONDS_PER_POINT, ShortVideo, shortVideoSchema } from "./compositions/ShortVideo";
+import {
+  SECONDS_PER_POINT,
+  ShortVideo,
+  shortVideoSchema,
+} from "./compositions/ShortVideo";
 
 const FPS = 30;
 
@@ -47,7 +51,8 @@ export const RemotionRoot: React.FC = () => {
           cta: "Sígueme para más",
         }}
         calculateMetadata={({ props }) => ({
-          durationInFrames: FPS * (2 + props.points.length * SECONDS_PER_POINT + 3),
+          durationInFrames:
+            FPS * (2 + props.points.length * SECONDS_PER_POINT + 3),
         })}
       />
       <Composition
@@ -174,7 +179,12 @@ export const RemotionRoot: React.FC = () => {
         width={1280}
         height={720}
         durationInFrames={1}
-        defaultProps={{ numero: "7", arriba: "reglas de dinero", abajo: "que nadie te explica", chips: ["72", "115", "50/30/20", "×25"] }}
+        defaultProps={{
+          numero: "7",
+          arriba: "reglas de dinero",
+          abajo: "que nadie te explica",
+          chips: ["72", "115", "50/30/20", "×25"],
+        }}
       />
       <Composition
         id="Banner"
@@ -183,9 +193,19 @@ export const RemotionRoot: React.FC = () => {
         fps={FPS}
         width={2560}
         height={1440}
-        defaultProps={{ nombre: "Cifras Claras", lema: "Dinero y economía explicados con números" }}
+        defaultProps={{
+          nombre: "Cifras Claras",
+          lema: "Dinero y economía explicados con números",
+        }}
       />
-      <Composition id="Avatar" component={Avatar} durationInFrames={1} fps={FPS} width={800} height={800} />
+      <Composition
+        id="Avatar"
+        component={Avatar}
+        durationInFrames={1}
+        fps={FPS}
+        width={800}
+        height={800}
+      />
     </>
   );
 };

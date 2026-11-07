@@ -13,13 +13,33 @@ import {
 import { theme } from "../theme";
 import { Fondo } from "../components/datos/Fondo";
 import { Subtitulos } from "../components/datos/Subtitulos";
+import {
+  EscenaBilletes,
+  EscenaCalculadora,
+  EscenaEtiqueta,
+  EscenaPensamiento,
+  MascotaEsquina,
+} from "../components/datos/Ilustraciones";
 
 // Short 9:16 de "dinero explicado con datos": narración, subtítulos palabra a palabra
 // y escenas animadas que empiezan en los segundos indicados en el guion.
 
+const caraSchema = z.enum([
+  "feliz",
+  "sorpresa",
+  "pensando",
+  "guino",
+  "preocupada",
+]);
+// Reacción de la mascota (abajo a la derecha) mientras dura la escena.
+const mascotaSchema = z
+  .object({ cara: caraSchema, texto: z.string().optional() })
+  .optional();
+
 const titularSchema = z.object({
   tipo: z.literal("titular"),
   inicio: z.number(),
+  mascota: mascotaSchema,
   lineas: z.array(z.string()),
   resaltar: z.array(z.string()).optional(),
   destacado: z.string().optional(),
@@ -29,6 +49,7 @@ const titularSchema = z.object({
 const ecuacionSchema = z.object({
   tipo: z.literal("ecuacion"),
   inicio: z.number(),
+  mascota: mascotaSchema,
   a: z.string(),
   b: z.string(),
   resultado: z.number(),
@@ -42,6 +63,7 @@ const ecuacionSchema = z.object({
 const duplicarSchema = z.object({
   tipo: z.literal("duplicar"),
   inicio: z.number(),
+  mascota: mascotaSchema,
   monedas: z.number(),
   etiqueta: z.string(),
 });
@@ -49,6 +71,7 @@ const duplicarSchema = z.object({
 const barrasSchema = z.object({
   tipo: z.literal("barras"),
   inicio: z.number(),
+  mascota: mascotaSchema,
   titulo: z.string(),
   barras: z.array(
     z.object({ etiqueta: z.string(), valor: z.number(), texto: z.string() }),
@@ -58,13 +81,66 @@ const barrasSchema = z.object({
 const encogerSchema = z.object({
   tipo: z.literal("encoger"),
   inicio: z.number(),
+  mascota: mascotaSchema,
   titulo: z.string(),
   desde: z.number(),
   hasta: z.number(),
   pie: z.string(),
 });
 
+const etiquetaSchema = z.object({
+  tipo: z.literal("etiqueta"),
+  inicio: z.number(),
+  mascota: mascotaSchema,
+  titulo: z.string().optional(),
+  precio: z.number(),
+  moneda: z.string(),
+  pasos: z.array(
+    z.object({
+      en: z.number(),
+      descuento: z.string(),
+      precio: z.number().optional(),
+    }),
+  ),
+});
+
+const pensamientoSchema = z.object({
+  tipo: z.literal("pensamiento"),
+  inicio: z.number(),
+  mascota: mascotaSchema,
+  texto: z.string(),
+  tachar: z.number().optional(),
+  correccion: z.string().optional(),
+});
+
+const billetesSchema = z.object({
+  tipo: z.literal("billetes"),
+  inicio: z.number(),
+  mascota: mascotaSchema,
+  titulo: z.string(),
+  total: z.number(),
+  quedan: z.number(),
+  quitar: z.number(),
+  pie: z.string(),
+});
+
+const calculadoraSchema = z.object({
+  tipo: z.literal("calculadora"),
+  inicio: z.number(),
+  mascota: mascotaSchema,
+  titulo: z.string(),
+  teclas: z.array(z.string()),
+  tiempos: z.array(z.number()),
+  resultado: z.string(),
+  revelar: z.number(),
+  pie: z.string(),
+});
+
 const escenaSchema = z.discriminatedUnion("tipo", [
+  etiquetaSchema,
+  pensamientoSchema,
+  billetesSchema,
+  calculadoraSchema,
   titularSchema,
   ecuacionSchema,
   duplicarSchema,
@@ -79,11 +155,14 @@ export const datosShortSchema = z.object({
   sfx: z.boolean().optional(),
   // Vídeo largo 16:9 (1920x1080): las escenas se dibujan en una zona de 1800x1240 reducida.
   horizontal: z.boolean().optional(),
+  // Muestra la mascota del canal abajo a la derecha (mueve la boca con la voz).
+  mascota: z.boolean().optional(),
   palabras: z
     .array(
       z.object({
         texto: z.string(),
         inicio: z.number(),
+        mascota: mascotaSchema,
         fin: z.number(),
         corte: z.boolean().optional(),
       }),
@@ -690,6 +769,14 @@ const EscenaVista: React.FC<{ escena: Escena }> = ({ escena }) => {
       return <Barras {...escena} />;
     case "encoger":
       return <Encoger {...escena} />;
+    case "etiqueta":
+      return <EscenaEtiqueta {...escena} />;
+    case "pensamiento":
+      return <EscenaPensamiento {...escena} />;
+    case "billetes":
+      return <EscenaBilletes {...escena} />;
+    case "calculadora":
+      return <EscenaCalculadora {...escena} />;
   }
 };
 
@@ -736,7 +823,36 @@ const momentosDing = (e: Escena) => {
   if (e.tipo === "ecuacion") return [Math.max(1.2, e.revelar ?? 1.7)];
   if (e.tipo === "duplicar") return [1.1];
   if (e.tipo === "titular" && e.destacado) return [0.8];
+  if (e.tipo === "etiqueta") return e.pasos.map((p) => p.en);
+  if (e.tipo === "pensamiento" && e.tachar !== undefined) return [e.tachar];
+  if (e.tipo === "billetes") return [e.quitar];
+  if (e.tipo === "calculadora") return [e.revelar];
   return [];
+};
+
+const Mascota: React.FC<{
+  escenas: Escena[];
+  palabras: { inicio: number; fin: number }[];
+}> = ({ escenas, palabras }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const t = frame / fps;
+  let i = 0;
+  escenas.forEach((e, k) => {
+    if (e.inicio <= t) i = k;
+  });
+  // En la escena de pensamiento la moneda ya sale en grande.
+  if (escenas[i].tipo === "pensamiento") return null;
+  const m = escenas[i].mascota;
+  const habla = palabras.some((p) => t >= p.inicio && t < p.fin);
+  return (
+    <MascotaEsquina
+      cara={m?.cara ?? "feliz"}
+      texto={m?.texto}
+      habla={habla}
+      desdeFrame={m ? Math.round(escenas[i].inicio * fps) : -999}
+    />
+  );
 };
 
 const H_ESCALA = 0.74;
@@ -747,6 +863,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
   aviso,
   sfx,
   horizontal,
+  mascota,
   palabras,
   escenas,
 }) => {
@@ -810,6 +927,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           </Sequence>
         );
       })}
+      {mascota ? <Mascota escenas={escenas} palabras={palabras ?? []} /> : null}
       {palabras ? (
         <Subtitulos palabras={palabras} top={horizontal ? 868 : 1440} />
       ) : null}

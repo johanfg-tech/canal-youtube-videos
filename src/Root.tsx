@@ -13,6 +13,7 @@ import regla115 from "../guiones/regla115.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
+import descuentosV3 from "../guiones/descuentos-v3.json";
 import {
   SECONDS_PER_POINT,
   ShortVideo,
@@ -155,6 +156,19 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(descuentosV2)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="DescuentosV3"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(descuentosV3)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

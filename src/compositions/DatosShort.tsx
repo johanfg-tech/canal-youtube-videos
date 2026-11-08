@@ -20,6 +20,7 @@ import {
   EscenaPensamiento,
   MascotaEsquina,
 } from "../components/datos/Ilustraciones";
+import { PresentadorTresD } from "../components/datos/PresentadorTresD";
 
 // Short 9:16 de "dinero explicado con datos": narración, subtítulos palabra a palabra
 // y escenas animadas que empiezan en los segundos indicados en el guion.
@@ -153,6 +154,8 @@ export const datosShortSchema = z.object({
   horizontal: z.boolean().optional(),
   // Muestra la mascota del canal abajo a la derecha (mueve la boca con la voz).
   mascota: z.boolean().optional(),
+  // Con mascota3d, el presentador 3D animado (Blender) sustituye a la mascota de dibujo.
+  mascota3d: z.boolean().optional(),
   palabras: z
     .array(
       z.object({
@@ -829,7 +832,8 @@ const momentosDing = (e: Escena) => {
 const Mascota: React.FC<{
   escenas: Escena[];
   palabras: { inicio: number; fin: number }[];
-}> = ({ escenas, palabras }) => {
+  tresD: boolean;
+}> = ({ escenas, palabras, tresD }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps;
@@ -840,6 +844,14 @@ const Mascota: React.FC<{
   // En la escena de pensamiento la moneda ya sale en grande.
   if (escenas[i].tipo === "pensamiento") return null;
   const m = escenas[i].mascota;
+  if (tresD) {
+    return (
+      <PresentadorTresD
+        texto={m?.texto}
+        desdeFrame={m ? Math.round(escenas[i].inicio * fps) : -999}
+      />
+    );
+  }
   const habla = palabras.some((p) => t >= p.inicio && t < p.fin);
   return (
     <MascotaEsquina
@@ -860,6 +872,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
   sfx,
   horizontal,
   mascota,
+  mascota3d,
   palabras,
   escenas,
 }) => {
@@ -923,7 +936,13 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           </Sequence>
         );
       })}
-      {mascota ? <Mascota escenas={escenas} palabras={palabras ?? []} /> : null}
+      {mascota ? (
+        <Mascota
+          escenas={escenas}
+          palabras={palabras ?? []}
+          tresD={!!mascota3d}
+        />
+      ) : null}
       {palabras ? (
         <Subtitulos
           palabras={palabras}

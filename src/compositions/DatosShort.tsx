@@ -809,7 +809,8 @@ const EscenaContenido = ({
 // Imagen generada (ChatGPT/Gemini) que entra con rebote y flota bajo el contenido de la escena.
 const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
   const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
+  const { fps, width, height } = useVideoConfig();
+  const ancho = width > height; // vídeo largo: deja libres los subtítulos de abajo
   const entrada = spring({ frame: frame - 6, fps, config: { damping: 9, mass: 0.7 } });
   const flota = Math.sin((frame / fps) * Math.PI * 1.6) * 14;
   const gira = Math.sin((frame / fps) * Math.PI * 0.9) * 2.5;
@@ -819,8 +820,8 @@ const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
         position: "absolute",
         left: 0,
         right: 0,
-        bottom: 10,
-        height: 470,
+        bottom: ancho ? 235 : 10,
+        height: ancho ? 400 : 470,
         display: "flex",
         justifyContent: "center",
         alignItems: "flex-end",

@@ -4,6 +4,8 @@ import { Miniatura } from "./compositions/Miniatura";
 import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
+import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
+import remates from "../guiones/remates.json";
 import regla72 from "../guiones/regla-72.json";
 import descuentos from "../guiones/descuentos.json";
 import recuperar from "../guiones/recuperar.json";
@@ -360,6 +362,22 @@ export const RemotionRoot: React.FC = () => {
         width={800}
         height={800}
       />
+      {Object.entries(remates).map(([nombre, props]) => (
+        <Composition
+          key={nombre}
+          id={`Remate-${nombre}`}
+          component={Remate}
+          schema={remateSchema}
+          fps={FPS}
+          width={1080}
+          height={1920}
+          durationInFrames={FPS * 10}
+          defaultProps={props}
+          calculateMetadata={({ props: p }) => ({
+            durationInFrames: Math.ceil(FPS * duracionRemate(p)),
+          })}
+        />
+      ))}
     </>
   );
 };

@@ -1,0 +1,92 @@
+{
+  "comision": {
+    "video": "remate/comision.mp4",
+    "corte": 31.54,
+    "gancho": "Un 1 % que te cuesta miles",
+    "pregunta": "¿Sabes cuánto te cobra tu banco al año?",
+    "voz": "remate/voz-comision.mp3",
+    "vozDur": 6.3,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "inflacion": {
+    "video": "remate/inflacion.mp4",
+    "corte": 27.67,
+    "gancho": "Tu dinero pierde sin que lo veas",
+    "pregunta": "¿Tienes dinero parado en el banco?",
+    "voz": "remate/voz-inflacion.mp3",
+    "vozDur": 6.01,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "simple-compuesto": {
+    "video": "remate/simple-compuesto.mp4",
+    "corte": 37.45,
+    "gancho": "Mismo dinero, el doble de resultado",
+    "pregunta": "¿Ya pones tu dinero a interés compuesto?",
+    "voz": "remate/voz-simple-compuesto.mp3",
+    "vozDur": 6.16,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "cafe": {
+    "video": "remate/cafe.mp4",
+    "corte": 23.88,
+    "gancho": "Lo que cuesta de verdad tu café",
+    "pregunta": "¿Cuántos cafés te tomas a la semana?",
+    "voz": "remate/voz-cafe.mp3",
+    "vozDur": 6.11,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "duplicar10": {
+    "video": "remate/duplicar10.mp4",
+    "corte": 38.43,
+    "gancho": "¿Duplicar tu dinero en 10 años?",
+    "pregunta": "¿En cuántos años quieres duplicar tu dinero?",
+    "voz": "remate/voz-duplicar10.mp3",
+    "vozDur": 6.61,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "orden-descuento": {
+    "video": "remate/orden-descuento.mp4",
+    "corte": 34.27,
+    "gancho": "¿Primero el descuento o el impuesto?",
+    "pregunta": "¿Pensabas que el orden importaba?",
+    "voz": "remate/voz-orden-descuento.mp3",
+    "vozDur": 5.8,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "clip-ahorro-mensual": {
+    "video": "remate/clip-ahorro-mensual.mp4",
+    "corte": 33.7,
+    "gancho": "200 al mes, más de 500.000",
+    "pregunta": "¿Cuánto podrías ahorrar al mes?",
+    "voz": "remate/voz-clip-ahorro-mensual.mp3",
+    "vozDur": 6.03,
+    "cierre": "VÍDEO COMPLETO ▶",
+    "subcierre": "Está en mi canal"
+  },
+  "clip-comisiones": {
+    "video": "remate/clip-comisiones.mp4",
+    "corte": 26.9,
+    "gancho": "Un 1 % te quita 19.000 €",
+    "pregunta": "¿Sabes cuánto cobra tu fondo al año?",
+    "voz": "remate/voz-clip-comisiones.mp3",
+    "vozDur": 6.35,
+    "cierre": "VÍDEO COMPLETO ▶",
+    "subcierre": "Está en mi canal"
+  },
+  "interes-mensual": {
+    "video": "remate/interes-mensual.mp4",
+    "corte": 31.96,
+    "gancho": "2 % al mes no es 24 % al año",
+    "pregunta": "¿Te han ofrecido un préstamo al 2 % mensual?",
+    "voz": "remate/voz-interes-mensual.mp3",
+    "vozDur": 6.84,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  }
+}

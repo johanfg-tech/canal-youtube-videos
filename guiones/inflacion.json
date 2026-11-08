@@ -1,0 +1,525 @@
+{
+  "audio": "narraciones/inflacion.mp3",
+  "duracion": 31.1,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "1.000 euros",
+      "inicio": 0,
+      "lineas": [
+        "1.000 € en el colchón",
+        "parece seguro"
+      ],
+      "resaltar": [
+        "1.000"
+      ],
+      "imagen": "ia/billete-desvanece.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Con una",
+      "inicio": 5.47,
+      "lineas": [
+        "Inflación del 3 %",
+        "los precios suben cada año"
+      ],
+      "resaltar": [
+        "3"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Y aquí",
+      "inicio": 10.44,
+      "a": "72",
+      "operador": "÷",
+      "b": "3 %",
+      "resultado": 24,
+      "etiqueta": "años para perder la mitad",
+      "revelar": 5.0
+    },
+    {
+      "tipo": "encoger",
+      "en": "En 24",
+      "inicio": 16.37,
+      "titulo": "Tus 1.000 € dentro de 24 años",
+      "desde": 1000,
+      "hasta": 492,
+      "pie": "€ de poder de compra actual"
+    },
+    {
+      "tipo": "titular",
+      "en": "El dinero parado",
+      "inicio": 24.52,
+      "lineas": [
+        "El dinero parado",
+        "no está quieto: pierde"
+      ],
+      "resaltar": [
+        "pierde"
+      ],
+      "imagen": "ia/billete-desvanece.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 27.67,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "3 %",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "1.000",
+      "inicio": 0.0,
+      "fin": 0.7,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 0.7,
+      "fin": 0.93,
+      "corte": false
+    },
+    {
+      "texto": "guardados",
+      "inicio": 0.93,
+      "fin": 1.3,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 1.3,
+      "fin": 1.43,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.43,
+      "fin": 1.55,
+      "corte": false
+    },
+    {
+      "texto": "colchón.",
+      "inicio": 1.55,
+      "fin": 1.85,
+      "corte": true
+    },
+    {
+      "texto": "Parece",
+      "inicio": 2.35,
+      "fin": 2.75,
+      "corte": false
+    },
+    {
+      "texto": "seguro,",
+      "inicio": 2.75,
+      "fin": 3.16,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 3.43,
+      "fin": 3.76,
+      "corte": false
+    },
+    {
+      "texto": "pierde",
+      "inicio": 3.76,
+      "fin": 4.21,
+      "corte": false
+    },
+    {
+      "texto": "valor",
+      "inicio": 4.21,
+      "fin": 4.6,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 4.6,
+      "fin": 4.93,
+      "corte": false
+    },
+    {
+      "texto": "año.",
+      "inicio": 4.93,
+      "fin": 5.2,
+      "corte": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 5.62,
+      "fin": 5.86,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 5.86,
+      "fin": 6.09,
+      "corte": false
+    },
+    {
+      "texto": "inflación",
+      "inicio": 6.09,
+      "fin": 6.64,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 6.64,
+      "fin": 6.88,
+      "corte": false
+    },
+    {
+      "texto": "3 %,",
+      "inicio": 6.88,
+      "fin": 7.69,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 7.69,
+      "fin": 7.93,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 7.93,
+      "fin": 8.37,
+      "corte": false
+    },
+    {
+      "texto": "suben",
+      "inicio": 8.37,
+      "fin": 8.71,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 8.71,
+      "fin": 8.89,
+      "corte": false
+    },
+    {
+      "texto": "3 %",
+      "inicio": 8.89,
+      "fin": 9.7,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.7,
+      "fin": 9.99,
+      "corte": false
+    },
+    {
+      "texto": "año.",
+      "inicio": 9.99,
+      "fin": 10.23,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.59,
+      "fin": 10.72,
+      "corte": false
+    },
+    {
+      "texto": "aquí",
+      "inicio": 10.72,
+      "fin": 11.0,
+      "corte": false
+    },
+    {
+      "texto": "sirve",
+      "inicio": 11.0,
+      "fin": 11.33,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 11.33,
+      "fin": 11.51,
+      "corte": false
+    },
+    {
+      "texto": "regla",
+      "inicio": 11.51,
+      "fin": 11.84,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 11.84,
+      "fin": 12.07,
+      "corte": false
+    },
+    {
+      "texto": "72,",
+      "inicio": 12.07,
+      "fin": 12.82,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 12.82,
+      "fin": 13.0,
+      "corte": false
+    },
+    {
+      "texto": "revés:",
+      "inicio": 13.0,
+      "fin": 13.33,
+      "corte": true
+    },
+    {
+      "texto": "72",
+      "inicio": 13.62,
+      "fin": 14.46,
+      "corte": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 14.46,
+      "fin": 14.83,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 14.83,
+      "fin": 15.15,
+      "corte": false
+    },
+    {
+      "texto": "da",
+      "inicio": 15.15,
+      "fin": 15.35,
+      "corte": false
+    },
+    {
+      "texto": "24.",
+      "inicio": 15.35,
+      "fin": 16.13,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 16.52,
+      "fin": 16.67,
+      "corte": false
+    },
+    {
+      "texto": "24",
+      "inicio": 16.67,
+      "fin": 17.24,
+      "corte": false
+    },
+    {
+      "texto": "años,",
+      "inicio": 17.24,
+      "fin": 17.47,
+      "corte": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 17.47,
+      "fin": 17.66,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 17.66,
+      "fin": 18.49,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 18.49,
+      "fin": 18.76,
+      "corte": false
+    },
+    {
+      "texto": "compran",
+      "inicio": 18.76,
+      "fin": 19.12,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 19.12,
+      "fin": 19.27,
+      "corte": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 19.27,
+      "fin": 19.54,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.54,
+      "fin": 19.69,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.69,
+      "fin": 19.84,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.84,
+      "fin": 20.03,
+      "corte": false
+    },
+    {
+      "texto": "compran",
+      "inicio": 20.03,
+      "fin": 20.39,
+      "corte": false
+    },
+    {
+      "texto": "hoy.",
+      "inicio": 20.39,
+      "fin": 20.58,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 20.99,
+      "fin": 21.22,
+      "corte": false
+    },
+    {
+      "texto": "concreto,",
+      "inicio": 21.22,
+      "fin": 21.84,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 21.84,
+      "fin": 22.2,
+      "corte": false
+    },
+    {
+      "texto": "492",
+      "inicio": 22.2,
+      "fin": 23.28,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 23.28,
+      "fin": 23.7,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 23.7,
+      "fin": 23.93,
+      "corte": false
+    },
+    {
+      "texto": "hoy.",
+      "inicio": 23.93,
+      "fin": 24.23,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 24.67,
+      "fin": 24.86,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 24.86,
+      "fin": 25.26,
+      "corte": false
+    },
+    {
+      "texto": "parado",
+      "inicio": 25.26,
+      "fin": 25.67,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 25.67,
+      "fin": 25.86,
+      "corte": false
+    },
+    {
+      "texto": "está",
+      "inicio": 25.86,
+      "fin": 26.15,
+      "corte": false
+    },
+    {
+      "texto": "quieto:",
+      "inicio": 26.15,
+      "fin": 26.56,
+      "corte": true
+    },
+    {
+      "texto": "pierde.",
+      "inicio": 26.99,
+      "fin": 27.4,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 27.82,
+      "fin": 28.29,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 28.29,
+      "fin": 28.6,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 28.6,
+      "fin": 28.85,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 28.85,
+      "fin": 29.27,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 29.27,
+      "fin": 29.86,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 29.86,
+      "fin": 30.11,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 30.11,
+      "fin": 30.59,
+      "corte": true
+    }
+  ]
+}

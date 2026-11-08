@@ -1,0 +1,684 @@
+{
+  "audio": "narraciones/recuperar.mp3",
+  "duracion": 43.7,
+  "aviso": "Ejemplo con fines educativos. No es asesoramiento financiero.",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "inicio": 0,
+      "lineas": [
+        "−50 %",
+        "¿cuánto para recuperarte?"
+      ],
+      "resaltar": [
+        "−50",
+        "recuperarte"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 4.8,
+      "destacado": "100",
+      "lineas": [
+        "% de subida, no 50"
+      ],
+      "resaltar": [
+        "subida,"
+      ]
+    },
+    {
+      "tipo": "encoger",
+      "inicio": 8.3,
+      "titulo": "Tienes 100 €",
+      "desde": 100,
+      "hasta": 50,
+      "pie": "Pierdes la mitad: te quedan 50 €"
+    },
+    {
+      "tipo": "ecuacion",
+      "inicio": 12.4,
+      "a": "50 €",
+      "operador": "×",
+      "b": "1,5",
+      "resultado": 75,
+      "etiqueta": "€, no 100 €",
+      "revelar": 6.0
+    },
+    {
+      "tipo": "ecuacion",
+      "inicio": 20.2,
+      "a": "50 €",
+      "operador": "×",
+      "b": "2",
+      "resultado": 100,
+      "etiqueta": "€: hay que subir un 100 %",
+      "revelar": 3.2
+    },
+    {
+      "tipo": "barras",
+      "inicio": 25.8,
+      "titulo": "Subida para recuperarte",
+      "barras": [
+        {
+          "etiqueta": "−20 %",
+          "valor": 25,
+          "texto": "%"
+        },
+        {
+          "etiqueta": "−50 %",
+          "valor": 100,
+          "texto": "%"
+        },
+        {
+          "etiqueta": "−80 %",
+          "valor": 400,
+          "texto": "%"
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 35.6,
+      "lineas": [
+        "Bajar es fácil.",
+        "Subir cuesta mucho más."
+      ],
+      "resaltar": [
+        "fácil",
+        "mucho",
+        "más"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "inicio": 40.2,
+      "destacado": "%",
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.19,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.19,
+      "fin": 0.38,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 0.38,
+      "fin": 0.79,
+      "corte": false
+    },
+    {
+      "texto": "cae",
+      "inicio": 0.8,
+      "fin": 1.04,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 1.04,
+      "fin": 1.23,
+      "corte": false
+    },
+    {
+      "texto": "50 %,",
+      "inicio": 1.23,
+      "fin": 2.71,
+      "corte": false
+    },
+    {
+      "texto": "¿cuánto",
+      "inicio": 2.71,
+      "fin": 3.12,
+      "corte": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 3.12,
+      "fin": 3.47,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.47,
+      "fin": 3.72,
+      "corte": false
+    },
+    {
+      "texto": "subir",
+      "inicio": 3.72,
+      "fin": 4.07,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 4.08,
+      "fin": 4.38,
+      "corte": false
+    },
+    {
+      "texto": "recuperarte?",
+      "inicio": 4.38,
+      "fin": 5.5,
+      "corte": true
+    },
+    {
+      "texto": "¿Un",
+      "inicio": 5.92,
+      "fin": 6.0,
+      "corte": false
+    },
+    {
+      "texto": "50?",
+      "inicio": 6.0,
+      "fin": 6.23,
+      "corte": true
+    },
+    {
+      "texto": "No.",
+      "inicio": 6.61,
+      "fin": 7.14,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 7.14,
+      "fin": 7.27,
+      "corte": false
+    },
+    {
+      "texto": "100 %.",
+      "inicio": 7.27,
+      "fin": 7.84,
+      "corte": true
+    },
+    {
+      "texto": "Tienes",
+      "inicio": 8.35,
+      "fin": 8.8,
+      "corte": false
+    },
+    {
+      "texto": "100",
+      "inicio": 8.8,
+      "fin": 9.14,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 9.14,
+      "fin": 9.53,
+      "corte": true
+    },
+    {
+      "texto": "Pierdes",
+      "inicio": 9.87,
+      "fin": 10.23,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 10.23,
+      "fin": 10.37,
+      "corte": false
+    },
+    {
+      "texto": "mitad:",
+      "inicio": 10.37,
+      "fin": 10.64,
+      "corte": true
+    },
+    {
+      "texto": "te",
+      "inicio": 11.02,
+      "fin": 11.18,
+      "corte": false
+    },
+    {
+      "texto": "quedan",
+      "inicio": 11.18,
+      "fin": 11.51,
+      "corte": false
+    },
+    {
+      "texto": "50.",
+      "inicio": 11.52,
+      "fin": 12.41,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.41,
+      "fin": 12.63,
+      "corte": false
+    },
+    {
+      "texto": "ahora",
+      "inicio": 12.63,
+      "fin": 13.04,
+      "corte": false
+    },
+    {
+      "texto": "suben",
+      "inicio": 13.04,
+      "fin": 13.45,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 13.45,
+      "fin": 13.67,
+      "corte": false
+    },
+    {
+      "texto": "50 %,",
+      "inicio": 13.67,
+      "fin": 14.96,
+      "corte": false
+    },
+    {
+      "texto": "ganas",
+      "inicio": 14.96,
+      "fin": 15.37,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 15.37,
+      "fin": 15.59,
+      "corte": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 15.59,
+      "fin": 16.0,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 16.0,
+      "fin": 16.55,
+      "corte": false
+    },
+    {
+      "texto": "50:",
+      "inicio": 16.55,
+      "fin": 17.21,
+      "corte": true
+    },
+    {
+      "texto": "25.",
+      "inicio": 17.62,
+      "fin": 18.21,
+      "corte": true
+    },
+    {
+      "texto": "Tienes",
+      "inicio": 18.22,
+      "fin": 18.59,
+      "corte": false
+    },
+    {
+      "texto": "75,",
+      "inicio": 18.59,
+      "fin": 19.42,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 19.42,
+      "fin": 19.59,
+      "corte": false
+    },
+    {
+      "texto": "100.",
+      "inicio": 19.59,
+      "fin": 19.87,
+      "corte": true
+    },
+    {
+      "texto": "Para",
+      "inicio": 20.27,
+      "fin": 20.56,
+      "corte": false
+    },
+    {
+      "texto": "volver",
+      "inicio": 20.56,
+      "fin": 20.94,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.94,
+      "fin": 21.07,
+      "corte": false
+    },
+    {
+      "texto": "100,",
+      "inicio": 21.07,
+      "fin": 21.35,
+      "corte": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 21.35,
+      "fin": 21.64,
+      "corte": false
+    },
+    {
+      "texto": "50",
+      "inicio": 21.64,
+      "fin": 22.18,
+      "corte": false
+    },
+    {
+      "texto": "tienen",
+      "inicio": 22.18,
+      "fin": 22.56,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 22.56,
+      "fin": 22.8,
+      "corte": false
+    },
+    {
+      "texto": "duplicarse.",
+      "inicio": 22.8,
+      "fin": 23.39,
+      "corte": true
+    },
+    {
+      "texto": "Eso",
+      "inicio": 23.71,
+      "fin": 23.93,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 23.93,
+      "fin": 24.1,
+      "corte": false
+    },
+    {
+      "texto": "subir",
+      "inicio": 24.1,
+      "fin": 24.42,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 24.42,
+      "fin": 24.59,
+      "corte": false
+    },
+    {
+      "texto": "100 %.",
+      "inicio": 24.59,
+      "fin": 25.81,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 25.81,
+      "fin": 25.98,
+      "corte": false
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 25.98,
+      "fin": 26.5,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 26.5,
+      "fin": 26.81,
+      "corte": false
+    },
+    {
+      "texto": "cae,",
+      "inicio": 26.81,
+      "fin": 27.12,
+      "corte": false
+    },
+    {
+      "texto": "peor.",
+      "inicio": 27.12,
+      "fin": 27.9,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 27.9,
+      "fin": 28.08,
+      "corte": false
+    },
+    {
+      "texto": "pierdes",
+      "inicio": 28.08,
+      "fin": 28.52,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 28.52,
+      "fin": 28.7,
+      "corte": false
+    },
+    {
+      "texto": "20 %,",
+      "inicio": 28.7,
+      "fin": 29.61,
+      "corte": false
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 29.61,
+      "fin": 30.16,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 30.16,
+      "fin": 30.34,
+      "corte": false
+    },
+    {
+      "texto": "25",
+      "inicio": 30.34,
+      "fin": 30.99,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 30.99,
+      "fin": 31.28,
+      "corte": false
+    },
+    {
+      "texto": "recuperarte.",
+      "inicio": 31.28,
+      "fin": 32.25,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 32.26,
+      "fin": 32.46,
+      "corte": false
+    },
+    {
+      "texto": "pierdes",
+      "inicio": 32.46,
+      "fin": 32.95,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 32.95,
+      "fin": 33.15,
+      "corte": false
+    },
+    {
+      "texto": "80,",
+      "inicio": 33.15,
+      "fin": 33.64,
+      "corte": false
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 33.65,
+      "fin": 34.25,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 34.25,
+      "fin": 34.46,
+      "corte": false
+    },
+    {
+      "texto": "400.",
+      "inicio": 34.46,
+      "fin": 35.3,
+      "corte": true
+    },
+    {
+      "texto": "Por",
+      "inicio": 35.62,
+      "fin": 35.84,
+      "corte": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 35.84,
+      "fin": 36.06,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 36.06,
+      "fin": 36.27,
+      "corte": false
+    },
+    {
+      "texto": "caídas",
+      "inicio": 36.28,
+      "fin": 36.64,
+      "corte": false
+    },
+    {
+      "texto": "grandes",
+      "inicio": 36.64,
+      "fin": 37.06,
+      "corte": false
+    },
+    {
+      "texto": "pesan",
+      "inicio": 37.06,
+      "fin": 37.37,
+      "corte": false
+    },
+    {
+      "texto": "tanto:",
+      "inicio": 37.37,
+      "fin": 37.69,
+      "corte": true
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 37.98,
+      "fin": 38.36,
+      "corte": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 38.36,
+      "fin": 38.69,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 38.69,
+      "fin": 38.92,
+      "corte": false
+    },
+    {
+      "texto": "subir",
+      "inicio": 38.92,
+      "fin": 39.24,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.25,
+      "fin": 39.47,
+      "corte": false
+    },
+    {
+      "texto": "bajar.",
+      "inicio": 39.47,
+      "fin": 39.8,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 40.26,
+      "fin": 40.75,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 40.75,
+      "fin": 41.08,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 41.08,
+      "fin": 41.34,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 41.34,
+      "fin": 41.78,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 41.78,
+      "fin": 42.39,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 42.39,
+      "fin": 42.66,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 42.66,
+      "fin": 43.15,
+      "corte": true
+    }
+  ]
+}

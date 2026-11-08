@@ -1,0 +1,593 @@
+{
+  "audio": "narraciones/comision.mp3",
+  "duracion": 35.0,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Un 1",
+      "inicio": 0,
+      "lineas": [
+        "Un 1 %",
+        "parece nada"
+      ],
+      "resaltar": [
+        "1"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero a 30",
+      "inicio": 2.21,
+      "lineas": [
+        "A 30 años se come",
+        "casi una cuarta parte"
+      ],
+      "resaltar": [
+        "cuarta"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Imagina 1.000",
+      "inicio": 6.21,
+      "lineas": [
+        "1.000 € al 7 %",
+        "durante 30 años"
+      ],
+      "resaltar": [
+        "7"
+      ],
+      "imagen": "ia/monedas-brote.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Terminas con unos 7.612",
+      "inicio": 10.84,
+      "lineas": [
+        "€ al final"
+      ],
+      "resaltar": [
+        "final"
+      ],
+      "destacado": "7612",
+      "imagen": "ia/grafico-sube.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora lo mismo,",
+      "inicio": 14.19,
+      "lineas": [
+        "Con comisión del 1 %",
+        "ganas solo un 6 %"
+      ],
+      "resaltar": [
+        "1",
+        "6"
+      ],
+      "imagen": "ia/tijeras-moneda.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Terminas con unos 5.743.",
+      "inicio": 19.48,
+      "lineas": [
+        "€ al final"
+      ],
+      "resaltar": [
+        "final"
+      ],
+      "destacado": "5743"
+    },
+    {
+      "tipo": "barras",
+      "en": "La diferencia:",
+      "inicio": 22.6,
+      "titulo": "A 30 años (€)",
+      "barras": [
+        {
+          "etiqueta": "Sin comisión",
+          "valor": 7612,
+          "texto": "€"
+        },
+        {
+          "etiqueta": "Con 1 %",
+          "valor": 5743,
+          "texto": "€"
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Por un 1",
+      "inicio": 25.83,
+      "lineas": [
+        "€ menos por un 1 %",
+        "que ni notaste"
+      ],
+      "resaltar": [
+        "1"
+      ],
+      "destacado": "1900",
+      "imagen": "ia/tijeras-moneda.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Antes de",
+      "inicio": 28.5,
+      "lineas": [
+        "Mira siempre",
+        "las comisiones"
+      ],
+      "resaltar": [
+        "comisiones"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 31.54,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "1 %",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.21,
+      "corte": false
+    },
+    {
+      "texto": "1 %",
+      "inicio": 0.21,
+      "fin": 1.09,
+      "corte": false
+    },
+    {
+      "texto": "parece",
+      "inicio": 1.09,
+      "fin": 1.54,
+      "corte": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 1.54,
+      "fin": 1.88,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 2.36,
+      "fin": 2.64,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 2.64,
+      "fin": 2.76,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 2.76,
+      "fin": 3.2,
+      "corte": false
+    },
+    {
+      "texto": "años",
+      "inicio": 3.2,
+      "fin": 3.48,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 3.48,
+      "fin": 3.66,
+      "corte": false
+    },
+    {
+      "texto": "come",
+      "inicio": 3.66,
+      "fin": 3.94,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 3.94,
+      "fin": 4.22,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 4.22,
+      "fin": 4.45,
+      "corte": false
+    },
+    {
+      "texto": "cuarta",
+      "inicio": 4.45,
+      "fin": 4.83,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 4.83,
+      "fin": 5.16,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.16,
+      "fin": 5.34,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.34,
+      "fin": 5.52,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 5.52,
+      "fin": 5.9,
+      "corte": true
+    },
+    {
+      "texto": "Imagina",
+      "inicio": 6.36,
+      "fin": 6.73,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 6.73,
+      "fin": 7.6,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 7.6,
+      "fin": 7.88,
+      "corte": false
+    },
+    {
+      "texto": "invertidos",
+      "inicio": 7.88,
+      "fin": 8.39,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 8.39,
+      "fin": 8.55,
+      "corte": false
+    },
+    {
+      "texto": "7 %",
+      "inicio": 8.55,
+      "fin": 9.28,
+      "corte": false
+    },
+    {
+      "texto": "anual",
+      "inicio": 9.28,
+      "fin": 9.56,
+      "corte": false
+    },
+    {
+      "texto": "durante",
+      "inicio": 9.56,
+      "fin": 9.94,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 9.94,
+      "fin": 10.32,
+      "corte": false
+    },
+    {
+      "texto": "años.",
+      "inicio": 10.32,
+      "fin": 10.56,
+      "corte": true
+    },
+    {
+      "texto": "Terminas",
+      "inicio": 10.99,
+      "fin": 11.58,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 11.58,
+      "fin": 11.85,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 11.85,
+      "fin": 12.19,
+      "corte": false
+    },
+    {
+      "texto": "7.612",
+      "inicio": 12.19,
+      "fin": 13.52,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 13.52,
+      "fin": 13.93,
+      "corte": true
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 14.34,
+      "fin": 14.66,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.66,
+      "fin": 14.83,
+      "corte": false
+    },
+    {
+      "texto": "mismo,",
+      "inicio": 14.83,
+      "fin": 15.14,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 15.14,
+      "fin": 15.41,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 15.41,
+      "fin": 15.63,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 15.63,
+      "fin": 15.85,
+      "corte": false
+    },
+    {
+      "texto": "comisión",
+      "inicio": 15.85,
+      "fin": 16.31,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 16.31,
+      "fin": 16.53,
+      "corte": false
+    },
+    {
+      "texto": "1 %.",
+      "inicio": 16.53,
+      "fin": 17.23,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 17.64,
+      "fin": 17.8,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 17.8,
+      "fin": 18.06,
+      "corte": false
+    },
+    {
+      "texto": "ganar",
+      "inicio": 18.06,
+      "fin": 18.37,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 18.37,
+      "fin": 18.54,
+      "corte": false
+    },
+    {
+      "texto": "6 %.",
+      "inicio": 18.54,
+      "fin": 19.27,
+      "corte": true
+    },
+    {
+      "texto": "Terminas",
+      "inicio": 19.63,
+      "fin": 20.27,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 20.27,
+      "fin": 20.57,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 20.57,
+      "fin": 20.93,
+      "corte": false
+    },
+    {
+      "texto": "5.743.",
+      "inicio": 20.93,
+      "fin": 22.37,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 22.75,
+      "fin": 22.92,
+      "corte": false
+    },
+    {
+      "texto": "diferencia:",
+      "inicio": 22.92,
+      "fin": 23.46,
+      "corte": true
+    },
+    {
+      "texto": "casi",
+      "inicio": 23.8,
+      "fin": 24.12,
+      "corte": false
+    },
+    {
+      "texto": "1.900",
+      "inicio": 24.12,
+      "fin": 25.26,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 25.26,
+      "fin": 25.64,
+      "corte": true
+    },
+    {
+      "texto": "Por",
+      "inicio": 25.98,
+      "fin": 26.24,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 26.24,
+      "fin": 26.44,
+      "corte": false
+    },
+    {
+      "texto": "1 %",
+      "inicio": 26.44,
+      "fin": 27.28,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 27.28,
+      "fin": 27.54,
+      "corte": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 27.54,
+      "fin": 27.74,
+      "corte": false
+    },
+    {
+      "texto": "notaste.",
+      "inicio": 27.74,
+      "fin": 28.23,
+      "corte": true
+    },
+    {
+      "texto": "Antes",
+      "inicio": 28.65,
+      "fin": 29.0,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 29.0,
+      "fin": 29.19,
+      "corte": false
+    },
+    {
+      "texto": "invertir,",
+      "inicio": 29.19,
+      "fin": 29.71,
+      "corte": false
+    },
+    {
+      "texto": "mira",
+      "inicio": 29.71,
+      "fin": 30.01,
+      "corte": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 30.01,
+      "fin": 30.47,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 30.47,
+      "fin": 30.71,
+      "corte": false
+    },
+    {
+      "texto": "comisiones.",
+      "inicio": 30.71,
+      "fin": 31.33,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 31.69,
+      "fin": 32.18,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 32.18,
+      "fin": 32.49,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 32.49,
+      "fin": 32.74,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 32.74,
+      "fin": 33.17,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 33.17,
+      "fin": 33.77,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 33.77,
+      "fin": 34.02,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 34.02,
+      "fin": 34.51,
+      "corte": true
+    }
+  ]
+}

@@ -1,5 +1,10 @@
 import { z } from "zod";
-import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
+import {
+  AbsoluteFill,
+  interpolate,
+  useCurrentFrame,
+  useVideoConfig,
+} from "remotion";
 import { AnimatedTitle } from "../components/AnimatedTitle";
 import { AccentBar } from "../components/AccentBar";
 import { theme } from "../theme";
@@ -31,7 +36,10 @@ const Subtitle: React.FC<{ text: string }> = ({ text }) => {
   );
 };
 
-export const IntroVideo: React.FC<z.infer<typeof introVideoSchema>> = ({ title, subtitle }) => {
+export const IntroVideo: React.FC<z.infer<typeof introVideoSchema>> = ({
+  title,
+  subtitle,
+}) => {
   return (
     <AbsoluteFill
       style={{

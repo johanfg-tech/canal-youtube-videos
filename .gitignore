@@ -5,3 +5,9 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Narraciones generadas (se entregan en la carpeta del proyecto)
+public/narraciones
+
+# Shorts originales y voces para Remate (se entregan en la carpeta del proyecto)
+public/remate

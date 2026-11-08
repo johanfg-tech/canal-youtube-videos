@@ -1,0 +1,651 @@
+{
+  "audio": "narraciones/simple-compuesto.mp3",
+  "duracion": 40.8,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "1.000 euros",
+      "inicio": 0,
+      "lineas": [
+        "1.000 € · 30 años · 7 %",
+        "¿cuánto al final?"
+      ],
+      "resaltar": [
+        "1.000",
+        "7"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Interés simple:",
+      "inicio": 7.15,
+      "lineas": [
+        "Interés simple",
+        "70 € cada año"
+      ],
+      "resaltar": [
+        "simple",
+        "70"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "En 30",
+      "inicio": 11.98,
+      "lineas": [
+        "30 años: 2.100 €",
+        "de interés"
+      ],
+      "resaltar": [
+        "2.100"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Total:",
+      "inicio": 14.76,
+      "lineas": [
+        "€ en total"
+      ],
+      "resaltar": [
+        "total"
+      ],
+      "destacado": "3100"
+    },
+    {
+      "tipo": "titular",
+      "en": "Interés compuesto:",
+      "inicio": 16.61,
+      "lineas": [
+        "Interés compuesto",
+        "ganas sobre lo ya ganado"
+      ],
+      "resaltar": [
+        "compuesto"
+      ],
+      "imagen": "ia/bola-monedas.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Resultado:",
+      "inicio": 21.76,
+      "lineas": [
+        "€ al final"
+      ],
+      "resaltar": [
+        "final"
+      ],
+      "destacado": "7612"
+    },
+    {
+      "tipo": "barras",
+      "en": "Mismo dinero,",
+      "inicio": 25.12,
+      "titulo": "1.000 € a 30 años (€)",
+      "barras": [
+        {
+          "etiqueta": "Simple",
+          "valor": 3100,
+          "texto": "€"
+        },
+        {
+          "etiqueta": "Compuesto",
+          "valor": 7612,
+          "texto": "€"
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La diferencia",
+      "inicio": 30.36,
+      "lineas": [
+        "El tiempo trabaja",
+        "para ti"
+      ],
+      "resaltar": [
+        "tiempo"
+      ],
+      "imagen": "ia/grafico-sube.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 37.45,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "7 %",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "1.000",
+      "inicio": 0.0,
+      "fin": 0.88,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 0.88,
+      "fin": 1.17,
+      "corte": false
+    },
+    {
+      "texto": "durante",
+      "inicio": 1.17,
+      "fin": 1.55,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 1.55,
+      "fin": 1.94,
+      "corte": false
+    },
+    {
+      "texto": "años",
+      "inicio": 1.94,
+      "fin": 2.19,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 2.19,
+      "fin": 2.34,
+      "corte": false
+    },
+    {
+      "texto": "7 %.",
+      "inicio": 2.34,
+      "fin": 3.09,
+      "corte": true
+    },
+    {
+      "texto": "¿Cuánto",
+      "inicio": 3.52,
+      "fin": 3.8,
+      "corte": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 3.8,
+      "fin": 4.09,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 4.09,
+      "fin": 4.22,
+      "corte": false
+    },
+    {
+      "texto": "final?",
+      "inicio": 4.22,
+      "fin": 4.47,
+      "corte": true
+    },
+    {
+      "texto": "Depende",
+      "inicio": 4.92,
+      "fin": 5.32,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.32,
+      "fin": 5.48,
+      "corte": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 5.48,
+      "fin": 5.73,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 5.73,
+      "fin": 5.9,
+      "corte": false
+    },
+    {
+      "texto": "cuente",
+      "inicio": 5.9,
+      "fin": 6.24,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 6.24,
+      "fin": 6.41,
+      "corte": false
+    },
+    {
+      "texto": "interés.",
+      "inicio": 6.41,
+      "fin": 6.8,
+      "corte": true
+    },
+    {
+      "texto": "Interés",
+      "inicio": 7.3,
+      "fin": 7.72,
+      "corte": false
+    },
+    {
+      "texto": "simple:",
+      "inicio": 7.72,
+      "fin": 8.1,
+      "corte": true
+    },
+    {
+      "texto": "ganas",
+      "inicio": 8.51,
+      "fin": 8.87,
+      "corte": false
+    },
+    {
+      "texto": "70",
+      "inicio": 8.87,
+      "fin": 9.34,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 9.34,
+      "fin": 9.7,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.7,
+      "fin": 10.01,
+      "corte": false
+    },
+    {
+      "texto": "año,",
+      "inicio": 10.01,
+      "fin": 10.26,
+      "corte": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 10.51,
+      "fin": 10.76,
+      "corte": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 10.76,
+      "fin": 10.95,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.95,
+      "fin": 11.09,
+      "corte": false
+    },
+    {
+      "texto": "1.000.",
+      "inicio": 11.09,
+      "fin": 11.66,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 12.13,
+      "fin": 12.33,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 12.33,
+      "fin": 12.84,
+      "corte": false
+    },
+    {
+      "texto": "años",
+      "inicio": 12.84,
+      "fin": 13.16,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 13.16,
+      "fin": 13.43,
+      "corte": false
+    },
+    {
+      "texto": "2.100",
+      "inicio": 13.43,
+      "fin": 13.93,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.93,
+      "fin": 14.13,
+      "corte": false
+    },
+    {
+      "texto": "interés.",
+      "inicio": 14.13,
+      "fin": 14.63,
+      "corte": true
+    },
+    {
+      "texto": "Total:",
+      "inicio": 14.91,
+      "fin": 15.46,
+      "corte": true
+    },
+    {
+      "texto": "3.100.",
+      "inicio": 15.46,
+      "fin": 16.25,
+      "corte": true
+    },
+    {
+      "texto": "Interés",
+      "inicio": 16.76,
+      "fin": 17.2,
+      "corte": false
+    },
+    {
+      "texto": "compuesto:",
+      "inicio": 17.2,
+      "fin": 17.75,
+      "corte": true
+    },
+    {
+      "texto": "cada",
+      "inicio": 18.16,
+      "fin": 18.46,
+      "corte": false
+    },
+    {
+      "texto": "año",
+      "inicio": 18.46,
+      "fin": 18.7,
+      "corte": false
+    },
+    {
+      "texto": "ganas",
+      "inicio": 18.7,
+      "fin": 19.06,
+      "corte": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 19.06,
+      "fin": 19.42,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.42,
+      "fin": 19.61,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.61,
+      "fin": 19.85,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.85,
+      "fin": 20.05,
+      "corte": false
+    },
+    {
+      "texto": "tienes,",
+      "inicio": 20.05,
+      "fin": 20.46,
+      "corte": false
+    },
+    {
+      "texto": "intereses",
+      "inicio": 20.46,
+      "fin": 21.03,
+      "corte": false
+    },
+    {
+      "texto": "incluidos.",
+      "inicio": 21.03,
+      "fin": 21.61,
+      "corte": true
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 21.91,
+      "fin": 22.73,
+      "corte": true
+    },
+    {
+      "texto": "7.612",
+      "inicio": 22.73,
+      "fin": 24.41,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 24.41,
+      "fin": 24.92,
+      "corte": true
+    },
+    {
+      "texto": "Mismo",
+      "inicio": 25.27,
+      "fin": 25.71,
+      "corte": false
+    },
+    {
+      "texto": "dinero,",
+      "inicio": 25.71,
+      "fin": 26.22,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 26.22,
+      "fin": 26.66,
+      "corte": false
+    },
+    {
+      "texto": "tiempo,",
+      "inicio": 26.66,
+      "fin": 27.17,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 27.17,
+      "fin": 27.62,
+      "corte": false
+    },
+    {
+      "texto": "7 %:",
+      "inicio": 27.62,
+      "fin": 28.74,
+      "corte": true
+    },
+    {
+      "texto": "más",
+      "inicio": 29.03,
+      "fin": 29.33,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 29.33,
+      "fin": 29.63,
+      "corte": false
+    },
+    {
+      "texto": "doble.",
+      "inicio": 29.63,
+      "fin": 30.06,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 30.51,
+      "fin": 30.69,
+      "corte": false
+    },
+    {
+      "texto": "diferencia",
+      "inicio": 30.69,
+      "fin": 31.26,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 31.26,
+      "fin": 31.44,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 31.44,
+      "fin": 31.61,
+      "corte": false
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 31.61,
+      "fin": 31.99,
+      "corte": false
+    },
+    {
+      "texto": "trabajando",
+      "inicio": 31.99,
+      "fin": 32.57,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 32.57,
+      "fin": 32.84,
+      "corte": false
+    },
+    {
+      "texto": "ti.",
+      "inicio": 32.84,
+      "fin": 33.02,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 33.43,
+      "fin": 33.54,
+      "corte": false
+    },
+    {
+      "texto": "recuerda:",
+      "inicio": 33.54,
+      "fin": 33.95,
+      "corte": true
+    },
+    {
+      "texto": "el",
+      "inicio": 34.23,
+      "fin": 34.43,
+      "corte": false
+    },
+    {
+      "texto": "7 %",
+      "inicio": 34.43,
+      "fin": 35.35,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 35.35,
+      "fin": 35.54,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 35.54,
+      "fin": 35.74,
+      "corte": false
+    },
+    {
+      "texto": "supuesto,",
+      "inicio": 35.74,
+      "fin": 36.27,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 36.27,
+      "fin": 36.46,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 36.46,
+      "fin": 36.72,
+      "corte": false
+    },
+    {
+      "texto": "promesa.",
+      "inicio": 36.72,
+      "fin": 37.19,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 37.6,
+      "fin": 38.06,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 38.06,
+      "fin": 38.36,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 38.36,
+      "fin": 38.6,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 38.6,
+      "fin": 39.01,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 39.01,
+      "fin": 39.58,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 39.58,
+      "fin": 39.82,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 39.82,
+      "fin": 40.28,
+      "corte": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Te ponen un 50 % de descuento… y encima otro 20. Tú piensas: 70 %. En realidad, te descuentan un 60.
+Los descuentos no se suman. Se aplican uno detrás de otro.
+Una prenda de 100 euros. Con el 50 %, se queda en 50.
+Ahora, el 20 % se calcula sobre esos 50, no sobre los 100. El 20 % de 50 son 10. Pagas 40.
+40 euros de 100. El descuento real es del 60 %, no del 70.
+El truco rápido: multiplica lo que pagas en cada paso. 0,5, por 0,8, da 0,4. Pagas el 40 %.
+La próxima vez que veas dos descuentos juntos, multiplica, no sumes. Sígueme para más dinero explicado con números.

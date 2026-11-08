@@ -156,6 +156,8 @@ export const datosShortSchema = z.object({
   mascota: z.boolean().optional(),
   // Con mascota3d, el presentador 3D animado (Blender) sustituye a la mascota de dibujo.
   mascota3d: z.boolean().optional(),
+  // Clip del presentador 3D con lip-sync para este Short (ruta dentro de public/).
+  mascota3dVideo: z.string().optional(),
   palabras: z
     .array(
       z.object({
@@ -833,7 +835,8 @@ const Mascota: React.FC<{
   escenas: Escena[];
   palabras: { inicio: number; fin: number }[];
   tresD: boolean;
-}> = ({ escenas, palabras, tresD }) => {
+  video?: string;
+}> = ({ escenas, palabras, tresD, video }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps;
@@ -849,6 +852,7 @@ const Mascota: React.FC<{
       <PresentadorTresD
         texto={m?.texto}
         desdeFrame={m ? Math.round(escenas[i].inicio * fps) : -999}
+        video={video}
       />
     );
   }
@@ -873,6 +877,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
   horizontal,
   mascota,
   mascota3d,
+  mascota3dVideo,
   palabras,
   escenas,
 }) => {
@@ -941,6 +946,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           escenas={escenas}
           palabras={palabras ?? []}
           tresD={!!mascota3d}
+          video={mascota3dVideo}
         />
       ) : null}
       {palabras ? (

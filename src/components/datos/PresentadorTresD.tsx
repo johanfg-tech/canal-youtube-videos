@@ -9,15 +9,17 @@ import {
 } from "remotion";
 import { theme } from "../../theme";
 
-// Presentador 3D del canal: clip en bucle de 150 fotogramas (5 s a 30 fps) con fondo transparente.
-// Se genera con Blender (scripts/mascota3d/build.py) y se guarda como WebM con alfa en public/mascota3d/.
+// Presentador 3D del canal (Blender, WebM con alfa en public/mascota3d/).
+// Sin `video`, usa el clip genérico en bucle de 150 fotogramas. Con `video`, reproduce un clip
+// del largo del Short con la boca sincronizada con la narración (empieza en el fotograma 0).
 const BUCLE = 150;
 
 export const PresentadorTresD: React.FC<{
   texto?: string;
   desdeFrame: number;
   alto?: number;
-}> = ({ texto: dicho, desdeFrame, alto = 640 }) => {
+  video?: string;
+}> = ({ texto: dicho, desdeFrame, alto = 640, video }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const entrada = spring({ frame, fps, config: { damping: 12 } });
@@ -62,13 +64,22 @@ export const PresentadorTresD: React.FC<{
           {dicho}
         </div>
       ) : null}
-      <Loop durationInFrames={BUCLE} layout="none">
+      {video ? (
         <OffthreadVideo
-          src={staticFile("mascota3d/presentador.webm")}
+          src={staticFile(video)}
           transparent
+          muted
           style={{ width: alto, height: alto }}
         />
-      </Loop>
+      ) : (
+        <Loop durationInFrames={BUCLE} layout="none">
+          <OffthreadVideo
+            src={staticFile("mascota3d/presentador.webm")}
+            transparent
+            style={{ width: alto, height: alto }}
+          />
+        </Loop>
+      )}
     </div>
   );
 };

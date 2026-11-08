@@ -1,0 +1,6 @@
+Un artículo de 100 euros, con 20 % de descuento y 20 % de impuesto. ¿Qué se aplica primero?
+Descuento primero: 100 por 0,8 son 80, y por 1,2 son 96.
+Impuesto primero: 100 por 1,2 son 120, y por 0,8 son 96.
+Da igual el orden: siempre 96 euros. La multiplicación no cambia al intercambiar los factores.
+Eso sí: pagas 96, no 100. El impuesto de 20 % es un ejemplo, cada país tiene el suyo.
+Sígueme para más dinero explicado con números.

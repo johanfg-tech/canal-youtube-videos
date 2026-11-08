@@ -10,6 +10,7 @@ import recuperar from "../guiones/recuperar.json";
 import millon from "../guiones/millon.json";
 import ahorro10 from "../guiones/ahorro10.json";
 import regla115 from "../guiones/regla115.json";
+import comision from "../guiones/comision.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
@@ -132,6 +133,19 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(regla115)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Comision"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(comision)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

@@ -21,6 +21,11 @@ import {
   MascotaEsquina,
 } from "../components/datos/Ilustraciones";
 import { PresentadorTresD } from "../components/datos/PresentadorTresD";
+import {
+  Pantalla,
+  PresentadorGrande,
+  PANTALLA,
+} from "../components/datos/PresentadorGrande";
 
 // Short 9:16 de "dinero explicado con datos": narración, subtítulos palabra a palabra
 // y escenas animadas que empiezan en los segundos indicados en el guion.
@@ -158,6 +163,8 @@ export const datosShortSchema = z.object({
   mascota3d: z.boolean().optional(),
   // Clip del presentador 3D con lip-sync para este Short (ruta dentro de public/).
   mascota3dVideo: z.string().optional(),
+  // Modo presentador: la moneda 3D grande abajo y las escenas en una pantalla arriba.
+  presentador: z.boolean().optional(),
   palabras: z
     .array(
       z.object({
@@ -758,7 +765,10 @@ const Encoger: React.FC<z.infer<typeof encogerSchema>> = ({
   );
 };
 
-const EscenaVista: React.FC<{ escena: Escena }> = ({ escena }) => {
+const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
+  escena,
+  presentador,
+}) => {
   switch (escena.tipo) {
     case "titular":
       return <Titular {...escena} />;
@@ -773,7 +783,7 @@ const EscenaVista: React.FC<{ escena: Escena }> = ({ escena }) => {
     case "etiqueta":
       return <EscenaEtiqueta {...escena} />;
     case "pensamiento":
-      return <EscenaPensamiento {...escena} />;
+      return <EscenaPensamiento {...escena} sinMascota={presentador} />;
     case "billetes":
       return <EscenaBilletes {...escena} />;
     case "calculadora":
@@ -878,6 +888,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
   mascota,
   mascota3d,
   mascota3dVideo,
+  presentador,
   palabras,
   escenas,
 }) => {
@@ -902,7 +913,14 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
             durationInFrames={dur}
             name={`${i + 1}. ${e.tipo}`}
           >
-            <div
+            {presentador ? (
+              <Pantalla>
+                <Transicion frames={dur}>
+                  <EscenaVista escena={e} presentador />
+                </Transicion>
+              </Pantalla>
+            ) : (
+              <div
               style={
                 horizontal
                   ? {
@@ -927,6 +945,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
                 <EscenaVista escena={e} />
               </Transicion>
             </div>
+            )}
             {i > 0 ? <Destello /> : null}
             {sfx ? (
               <Audio src={staticFile("sfx/whoosh.wav")} volume={0.35} />
@@ -941,7 +960,13 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
           </Sequence>
         );
       })}
-      {mascota ? (
+      {presentador ? (
+        <PresentadorGrande
+          video={mascota3dVideo ?? "mascota3d/presentador.webm"}
+          escenas={escenas}
+        />
+      ) : null}
+      {mascota && !presentador ? (
         <Mascota
           escenas={escenas}
           palabras={palabras ?? []}
@@ -952,8 +977,9 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
       {palabras ? (
         <Subtitulos
           palabras={palabras}
-          top={horizontal ? 868 : 1440}
-          derecha={mascota ? 330 : 60}
+          top={presentador ? PANTALLA.subtitulos : horizontal ? 868 : 1440}
+          derecha={presentador ? 60 : mascota ? 330 : 60}
+          tamano={presentador ? 70 : undefined}
         />
       ) : null}
       <div

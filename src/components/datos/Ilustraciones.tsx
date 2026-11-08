@@ -485,7 +485,9 @@ export const EscenaPensamiento: React.FC<{
   texto: string;
   tachar?: number;
   correccion?: string;
-}> = ({ texto: idea, tachar, correccion }) => {
+  // Sin la moneda de dibujo (cuando el presentador 3D ya está en pantalla).
+  sinMascota?: boolean;
+}> = ({ texto: idea, tachar, correccion, sinMascota }) => {
   const { t } = useT();
   const nube = useResorte(0.2, 10);
   const x = useResortePlano(tachar ?? 9999);
@@ -493,10 +495,12 @@ export const EscenaPensamiento: React.FC<{
   const cara = tachar !== undefined && t >= tachar ? "sorprendido" : "pensando";
   return (
     <AbsoluteFill style={{ alignItems: "center" }}>
-      <div style={{ position: "absolute", left: 60, bottom: 40 }}>
-        <MascotaImg key={cara} pose={cara} alto={560} />
-      </div>
-      {[0, 1, 2].map((i) => (
+      {sinMascota ? null : (
+        <div style={{ position: "absolute", left: 60, bottom: 40 }}>
+          <MascotaImg key={cara} pose={cara} alto={560} />
+        </div>
+      )}
+      {(sinMascota ? [] : [0, 1, 2]).map((i) => (
         <div
           key={i}
           style={{

@@ -28,7 +28,8 @@ export const Subtitulos: React.FC<{
   palabras: Palabra[];
   top: number;
   derecha?: number;
-}> = ({ palabras, top, derecha = 60 }) => {
+  tamano?: number;
+}> = ({ palabras, top, derecha = 60, tamano = 92 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps;
@@ -72,7 +73,7 @@ export const Subtitulos: React.FC<{
             key={i}
             style={{
               fontFamily: theme.font,
-              fontSize: 92,
+              fontSize: tamano,
               fontWeight: 900,
               textTransform: "uppercase",
               color: activa ? theme.bg : theme.text,

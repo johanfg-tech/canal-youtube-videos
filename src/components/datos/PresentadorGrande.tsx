@@ -7,7 +7,6 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
-import { theme } from "../../theme";
 
 // Modo presentador (Short 1080x1920): la moneda 3D de pie, grande, abajo; las escenas en una
 // "pantalla" de plató arriba, a la que el presentador señala.
@@ -24,7 +23,6 @@ export const PANTALLA = {
   presentadorAncho: 960,
 };
 
-const clamp = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 const ORO = "#e7b53c";
 
 export const Pantalla: React.FC<{ children: React.ReactNode }> = ({
@@ -83,22 +81,9 @@ type EscenaConMascota = { inicio: number; mascota?: { texto?: string } };
 export const PresentadorGrande: React.FC<{
   video: string;
   escenas: EscenaConMascota[];
-}> = ({ video, escenas }) => {
+}> = ({ video }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const t = frame / fps;
-  let i = 0;
-  escenas.forEach((e, k) => {
-    if (e.inicio <= t) i = k;
-  });
-  const dicho = escenas[i].mascota?.texto;
-  const desde = Math.round(escenas[i].inicio * fps);
-  const salto = spring({
-    frame: frame - desde - 6,
-    fps,
-    config: { damping: 9, mass: 0.5 },
-  });
-  const sale = interpolate(frame - desde, [75, 85], [1, 0], clamp);
   const entrada = spring({ frame, fps, config: { damping: 14 } });
   const { presentadorTop: top, presentadorAncho: ancho } = PANTALLA;
   return (
@@ -142,27 +127,6 @@ export const PresentadorGrande: React.FC<{
           style={{ width: ancho, height: ancho }}
         />
       </div>
-      {dicho ? (
-        <div
-          style={{
-            position: "absolute",
-            right: 40,
-            top: top + 40,
-            fontFamily: theme.font,
-            fontSize: 44,
-            fontWeight: 900,
-            color: theme.bg,
-            background: "#f3ead8",
-            borderRadius: 30,
-            padding: "14px 26px",
-            scale: String(interpolate(salto, [0, 1], [0.3, 1], clamp) * sale),
-            transformOrigin: "0% 100%",
-            boxShadow: "0 10px 0 rgba(0,0,0,0.35)",
-          }}
-        >
-          {dicho}
-        </div>
-      ) : null}
     </AbsoluteFill>
   );
 };

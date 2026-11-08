@@ -38,7 +38,8 @@
       ],
       "resaltar": [
         "7"
-      ]
+      ],
+      "imagen": "ia/monedas-brote.png"
     },
     {
       "tipo": "titular",
@@ -50,7 +51,8 @@
       "resaltar": [
         "final"
       ],
-      "destacado": "7612"
+      "destacado": "7612",
+      "imagen": "ia/grafico-sube.png"
     },
     {
       "tipo": "titular",
@@ -63,7 +65,8 @@
       "resaltar": [
         "1",
         "6"
-      ]
+      ],
+      "imagen": "ia/tijeras-moneda.png"
     },
     {
       "tipo": "titular",
@@ -106,7 +109,8 @@
       "resaltar": [
         "1"
       ],
-      "destacado": "1900"
+      "destacado": "1900",
+      "imagen": "ia/tijeras-moneda.png"
     },
     {
       "tipo": "titular",

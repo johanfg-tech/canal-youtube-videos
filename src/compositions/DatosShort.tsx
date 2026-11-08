@@ -3,6 +3,7 @@ import {
   AbsoluteFill,
   Audio,
   Easing,
+  Img,
   Sequence,
   interpolate,
   spring,
@@ -41,6 +42,7 @@ const mascotaSchema = z
 const titularSchema = z.object({
   tipo: z.literal("titular"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   lineas: z.array(z.string()),
   resaltar: z.array(z.string()).optional(),
@@ -51,6 +53,7 @@ const titularSchema = z.object({
 const ecuacionSchema = z.object({
   tipo: z.literal("ecuacion"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   a: z.string(),
   b: z.string(),
@@ -65,6 +68,7 @@ const ecuacionSchema = z.object({
 const duplicarSchema = z.object({
   tipo: z.literal("duplicar"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   monedas: z.number(),
   etiqueta: z.string(),
@@ -73,6 +77,7 @@ const duplicarSchema = z.object({
 const barrasSchema = z.object({
   tipo: z.literal("barras"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   titulo: z.string(),
   barras: z.array(
@@ -83,6 +88,7 @@ const barrasSchema = z.object({
 const encogerSchema = z.object({
   tipo: z.literal("encoger"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   titulo: z.string(),
   desde: z.number(),
@@ -93,6 +99,7 @@ const encogerSchema = z.object({
 const etiquetaSchema = z.object({
   tipo: z.literal("etiqueta"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   titulo: z.string().optional(),
   precio: z.number(),
@@ -109,6 +116,7 @@ const etiquetaSchema = z.object({
 const pensamientoSchema = z.object({
   tipo: z.literal("pensamiento"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   texto: z.string(),
   tachar: z.number().optional(),
@@ -118,6 +126,7 @@ const pensamientoSchema = z.object({
 const billetesSchema = z.object({
   tipo: z.literal("billetes"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   titulo: z.string(),
   total: z.number(),
@@ -129,6 +138,7 @@ const billetesSchema = z.object({
 const calculadoraSchema = z.object({
   tipo: z.literal("calculadora"),
   inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
   mascota: mascotaSchema,
   titulo: z.string(),
   teclas: z.array(z.string()),
@@ -170,6 +180,7 @@ export const datosShortSchema = z.object({
       z.object({
         texto: z.string(),
         inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
         mascota: mascotaSchema,
         fin: z.number(),
         corte: z.boolean().optional(),
@@ -765,10 +776,13 @@ const Encoger: React.FC<z.infer<typeof encogerSchema>> = ({
   );
 };
 
-const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
+const EscenaContenido = ({
   escena,
   presentador,
-}) => {
+}: {
+  escena: Escena;
+  presentador?: boolean;
+}): React.ReactElement => {
   switch (escena.tipo) {
     case "titular":
       return <Titular {...escena} />;
@@ -789,6 +803,60 @@ const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
     case "calculadora":
       return <EscenaCalculadora {...escena} />;
   }
+};
+
+
+// Imagen generada (ChatGPT/Gemini) que entra con rebote y flota bajo el contenido de la escena.
+const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const entrada = spring({ frame: frame - 6, fps, config: { damping: 9, mass: 0.7 } });
+  const flota = Math.sin((frame / fps) * Math.PI * 1.6) * 14;
+  const gira = Math.sin((frame / fps) * Math.PI * 0.9) * 2.5;
+  return (
+    <div
+      style={{
+        position: "absolute",
+        left: 0,
+        right: 0,
+        bottom: 10,
+        height: 470,
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "flex-end",
+        opacity: Math.min(1, entrada * 1.5),
+        scale: String(0.4 + 0.6 * entrada),
+        translate: `0px ${flota}px`,
+        rotate: `${gira}deg`,
+        filter: "drop-shadow(0 24px 40px rgba(0,0,0,0.55))",
+      }}
+    >
+      <Img src={staticFile(src)} style={{ height: "100%", objectFit: "contain" }} />
+    </div>
+  );
+};
+
+const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
+  escena,
+  presentador,
+}) => {
+  const contenido = EscenaContenido({ escena, presentador });
+  if (!escena.imagen) return contenido;
+  return (
+    <AbsoluteFill>
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          transform: "translateY(-150px) scale(0.82)",
+          transformOrigin: "50% 0",
+        }}
+      >
+        {contenido}
+      </div>
+      <ImagenFlotante src={escena.imagen} />
+    </AbsoluteFill>
+  );
 };
 
 // Transición: entra con zoom y desenfoque, se acerca poco a poco y sale encogiendo.

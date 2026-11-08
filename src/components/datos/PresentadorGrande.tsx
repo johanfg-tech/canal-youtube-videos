@@ -13,9 +13,9 @@ import manos from "./manos-descuentos.json";
 // apoyadas en su mano, y la siguen; las de texto salen arriba y la moneda las señala.
 export const PANTALLA = {
   subtitulos: 70,
-  presentadorLado: 1000,
-  presentadorIzq: -285,
-  presentadorTop: 930,
+  presentadorLado: 960,
+  presentadorIzq: -165,
+  presentadorTop: 960,
 };
 
 const ZONA_ANCHO = 1080;

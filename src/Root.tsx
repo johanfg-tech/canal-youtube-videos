@@ -11,6 +11,12 @@ import millon from "../guiones/millon.json";
 import ahorro10 from "../guiones/ahorro10.json";
 import regla115 from "../guiones/regla115.json";
 import comision from "../guiones/comision.json";
+import interesMensual from "../guiones/interes-mensual.json";
+import ordenDescuento from "../guiones/orden-descuento.json";
+import duplicar10 from "../guiones/duplicar10.json";
+import cafe from "../guiones/cafe.json";
+import simpleCompuesto from "../guiones/simple-compuesto.json";
+import inflacion from "../guiones/inflacion.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
@@ -146,6 +152,84 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(comision)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Inflacion"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(inflacion)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="SimpleCompuesto"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(simpleCompuesto)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Cafe"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(cafe)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Duplicar10"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(duplicar10)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="OrdenDescuento"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(ordenDescuento)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="InteresMensual"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(interesMensual)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

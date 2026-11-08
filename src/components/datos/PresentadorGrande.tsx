@@ -1,121 +1,109 @@
 import {
   AbsoluteFill,
   OffthreadVideo,
-  interpolate,
   spring,
   staticFile,
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
+import manos from "./manos-descuentos.json";
 
-// Modo presentador (Short 1080x1920): la moneda 3D de pie, grande, abajo; las escenas en una
-// "pantalla" de plató arriba, a la que el presentador señala.
-const ZONA_ANCHO = 1080;
-const ZONA_ALTO = 1240;
-
+// Modo presentador (Short 1080x1920): la moneda 3D de pie, abajo a la izquierda, junto a los
+// objetos. Las escenas con un objeto (camiseta, billetes, calculadora) aparecen a su lado,
+// apoyadas en su mano, y la siguen; las de texto salen arriba y la moneda las señala.
 export const PANTALLA = {
-  top: 96,
-  left: 60,
-  ancho: 960,
-  alto: 800,
-  subtitulos: 890,
-  presentadorTop: 1010,
-  presentadorAncho: 960,
+  subtitulos: 70,
+  presentadorLado: 1000,
+  presentadorIzq: -285,
+  presentadorTop: 930,
 };
 
-const ORO = "#e7b53c";
+const ZONA_ANCHO = 1080;
+const ZONA_ALTO = 1240;
+const ESCALA_MANO = 0.68;
+const ESCALA_ARRIBA = 0.66;
 
-export const Pantalla: React.FC<{ children: React.ReactNode }> = ({
-  children,
-}) => {
+// Escenas cuyo objeto sostiene la moneda con la mano.
+const SOSTENIDAS = new Set(["etiqueta", "billetes", "calculadora"]);
+
+export const Zona: React.FC<{
+  tipo: string;
+  desde: number; // fotograma absoluto en que empieza la escena
+  children: React.ReactNode;
+}> = ({ tipo, desde, children }) => {
   const frame = useCurrentFrame();
-  const escala = (PANTALLA.alto - 40) / ZONA_ALTO;
-  return (
-    <div
-      style={{
-        position: "absolute",
-        top: PANTALLA.top,
-        left: PANTALLA.left,
-        width: PANTALLA.ancho,
-        height: PANTALLA.alto,
-        borderRadius: 44,
-        overflow: "hidden",
-        background:
-          "radial-gradient(ellipse at 50% 35%, rgba(40,46,66,0.92) 0%, rgba(12,14,20,0.94) 75%)",
-        border: `6px solid ${ORO}`,
-        boxShadow: `0 0 60px ${ORO}55, inset 0 0 50px rgba(0,0,0,0.6)`,
-      }}
-    >
+  const { fps } = useVideoConfig();
+  const { presentadorLado: lado, presentadorIzq: izq, presentadorTop: top } =
+    PANTALLA;
+  const f = Math.min(Math.max(0, desde + frame), manos.L.length - 1);
+  const [u, v] = manos.L[f];
+  const mano = { x: izq + u * lado, y: top + v * lado };
+  const entrada = spring({ frame, fps, config: { damping: 14, mass: 0.8 } });
+  if (SOSTENIDAS.has(tipo)) {
+    // la zona descansa sobre la mano: su esquina inferior derecha queda justo por encima y la sigue
+    const base = mano.y + 20;
+    return (
       <div
         style={{
           position: "absolute",
-          top: 20,
-          left: (PANTALLA.ancho - 12 - ZONA_ANCHO * escala) / 2,
+          left: 1080 + 6 - ZONA_ANCHO,
+          top: base - ZONA_ALTO,
           width: ZONA_ANCHO,
           height: ZONA_ALTO,
-          scale: String(escala),
-          transformOrigin: "0 0",
+          scale: String(ESCALA_MANO * (0.6 + 0.4 * entrada)),
+          transformOrigin: "100% 100%",
+          opacity: entrada,
         }}
       >
         {children}
       </div>
-      {/* reflejo de cristal que cruza la pantalla despacio */}
-      <div
-        style={{
-          position: "absolute",
-          top: -200,
-          left: interpolate(frame % 240, [0, 240], [-500, 1400]),
-          width: 160,
-          height: 1300,
-          rotate: "20deg",
-          background:
-            "linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent)",
-        }}
-      />
+    );
+  }
+  const w = ZONA_ANCHO * ESCALA_ARRIBA;
+  return (
+    <div
+      style={{
+        position: "absolute",
+        left: (1080 - w) / 2,
+        top: 215 + (1 - entrada) * 60,
+        width: ZONA_ANCHO,
+        height: ZONA_ALTO,
+        scale: String(ESCALA_ARRIBA),
+        transformOrigin: "0 0",
+        opacity: entrada,
+      }}
+    >
+      {children}
     </div>
   );
 };
 
-type EscenaConMascota = { inicio: number; mascota?: { texto?: string } };
-
 export const PresentadorGrande: React.FC<{
   video: string;
-  escenas: EscenaConMascota[];
 }> = ({ video }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const entrada = spring({ frame, fps, config: { damping: 14 } });
-  const { presentadorTop: top, presentadorAncho: ancho } = PANTALLA;
+  const { presentadorLado: lado, presentadorIzq: izq, presentadorTop: top } =
+    PANTALLA;
   return (
     <AbsoluteFill>
-      {/* foco del plató detrás del presentador y sombra en el suelo */}
+      {/* foco del plató detrás del presentador */}
       <div
         style={{
           position: "absolute",
-          left: 540 - 520,
-          top: top + 40,
-          width: 1040,
-          height: 900,
+          left: izq - 60,
+          top: top + 60,
+          width: lado * 1.15,
+          height: lado * 0.9,
           borderRadius: "50%",
-          background: `radial-gradient(ellipse, ${ORO}30 0%, transparent 65%)`,
+          background: "radial-gradient(ellipse, #e7b53c26 0%, transparent 65%)",
         }}
       />
       <div
         style={{
           position: "absolute",
-          left: 540 - 300,
-          top: top + ancho * 0.865,
-          width: 600,
-          height: 90,
-          borderRadius: "50%",
-          background:
-            "radial-gradient(ellipse, rgba(0,0,0,0.55) 0%, transparent 70%)",
-        }}
-      />
-      <div
-        style={{
-          position: "absolute",
-          left: (1080 - ancho) / 2,
+          left: izq,
           top,
           translate: `0px ${(1 - entrada) * 500}px`,
         }}
@@ -124,7 +112,7 @@ export const PresentadorGrande: React.FC<{
           src={staticFile(video)}
           transparent
           muted
-          style={{ width: ancho, height: ancho }}
+          style={{ width: lado, height: lado }}
         />
       </div>
     </AbsoluteFill>

@@ -22,7 +22,7 @@ import {
 } from "../components/datos/Ilustraciones";
 import { PresentadorTresD } from "../components/datos/PresentadorTresD";
 import {
-  Pantalla,
+  Zona,
   PresentadorGrande,
   PANTALLA,
 } from "../components/datos/PresentadorGrande";
@@ -914,11 +914,11 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
             name={`${i + 1}. ${e.tipo}`}
           >
             {presentador ? (
-              <Pantalla>
+              <Zona tipo={e.tipo} desde={from}>
                 <Transicion frames={dur}>
                   <EscenaVista escena={e} presentador />
                 </Transicion>
-              </Pantalla>
+              </Zona>
             ) : (
               <div
               style={
@@ -963,7 +963,6 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
       {presentador ? (
         <PresentadorGrande
           video={mascota3dVideo ?? "mascota3d/presentador.webm"}
-          escenas={escenas}
         />
       ) : null}
       {mascota && !presentador ? (

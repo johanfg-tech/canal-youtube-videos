@@ -290,30 +290,6 @@ export const MascotaEsquina: React.FC<{
 
 export type PasoEtiqueta = { en: number; descuento: string; precio?: number };
 
-const Camiseta: React.FC<{ color?: string }> = ({ color = "#6b2440" }) => (
-  <svg width={520} height={480} viewBox="0 0 260 240">
-    <path
-      d="M80 10 L40 30 L6 74 L44 98 L60 80 L60 230 L200 230 L200 80 L216 98 L254 74 L220 30 L180 10 Q130 46 80 10 Z"
-      fill={color}
-      stroke="#c99a2e"
-      strokeWidth={6}
-      strokeLinejoin="round"
-    />
-    <path
-      d="M80 10 Q130 46 180 10"
-      fill="none"
-      stroke="#c99a2e"
-      strokeWidth={6}
-    />
-    <path
-      d="M100 120 L160 120 M100 150 L150 150"
-      stroke="#ffffff55"
-      strokeWidth={8}
-      strokeLinecap="round"
-    />
-  </svg>
-);
-
 export const EscenaEtiqueta: React.FC<{
   titulo?: string;
   precio: number;
@@ -349,17 +325,20 @@ export const EscenaEtiqueta: React.FC<{
       <div
         style={{
           position: "relative",
-          translate: `-250px ${(1 - entra) * -600}px`,
+          translate: `-200px ${(1 - entra) * -600}px`,
           scale: "1.2",
         }}
       >
-        <Camiseta />
+        <Img
+          src={staticFile("ia/camiseta.png")}
+          style={{ width: 480, height: "auto", display: "block" }}
+        />
         {/* hilo + etiqueta */}
         <div
           style={{
             position: "absolute",
-            left: 430,
-            top: 40,
+            left: 380,
+            top: 170,
             transformOrigin: "0 0",
             rotate: `${6 + swing}deg`,
           }}
@@ -623,7 +602,8 @@ export const EscenaBilletes: React.FC<{
   const { t } = useT();
   const entra = useResorte(0, 12);
   const pieP = useResortePlano(quitar + 0.9);
-  const cols = 2;
+  const cols = 3;
+  const ancho = 300;
   return (
     <AbsoluteFill style={{ alignItems: "center" }}>
       <div
@@ -634,10 +614,13 @@ export const EscenaBilletes: React.FC<{
       <div
         style={{
           position: "absolute",
-          top: 170,
+          top: 200,
+          left: 0,
+          right: 0,
           display: "grid",
-          gridTemplateColumns: `repeat(${cols}, 380px)`,
-          gap: "26px 40px",
+          justifyContent: "center",
+          gridTemplateColumns: `repeat(${cols}, ${ancho}px)`,
+          gap: "24px 40px",
         }}
       >
         {Array.from({ length: total }).map((_, i) => {
@@ -658,29 +641,34 @@ export const EscenaBilletes: React.FC<{
             <div
               key={i}
               style={{
-                width: 380,
-                height: 150,
-                borderRadius: 18,
-                background: "linear-gradient(135deg, #e8b93a, #a8741a)",
-                border: "5px solid #ffe08a",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                ...texto(70, "#3a2600"),
+                position: "relative",
+                width: ancho,
                 opacity: llega * (1 - p),
                 translate: `${dir * p * 700}px ${-p * 900 + (1 - llega) * 300}px`,
                 rotate: `${dir * p * 60}deg`,
               }}
             >
+              <Img
+                src={staticFile("ia/billetes.png")}
+                style={{ width: ancho, height: "auto", display: "block" }}
+              />
               <span
                 style={{
-                  width: 96,
-                  height: 96,
-                  borderRadius: 48,
-                  border: "5px dashed #fff0c0",
+                  position: "absolute",
+                  right: -10,
+                  bottom: -10,
+                  minWidth: 70,
+                  height: 70,
+                  padding: "0 12px",
+                  boxSizing: "border-box",
+                  borderRadius: 35,
+                  background: AMARILLO,
+                  border: "5px solid #fff6e0",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
+                  ...texto(46, theme.bg),
+                  boxShadow: "0 8px 0 rgba(0,0,0,0.35)",
                 }}
               >
                 {Math.round(100 / total)}
@@ -709,6 +697,14 @@ export const EscenaBilletes: React.FC<{
 
 // ---------------------------------------------------------------- Calculadora
 
+// Calculadora de ChatGPT (public/ia/calculadora.png, 616x788): pantalla y teclas en esas coordenadas.
+const CALC_IMG = { w: 616, h: 788 };
+const CALC_ANCHO = 640;
+const CALC_S = CALC_ANCHO / CALC_IMG.w;
+const CALC_TECLAS = ["7", "8", "9", "×", "4", "5", "6", "−", "1", "2", "3", "+", "0", ",", "=", "÷"].map(
+  (b, i) => ({ b, x: [125, 248, 368, 490][i % 4], y: [340, 443, 550, 655][Math.floor(i / 4)] }),
+);
+
 export const EscenaCalculadora: React.FC<{
   titulo: string;
   teclas: string[];
@@ -723,24 +719,6 @@ export const EscenaCalculadora: React.FC<{
   const pantalla = t >= revelar ? resultado : pulsadas.join(" ") || "0";
   const flash = interpolate(t, [revelar, revelar + 0.3], [1, 0], clamp);
   const pieP = useResortePlano(revelar + 0.5);
-  const botones = [
-    "7",
-    "8",
-    "9",
-    "×",
-    "4",
-    "5",
-    "6",
-    "−",
-    "1",
-    "2",
-    "3",
-    "+",
-    "0",
-    ",",
-    "=",
-    "÷",
-  ];
   const activa = (b: string) => {
     for (let i = teclas.length - 1; i >= 0; i--) {
       if (t >= tiempos[i] && t < tiempos[i] + 0.25 && teclas[i].includes(b))
@@ -748,6 +726,7 @@ export const EscenaCalculadora: React.FC<{
     }
     return t >= revelar && t < revelar + 0.25 && b === "=";
   };
+  const d = 104 * CALC_S;
   return (
     <AbsoluteFill style={{ alignItems: "center" }}>
       <div
@@ -759,26 +738,31 @@ export const EscenaCalculadora: React.FC<{
         style={{
           position: "absolute",
           top: 150,
-          width: 640,
-          padding: 36,
-          borderRadius: 50,
-          background: "linear-gradient(180deg, #2b2f3a, #1b1e26)",
-          border: "6px solid #3a3f4d",
-          boxShadow: "0 24px 0 rgba(0,0,0,0.45)",
+          width: CALC_ANCHO,
+          height: CALC_IMG.h * CALC_S,
           translate: `0 ${(1 - entra) * 500}px`,
           rotate: `${(1 - entra) * -10}deg`,
         }}
       >
+        <Img
+          src={staticFile("ia/calculadora.png")}
+          style={{ width: CALC_ANCHO, height: "auto", display: "block" }}
+        />
         <div
           style={{
-            height: 190,
-            borderRadius: 24,
-            background: `rgb(${190 + flash * 65}, ${230 + flash * 25}, ${170 + flash * 85})`,
+            position: "absolute",
+            left: 65 * CALC_S,
+            top: 85 * CALC_S,
+            width: (580 - 65) * CALC_S,
+            height: (255 - 85) * CALC_S,
+            boxSizing: "border-box",
+            borderRadius: 20,
+            background: `rgba(255, 255, 255, ${flash * 0.6})`,
             display: "flex",
             alignItems: "center",
             justifyContent: "flex-end",
-            padding: "0 30px",
-            ...texto(t >= revelar ? 140 : 96, "#1b2b12"),
+            padding: "0 28px",
+            ...texto(t >= revelar ? 120 : 84, "#1b2b12"),
             fontVariantNumeric: "tabular-nums",
             overflow: "hidden",
             whiteSpace: "nowrap",
@@ -786,42 +770,35 @@ export const EscenaCalculadora: React.FC<{
         >
           {pantalla}
         </div>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(4, 1fr)",
-            gap: 22,
-            marginTop: 30,
-          }}
-        >
-          {botones.map((b) => {
-            const on = activa(b);
-            return (
-              <div
-                key={b}
-                style={{
-                  height: 110,
-                  borderRadius: 26,
-                  background: on
-                    ? AMARILLO
-                    : "×−+÷=".includes(b)
-                      ? theme.accent
-                      : "#454b5c",
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "center",
-                  ...texto(62, on ? theme.bg : "#fff"),
-                  translate: `0 ${on ? 8 : 0}px`,
-                  boxShadow: on
-                    ? "0 2px 0 rgba(0,0,0,0.5)"
-                    : "0 10px 0 rgba(0,0,0,0.5)",
-                }}
-              >
-                {b}
-              </div>
-            );
-          })}
-        </div>
+        {CALC_TECLAS.map(({ b, x, y }) => {
+          const on = activa(b);
+          const esOperador = "×−+÷=".includes(b);
+          return (
+            <div
+              key={b}
+              style={{
+                position: "absolute",
+                left: x * CALC_S - d / 2,
+                top: y * CALC_S - d / 2,
+                width: d,
+                height: d,
+                borderRadius: d / 2,
+                background: on ? AMARILLO : "transparent",
+                boxShadow: on ? "0 0 0 6px #fff6e0" : "none",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                ...texto(
+                  56,
+                  on ? theme.bg : esOperador ? "#6b2440" : "#3a2600",
+                ),
+                translate: `0 ${on ? 6 : 0}px`,
+              }}
+            >
+              {b}
+            </div>
+          );
+        })}
       </div>
       <div
         style={{

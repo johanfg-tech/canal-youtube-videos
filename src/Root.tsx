@@ -13,6 +13,10 @@ import millon from "../guiones/millon.json";
 import ahorro10 from "../guiones/ahorro10.json";
 import regla115 from "../guiones/regla115.json";
 import comision from "../guiones/comision.json";
+import sueldoInflacion from "../guiones/sueldo-inflacion.json";
+import reto52 from "../guiones/reto-52.json";
+import pagoMinimo from "../guiones/pago-minimo.json";
+import fondoEmergencia from "../guiones/fondo-emergencia.json";
 import interesMensual from "../guiones/interes-mensual.json";
 import ordenDescuento from "../guiones/orden-descuento.json";
 import duplicar10 from "../guiones/duplicar10.json";
@@ -233,6 +237,58 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(interesMensual)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="FondoEmergencia"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(fondoEmergencia)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="PagoMinimo"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(pagoMinimo)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Reto52"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(reto52)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="SueldoInflacion"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(sueldoInflacion)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

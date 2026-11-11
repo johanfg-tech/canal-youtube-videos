@@ -1,0 +1,528 @@
+{
+  "audio": "narraciones/reto-52.mp3",
+  "duracion": 28.8,
+  "aviso": "Ejemplo educativo. No es asesoramiento financiero.",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "El reto",
+      "inicio": 0,
+      "lineas": [
+        "El reto de las",
+        "52 semanas"
+      ],
+      "resaltar": [
+        "52"
+      ],
+      "imagen": "ia/calendario-porcentaje.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "En la semana",
+      "inicio": 2.53,
+      "lineas": [
+        "Semana 1: 1 €",
+        "Semana 2: 2 €"
+      ],
+      "resaltar": [
+        "1 €"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y así hasta",
+      "inicio": 6.88,
+      "lineas": [
+        "Hasta la semana 52:"
+      ],
+      "resaltar": [
+        "52"
+      ],
+      "destacado": "52 €"
+    },
+    {
+      "tipo": "titular",
+      "en": "La suma total",
+      "inicio": 11.01,
+      "lineas": [
+        "Total en un año"
+      ],
+      "resaltar": [
+        "año"
+      ],
+      "destacado": "1.378 €",
+      "imagen": "ia/monedas-brote.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Un truco",
+      "inicio": 15.51,
+      "lineas": [
+        "Un truco:",
+        "hazlo al revés"
+      ],
+      "resaltar": [
+        "al revés"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Empieza con",
+      "inicio": 17.65,
+      "lineas": [
+        "Empieza con 52",
+        "y baja hasta 1"
+      ],
+      "resaltar": [
+        "52"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Así lo",
+      "inicio": 20.53,
+      "lineas": [
+        "Lo difícil,",
+        "al principio"
+      ],
+      "resaltar": [
+        "difícil"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La suma es",
+      "inicio": 24.23,
+      "lineas": [
+        "La suma",
+        "es la misma"
+      ],
+      "resaltar": [
+        "misma"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahorrar poco",
+      "inicio": 25.96,
+      "lineas": [
+        "Ahorrar poco a poco",
+        "funciona"
+      ],
+      "resaltar": [
+        "funciona"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.21,
+      "corte": false
+    },
+    {
+      "texto": "reto",
+      "inicio": 0.21,
+      "fin": 0.55,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.55,
+      "fin": 0.76,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 0.76,
+      "fin": 1.03,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 1.03,
+      "fin": 1.73,
+      "corte": false
+    },
+    {
+      "texto": "semanas.",
+      "inicio": 1.73,
+      "fin": 2.25,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 2.68,
+      "fin": 2.87,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.87,
+      "fin": 3.06,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 3.06,
+      "fin": 3.48,
+      "corte": false
+    },
+    {
+      "texto": "1,",
+      "inicio": 3.48,
+      "fin": 3.73,
+      "corte": false
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 3.73,
+      "fin": 4.2,
+      "corte": false
+    },
+    {
+      "texto": "1",
+      "inicio": 4.2,
+      "fin": 4.45,
+      "corte": false
+    },
+    {
+      "texto": "euro.",
+      "inicio": 4.45,
+      "fin": 4.75,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 5.16,
+      "fin": 5.4,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 5.4,
+      "fin": 5.65,
+      "corte": false
+    },
+    {
+      "texto": "2,",
+      "inicio": 5.65,
+      "fin": 5.96,
+      "corte": false
+    },
+    {
+      "texto": "2",
+      "inicio": 5.96,
+      "fin": 6.28,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 6.28,
+      "fin": 6.73,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 7.03,
+      "fin": 7.19,
+      "corte": false
+    },
+    {
+      "texto": "así",
+      "inicio": 7.19,
+      "fin": 7.48,
+      "corte": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 7.48,
+      "fin": 7.9,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 7.9,
+      "fin": 8.12,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 8.12,
+      "fin": 8.61,
+      "corte": false
+    },
+    {
+      "texto": "52,",
+      "inicio": 8.61,
+      "fin": 9.34,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 9.34,
+      "fin": 9.63,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 9.63,
+      "fin": 10.37,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 10.37,
+      "fin": 10.79,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 11.16,
+      "fin": 11.34,
+      "corte": false
+    },
+    {
+      "texto": "suma",
+      "inicio": 11.34,
+      "fin": 11.62,
+      "corte": false
+    },
+    {
+      "texto": "total:",
+      "inicio": 11.62,
+      "fin": 11.95,
+      "corte": true
+    },
+    {
+      "texto": "1.378",
+      "inicio": 12.27,
+      "fin": 13.71,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 13.71,
+      "fin": 14.19,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.19,
+      "fin": 14.45,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 14.45,
+      "fin": 14.71,
+      "corte": false
+    },
+    {
+      "texto": "año.",
+      "inicio": 14.71,
+      "fin": 15.04,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 15.66,
+      "fin": 15.84,
+      "corte": false
+    },
+    {
+      "texto": "truco:",
+      "inicio": 15.84,
+      "fin": 16.16,
+      "corte": true
+    },
+    {
+      "texto": "hazlo",
+      "inicio": 16.58,
+      "fin": 16.95,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 16.95,
+      "fin": 17.15,
+      "corte": false
+    },
+    {
+      "texto": "revés.",
+      "inicio": 17.15,
+      "fin": 17.52,
+      "corte": true
+    },
+    {
+      "texto": "Empieza",
+      "inicio": 17.8,
+      "fin": 18.3,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 18.3,
+      "fin": 18.56,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 18.56,
+      "fin": 19.22,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 19.22,
+      "fin": 19.37,
+      "corte": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 19.37,
+      "fin": 19.69,
+      "corte": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 19.69,
+      "fin": 20.06,
+      "corte": false
+    },
+    {
+      "texto": "1.",
+      "inicio": 20.06,
+      "fin": 20.32,
+      "corte": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 20.68,
+      "fin": 20.9,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.9,
+      "fin": 21.08,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 21.08,
+      "fin": 21.3,
+      "corte": false
+    },
+    {
+      "texto": "difícil",
+      "inicio": 21.3,
+      "fin": 21.73,
+      "corte": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 21.73,
+      "fin": 22.05,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 22.05,
+      "fin": 22.22,
+      "corte": false
+    },
+    {
+      "texto": "principio,",
+      "inicio": 22.22,
+      "fin": 22.75,
+      "corte": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 22.75,
+      "fin": 23.12,
+      "corte": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 23.12,
+      "fin": 23.5,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 23.5,
+      "fin": 23.72,
+      "corte": false
+    },
+    {
+      "texto": "ganas.",
+      "inicio": 23.72,
+      "fin": 24.05,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 24.38,
+      "fin": 24.59,
+      "corte": false
+    },
+    {
+      "texto": "suma",
+      "inicio": 24.59,
+      "fin": 24.91,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 24.91,
+      "fin": 25.12,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 25.12,
+      "fin": 25.33,
+      "corte": false
+    },
+    {
+      "texto": "misma.",
+      "inicio": 25.33,
+      "fin": 25.72,
+      "corte": true
+    },
+    {
+      "texto": "Ahorrar",
+      "inicio": 26.11,
+      "fin": 26.69,
+      "corte": false
+    },
+    {
+      "texto": "poco",
+      "inicio": 26.69,
+      "fin": 27.08,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 27.08,
+      "fin": 27.25,
+      "corte": false
+    },
+    {
+      "texto": "poco",
+      "inicio": 27.25,
+      "fin": 27.63,
+      "corte": false
+    },
+    {
+      "texto": "funciona.",
+      "inicio": 27.63,
+      "fin": 28.29,
+      "corte": true
+    }
+  ]
+}

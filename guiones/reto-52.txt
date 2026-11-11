@@ -1,0 +1,5 @@
+El reto de las 52 semanas. En la semana 1, ahorras 1 euro. En la 2, 2 euros. Y así hasta la semana 52, con 52 euros.
+La suma total: 1.378 euros en un año.
+Un truco: hazlo al revés. Empieza con 52 y baja hasta 1.
+Así lo más difícil queda al principio, cuando tienes más ganas. La suma es la misma.
+Ahorrar poco a poco funciona.

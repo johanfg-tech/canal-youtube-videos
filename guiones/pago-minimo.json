@@ -1,0 +1,459 @@
+{
+  "audio": "narraciones/pago-minimo.mp3",
+  "duracion": 23.3,
+  "aviso": "Ejemplo educativo. No es asesoramiento financiero.",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Una tarjeta",
+      "inicio": 0,
+      "lineas": [
+        "Deuda de tarjeta:",
+        "1.000 € al 24 % anual"
+      ],
+      "resaltar": [
+        "24 %"
+      ],
+      "imagen": "ia/carrito-compra.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Eso es",
+      "inicio": 4.32,
+      "lineas": [
+        "Un 2 % cada mes"
+      ],
+      "resaltar": [
+        "2 %"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Si solo",
+      "inicio": 6.79,
+      "a": "1.000 €",
+      "operador": "×",
+      "b": "2 %",
+      "resultado": 20,
+      "etiqueta": "€ de intereses al mes",
+      "revelar": 3.5
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "En un",
+      "inicio": 10.25,
+      "a": "20 €",
+      "operador": "×",
+      "b": "12 meses",
+      "resultado": 240,
+      "etiqueta": "€ pagados en un año",
+      "revelar": 3.0
+    },
+    {
+      "tipo": "titular",
+      "en": "Y sigues",
+      "inicio": 13.33,
+      "lineas": [
+        "Y sigues debiendo",
+        "los mismos 1.000 €"
+      ],
+      "resaltar": [
+        "1.000 €"
+      ],
+      "imagen": "ia/billete-desvanece.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "El pago",
+      "inicio": 15.64,
+      "lineas": [
+        "El pago mínimo",
+        "no baja la deuda"
+      ],
+      "resaltar": [
+        "no baja"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Solo mantiene",
+      "inicio": 17.93,
+      "lineas": [
+        "Solo mantiene",
+        "el negocio del banco"
+      ],
+      "resaltar": [
+        "banco"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Siempre que",
+      "inicio": 19.88,
+      "lineas": [
+        "Paga siempre",
+        "más que el mínimo"
+      ],
+      "resaltar": [
+        "más"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Una",
+      "inicio": 0.0,
+      "fin": 0.21,
+      "corte": false
+    },
+    {
+      "texto": "tarjeta",
+      "inicio": 0.21,
+      "fin": 0.61,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 0.61,
+      "fin": 0.83,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 0.83,
+      "fin": 1.74,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 1.74,
+      "fin": 2.05,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 2.05,
+      "fin": 2.22,
+      "corte": false
+    },
+    {
+      "texto": "deuda",
+      "inicio": 2.22,
+      "fin": 2.52,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 2.52,
+      "fin": 2.69,
+      "corte": false
+    },
+    {
+      "texto": "24 %",
+      "inicio": 2.69,
+      "fin": 3.8,
+      "corte": false
+    },
+    {
+      "texto": "anual.",
+      "inicio": 3.8,
+      "fin": 4.1,
+      "corte": true
+    },
+    {
+      "texto": "Eso",
+      "inicio": 4.47,
+      "fin": 4.74,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 4.74,
+      "fin": 4.95,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 4.95,
+      "fin": 5.16,
+      "corte": false
+    },
+    {
+      "texto": "2 %",
+      "inicio": 5.16,
+      "fin": 6.03,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.03,
+      "fin": 6.37,
+      "corte": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 6.37,
+      "fin": 6.64,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 6.94,
+      "fin": 7.13,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 7.13,
+      "fin": 7.44,
+      "corte": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 7.44,
+      "fin": 7.8,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 7.8,
+      "fin": 8.04,
+      "corte": false
+    },
+    {
+      "texto": "intereses,",
+      "inicio": 8.04,
+      "fin": 8.62,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 8.62,
+      "fin": 8.87,
+      "corte": false
+    },
+    {
+      "texto": "20",
+      "inicio": 8.87,
+      "fin": 9.29,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 9.29,
+      "fin": 9.64,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 9.64,
+      "fin": 9.84,
+      "corte": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 9.84,
+      "fin": 10.09,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 10.4,
+      "fin": 10.63,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 10.63,
+      "fin": 10.87,
+      "corte": false
+    },
+    {
+      "texto": "año,",
+      "inicio": 10.87,
+      "fin": 11.17,
+      "corte": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 11.17,
+      "fin": 11.61,
+      "corte": false
+    },
+    {
+      "texto": "240",
+      "inicio": 11.61,
+      "fin": 12.72,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 12.72,
+      "fin": 13.15,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.48,
+      "fin": 13.57,
+      "corte": false
+    },
+    {
+      "texto": "sigues",
+      "inicio": 13.57,
+      "fin": 13.85,
+      "corte": false
+    },
+    {
+      "texto": "debiendo",
+      "inicio": 13.85,
+      "fin": 14.21,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 14.21,
+      "fin": 14.38,
+      "corte": false
+    },
+    {
+      "texto": "mismos",
+      "inicio": 14.38,
+      "fin": 14.66,
+      "corte": false
+    },
+    {
+      "texto": "1.000.",
+      "inicio": 14.66,
+      "fin": 15.4,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 15.79,
+      "fin": 15.99,
+      "corte": false
+    },
+    {
+      "texto": "pago",
+      "inicio": 15.99,
+      "fin": 16.3,
+      "corte": false
+    },
+    {
+      "texto": "mínimo",
+      "inicio": 16.3,
+      "fin": 16.73,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 16.73,
+      "fin": 16.93,
+      "corte": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 16.93,
+      "fin": 17.24,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.24,
+      "fin": 17.44,
+      "corte": false
+    },
+    {
+      "texto": "deuda.",
+      "inicio": 17.44,
+      "fin": 17.81,
+      "corte": true
+    },
+    {
+      "texto": "Solo",
+      "inicio": 18.08,
+      "fin": 18.32,
+      "corte": false
+    },
+    {
+      "texto": "mantiene",
+      "inicio": 18.32,
+      "fin": 18.73,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 18.73,
+      "fin": 18.88,
+      "corte": false
+    },
+    {
+      "texto": "negocio",
+      "inicio": 18.88,
+      "fin": 19.25,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 19.25,
+      "fin": 19.44,
+      "corte": false
+    },
+    {
+      "texto": "banco.",
+      "inicio": 19.44,
+      "fin": 19.73,
+      "corte": true
+    },
+    {
+      "texto": "Siempre",
+      "inicio": 20.03,
+      "fin": 20.48,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 20.48,
+      "fin": 20.73,
+      "corte": false
+    },
+    {
+      "texto": "puedas,",
+      "inicio": 20.73,
+      "fin": 21.13,
+      "corte": false
+    },
+    {
+      "texto": "paga",
+      "inicio": 21.39,
+      "fin": 21.7,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 21.7,
+      "fin": 21.95,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 21.95,
+      "fin": 22.21,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 22.21,
+      "fin": 22.41,
+      "corte": false
+    },
+    {
+      "texto": "mínimo.",
+      "inicio": 22.41,
+      "fin": 22.83,
+      "corte": true
+    }
+  ]
+}

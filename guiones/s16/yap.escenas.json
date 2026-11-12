@@ -1,0 +1,14 @@
+[
+ {"tipo": "titulo", "frase": 0, "lineas": ["Un dinero que", "pesa más que", "un COCHE"], "resaltar": "COCHE", "img": {"src": "ia/s16/piedra-rai.png", "size": 560, "y": 1040}},
+ {"tipo": "tarjeta", "frase": 1, "cabecera": "ISLA DE YAP · MICRONESIA", "titulo": "Su dinero: piedras gigantes llamadas rai", "img": {"src": "ia/s16/isla.png", "size": 560}},
+ {"tipo": "comparar", "frase": 2, "titulo": "Algunas piedras rai", "a": {"etiqueta": "Diámetro", "valor": "~4 m", "img": "ia/s16/piedra-rai.png", "color": "#ffd60a"}, "b": {"etiqueta": "Peso", "valor": "Toneladas", "img": "ia/s16/coche.png", "color": "#ff9f1c"}},
+ {"tipo": "imagen", "frase": 3, "img": {"src": "ia/s16/isla.png", "size": 700, "y": 760}, "texto": "En Yap no había esa piedra", "color": "#ff4d6d"},
+ {"tipo": "cifra", "frase": 4, "antes": "La traían en canoa desde Palaos", "valor": 400, "sufijo": " km", "etiqueta": "arriesgando la vida en el mar", "img": {"src": "ia/s16/canoa.png", "size": 600, "y": 1060}},
+ {"tipo": "titulo", "frase": 5, "lineas": ["Por eso", "VALÍAN TANTO"], "resaltar": "VALÍAN TANTO", "img": {"src": "ia/s16/piedra-rai.png", "size": 540, "y": 1060}},
+ {"tipo": "titulo", "frase": 6, "lineas": ["Lo curioso:", "casi NUNCA", "se mueven"], "resaltar": "NUNCA", "img": {"src": "ia/s16/piedra-rai.png", "size": 520, "y": 1080}},
+ {"tipo": "lista", "frase": 7, "titulo": "Si pagas con una piedra…", "items": [{"texto": "La piedra se queda donde está", "img": "ia/s16/piedra-rai.png", "enFrase": 7, "mas": 1.2}, {"texto": "Todo el pueblo recuerda que es tuya", "img": "ia/s16/isla.png", "enFrase": 8}]},
+ {"tipo": "imagen", "frase": 9, "img": {"src": "ia/s16/piedra-hundida.png", "size": 700, "y": 760}, "texto": "Hundida en el mar", "sub": "y se siguió usando para pagar", "color": "#7fd1ff"},
+ {"tipo": "imagen", "frase": 10, "img": {"src": "ia/s16/piedra-hundida.png", "size": 640, "y": 760}, "texto": "Nadie la veía", "sub": "pero todos sabían de quién era"},
+ {"tipo": "comparar", "frase": 11, "titulo": "¿Te suena?", "a": {"etiqueta": "Piedra en el mar", "img": "ia/s16/piedra-hundida.png", "color": "#7fd1ff"}, "b": {"etiqueta": "Tu dinero en el banco", "img": "ia/s16/monitor-billetes.png", "color": "#2ee59d"}, "pie": "no lo ves, pero todos aceptan de quién es"},
+ {"tipo": "remate", "frase": 13, "pregunta": "¿Aceptarías una piedra que nadie puede ver?"}
+]

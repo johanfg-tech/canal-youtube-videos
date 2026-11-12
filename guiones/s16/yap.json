@@ -1,0 +1,1124 @@
+{
+ "palabras": [
+  {
+   "texto": "En",
+   "inicio": 0.0,
+   "fin": 0.19,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 0.19,
+   "fin": 0.44,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 0.44,
+   "fin": 0.73,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 0.73,
+   "fin": 0.97,
+   "corte": false
+  },
+  {
+   "texto": "Pacífico,",
+   "inicio": 0.97,
+   "fin": 1.45,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 1.46,
+   "fin": 1.65,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 1.65,
+   "fin": 2.04,
+   "corte": false
+  },
+  {
+   "texto": "pesa",
+   "inicio": 2.04,
+   "fin": 2.33,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 2.33,
+   "fin": 2.57,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 2.57,
+   "fin": 2.81,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 2.81,
+   "fin": 3.0,
+   "corte": false
+  },
+  {
+   "texto": "coche.",
+   "inicio": 3.01,
+   "fin": 3.34,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 3.35,
+   "fin": 3.54,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 3.54,
+   "fin": 4.33,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 4.33,
+   "fin": 4.52,
+   "corte": false
+  },
+  {
+   "texto": "llama",
+   "inicio": 4.52,
+   "fin": 4.86,
+   "corte": false
+  },
+  {
+   "texto": "Yap,",
+   "inicio": 4.86,
+   "fin": 5.1,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 5.1,
+   "fin": 5.29,
+   "corte": false
+  },
+  {
+   "texto": "Micronesia,",
+   "inicio": 5.29,
+   "fin": 5.86,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 5.86,
+   "fin": 6.01,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 6.01,
+   "fin": 6.2,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 6.2,
+   "fin": 6.91,
+   "corte": false
+  },
+  {
+   "texto": "son",
+   "inicio": 6.91,
+   "fin": 7.15,
+   "corte": false
+  },
+  {
+   "texto": "piedras",
+   "inicio": 7.15,
+   "fin": 7.58,
+   "corte": false
+  },
+  {
+   "texto": "gigantes",
+   "inicio": 7.58,
+   "fin": 8.06,
+   "corte": false
+  },
+  {
+   "texto": "llamadas",
+   "inicio": 8.06,
+   "fin": 8.54,
+   "corte": false
+  },
+  {
+   "texto": "rai.",
+   "inicio": 8.54,
+   "fin": 8.78,
+   "corte": true
+  },
+  {
+   "texto": "Algunas",
+   "inicio": 8.78,
+   "fin": 9.21,
+   "corte": false
+  },
+  {
+   "texto": "miden",
+   "inicio": 9.21,
+   "fin": 9.55,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 9.55,
+   "fin": 10.24,
+   "corte": false
+  },
+  {
+   "texto": "4",
+   "inicio": 10.24,
+   "fin": 10.68,
+   "corte": false
+  },
+  {
+   "texto": "metros",
+   "inicio": 10.68,
+   "fin": 11.06,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.06,
+   "fin": 11.21,
+   "corte": false
+  },
+  {
+   "texto": "pesan",
+   "inicio": 11.21,
+   "fin": 11.55,
+   "corte": false
+  },
+  {
+   "texto": "varias",
+   "inicio": 11.55,
+   "fin": 11.93,
+   "corte": false
+  },
+  {
+   "texto": "toneladas.",
+   "inicio": 11.93,
+   "fin": 12.46,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 12.46,
+   "fin": 12.66,
+   "corte": false
+  },
+  {
+   "texto": "había",
+   "inicio": 12.66,
+   "fin": 13.02,
+   "corte": false
+  },
+  {
+   "texto": "esa",
+   "inicio": 13.02,
+   "fin": 13.27,
+   "corte": false
+  },
+  {
+   "texto": "piedra",
+   "inicio": 13.27,
+   "fin": 13.68,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 13.68,
+   "fin": 14.22,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 14.22,
+   "fin": 14.42,
+   "corte": false
+  },
+  {
+   "texto": "isla.",
+   "inicio": 14.43,
+   "fin": 14.73,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 14.73,
+   "fin": 14.93,
+   "corte": false
+  },
+  {
+   "texto": "traían",
+   "inicio": 14.93,
+   "fin": 15.32,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 15.32,
+   "fin": 15.52,
+   "corte": false
+  },
+  {
+   "texto": "canoas",
+   "inicio": 15.52,
+   "fin": 16.27,
+   "corte": false
+  },
+  {
+   "texto": "desde",
+   "inicio": 16.27,
+   "fin": 16.62,
+   "corte": false
+  },
+  {
+   "texto": "Palaos,",
+   "inicio": 16.62,
+   "fin": 17.02,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 17.02,
+   "fin": 17.16,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 17.16,
+   "fin": 17.46,
+   "corte": false
+  },
+  {
+   "texto": "400",
+   "inicio": 17.46,
+   "fin": 18.0,
+   "corte": false
+  },
+  {
+   "texto": "kilómetros,",
+   "inicio": 18.01,
+   "fin": 18.6,
+   "corte": false
+  },
+  {
+   "texto": "arriesgando",
+   "inicio": 18.6,
+   "fin": 19.24,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 19.24,
+   "fin": 19.44,
+   "corte": false
+  },
+  {
+   "texto": "vida",
+   "inicio": 19.44,
+   "fin": 19.74,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 19.74,
+   "fin": 19.94,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 19.94,
+   "fin": 20.13,
+   "corte": false
+  },
+  {
+   "texto": "mar.",
+   "inicio": 20.13,
+   "fin": 20.38,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 20.38,
+   "fin": 20.65,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 20.65,
+   "fin": 20.91,
+   "corte": false
+  },
+  {
+   "texto": "valían",
+   "inicio": 20.92,
+   "fin": 21.34,
+   "corte": false
+  },
+  {
+   "texto": "tanto.",
+   "inicio": 21.34,
+   "fin": 21.72,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 21.72,
+   "fin": 22.28,
+   "corte": false
+  },
+  {
+   "texto": "curioso",
+   "inicio": 22.28,
+   "fin": 22.73,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 22.73,
+   "fin": 22.93,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 22.93,
+   "fin": 23.18,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 23.18,
+   "fin": 23.9,
+   "corte": false
+  },
+  {
+   "texto": "nunca",
+   "inicio": 23.9,
+   "fin": 24.25,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 24.25,
+   "fin": 24.45,
+   "corte": false
+  },
+  {
+   "texto": "mueven.",
+   "inicio": 24.45,
+   "fin": 24.85,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 24.85,
+   "fin": 25.04,
+   "corte": false
+  },
+  {
+   "texto": "compras",
+   "inicio": 25.04,
+   "fin": 25.48,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 25.48,
+   "fin": 25.77,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 25.77,
+   "fin": 26.4,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 26.4,
+   "fin": 26.64,
+   "corte": false
+  },
+  {
+   "texto": "piedra,",
+   "inicio": 26.64,
+   "fin": 27.03,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 27.03,
+   "fin": 27.22,
+   "corte": false
+  },
+  {
+   "texto": "piedra",
+   "inicio": 27.22,
+   "fin": 27.61,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 27.61,
+   "fin": 27.8,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 27.8,
+   "fin": 28.14,
+   "corte": false
+  },
+  {
+   "texto": "donde",
+   "inicio": 28.14,
+   "fin": 28.48,
+   "corte": false
+  },
+  {
+   "texto": "está.",
+   "inicio": 28.48,
+   "fin": 28.77,
+   "corte": true
+  },
+  {
+   "texto": "Simplemente",
+   "inicio": 28.77,
+   "fin": 29.41,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 29.41,
+   "fin": 30.01,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 30.01,
+   "fin": 30.2,
+   "corte": false
+  },
+  {
+   "texto": "pueblo",
+   "inicio": 30.21,
+   "fin": 30.6,
+   "corte": false
+  },
+  {
+   "texto": "recuerda",
+   "inicio": 30.6,
+   "fin": 31.09,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 31.09,
+   "fin": 31.33,
+   "corte": false
+  },
+  {
+   "texto": "ahora",
+   "inicio": 31.33,
+   "fin": 31.67,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 31.68,
+   "fin": 31.87,
+   "corte": false
+  },
+  {
+   "texto": "tuya.",
+   "inicio": 31.87,
+   "fin": 32.16,
+   "corte": true
+  },
+  {
+   "texto": "Se",
+   "inicio": 32.17,
+   "fin": 32.35,
+   "corte": false
+  },
+  {
+   "texto": "cuenta",
+   "inicio": 32.36,
+   "fin": 32.73,
+   "corte": false
+  },
+  {
+   "texto": "incluso",
+   "inicio": 32.74,
+   "fin": 33.16,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 33.16,
+   "fin": 33.85,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 33.85,
+   "fin": 34.09,
+   "corte": false
+  },
+  {
+   "texto": "piedra",
+   "inicio": 34.09,
+   "fin": 34.47,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 34.47,
+   "fin": 34.66,
+   "corte": false
+  },
+  {
+   "texto": "hundió",
+   "inicio": 34.66,
+   "fin": 35.04,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 35.04,
+   "fin": 35.23,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.23,
+   "fin": 35.41,
+   "corte": false
+  },
+  {
+   "texto": "mar",
+   "inicio": 35.42,
+   "fin": 35.65,
+   "corte": false
+  },
+  {
+   "texto": "durante",
+   "inicio": 35.65,
+   "fin": 36.08,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 36.08,
+   "fin": 36.27,
+   "corte": false
+  },
+  {
+   "texto": "viaje,",
+   "inicio": 36.27,
+   "fin": 36.6,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 36.6,
+   "fin": 36.74,
+   "corte": false
+  },
+  {
+   "texto": "siguió",
+   "inicio": 36.74,
+   "fin": 37.38,
+   "corte": false
+  },
+  {
+   "texto": "usándose",
+   "inicio": 37.38,
+   "fin": 37.85,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 37.86,
+   "fin": 38.14,
+   "corte": false
+  },
+  {
+   "texto": "pagar.",
+   "inicio": 38.14,
+   "fin": 38.47,
+   "corte": true
+  },
+  {
+   "texto": "Nadie",
+   "inicio": 38.47,
+   "fin": 39.14,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 39.14,
+   "fin": 39.34,
+   "corte": false
+  },
+  {
+   "texto": "había",
+   "inicio": 39.34,
+   "fin": 39.68,
+   "corte": false
+  },
+  {
+   "texto": "visto",
+   "inicio": 39.68,
+   "fin": 40.01,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.02,
+   "fin": 40.21,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 40.21,
+   "fin": 40.5,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 40.5,
+   "fin": 40.79,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 40.79,
+   "fin": 41.13,
+   "corte": false
+  },
+  {
+   "texto": "sabían",
+   "inicio": 41.13,
+   "fin": 41.52,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 41.52,
+   "fin": 41.71,
+   "corte": false
+  },
+  {
+   "texto": "quién",
+   "inicio": 41.71,
+   "fin": 42.05,
+   "corte": false
+  },
+  {
+   "texto": "era.",
+   "inicio": 42.05,
+   "fin": 42.29,
+   "corte": true
+  },
+  {
+   "texto": "¿Te",
+   "inicio": 42.29,
+   "fin": 42.54,
+   "corte": false
+  },
+  {
+   "texto": "suena?",
+   "inicio": 42.54,
+   "fin": 43.42,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 43.42,
+   "fin": 43.61,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 43.61,
+   "fin": 44.28,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 44.28,
+   "fin": 44.47,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 44.48,
+   "fin": 44.86,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 44.86,
+   "fin": 45.05,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 45.05,
+   "fin": 45.24,
+   "corte": false
+  },
+  {
+   "texto": "banco:",
+   "inicio": 45.24,
+   "fin": 45.87,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 45.87,
+   "fin": 46.06,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 46.06,
+   "fin": 46.25,
+   "corte": false
+  },
+  {
+   "texto": "ves,",
+   "inicio": 46.25,
+   "fin": 46.49,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 46.49,
+   "fin": 46.78,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 46.78,
+   "fin": 47.11,
+   "corte": false
+  },
+  {
+   "texto": "aceptan",
+   "inicio": 47.11,
+   "fin": 47.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 47.54,
+   "fin": 47.73,
+   "corte": false
+  },
+  {
+   "texto": "quién",
+   "inicio": 47.74,
+   "fin": 48.07,
+   "corte": false
+  },
+  {
+   "texto": "es.",
+   "inicio": 48.07,
+   "fin": 48.26,
+   "corte": true
+  },
+  {
+   "texto": "¿Aceptarías",
+   "inicio": 48.26,
+   "fin": 49.28,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 49.28,
+   "fin": 49.53,
+   "corte": false
+  },
+  {
+   "texto": "piedra",
+   "inicio": 49.53,
+   "fin": 49.93,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 49.93,
+   "fin": 50.18,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 50.18,
+   "fin": 50.52,
+   "corte": false
+  },
+  {
+   "texto": "puede",
+   "inicio": 50.53,
+   "fin": 50.87,
+   "corte": false
+  },
+  {
+   "texto": "ver?",
+   "inicio": 50.87,
+   "fin": 51.12,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "En una isla del Pacífico, el dinero pesa más que un coche.",
+   "inicio": 0.0,
+   "fin": 3.34
+  },
+  {
+   "texto": "La isla se llama Yap, en Micronesia, y su dinero son piedras gigantes llamadas rai.",
+   "inicio": 3.35,
+   "fin": 8.78
+  },
+  {
+   "texto": "Algunas miden casi 4 metros y pesan varias toneladas.",
+   "inicio": 8.78,
+   "fin": 12.46
+  },
+  {
+   "texto": "No había esa piedra en la isla.",
+   "inicio": 12.46,
+   "fin": 14.73
+  },
+  {
+   "texto": "La traían en canoas desde Palaos, a unos 400 kilómetros, arriesgando la vida en el mar.",
+   "inicio": 14.73,
+   "fin": 20.38
+  },
+  {
+   "texto": "Por eso valían tanto.",
+   "inicio": 20.38,
+   "fin": 21.72
+  },
+  {
+   "texto": "Lo curioso es que casi nunca se mueven.",
+   "inicio": 21.72,
+   "fin": 24.85
+  },
+  {
+   "texto": "Si compras algo con una piedra, la piedra se queda donde está.",
+   "inicio": 24.85,
+   "fin": 28.77
+  },
+  {
+   "texto": "Simplemente todo el pueblo recuerda que ahora es tuya.",
+   "inicio": 28.77,
+   "fin": 32.16
+  },
+  {
+   "texto": "Se cuenta incluso que una piedra se hundió en el mar durante el viaje, y siguió usándose para pagar.",
+   "inicio": 32.17,
+   "fin": 38.47
+  },
+  {
+   "texto": "Nadie la había visto en años, pero todos sabían de quién era.",
+   "inicio": 38.47,
+   "fin": 42.29
+  },
+  {
+   "texto": "¿Te suena?",
+   "inicio": 42.29,
+   "fin": 43.42
+  },
+  {
+   "texto": "Es como tu dinero en el banco: no lo ves, pero todos aceptan de quién es.",
+   "inicio": 43.42,
+   "fin": 48.26
+  },
+  {
+   "texto": "¿Aceptarías una piedra que nadie puede ver?",
+   "inicio": 48.26,
+   "fin": 51.12
+  }
+ ],
+ "duracion": 51.41,
+ "voz": "narraciones/yap.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "Un dinero que",
+    "pesa más que",
+    "un COCHE"
+   ],
+   "resaltar": "COCHE",
+   "img": {
+    "src": "ia/s16/piedra-rai.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 1,
+   "cabecera": "ISLA DE YAP · MICRONESIA",
+   "titulo": "Su dinero: piedras gigantes llamadas rai",
+   "img": {
+    "src": "ia/s16/isla.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 2,
+   "titulo": "Algunas piedras rai",
+   "a": {
+    "etiqueta": "Diámetro",
+    "valor": "~4 m",
+    "img": "ia/s16/piedra-rai.png",
+    "color": "#ffd60a"
+   },
+   "b": {
+    "etiqueta": "Peso",
+    "valor": "Toneladas",
+    "img": "ia/s16/coche.png",
+    "color": "#ff9f1c"
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s16/isla.png",
+    "size": 700,
+    "y": 760
+   },
+   "texto": "En Yap no había esa piedra",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 4,
+   "antes": "La traían en canoa desde Palaos",
+   "valor": 400,
+   "sufijo": " km",
+   "etiqueta": "arriesgando la vida en el mar",
+   "img": {
+    "src": "ia/s16/canoa.png",
+    "size": 600,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 5,
+   "lineas": [
+    "Por eso",
+    "VALÍAN TANTO"
+   ],
+   "resaltar": "VALÍAN TANTO",
+   "img": {
+    "src": "ia/s16/piedra-rai.png",
+    "size": 540,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 6,
+   "lineas": [
+    "Lo curioso:",
+    "casi NUNCA",
+    "se mueven"
+   ],
+   "resaltar": "NUNCA",
+   "img": {
+    "src": "ia/s16/piedra-rai.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 7,
+   "titulo": "Si pagas con una piedra…",
+   "items": [
+    {
+     "texto": "La piedra se queda donde está",
+     "img": "ia/s16/piedra-rai.png",
+     "en": 1.2
+    },
+    {
+     "texto": "Todo el pueblo recuerda que es tuya",
+     "img": "ia/s16/isla.png",
+     "en": 3.92
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/s16/piedra-hundida.png",
+    "size": 700,
+    "y": 760
+   },
+   "texto": "Hundida en el mar",
+   "sub": "y se siguió usando para pagar",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s16/piedra-hundida.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "Nadie la veía",
+   "sub": "pero todos sabían de quién era"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 11,
+   "titulo": "¿Te suena?",
+   "a": {
+    "etiqueta": "Piedra en el mar",
+    "img": "ia/s16/piedra-hundida.png",
+    "color": "#7fd1ff"
+   },
+   "b": {
+    "etiqueta": "Tu dinero en el banco",
+    "img": "ia/s16/monitor-billetes.png",
+    "color": "#2ee59d"
+   },
+   "pie": "no lo ves, pero todos aceptan de quién es"
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Aceptarías una piedra que nadie puede ver?"
+  }
+ ]
+}

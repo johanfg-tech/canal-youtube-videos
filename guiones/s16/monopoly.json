@@ -1,0 +1,1088 @@
+{
+ "palabras": [
+  {
+   "texto": "El",
+   "inicio": 0.0,
+   "fin": 0.19,
+   "corte": false
+  },
+  {
+   "texto": "Monopoly",
+   "inicio": 0.19,
+   "fin": 0.66,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 0.66,
+   "fin": 0.84,
+   "corte": false
+  },
+  {
+   "texto": "inventó",
+   "inicio": 0.84,
+   "fin": 1.26,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 1.26,
+   "fin": 1.54,
+   "corte": false
+  },
+  {
+   "texto": "enseñarte",
+   "inicio": 1.55,
+   "fin": 2.06,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 2.06,
+   "fin": 2.29,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 2.29,
+   "fin": 2.48,
+   "corte": false
+  },
+  {
+   "texto": "Monopoly",
+   "inicio": 2.48,
+   "fin": 2.95,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 2.95,
+   "fin": 3.14,
+   "corte": false
+  },
+  {
+   "texto": "injusto.",
+   "inicio": 3.14,
+   "fin": 3.56,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 3.56,
+   "fin": 3.77,
+   "corte": false
+  },
+  {
+   "texto": "creadora",
+   "inicio": 3.77,
+   "fin": 4.76,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 4.76,
+   "fin": 5.03,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 5.03,
+   "fin": 5.29,
+   "corte": false
+  },
+  {
+   "texto": "mujer,",
+   "inicio": 5.29,
+   "fin": 5.66,
+   "corte": false
+  },
+  {
+   "texto": "Lizzie",
+   "inicio": 5.66,
+   "fin": 6.4,
+   "corte": false
+  },
+  {
+   "texto": "Magie,",
+   "inicio": 6.4,
+   "fin": 6.76,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 6.76,
+   "fin": 7.22,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 7.22,
+   "fin": 7.43,
+   "corte": false
+  },
+  {
+   "texto": "patentó",
+   "inicio": 7.43,
+   "fin": 7.9,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 7.91,
+   "fin": 8.11,
+   "corte": false
+  },
+  {
+   "texto": "1904",
+   "inicio": 8.12,
+   "fin": 8.74,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 8.74,
+   "fin": 8.95,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 8.95,
+   "fin": 9.43,
+   "corte": false
+  },
+  {
+   "texto": "Unidos.",
+   "inicio": 9.43,
+   "fin": 9.85,
+   "corte": true
+  },
+  {
+   "texto": "Se",
+   "inicio": 9.85,
+   "fin": 10.04,
+   "corte": false
+  },
+  {
+   "texto": "llamaba",
+   "inicio": 10.04,
+   "fin": 10.88,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 10.88,
+   "fin": 11.08,
+   "corte": false
+  },
+  {
+   "texto": "juego",
+   "inicio": 11.08,
+   "fin": 11.42,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 11.42,
+   "fin": 11.66,
+   "corte": false
+  },
+  {
+   "texto": "terrateniente.",
+   "inicio": 11.66,
+   "fin": 12.39,
+   "corte": true
+  },
+  {
+   "texto": "Lizzie",
+   "inicio": 12.39,
+   "fin": 12.76,
+   "corte": false
+  },
+  {
+   "texto": "quería",
+   "inicio": 12.76,
+   "fin": 13.7,
+   "corte": false
+  },
+  {
+   "texto": "mostrar",
+   "inicio": 13.7,
+   "fin": 14.11,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 14.11,
+   "fin": 14.29,
+   "corte": false
+  },
+  {
+   "texto": "problema:",
+   "inicio": 14.29,
+   "fin": 14.75,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 14.75,
+   "fin": 15.41,
+   "corte": false
+  },
+  {
+   "texto": "dueños",
+   "inicio": 15.41,
+   "fin": 15.77,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.77,
+   "fin": 15.96,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 15.96,
+   "fin": 16.14,
+   "corte": false
+  },
+  {
+   "texto": "tierra",
+   "inicio": 16.14,
+   "fin": 16.5,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 16.51,
+   "fin": 16.69,
+   "corte": false
+  },
+  {
+   "texto": "hacen",
+   "inicio": 16.69,
+   "fin": 17.01,
+   "corte": false
+  },
+  {
+   "texto": "ricos",
+   "inicio": 17.01,
+   "fin": 17.33,
+   "corte": false
+  },
+  {
+   "texto": "cobrando",
+   "inicio": 17.33,
+   "fin": 17.78,
+   "corte": false
+  },
+  {
+   "texto": "alquiler,",
+   "inicio": 17.78,
+   "fin": 18.24,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 18.24,
+   "fin": 18.66,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 18.66,
+   "fin": 18.89,
+   "corte": false
+  },
+  {
+   "texto": "demás",
+   "inicio": 18.89,
+   "fin": 19.21,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 19.21,
+   "fin": 19.39,
+   "corte": false
+  },
+  {
+   "texto": "empobrecen",
+   "inicio": 19.39,
+   "fin": 19.94,
+   "corte": false
+  },
+  {
+   "texto": "pagándolo.",
+   "inicio": 19.94,
+   "fin": 20.44,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 20.44,
+   "fin": 21.12,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 21.12,
+   "fin": 21.36,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.36,
+   "fin": 21.55,
+   "corte": false
+  },
+  {
+   "texto": "juego",
+   "inicio": 21.55,
+   "fin": 21.88,
+   "corte": false
+  },
+  {
+   "texto": "tenía",
+   "inicio": 21.88,
+   "fin": 22.21,
+   "corte": false
+  },
+  {
+   "texto": "dos",
+   "inicio": 22.21,
+   "fin": 22.45,
+   "corte": false
+  },
+  {
+   "texto": "formas",
+   "inicio": 22.45,
+   "fin": 22.83,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.83,
+   "fin": 23.02,
+   "corte": false
+  },
+  {
+   "texto": "jugar.",
+   "inicio": 23.02,
+   "fin": 23.85,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 23.85,
+   "fin": 24.3,
+   "corte": false
+  },
+  {
+   "texto": "una,",
+   "inicio": 24.3,
+   "fin": 24.54,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 24.54,
+   "fin": 24.87,
+   "corte": false
+  },
+  {
+   "texto": "ganaban",
+   "inicio": 24.87,
+   "fin": 25.3,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 25.3,
+   "fin": 25.58,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 25.58,
+   "fin": 25.96,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 25.96,
+   "fin": 26.15,
+   "corte": false
+  },
+  {
+   "texto": "creaba",
+   "inicio": 26.15,
+   "fin": 26.98,
+   "corte": false
+  },
+  {
+   "texto": "riqueza.",
+   "inicio": 26.98,
+   "fin": 27.41,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 27.41,
+   "fin": 27.59,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 27.6,
+   "fin": 27.78,
+   "corte": false
+  },
+  {
+   "texto": "otra,",
+   "inicio": 27.78,
+   "fin": 28.06,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 28.06,
+   "fin": 28.25,
+   "corte": false
+  },
+  {
+   "texto": "jugador",
+   "inicio": 28.25,
+   "fin": 28.67,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 28.67,
+   "fin": 28.85,
+   "corte": false
+  },
+  {
+   "texto": "quedaba",
+   "inicio": 28.85,
+   "fin": 29.27,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 29.27,
+   "fin": 29.5,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 29.5,
+   "fin": 29.78,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 29.78,
+   "fin": 29.92,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 29.92,
+   "fin": 30.16,
+   "corte": false
+  },
+  {
+   "texto": "demás",
+   "inicio": 30.16,
+   "fin": 30.48,
+   "corte": false
+  },
+  {
+   "texto": "quebraban.",
+   "inicio": 30.48,
+   "fin": 31.47,
+   "corte": true
+  },
+  {
+   "texto": "Adivina",
+   "inicio": 31.48,
+   "fin": 31.94,
+   "corte": false
+  },
+  {
+   "texto": "cuál",
+   "inicio": 31.95,
+   "fin": 32.26,
+   "corte": false
+  },
+  {
+   "texto": "triunfó.",
+   "inicio": 32.26,
+   "fin": 33.43,
+   "corte": true
+  },
+  {
+   "texto": "Años",
+   "inicio": 33.43,
+   "fin": 33.74,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 33.75,
+   "fin": 34.21,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 34.22,
+   "fin": 34.42,
+   "corte": false
+  },
+  {
+   "texto": "1935,",
+   "inicio": 34.42,
+   "fin": 35.05,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 35.05,
+   "fin": 35.26,
+   "corte": false
+  },
+  {
+   "texto": "hombre",
+   "inicio": 35.26,
+   "fin": 35.67,
+   "corte": false
+  },
+  {
+   "texto": "llamado",
+   "inicio": 35.68,
+   "fin": 36.14,
+   "corte": false
+  },
+  {
+   "texto": "Charles",
+   "inicio": 36.15,
+   "fin": 36.61,
+   "corte": false
+  },
+  {
+   "texto": "Darrow",
+   "inicio": 36.61,
+   "fin": 37.03,
+   "corte": false
+  },
+  {
+   "texto": "vendió",
+   "inicio": 37.03,
+   "fin": 37.45,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 37.45,
+   "fin": 37.71,
+   "corte": false
+  },
+  {
+   "texto": "versión",
+   "inicio": 37.71,
+   "fin": 38.18,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 38.18,
+   "fin": 38.34,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 38.34,
+   "fin": 38.54,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 38.54,
+   "fin": 39.01,
+   "corte": false
+  },
+  {
+   "texto": "Parker",
+   "inicio": 39.01,
+   "fin": 39.43,
+   "corte": false
+  },
+  {
+   "texto": "Brothers",
+   "inicio": 39.43,
+   "fin": 39.95,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 39.95,
+   "fin": 40.11,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 40.11,
+   "fin": 40.32,
+   "corte": false
+  },
+  {
+   "texto": "hizo",
+   "inicio": 40.32,
+   "fin": 40.63,
+   "corte": false
+  },
+  {
+   "texto": "famoso",
+   "inicio": 40.63,
+   "fin": 41.05,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 41.05,
+   "fin": 41.36,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 41.36,
+   "fin": 41.57,
+   "corte": false
+  },
+  {
+   "texto": "inventor.",
+   "inicio": 41.57,
+   "fin": 42.09,
+   "corte": true
+  },
+  {
+   "texto": "Lizzie",
+   "inicio": 42.09,
+   "fin": 42.96,
+   "corte": false
+  },
+  {
+   "texto": "recibió",
+   "inicio": 42.96,
+   "fin": 43.4,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 43.4,
+   "fin": 43.69,
+   "corte": false
+  },
+  {
+   "texto": "500",
+   "inicio": 43.69,
+   "fin": 44.22,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 44.22,
+   "fin": 44.65,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 44.65,
+   "fin": 44.89,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 44.89,
+   "fin": 45.09,
+   "corte": false
+  },
+  {
+   "texto": "patente.",
+   "inicio": 45.09,
+   "fin": 45.96,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 45.96,
+   "fin": 46.1,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 46.1,
+   "fin": 46.61,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 46.61,
+   "fin": 46.79,
+   "corte": false
+  },
+  {
+   "texto": "juego",
+   "inicio": 46.79,
+   "fin": 47.11,
+   "corte": false
+  },
+  {
+   "texto": "pensado",
+   "inicio": 47.11,
+   "fin": 47.52,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 47.53,
+   "fin": 47.8,
+   "corte": false
+  },
+  {
+   "texto": "criticar",
+   "inicio": 47.8,
+   "fin": 48.26,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 48.26,
+   "fin": 48.48,
+   "corte": false
+  },
+  {
+   "texto": "monopolios",
+   "inicio": 48.49,
+   "fin": 49.03,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 49.03,
+   "fin": 49.22,
+   "corte": false
+  },
+  {
+   "texto": "convirtió",
+   "inicio": 49.22,
+   "fin": 49.72,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 49.72,
+   "fin": 49.9,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 49.9,
+   "fin": 50.09,
+   "corte": false
+  },
+  {
+   "texto": "juego",
+   "inicio": 50.09,
+   "fin": 50.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.41,
+   "fin": 50.59,
+   "corte": false
+  },
+  {
+   "texto": "mesa",
+   "inicio": 50.59,
+   "fin": 50.86,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 50.86,
+   "fin": 51.09,
+   "corte": false
+  },
+  {
+   "texto": "famoso",
+   "inicio": 51.09,
+   "fin": 51.46,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 51.46,
+   "fin": 51.69,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 51.69,
+   "fin": 52.01,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 52.01,
+   "fin": 52.84,
+   "corte": false
+  },
+  {
+   "texto": "eres",
+   "inicio": 52.84,
+   "fin": 53.12,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 53.12,
+   "fin": 53.31,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 53.31,
+   "fin": 53.55,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 53.55,
+   "fin": 53.79,
+   "corte": false
+  },
+  {
+   "texto": "compran",
+   "inicio": 53.79,
+   "fin": 54.22,
+   "corte": false
+  },
+  {
+   "texto": "todas",
+   "inicio": 54.22,
+   "fin": 54.55,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 54.55,
+   "fin": 54.79,
+   "corte": false
+  },
+  {
+   "texto": "calles?",
+   "inicio": 54.79,
+   "fin": 55.17,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "El Monopoly se inventó para enseñarte que el Monopoly es injusto.",
+   "inicio": 0.0,
+   "fin": 3.56
+  },
+  {
+   "texto": "Su creadora fue una mujer, Lizzie Magie, y lo patentó en 1904 en Estados Unidos.",
+   "inicio": 3.56,
+   "fin": 9.85
+  },
+  {
+   "texto": "Se llamaba El juego del terrateniente.",
+   "inicio": 9.85,
+   "fin": 12.39
+  },
+  {
+   "texto": "Lizzie quería mostrar un problema: los dueños de la tierra se hacen ricos cobrando alquiler, y los demás se empobrecen pagándolo.",
+   "inicio": 12.39,
+   "fin": 20.44
+  },
+  {
+   "texto": "Por eso el juego tenía dos formas de jugar.",
+   "inicio": 20.44,
+   "fin": 23.85
+  },
+  {
+   "texto": "En una, todos ganaban algo cuando se creaba riqueza.",
+   "inicio": 23.85,
+   "fin": 27.41
+  },
+  {
+   "texto": "En la otra, un jugador se quedaba con todo y los demás quebraban.",
+   "inicio": 27.41,
+   "fin": 31.47
+  },
+  {
+   "texto": "Adivina cuál triunfó.",
+   "inicio": 31.48,
+   "fin": 33.43
+  },
+  {
+   "texto": "Años después, en 1935, un hombre llamado Charles Darrow vendió una versión a la empresa Parker Brothers y se hizo famoso como su inventor.",
+   "inicio": 33.43,
+   "fin": 42.09
+  },
+  {
+   "texto": "Lizzie recibió unos 500 dólares por su patente.",
+   "inicio": 42.09,
+   "fin": 45.96
+  },
+  {
+   "texto": "Y así, un juego pensado para criticar los monopolios se convirtió en el juego de mesa más famoso del mundo.",
+   "inicio": 45.96,
+   "fin": 52.01
+  },
+  {
+   "texto": "¿Tú eres de los que compran todas las calles?",
+   "inicio": 52.01,
+   "fin": 55.17
+  }
+ ],
+ "duracion": 55.17,
+ "voz": "narraciones/monopoly.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "El Monopoly se",
+    "inventó para",
+    "CRITICAR",
+    "el monopolio"
+   ],
+   "resaltar": "CRITICAR",
+   "img": {
+    "src": "ia/s16/tablero.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 1,
+   "cabecera": "LIZZIE MAGIE · PATENTE DE 1904",
+   "titulo": "Lo inventó una mujer",
+   "img": {
+    "src": "ia/s16/inventora.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 2,
+   "img": {
+    "src": "ia/s16/tablero.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "El juego del terrateniente",
+   "sub": "así se llamaba el original"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 3,
+   "titulo": "El problema que quería mostrar",
+   "a": {
+    "etiqueta": "El dueño de la tierra",
+    "valor": "Más rico",
+    "img": "ia/s16/casero.png",
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "El que paga alquiler",
+    "valor": "Más pobre",
+    "img": "ia/s16/casitas.png",
+    "color": "#ff4d6d"
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 4,
+   "titulo": "Dos formas de jugar",
+   "items": [
+    {
+     "texto": "Todos ganan cuando se crea riqueza",
+     "img": "ia/s16/casitas.png",
+     "color": "#2ee59d",
+     "en": 3.41
+    },
+    {
+     "texto": "Uno se queda con todo y los demás quiebran",
+     "img": "ia/s16/casero.png",
+     "color": "#ff4d6d",
+     "en": 6.97
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 7,
+   "img": {
+    "src": "ia/s16/casero.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Adivina cuál triunfó",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 8,
+   "cabecera": "1935 · CHARLES DARROW",
+   "titulo": "Vendió una versión a Parker Brothers",
+   "lineas": [
+    "y se hizo famoso como su inventor"
+   ],
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 480
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 9,
+   "antes": "Lizzie recibió por su patente",
+   "valor": 500,
+   "prefijo": "$",
+   "etiqueta": "Darrow se hizo millonario",
+   "img": {
+    "src": "ia/s16/inventora.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 10,
+   "lineas": [
+    "Una crítica que",
+    "se volvió el juego",
+    "MÁS FAMOSO"
+   ],
+   "resaltar": "MÁS FAMOSO",
+   "img": {
+    "src": "ia/s16/casitas.png",
+    "size": 500,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 11,
+   "pregunta": "¿Tú eres de los que compran todas las calles?"
+  }
+ ]
+}

@@ -1,0 +1,1175 @@
+{
+ "palabras": [
+  {
+   "texto": "Cuando",
+   "inicio": 0.0,
+   "fin": 0.39,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 0.39,
+   "fin": 0.64,
+   "corte": false
+  },
+  {
+   "texto": "crisis,",
+   "inicio": 0.64,
+   "fin": 1.03,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 1.03,
+   "fin": 1.22,
+   "corte": false
+  },
+  {
+   "texto": "venden",
+   "inicio": 1.23,
+   "fin": 1.62,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 1.62,
+   "fin": 1.86,
+   "corte": false
+  },
+  {
+   "texto": "pintalabios.",
+   "inicio": 1.86,
+   "fin": 2.5,
+   "corte": true
+  },
+  {
+   "texto": "Suena",
+   "inicio": 2.5,
+   "fin": 3.22,
+   "corte": false
+  },
+  {
+   "texto": "raro,",
+   "inicio": 3.23,
+   "fin": 3.52,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 3.52,
+   "fin": 3.81,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 3.81,
+   "fin": 4.15,
+   "corte": false
+  },
+  {
+   "texto": "nombre:",
+   "inicio": 4.15,
+   "fin": 4.53,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 4.54,
+   "fin": 4.73,
+   "corte": false
+  },
+  {
+   "texto": "efecto",
+   "inicio": 4.73,
+   "fin": 5.51,
+   "corte": false
+  },
+  {
+   "texto": "pintalabios.",
+   "inicio": 5.51,
+   "fin": 6.14,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 6.14,
+   "fin": 6.33,
+   "corte": false
+  },
+  {
+   "texto": "popularizó",
+   "inicio": 6.33,
+   "fin": 7.29,
+   "corte": false
+  },
+  {
+   "texto": "Leonard",
+   "inicio": 7.29,
+   "fin": 7.72,
+   "corte": false
+  },
+  {
+   "texto": "Lauder,",
+   "inicio": 7.72,
+   "fin": 8.1,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 8.1,
+   "fin": 8.28,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 8.29,
+   "fin": 8.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.57,
+   "fin": 9.05,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 9.05,
+   "fin": 9.23,
+   "corte": false
+  },
+  {
+   "texto": "marca",
+   "inicio": 9.24,
+   "fin": 9.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.57,
+   "fin": 9.76,
+   "corte": false
+  },
+  {
+   "texto": "cosméticos",
+   "inicio": 9.76,
+   "fin": 10.32,
+   "corte": false
+  },
+  {
+   "texto": "Estée",
+   "inicio": 10.32,
+   "fin": 10.66,
+   "corte": false
+  },
+  {
+   "texto": "Lauder.",
+   "inicio": 10.66,
+   "fin": 11.03,
+   "corte": true
+  },
+  {
+   "texto": "Tras",
+   "inicio": 11.04,
+   "fin": 11.32,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 11.32,
+   "fin": 12.05,
+   "corte": false
+  },
+  {
+   "texto": "atentados",
+   "inicio": 12.05,
+   "fin": 12.58,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.58,
+   "fin": 12.77,
+   "corte": false
+  },
+  {
+   "texto": "2001,",
+   "inicio": 12.77,
+   "fin": 13.35,
+   "corte": false
+  },
+  {
+   "texto": "notó",
+   "inicio": 13.35,
+   "fin": 13.63,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 13.63,
+   "fin": 13.87,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 13.87,
+   "fin": 14.11,
+   "corte": false
+  },
+  {
+   "texto": "ventas",
+   "inicio": 14.11,
+   "fin": 14.5,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.5,
+   "fin": 14.69,
+   "corte": false
+  },
+  {
+   "texto": "labiales",
+   "inicio": 14.69,
+   "fin": 15.17,
+   "corte": false
+  },
+  {
+   "texto": "subían",
+   "inicio": 15.17,
+   "fin": 15.55,
+   "corte": false
+  },
+  {
+   "texto": "mientras",
+   "inicio": 15.55,
+   "fin": 16.03,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 16.03,
+   "fin": 16.23,
+   "corte": false
+  },
+  {
+   "texto": "economía",
+   "inicio": 16.23,
+   "fin": 16.71,
+   "corte": false
+  },
+  {
+   "texto": "caía.",
+   "inicio": 16.71,
+   "fin": 16.99,
+   "corte": true
+  },
+  {
+   "texto": "¿Por",
+   "inicio": 16.99,
+   "fin": 17.26,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 17.26,
+   "fin": 17.99,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 18.0,
+   "fin": 18.31,
+   "corte": false
+  },
+  {
+   "texto": "esto?",
+   "inicio": 18.32,
+   "fin": 18.64,
+   "corte": true
+  },
+  {
+   "texto": "Cuando",
+   "inicio": 18.64,
+   "fin": 19.57,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 19.58,
+   "fin": 19.76,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 19.76,
+   "fin": 20.14,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 20.14,
+   "fin": 20.32,
+   "corte": false
+  },
+  {
+   "texto": "alcanza,",
+   "inicio": 20.32,
+   "fin": 20.74,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 20.75,
+   "fin": 20.93,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 20.93,
+   "fin": 21.26,
+   "corte": false
+  },
+  {
+   "texto": "deja",
+   "inicio": 21.26,
+   "fin": 21.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.54,
+   "fin": 21.73,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 21.73,
+   "fin": 22.15,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 22.15,
+   "fin": 22.34,
+   "corte": false
+  },
+  {
+   "texto": "grande:",
+   "inicio": 22.34,
+   "fin": 22.71,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 22.71,
+   "fin": 23.23,
+   "corte": false
+  },
+  {
+   "texto": "coche,",
+   "inicio": 23.23,
+   "fin": 23.56,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 23.56,
+   "fin": 23.74,
+   "corte": false
+  },
+  {
+   "texto": "viaje,",
+   "inicio": 23.75,
+   "fin": 24.07,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 24.07,
+   "fin": 24.31,
+   "corte": false
+  },
+  {
+   "texto": "casa.",
+   "inicio": 24.31,
+   "fin": 24.59,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 24.59,
+   "fin": 24.89,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 24.89,
+   "fin": 25.09,
+   "corte": false
+  },
+  {
+   "texto": "quiere",
+   "inicio": 25.09,
+   "fin": 25.91,
+   "corte": false
+  },
+  {
+   "texto": "renunciar",
+   "inicio": 25.91,
+   "fin": 26.46,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 26.46,
+   "fin": 26.61,
+   "corte": false
+  },
+  {
+   "texto": "todo.",
+   "inicio": 26.61,
+   "fin": 26.91,
+   "corte": true
+  },
+  {
+   "texto": "Así",
+   "inicio": 26.91,
+   "fin": 27.15,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 27.15,
+   "fin": 27.78,
+   "corte": false
+  },
+  {
+   "texto": "busca",
+   "inicio": 27.78,
+   "fin": 28.12,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 28.12,
+   "fin": 28.31,
+   "corte": false
+  },
+  {
+   "texto": "pequeño",
+   "inicio": 28.31,
+   "fin": 28.73,
+   "corte": false
+  },
+  {
+   "texto": "lujo,",
+   "inicio": 28.73,
+   "fin": 29.02,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 29.02,
+   "fin": 29.3,
+   "corte": false
+  },
+  {
+   "texto": "barato",
+   "inicio": 29.3,
+   "fin": 29.96,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 29.96,
+   "fin": 30.2,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 30.2,
+   "fin": 30.39,
+   "corte": false
+  },
+  {
+   "texto": "haga",
+   "inicio": 30.39,
+   "fin": 30.67,
+   "corte": false
+  },
+  {
+   "texto": "sentir",
+   "inicio": 30.67,
+   "fin": 31.05,
+   "corte": false
+  },
+  {
+   "texto": "bien.",
+   "inicio": 31.05,
+   "fin": 31.34,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 31.34,
+   "fin": 31.93,
+   "corte": false
+  },
+  {
+   "texto": "labial,",
+   "inicio": 31.93,
+   "fin": 32.32,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 32.32,
+   "fin": 32.52,
+   "corte": false
+  },
+  {
+   "texto": "chocolate",
+   "inicio": 32.52,
+   "fin": 33.05,
+   "corte": false
+  },
+  {
+   "texto": "caro,",
+   "inicio": 33.05,
+   "fin": 33.34,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 33.35,
+   "fin": 33.54,
+   "corte": false
+  },
+  {
+   "texto": "café",
+   "inicio": 33.54,
+   "fin": 33.83,
+   "corte": false
+  },
+  {
+   "texto": "especial.",
+   "inicio": 33.83,
+   "fin": 34.32,
+   "corte": true
+  },
+  {
+   "texto": "Gastas",
+   "inicio": 34.32,
+   "fin": 34.71,
+   "corte": false
+  },
+  {
+   "texto": "poco,",
+   "inicio": 34.71,
+   "fin": 35.4,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 35.4,
+   "fin": 35.69,
+   "corte": false
+  },
+  {
+   "texto": "sientes",
+   "inicio": 35.69,
+   "fin": 36.13,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 36.13,
+   "fin": 36.37,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 36.37,
+   "fin": 36.56,
+   "corte": false
+  },
+  {
+   "texto": "das",
+   "inicio": 36.56,
+   "fin": 36.81,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 36.81,
+   "fin": 37.0,
+   "corte": false
+  },
+  {
+   "texto": "gusto.",
+   "inicio": 37.0,
+   "fin": 37.34,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 37.34,
+   "fin": 37.58,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 37.58,
+   "fin": 38.23,
+   "corte": false
+  },
+  {
+   "texto": "algunos",
+   "inicio": 38.23,
+   "fin": 38.66,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 38.66,
+   "fin": 38.85,
+   "corte": false
+  },
+  {
+   "texto": "miran",
+   "inicio": 38.85,
+   "fin": 39.18,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 39.18,
+   "fin": 39.46,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 39.46,
+   "fin": 39.7,
+   "corte": false
+  },
+  {
+   "texto": "señal",
+   "inicio": 39.7,
+   "fin": 40.03,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 40.03,
+   "fin": 40.22,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 40.22,
+   "fin": 40.46,
+   "corte": false
+  },
+  {
+   "texto": "vienen",
+   "inicio": 40.46,
+   "fin": 40.84,
+   "corte": false
+  },
+  {
+   "texto": "tiempos",
+   "inicio": 40.84,
+   "fin": 41.26,
+   "corte": false
+  },
+  {
+   "texto": "difíciles.",
+   "inicio": 41.26,
+   "fin": 42.18,
+   "corte": true
+  },
+  {
+   "texto": "Eso",
+   "inicio": 42.18,
+   "fin": 42.42,
+   "corte": false
+  },
+  {
+   "texto": "sí,",
+   "inicio": 42.42,
+   "fin": 42.89,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 42.9,
+   "fin": 43.13,
+   "corte": false
+  },
+  {
+   "texto": "estudios",
+   "inicio": 43.13,
+   "fin": 43.6,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 43.6,
+   "fin": 43.79,
+   "corte": false
+  },
+  {
+   "texto": "siempre",
+   "inicio": 43.79,
+   "fin": 44.21,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 44.21,
+   "fin": 44.4,
+   "corte": false
+  },
+  {
+   "texto": "confirman:",
+   "inicio": 44.4,
+   "fin": 45.3,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 45.3,
+   "fin": 45.48,
+   "corte": false
+  },
+  {
+   "texto": "algunas",
+   "inicio": 45.48,
+   "fin": 45.91,
+   "corte": false
+  },
+  {
+   "texto": "crisis",
+   "inicio": 45.91,
+   "fin": 46.28,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 46.28,
+   "fin": 46.56,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 46.57,
+   "fin": 46.71,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 46.71,
+   "fin": 46.89,
+   "corte": false
+  },
+  {
+   "texto": "otras",
+   "inicio": 46.89,
+   "fin": 47.59,
+   "corte": false
+  },
+  {
+   "texto": "no.",
+   "inicio": 47.59,
+   "fin": 47.78,
+   "corte": true
+  },
+  {
+   "texto": "Aun",
+   "inicio": 47.78,
+   "fin": 48.02,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 48.02,
+   "fin": 48.25,
+   "corte": false
+  },
+  {
+   "texto": "explica",
+   "inicio": 48.25,
+   "fin": 48.68,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 48.68,
+   "fin": 48.97,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 48.97,
+   "fin": 49.2,
+   "corte": false
+  },
+  {
+   "texto": "humano:",
+   "inicio": 49.2,
+   "fin": 49.58,
+   "corte": false
+  },
+  {
+   "texto": "incluso",
+   "inicio": 49.58,
+   "fin": 50.41,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 50.41,
+   "fin": 50.65,
+   "corte": false
+  },
+  {
+   "texto": "dinero,",
+   "inicio": 50.65,
+   "fin": 51.03,
+   "corte": false
+  },
+  {
+   "texto": "queremos",
+   "inicio": 51.03,
+   "fin": 51.51,
+   "corte": false
+  },
+  {
+   "texto": "sentirnos",
+   "inicio": 51.51,
+   "fin": 52.03,
+   "corte": false
+  },
+  {
+   "texto": "bien.",
+   "inicio": 52.03,
+   "fin": 52.31,
+   "corte": true
+  },
+  {
+   "texto": "¿Cuál",
+   "inicio": 52.31,
+   "fin": 52.6,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 52.6,
+   "fin": 52.79,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 52.8,
+   "fin": 53.51,
+   "corte": false
+  },
+  {
+   "texto": "pequeño",
+   "inicio": 53.52,
+   "fin": 53.95,
+   "corte": false
+  },
+  {
+   "texto": "lujo",
+   "inicio": 53.95,
+   "fin": 54.24,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 54.24,
+   "fin": 54.62,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 54.62,
+   "fin": 54.86,
+   "corte": false
+  },
+  {
+   "texto": "cosas",
+   "inicio": 54.87,
+   "fin": 55.2,
+   "corte": false
+  },
+  {
+   "texto": "van",
+   "inicio": 55.2,
+   "fin": 55.44,
+   "corte": false
+  },
+  {
+   "texto": "mal?",
+   "inicio": 55.44,
+   "fin": 55.68,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Cuando hay crisis, se venden más pintalabios.",
+   "inicio": 0.0,
+   "fin": 2.5
+  },
+  {
+   "texto": "Suena raro, pero tiene nombre: el efecto pintalabios.",
+   "inicio": 2.5,
+   "fin": 6.14
+  },
+  {
+   "texto": "Lo popularizó Leonard Lauder, el jefe de la marca de cosméticos Estée Lauder.",
+   "inicio": 6.14,
+   "fin": 11.03
+  },
+  {
+   "texto": "Tras los atentados de 2001, notó que sus ventas de labiales subían mientras la economía caía.",
+   "inicio": 11.04,
+   "fin": 16.99
+  },
+  {
+   "texto": "¿Por qué pasa esto?",
+   "inicio": 16.99,
+   "fin": 18.64
+  },
+  {
+   "texto": "Cuando el dinero no alcanza, la gente deja de comprar lo grande: un coche, un viaje, una casa.",
+   "inicio": 18.64,
+   "fin": 24.59
+  },
+  {
+   "texto": "Pero no quiere renunciar a todo.",
+   "inicio": 24.59,
+   "fin": 26.91
+  },
+  {
+   "texto": "Así que busca un pequeño lujo, algo barato que la haga sentir bien.",
+   "inicio": 26.91,
+   "fin": 31.34
+  },
+  {
+   "texto": "Un labial, un chocolate caro, un café especial.",
+   "inicio": 31.34,
+   "fin": 34.32
+  },
+  {
+   "texto": "Gastas poco, pero sientes que te das un gusto.",
+   "inicio": 34.32,
+   "fin": 37.34
+  },
+  {
+   "texto": "Por eso algunos lo miran como una señal de que vienen tiempos difíciles.",
+   "inicio": 37.34,
+   "fin": 42.18
+  },
+  {
+   "texto": "Eso sí, los estudios no siempre lo confirman: en algunas crisis pasa y en otras no.",
+   "inicio": 42.18,
+   "fin": 47.78
+  },
+  {
+   "texto": "Aun así, explica algo muy humano: incluso sin dinero, queremos sentirnos bien.",
+   "inicio": 47.78,
+   "fin": 52.31
+  },
+  {
+   "texto": "¿Cuál es tu pequeño lujo cuando las cosas van mal?",
+   "inicio": 52.31,
+   "fin": 55.68
+  }
+ ],
+ "duracion": 55.95,
+ "voz": "narraciones/pintalabios.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "En crisis se",
+    "venden más",
+    "PINTALABIOS"
+   ],
+   "resaltar": "PINTALABIOS",
+   "img": {
+    "src": "ia/s16/pintalabios.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 1,
+   "img": {
+    "src": "ia/s16/pintalabios.png",
+    "size": 600,
+    "y": 760
+   },
+   "texto": "El efecto pintalabios"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 2,
+   "cabecera": "LEONARD LAUDER · ESTÉE LAUDER",
+   "titulo": "Tras 2001, sus ventas de labiales subían",
+   "lineas": [
+    "mientras la economía caía"
+   ],
+   "img": {
+    "src": "ia/s16/pintalabios.png",
+    "size": 460
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 4,
+   "lineas": [
+    "¿Por qué",
+    "PASA ESTO?"
+   ],
+   "resaltar": "PASA ESTO?",
+   "img": {
+    "src": "ia/s16/lupa.png",
+    "size": 480,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 5,
+   "titulo": "Lo grande se deja de comprar",
+   "items": [
+    {
+     "texto": "Un coche",
+     "img": "ia/s16/coche.png",
+     "color": "#ff4d6d",
+     "en": 3.2
+    },
+    {
+     "texto": "Un viaje",
+     "emoji": "✈️",
+     "color": "#ff4d6d",
+     "en": 3.9
+    },
+    {
+     "texto": "Una casa",
+     "img": "ia/s16/casa.png",
+     "color": "#ff4d6d",
+     "en": 4.6
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 6,
+   "img": {
+    "src": "ia/s16/bolsa-lujo.png",
+    "size": 560,
+    "y": 760
+   },
+   "texto": "Pero no a todo",
+   "sub": "se busca un pequeño lujo barato",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "lista",
+   "frase": 8,
+   "titulo": "Pequeños lujos",
+   "items": [
+    {
+     "texto": "Un labial",
+     "img": "ia/s16/pintalabios.png",
+     "color": "#ff4d6d",
+     "en": 0.0
+    },
+    {
+     "texto": "Un chocolate caro",
+     "img": "ia/s16/chocolate.png",
+     "color": "#ffd60a",
+     "en": 0.9
+    },
+    {
+     "texto": "Un café especial",
+     "img": "ia/s16/cafe.png",
+     "color": "#2ee59d",
+     "en": 2.0
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "frase": 9,
+   "titulo": "Gastas poco…",
+   "a": {
+    "etiqueta": "Gasto",
+    "valor": "Poco",
+    "img": "ia/s16/monedas.png",
+    "altura": 0.2,
+    "color": "#ffd60a"
+   },
+   "b": {
+    "etiqueta": "Te das un gusto",
+    "valor": "Mucho",
+    "img": "ia/s16/bolsa-lujo.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s16/nube-rayo.png",
+    "size": 560,
+    "y": 760
+   },
+   "texto": "¿Señal de crisis?",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 11,
+   "cabecera": "OJO",
+   "titulo": "Los estudios no siempre lo confirman",
+   "lineas": [
+    "en algunas crisis pasa y en otras no"
+   ],
+   "img": {
+    "src": "ia/s16/lupa.png",
+    "size": 420
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 12,
+   "lineas": [
+    "Incluso sin dinero,",
+    "queremos",
+    "SENTIRNOS BIEN"
+   ],
+   "resaltar": "SENTIRNOS BIEN",
+   "img": {
+    "src": "ia/s16/cafe.png",
+    "size": 480,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Cuál es tu pequeño lujo cuando las cosas van mal?"
+  }
+ ]
+}

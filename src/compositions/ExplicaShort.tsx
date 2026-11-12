@@ -133,6 +133,11 @@ const Cifra: React.FC<Extract<EscenaDatos, { tipo: "cifra" }>> = ({ antes, valor
   );
 };
 
+const PieComparar: React.FC<{ texto_: string }> = ({ texto_ }) => {
+  const e = useEntrada(1.6);
+  return <div style={{ ...texto(48, AMARILLO), fontWeight: 800, marginTop: 34, opacity: e }}>{texto_}</div>;
+};
+
 const Comparar: React.FC<Extract<EscenaDatos, { tipo: "comparar" }>> = ({ titulo, a, b, pie }) => {
   const t = useEntrada(0.05);
   const lado = (l: Lado, i: number) => {
@@ -152,11 +157,13 @@ const Comparar: React.FC<Extract<EscenaDatos, { tipo: "comparar" }>> = ({ titulo
   return (
     <>
       {titulo ? <div style={{ position: "absolute", top: 220, left: 50, right: 50, ...texto(84), opacity: t, transform: `scale(${0.8 + 0.2 * t})` }}>{titulo}</div> : null}
-      <div style={{ position: "absolute", top: titulo ? 470 : 360, left: 60, right: 60, display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
-        {lado(a, 0)}
-        {lado(b, 1)}
+      <div style={{ position: "absolute", top: titulo ? 470 : 360, left: 60, right: 60, display: "flex", flexDirection: "column", alignItems: "center" }}>
+        <div style={{ width: "100%", display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
+          {lado(a, 0)}
+          {lado(b, 1)}
+        </div>
+        {pie ? <PieComparar texto_={pie} /> : null}
       </div>
-      {pie ? <SubTexto top={1300} texto_={pie} desde={1.6} color={AMARILLO} /> : null}
     </>
   );
 };
@@ -238,8 +245,8 @@ const ImagenE: React.FC<Extract<EscenaDatos, { tipo: "imagen" }>> = ({ img, text
   return (
     <>
       <Imagen size={820} y={760} {...img} />
-      {tx ? <div style={{ position: "absolute", top: 1200, left: 50, right: 50, ...texto(tx.length > 24 ? 66 : tx.length > 18 ? 76 : 96, color), transform: `scale(${0.7 + 0.3 * e})`, opacity: e }}>{tx}</div> : null}
-      {sub ? <SubTexto top={tx && tx.length > 24 ? 1390 : 1330} texto_={sub} desde={0.9} /> : null}
+      {tx ? <div style={{ position: "absolute", top: 1200, left: 50, right: 50, ...texto(tx.length > 20 ? 66 : tx.length > 14 ? 80 : 96, color), transform: `scale(${0.7 + 0.3 * e})`, opacity: e }}>{tx}</div> : null}
+      {sub ? <SubTexto top={tx && tx.length > 28 ? 1390 : 1330} texto_={sub} desde={0.9} /> : null}
     </>
   );
 };

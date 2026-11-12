@@ -37,6 +37,7 @@ import simpleCompuesto from "../guiones/simple-compuesto.json";
 import inflacion from "../guiones/inflacion.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import largoInteresCompuesto from "../guiones/largo-interes-compuesto.json";
+import largoDinero from "../guiones/largo-de-donde-sale-el-dinero.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
 import descuentosV3 from "../guiones/descuentos-v3.json";
@@ -457,6 +458,19 @@ export const RemotionRoot: React.FC = () => {
         height={1080}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(largoInteresCompuesto)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="LargoDeDondeSaleElDinero"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(largoDinero)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

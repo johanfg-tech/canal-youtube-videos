@@ -60,6 +60,8 @@ const Imagen: React.FC<Img_ & { base?: number }> = ({ src, size = 620, x = 540, 
       style={{
         position: "absolute",
         width: size,
+        height: size,
+        objectFit: "contain",
         left: x - size / 2,
         top: y - size / 2 + 16 * Math.sin(t * 1.8),
         transform: `scale(${e * (1 + 0.025 * Math.sin(t * 1.1))}) rotate(${giro * Math.sin(t * 1.3)}deg)`,
@@ -236,8 +238,8 @@ const ImagenE: React.FC<Extract<EscenaDatos, { tipo: "imagen" }>> = ({ img, text
   return (
     <>
       <Imagen size={820} y={760} {...img} />
-      {tx ? <div style={{ position: "absolute", top: 1200, left: 50, right: 50, ...texto(tx.length > 18 ? 76 : 96, color), transform: `scale(${0.7 + 0.3 * e})`, opacity: e }}>{tx}</div> : null}
-      {sub ? <SubTexto top={1330} texto_={sub} desde={0.9} /> : null}
+      {tx ? <div style={{ position: "absolute", top: 1200, left: 50, right: 50, ...texto(tx.length > 24 ? 66 : tx.length > 18 ? 76 : 96, color), transform: `scale(${0.7 + 0.3 * e})`, opacity: e }}>{tx}</div> : null}
+      {sub ? <SubTexto top={tx && tx.length > 24 ? 1390 : 1330} texto_={sub} desde={0.9} /> : null}
     </>
   );
 };

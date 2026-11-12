@@ -1,0 +1,44 @@
+{
+ "planos": [
+  {"frase": 0, "src": "pizzas/P_cuarto.mp4", "desde": 0, "frames": 120},
+  {"frase": 2, "src": "piloto/A_mapa.mp4", "desde": 40, "frames": 133},
+  {"frase": 4, "src": "piloto/B_barrio.mp4", "desde": 0, "frames": 127},
+  {"frase": 5, "src": "piloto/C_cuarto.mp4", "desde": 0, "frames": 252},
+  {"frase": 6, "src": "pizzas/P_cuarto.mp4", "desde": 130, "frames": 250},
+  {"frase": 7, "src": "pizzas/P_cuarto.mp4", "desde": 260, "frames": 440},
+  {"frase": 10, "src": "pizzas/P_mapa2.mp4", "desde": 0, "frames": 141},
+  {"frase": 11, "src": "pizzas/P_cuarto.mp4", "desde": 0, "frames": 120},
+  {"frase": 12, "src": "pizzas/P_cuarto.mp4", "desde": 450, "frames": 570},
+  {"frase": 14, "src": "pizzas/P_cuarto.mp4", "desde": 580, "frames": 700},
+  {"frase": 16, "src": "pizzas/P_cuarto.mp4", "desde": 700, "frames": 1000},
+  {"frase": 23, "src": "pizzas/P_cuarto.mp4", "desde": 1000, "frames": 1150},
+  {"frase": 25, "src": "piloto/C_cuarto.mp4", "desde": 0, "frames": 252},
+  {"frase": 28, "src": "pizzas/P_cuarto.mp4", "desde": 1150, "frames": 1300},
+  {"frase": 29, "src": "pizzas/P_cuarto.mp4", "desde": 750, "frames": 1000}
+ ],
+ "rotulos": [
+  {"frase": 0, "arriba": "2 PIZZAS", "abajo": "750 MILLONES $", "dur": 3.2},
+  {"frase": 2, "arriba": "MAYO 2010", "dur": 2.0},
+  {"frase": 3, "arriba": "FLORIDA", "abajo": "EE. UU.", "dur": 1.6, "color": "#f7931a"},
+  {"frase": 6, "arriba": "18 MAYO 2010", "abajo": "10.000 BTC POR 2 PIZZAS", "dur": 3.4, "top": 1180},
+  {"frase": 7, "arriba": "PASAN 4 DÍAS", "abajo": "NADIE ACEPTA", "dur": 3.2},
+  {"frase": 10, "arriba": "22 MAYO", "abajo": "CALIFORNIA → FLORIDA", "dur": 3.4},
+  {"frase": 11, "arriba": "25 $", "abajo": "CON SU TARJETA", "dur": 3.0},
+  {"frase": 12, "arriba": "10.000 BTC", "abajo": "≈ 41 $ ESE DÍA", "dur": 4.2, "color": "#f7931a"},
+  {"frase": 14, "arriba": "¡LO LOGRÉ!", "dur": 2.6},
+  {"frase": 15, "arriba": "PRIMERA COMPRA", "abajo": "DE ALGO FÍSICO CON BITCOIN", "dur": 3.4},
+  {"frase": 21, "arriba": "750 MILLONES $", "abajo": "POR DOS PIZZAS", "dur": 3.8, "color": "#f7931a"},
+  {"frase": 24, "arriba": "≈ 100.000 BTC", "abajo": "EN PIZZAS ESE AÑO", "dur": 2.6, "color": "#f7931a"},
+  {"frase": 26, "arriba": "NO SE ARREPIENTE", "dur": 2.6},
+  {"frase": 28, "arriba": "BITCOIN PIZZA DAY", "abajo": "CADA 22 DE MAYO", "dur": 3.6, "color": "#f7931a"}
+ ],
+ "grafico": {"frase": 16, "hasta": 21, "titulo": "Lo que valían esos 10.000 BTC",
+  "barras": [
+   {"frase": 16, "etiqueta": "2010", "valor": 0.00004, "texto": "41 $"},
+   {"frase": 17, "etiqueta": "2013", "valor": 10, "texto": "10 M$"},
+   {"frase": 18, "etiqueta": "2017", "valor": 200, "texto": "200 M$"},
+   {"frase": 19, "etiqueta": "2021", "valor": 690, "texto": "~700 M$"},
+   {"frase": 20, "etiqueta": "Máximo", "valor": 1260, "texto": "+1.200 M$", "color": "#ffd60a"}
+  ]},
+ "remate": {"frase": 29, "pregunta": "¿Tú habrías cambiado 10.000 bitcoins por dos pizzas?"}
+}

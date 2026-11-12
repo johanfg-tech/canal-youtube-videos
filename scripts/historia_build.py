@@ -16,7 +16,7 @@ planos = []
 P = plan["planos"]
 for i, p in enumerate(P):
     a = 0.0 if i == 0 else ini(p["frase"])
-    b = ini(P[i + 1]["frase"]) if i + 1 < len(P) else rem + 2.6
+    b = ini(P[i + 1]["frase"]) if i + 1 < len(P) else t["duracion"] + 2.6
     n = (b - a) * 30 + 8
     desde = p.get("desde", 0)
     if "ancla" in p:
@@ -27,6 +27,10 @@ for i, p in enumerate(P):
 rot = [{"inicio": round(ini(r["frase"]) + r.get("mas", 0.2), 2), "dur": r.get("dur", 2.6), **{x: r[x] for x in ("arriba", "abajo", "color", "top") if x in r}} for r in plan["rotulos"]]
 d = {"voz": f"narraciones/{k}.mp3", "palabras": t["palabras"], "duracion": t["duracion"], "planos": planos, "rotulos": rot,
      "remate": {"inicio": round(rem, 2), "pregunta": plan["remate"]["pregunta"]}}
+if "grafico" in plan:
+    g = plan["grafico"]; gi = ini(g["frase"]); gf = ini(g["hasta"])
+    d["grafico"] = {"inicio": round(gi, 2), "fin": round(gf, 2), "titulo": g["titulo"],
+                    "barras": [{**{x: b[x] for x in ("etiqueta", "valor", "texto", "color") if x in b}, "en": round(max(0.3, fr[b["frase"]]["inicio"] - gi + b.get("mas", 0.3)), 2)} for b in g["barras"]]}
 json.dump(d, open(base + ".json", "w"), ensure_ascii=False, indent=1)
 for p in planos: print(p)
 hs = sorted(set([os.path.relpath(base, R)] + [l.split('"')[1] for l in open(os.path.join(R, "src/explica/historias.ts")).read().split("\n") if l.startswith("// h ")] if os.path.exists(os.path.join(R, "src/explica/historias.ts")) else [os.path.relpath(base, R)]))

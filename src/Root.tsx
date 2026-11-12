@@ -1,5 +1,7 @@
 import { ExplicaShort, duracionExplica } from "./compositions/ExplicaShort";
 import { VIDEOS_S16 } from "./explica/videos";
+import { HISTORIAS } from "./explica/historias";
+import { HistoriaCineShort, duracionHistoria } from "./compositions/HistoriaCineShort";
 import { PilotoFloridaShort, duracionPiloto } from "./compositions/PilotoFloridaShort";
 import { Composition } from "remotion";
 import { Avatar } from "./compositions/Avatar";
@@ -543,6 +545,18 @@ export const RemotionRoot: React.FC = () => {
           width={1080}
           height={1920}
           defaultProps={{ datos: v.datos }}
+        />
+      ))}
+      {HISTORIAS.map((h) => (
+        <Composition
+          key={h.id}
+          id={h.id}
+          component={HistoriaCineShort}
+          durationInFrames={duracionHistoria(h.datos)}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{ datos: h.datos }}
         />
       ))}
     </>

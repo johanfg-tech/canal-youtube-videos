@@ -2,7 +2,7 @@ import React from "react";
 import { AbsoluteFill, Audio, Easing, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
-import { AMARILLO, RemateFinal, f, texto, useEntrada } from "../components/historia/kit";
+import { AMARILLO, NARANJA, RemateFinal, f, texto, useEntrada } from "../components/historia/kit";
 
 // Historia animada (estilo piloto): planos renderizados en Blender, montados sobre la voz.
 // Los tiempos salen de scripts/historia_build.py (frases de la voz -> planos y rótulos).
@@ -16,7 +16,10 @@ export type DatosHistoria = {
   planos: Plano[];
   rotulos: RotuloD[];
   remate: { inicio: number; pregunta: string };
+  grafico?: GraficoD;
 };
+export type BarraD = { etiqueta: string; valor: number; texto: string; en: number; color?: string };
+export type GraficoD = { inicio: number; fin: number; titulo: string; barras: BarraD[] };
 
 const COLA = 2.6;
 export const duracionHistoria = (d: DatosHistoria) => Math.ceil((d.duracion + COLA) * 30);
@@ -45,6 +48,36 @@ const Clip: React.FC<{ p: Plano; primero: boolean }> = ({ p, primero }) => {
   return (
     <AbsoluteFill style={{ opacity: o }}>
       <OffthreadVideo src={staticFile(p.src)} muted startFrom={p.desde} playbackRate={p.ritmo} style={{ width: "100%", height: "100%" }} />
+    </AbsoluteFill>
+  );
+};
+
+// Gráfica de barras sobre el plano (los valores y textos van siempre en post).
+const Grafico: React.FC<{ g: GraficoD }> = ({ g }) => {
+  const frame = useCurrentFrame();
+  const dur = f(g.fin - g.inicio);
+  const fondo = interpolate(frame, [0, 12, dur - 10, dur], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const max = Math.max(...g.barras.map((b) => b.valor));
+  const ALTO = 640;
+  const ancho = 900 / g.barras.length;
+  return (
+    <AbsoluteFill style={{ opacity: fondo }}>
+      <AbsoluteFill style={{ background: "rgba(8,8,14,0.72)" }} />
+      <div style={{ position: "absolute", top: 300, left: 40, right: 40, ...texto(64), letterSpacing: 2 }}>{g.titulo}</div>
+      <div style={{ position: "absolute", left: 90, right: 90, top: 1240, height: 4, background: "#ffffff40", borderRadius: 2 }} />
+      {g.barras.map((b, i) => {
+        const t = interpolate(frame, [f(b.en), f(b.en) + 20], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+        const h = Math.max(8, (b.valor / max) * ALTO) * t;
+        const x = 90 + i * ancho;
+        const col = b.color ?? NARANJA;
+        return (
+          <div key={i} style={{ opacity: t }}>
+            <div style={{ position: "absolute", left: x + ancho * 0.15, width: ancho * 0.7, top: 1240 - h, height: h, background: col, borderRadius: "14px 14px 0 0", boxShadow: `0 0 40px ${col}55` }} />
+            <div style={{ position: "absolute", left: x - 10, width: ancho + 20, top: 1240 - h - 70, ...texto(b.texto.length > 6 ? 38 : 46, col), whiteSpace: "nowrap" }}>{b.texto}</div>
+            <div style={{ position: "absolute", left: x - 10, width: ancho + 20, top: 1262, ...texto(36, "#ececf2"), fontWeight: 700 }}>{b.etiqueta}</div>
+          </div>
+        );
+      })}
     </AbsoluteFill>
   );
 };
@@ -79,6 +112,11 @@ export const HistoriaCineShort: React.FC<{ datos: DatosHistoria }> = ({ datos })
           <Rotulo arriba={r.arriba} abajo={r.abajo} color={r.color} top={r.top} />
         </Sequence>
       ))}
+      {datos.grafico ? (
+        <Sequence from={f(datos.grafico.inicio)} durationInFrames={f(datos.grafico.fin - datos.grafico.inicio)}>
+          <Grafico g={datos.grafico} />
+        </Sequence>
+      ) : null}
       <Sequence from={f(remate.inicio)}>
         <Oscurecer />
         <RemateFinal pregunta={remate.pregunta} sigueme={2.2} />

@@ -1,29 +1,154 @@
 {
  "planos": [
-  {"frase":0,"src":"coca/S1_mostrador.mp4","desde":28,"frames":240},
-  {"frase":2,"src":"coca/S_resto.mp4","desde":540,"frames":720},
-  {"frase":4,"src":"coca/S3_mapa.mp4","desde":0,"frames":151},
-  {"frase":5,"src":"coca/S4_fuente.mp4","desde":0,"frames":180},
-  {"frase":6,"src":"coca/S_resto.mp4","desde":0,"frames":300,"ancla":{"frase":8,"frame":185}},
-  {"frase":10,"src":"coca/S6_calle.mp4","desde":0,"frames":240},
-  {"frase":11,"src":"coca/S7_maquina.mp4","desde":0,"frames":180},
-  {"frase":14,"src":"coca/S_resto.mp4","desde":720,"frames":960,"ancla":{"frase":15,"frame":875}},
-  {"frase":16,"src":"coca/S_resto.mp4","desde":300,"frames":540}
+  {
+   "frase": 0,
+   "src": "coca/S1_mostrador.mp4",
+   "desde": 28,
+   "frames": 240
+  },
+  {
+   "frase": 2,
+   "src": "coca/S_resto.mp4",
+   "desde": 540,
+   "frames": 720
+  },
+  {
+   "frase": 4,
+   "src": "coca/S3_mapa.mp4",
+   "desde": 0,
+   "frames": 151
+  },
+  {
+   "frase": 5,
+   "src": "coca/S4_fuente.mp4",
+   "desde": 0,
+   "frames": 180
+  },
+  {
+   "frase": 6,
+   "src": "coca/S_resto.mp4",
+   "desde": 0,
+   "frames": 300,
+   "ancla": {
+    "frase": 8,
+    "frame": 185
+   }
+  },
+  {
+   "frase": 9,
+   "src": "coca/S1_mostrador.mp4",
+   "desde": 110,
+   "frames": 240
+  },
+  {
+   "frase": 10,
+   "src": "coca/S6_calle.mp4",
+   "desde": 0,
+   "frames": 240
+  },
+  {
+   "frase": 11,
+   "src": "coca/S7_maquina.mp4",
+   "desde": 0,
+   "frames": 180
+  },
+  {
+   "frase": 14,
+   "src": "coca/S_resto.mp4",
+   "desde": 720,
+   "frames": 960,
+   "ancla": {
+    "frase": 15,
+    "frame": 875
+   }
+  },
+  {
+   "frase": 16,
+   "src": "coca/S_resto.mp4",
+   "desde": 300,
+   "frames": 540
+  }
  ],
  "rotulos": [
-  {"frase":1,"arriba":"1886 — 1959","abajo":"SIEMPRE 5 CENTAVOS"},
-  {"frase":2,"arriba":"GUERRAS","abajo":"GRAN DEPRESIÓN · CRISIS","dur":3.2},
-  {"frase":4,"arriba":"ATLANTA","abajo":"GEORGIA · 1886"},
-  {"frase":5,"arriba":"JOHN PEMBERTON","abajo":"FARMACÉUTICO","mas":1.0},
-  {"frase":6,"arriba":"1899","abajo":"DERECHOS PARA EMBOTELLAR"},
-  {"frase":7,"arriba":"ASA CANDLER","abajo":"JEFE DE LA EMPRESA","mas":0.4},
-  {"frase":8,"arriba":"POR 1 DÓLAR","abajo":"SEGÚN LA HISTORIA"},
-  {"frase":10,"arriba":"5¢ EN TODAS PARTES","abajo":"ANUNCIOS PINTADOS","mas":1.2},
-  {"frase":12,"arriba":"6¢","abajo":"HABRÍA QUE DAR CAMBIO","dur":2.0},
-  {"frase":13,"arriba":"10¢","abajo":"EL DOBLE DE PRECIO","dur":2.0},
-  {"frase":14,"arriba":"1953","abajo":"ROBERT WOODRUFF → EISENHOWER","dur":3.2},
-  {"frase":15,"arriba":"NO","abajo":"NO HUBO MONEDA DE 7½¢","dur":2.0,"color":"#ff4d6d"},
-  {"frase":16,"arriba":"INFLACIÓN","abajo":"ADIÓS AL PRECIO DE 5¢ (≈1959)","color":"#ff4d6d","mas":0.6}
+  {
+   "frase": 1,
+   "arriba": "1886 — 1959",
+   "abajo": "SIEMPRE 5 CENTAVOS"
+  },
+  {
+   "frase": 2,
+   "arriba": "GUERRAS",
+   "abajo": "GRAN DEPRESIÓN · CRISIS",
+   "dur": 3.2
+  },
+  {
+   "frase": 4,
+   "arriba": "ATLANTA",
+   "abajo": "GEORGIA · 1886"
+  },
+  {
+   "frase": 5,
+   "arriba": "JOHN PEMBERTON",
+   "abajo": "FARMACÉUTICO",
+   "mas": 1.0
+  },
+  {
+   "frase": 6,
+   "arriba": "1899",
+   "abajo": "DERECHOS PARA EMBOTELLAR"
+  },
+  {
+   "frase": 7,
+   "arriba": "ASA CANDLER",
+   "abajo": "JEFE DE LA EMPRESA",
+   "mas": 0.4
+  },
+  {
+   "frase": 8,
+   "arriba": "POR 1 DÓLAR",
+   "abajo": "SEGÚN LA HISTORIA"
+  },
+  {
+   "frase": 10,
+   "arriba": "5¢ EN TODAS PARTES",
+   "abajo": "ANUNCIOS PINTADOS",
+   "mas": 1.2
+  },
+  {
+   "frase": 12,
+   "arriba": "6¢",
+   "abajo": "HABRÍA QUE DAR CAMBIO",
+   "dur": 2.0
+  },
+  {
+   "frase": 13,
+   "arriba": "10¢",
+   "abajo": "EL DOBLE DE PRECIO",
+   "dur": 2.0
+  },
+  {
+   "frase": 14,
+   "arriba": "1953",
+   "abajo": "ROBERT WOODRUFF → EISENHOWER",
+   "dur": 3.2
+  },
+  {
+   "frase": 15,
+   "arriba": "NO",
+   "abajo": "NO HUBO MONEDA DE 7½¢",
+   "dur": 2.0,
+   "color": "#ff4d6d"
+  },
+  {
+   "frase": 16,
+   "arriba": "INFLACIÓN",
+   "abajo": "ADIÓS AL PRECIO DE 5¢ (≈1959)",
+   "color": "#ff4d6d",
+   "mas": 0.6
+  }
  ],
- "remate": {"frase":18,"pregunta":"¿Cuánto pagas tú hoy por una?"}
+ "remate": {
+  "frase": 18,
+  "pregunta": "¿Cuánto pagas tú hoy por una?"
+ }
 }

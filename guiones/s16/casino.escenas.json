@@ -1,0 +1,15 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Por qué el casino","SIEMPRE gana?"],"resaltar":"SIEMPRE","img":{"src":"ia/s16/ruleta.png","size":620,"y":1060}},
+ {"tipo":"titulo","frase":1,"lineas":["No es suerte:","MATEMÁTICAS"],"resaltar":"MATEMÁTICAS","color":"#2ee59d","img":{"src":"ia/s16/dados.png","size":520,"y":1060}},
+ {"tipo":"cifra","frase":3,"antes":"La ruleta europea tiene","valor":37,"sufijo":" casillas","etiqueta":"del 0 al 36","img":{"src":"ia/s16/ruleta.png","size":600,"y":1080}},
+ {"tipo":"comparar","frase":4,"titulo":"Si aciertas un número","a":{"etiqueta":"Te pagan","valor":"35×","img":"ia/s16/fichas.png","altura":0.92,"color":"#ffd60a"},"b":{"etiqueta":"Lo justo sería","valor":"36×","img":"ia/s16/fichas.png","altura":1,"color":"#2ee59d"}},
+ {"tipo":"cifra","frase":6,"antes":"Ventaja del casino","valor":2.7,"decimales":1,"sufijo":" %","etiqueta":"parece poco…","color":"#ff4d6d","img":{"src":"ia/s16/fichas.png","size":540,"y":1080}},
+ {"tipo":"comparar","frase":8,"a":{"etiqueta":"Tú","valor":"1 noche","img":"ia/s16/dados.png","color":"#ffd60a"},"b":{"etiqueta":"El casino","valor":"Millones de jugadas","img":"ia/s16/ruleta.png","color":"#ff4d6d"},"pie":"Solo queda ese 2,7 %"},
+ {"tipo":"cifra","frase":11,"antes":"100 $ apostados mil veces","valor":2700,"prefijo":"−$","etiqueta":"pérdida esperada","color":"#ff4d6d","img":{"src":"ia/s16/fichas.png","size":540,"y":1080}},
+ {"tipo":"barras","frase":12,"titulo":"Ventaja de la casa","items":[
+   {"etiqueta":"Ruleta europea","valor":2.7,"texto":"2,7 %","img":"ia/s16/ruleta.png","color":"#ffd60a"},
+   {"etiqueta":"Ruleta americana","valor":5.3,"texto":"5,3 %","img":"ia/s16/ruleta.png","color":"#f7931a"},
+   {"etiqueta":"Tragamonedas","valor":9,"texto":"aún más","img":"ia/s16/tragamonedas.png","color":"#ff4d6d"}]},
+ {"tipo":"titulo","frase":14,"lineas":["Sin relojes","ni VENTANAS"],"resaltar":"VENTANAS","sub":"cuanto más juegas, más gana la estadística","img":{"src":"ia/s16/tragamonedas.png","size":540,"y":980}},
+ {"tipo":"remate","frase":15,"pregunta":"¿Tú has ganado alguna vez en un casino?"}
+]

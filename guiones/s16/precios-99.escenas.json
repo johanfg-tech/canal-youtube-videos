@@ -1,0 +1,15 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Por qué los precios","terminan en ,99?"],"resaltar":",99","img":{"src":"ia/s16/etiqueta-precio.png","size":560,"y":1060}},
+ {"tipo":"comparar","frase":1,"titulo":"¿Cuál parece más barato?","a":{"etiqueta":"Precio A","valor":"9,99","img":"ia/s16/etiqueta-precio.png","color":"#2ee59d"},"b":{"etiqueta":"Precio B","valor":"10","img":"ia/s16/etiqueta-precio.png","color":"#ff4d6d"},"pie":"Diferencia: 1 centavo"},
+ {"tipo":"titulo","frase":3,"lineas":["Leemos de","IZQUIERDA","a derecha"],"resaltar":"IZQUIERDA","img":{"src":"ia/s16/carrito.png","size":520,"y":1100}},
+ {"tipo":"cifra","frase":4,"antes":"El cerebro ve","valor":9.99,"decimales":2,"etiqueta":"y piensa: «nueve y algo»","img":{"src":"ia/s16/etiqueta-precio.png","size":520,"y":1080}},
+ {"tipo":"tarjeta","frase":5,"cabecera":"PSICOLOGÍA","titulo":"Efecto del dígito izquierdo","img":{"src":"ia/s16/etiqueta-precio.png","size":480}},
+ {"tipo":"lista","frase":6,"titulo":"Cuándo funciona","items":[
+   {"texto":"10 → 9,99: se nota mucho","emoji":"✅","color":"#2ee59d","en":2.2},
+   {"texto":"4,60 → 4,59: casi nada","emoji":"➖","color":"#ff4d6d","en":4.6}]},
+ {"tipo":"comparar","frase":7,"a":{"etiqueta":"Un coche","valor":"19.990","img":"ia/s16/coche.png","color":"#ffd60a"},"b":{"etiqueta":"Una casa","valor":"299.000","img":"ia/s16/casa.png","color":"#2ee59d"},"pie":"y no 20.000 ni 300.000"},
+ {"tipo":"imagen","frase":9,"img":{"src":"ia/s16/carrito.png","size":680,"y":760},"texto":"Parece una oferta","sub":"precio ajustado al máximo","color":"#2ee59d"},
+ {"tipo":"cifra","frase":10,"antes":"El lujo usa precios redondos","valor":200,"etiqueta":"para parecer más exclusivo","color":"#7fd1ff","img":{"src":"ia/s16/etiqueta-precio.png","size":520,"y":1080}},
+ {"tipo":"titulo","frase":11,"lineas":["Ves un ,99:","REDONDEA","hacia arriba"],"resaltar":"REDONDEA","img":{"src":"ia/s16/etiqueta-precio.png","size":520,"y":1100}},
+ {"tipo":"remate","frase":13,"pregunta":"¿Te había engañado alguna vez?"}
+]

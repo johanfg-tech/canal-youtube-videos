@@ -1,0 +1,18 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Cuánto cuesta","FABRICAR","un billete de 100 $?"],"resaltar":"FABRICAR","img":{"src":"ia/s16/billete-100.png","size":620,"y":1080}},
+ {"tipo":"comparar","frase":1,"titulo":"Coste de fabricarlo","a":{"etiqueta":"Billete de 100 $","valor":"11 ¢","img":"ia/s16/billete-100.png","altura":1,"color":"#2ee59d"},"b":{"etiqueta":"Billete de 1 $","valor":"4 ¢","img":"ia/s16/billete-1.png","altura":0.37,"color":"#ffd60a"},"pie":"Reserva Federal · 2025"},
+ {"tipo":"lista","frase":4,"titulo":"¿Por qué cuesta más?","items":[
+   {"texto":"Banda azul en 3D","emoji":"🟦","color":"#7fd1ff","enFrase":5,"mas":1.6},
+   {"texto":"Tinta que cambia de color","emoji":"🎨","enFrase":5,"mas":3.2},
+   {"texto":"Marca de agua","emoji":"💧","color":"#7fd1ff","enFrase":5,"mas":4.8},
+   {"texto":"Hilo de seguridad","img":"ia/s16/lupa.png","enFrase":5,"mas":5.8}]},
+ {"tipo":"donut","frase":6,"titulo":"No es papel normal","centro":"Billete","partes":[{"etiqueta":"Algodón","valor":75,"color":"#f2f2f2"},{"etiqueta":"Lino","valor":25,"color":"#2ee59d"}]},
+ {"tipo":"imagen","frase":7,"img":{"src":"ia/s16/lavadora.png","size":680,"y":760},"texto":"Aguanta la lavadora","color":"#7fd1ff"},
+ {"tipo":"barras","frase":8,"titulo":"Cuánto dura","items":[
+   {"etiqueta":"Billete de 1 $","valor":7,"texto":"~7 años","img":"ia/s16/billete-1.png","color":"#ffd60a"},
+   {"etiqueta":"Billete de 100 $","valor":22,"texto":"+20 años","img":"ia/s16/billete-100.png","color":"#2ee59d"}]},
+ {"tipo":"cifra","frase":9,"antes":"¿El gobierno gana…","valor":99.89,"decimales":2,"prefijo":"$","etiqueta":"con cada billete de 100?","img":{"src":"ia/s16/billete-100.png","size":560,"y":1080}},
+ {"tipo":"tarjeta","frase":10,"cabecera":"NO EXACTAMENTE","titulo":"El billete es una deuda de la Reserva Federal","lineas":["con quien lo tiene"],"img":{"src":"ia/s16/contrato.png","size":460}},
+ {"tipo":"imagen","frase":11,"img":{"src":"ia/s16/monedas.png","size":680,"y":760},"texto":"Hay monedas que cuestan","sub":"más de lo que valen","color":"#ff4d6d"},
+ {"tipo":"remate","frase":12,"pregunta":"¿Te gustaría saber cuáles?"}
+]

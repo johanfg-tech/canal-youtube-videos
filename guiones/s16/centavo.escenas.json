@@ -1,0 +1,15 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["Una moneda que","cuesta MÁS","de lo que vale"],"resaltar":"MÁS","sub":"el centavo de dólar","img":{"src":"ia/s16/moneda-cobre.png","size":540,"y":1060}},
+ {"tipo":"cifra","frase":2,"antes":"Fabricar cada uno costaba","valor":3.7,"decimales":1,"sufijo":" ¢","etiqueta":"para crear 1 centavo","color":"#ff4d6d","img":{"src":"ia/s16/prensa-monedas.png","size":560,"y":1080}},
+ {"tipo":"lista","frase":4,"titulo":"¿Por qué tan caro?","items":[
+   {"texto":"Zinc con capa de cobre","img":"ia/s16/moneda-cobre.png","en":0.6},
+   {"texto":"La fábrica","img":"ia/s16/prensa-monedas.png","en":2.6},
+   {"texto":"El transporte","emoji":"🚚","en":3.6}]},
+ {"tipo":"cifra","frase":5,"antes":"Pérdida en un solo año","valor":85,"prefijo":"$","sufijo":" millones","color":"#ff4d6d","img":{"src":"ia/s16/frasco-monedas.png","size":540,"y":1080}},
+ {"tipo":"comparar","frase":6,"titulo":"Moneda de 5 centavos","a":{"etiqueta":"Vale","valor":"5 ¢","img":"ia/s16/moneda-cobre.png","altura":0.36,"color":"#2ee59d"},"b":{"etiqueta":"Cuesta","valor":"~14 ¢","img":"ia/s16/prensa-monedas.png","altura":1,"color":"#ff4d6d"}},
+ {"tipo":"imagen","frase":7,"img":{"src":"ia/s16/cajon-monedas.png","size":720,"y":760},"texto":"Olvidadas en cajones","sub":"y en frascos"},
+ {"tipo":"tarjeta","frase":8,"cabecera":"NOVIEMBRE 2025","titulo":"Se acuñan los últimos centavos","lineas":["después de más de 230 años"],"img":{"src":"ia/s16/prensa-monedas.png","size":480}},
+ {"tipo":"imagen","frase":9,"img":{"src":"ia/s16/frasco-monedas.png","size":640,"y":760},"texto":"Siguen valiendo","sub":"pero se redondea a múltiplos de 5","color":"#2ee59d"},
+ {"tipo":"titulo","frase":10,"lineas":["Canadá ya lo hizo","HACE AÑOS"],"resaltar":"HACE AÑOS","img":{"src":"ia/s16/moneda-cobre.png","size":480,"y":1060}},
+ {"tipo":"remate","frase":11,"pregunta":"¿En tu país también sobran las monedas pequeñas?"}
+]

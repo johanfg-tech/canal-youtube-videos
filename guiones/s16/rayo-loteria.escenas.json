@@ -1,0 +1,12 @@
+[
+ {"tipo":"comparar","frase":0,"titulo":"¿Qué es más probable?","a":{"etiqueta":"Que te caiga un rayo","img":"ia/s16/nube-rayo.png","color":"#7fd1ff"},"b":{"etiqueta":"Ganar la lotería","img":"ia/s16/boleto.png","color":"#ffd60a"}},
+ {"tipo":"cifra","frase":1,"antes":"Rayo en un año (EE. UU.)","valor":1.2,"decimales":1,"prefijo":"1 entre ","sufijo":" millones","color":"#7fd1ff","img":{"src":"ia/s16/nube-rayo.png","size":580,"y":1080}},
+ {"tipo":"cifra","frase":2,"antes":"Premio gordo del Powerball","valor":292,"prefijo":"1 entre ","sufijo":" millones","color":"#ffd60a","img":{"src":"ia/s16/boleto.png","size":560,"y":1080}},
+ {"tipo":"cifra","frase":3,"antes":"El rayo es","valor":240,"sufijo":" veces","etiqueta":"más probable","color":"#2ee59d","img":{"src":"ia/s16/nube-rayo.png","size":540,"y":1080}},
+ {"tipo":"cifra","frase":4,"antes":"Un estadio lleno","valor":80000,"etiqueta":"personas","img":{"src":"ia/s16/estadio.png","size":680,"y":1080}},
+ {"tipo":"cifra","frase":5,"antes":"Ahora llena","valor":3650,"sufijo":" estadios","etiqueta":"solo 1 persona gana","color":"#ffd60a","img":{"src":"ia/s16/estadio.png","size":600,"y":1080}},
+ {"tipo":"cifra","frase":7,"antes":"Un boleto por semana","valor":5.6,"decimales":1,"sufijo":" millones","etiqueta":"de años para ganar (de media)","color":"#ff4d6d","img":{"src":"ia/s16/reloj-arena.png","size":540,"y":1080}},
+ {"tipo":"cifra","frase":8,"antes":"Cada boleto: 2 $. Al año…","valor":104,"prefijo":"$","etiqueta":"gastados","color":"#ff4d6d","img":{"src":"ia/s16/boleto.png","size":520,"y":1080}},
+ {"tipo":"imagen","frase":9,"img":{"src":"ia/s16/boleto.png","size":640,"y":760},"texto":"Alguien acaba ganando","sub":"pero casi seguro que no serás tú","color":"#2ee59d"},
+ {"tipo":"remate","frase":12,"pregunta":"¿Sigues comprando lotería?"}
+]

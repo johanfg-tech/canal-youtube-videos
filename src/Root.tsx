@@ -1,3 +1,4 @@
+import { PilotoFloridaShort, duracionPiloto } from "./compositions/PilotoFloridaShort";
 import { Composition } from "remotion";
 import { Avatar } from "./compositions/Avatar";
 import { Miniatura } from "./compositions/Miniatura";
@@ -519,6 +520,14 @@ export const RemotionRoot: React.FC = () => {
         component={PizzasBitcoinShort}
         durationInFrames={duracionPizzas}
         fps={FPS}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PilotoFlorida"
+        component={PilotoFloridaShort}
+        durationInFrames={duracionPiloto}
+        fps={30}
         width={1080}
         height={1920}
       />

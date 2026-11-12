@@ -23,7 +23,10 @@ const A = 133; // mapa EE. UU. -> Florida
 const B = 127; // barrio -> casa -> ventana
 const C = 252; // habitación: órbita, manos, sobre el hombro
 const SOLAPE = 10;
-export const duracionPiloto = A + B + C - 2 * SOLAPE + 6;
+// La habitación va al 90 % de velocidad para cubrir la última frase de la voz.
+const RITMO_C = 0.9;
+const C_DUR = Math.ceil(C / RITMO_C);
+export const duracionPiloto = A + B + C_DUR - 2 * SOLAPE;
 
 const palabras = (guion.palabras as Palabra[])
   .filter((p) => p.inicio >= VOZ_DESDE - 0.05 && p.fin <= VOZ_DESDE + 17.2)
@@ -71,12 +74,12 @@ const Fundido: React.FC<{ color: string; dur: number }> = ({ color, dur }) => {
   return <AbsoluteFill style={{ background: color, opacity: o }} />;
 };
 
-const Clip: React.FC<{ src: string; entrada?: number }> = ({ src, entrada = 0 }) => {
+const Clip: React.FC<{ src: string; entrada?: number; ritmo?: number }> = ({ src, entrada = 0, ritmo = 1 }) => {
   const frame = useCurrentFrame();
   const o = entrada ? interpolate(frame, [0, entrada], [0, 1], { extrapolateRight: "clamp" }) : 1;
   return (
     <AbsoluteFill style={{ opacity: o }}>
-      <OffthreadVideo src={staticFile(src)} muted style={{ width: "100%", height: "100%" }} />
+      <OffthreadVideo src={staticFile(src)} muted playbackRate={ritmo} style={{ width: "100%", height: "100%" }} />
     </AbsoluteFill>
   );
 };
@@ -103,8 +106,8 @@ export const PilotoFloridaShort: React.FC = () => {
       <Sequence from={inicioB} durationInFrames={B}>
         <Clip src="piloto/B_barrio.mp4" entrada={SOLAPE} />
       </Sequence>
-      <Sequence from={inicioC} durationInFrames={C + 6}>
-        <Clip src="piloto/C_cuarto.mp4" entrada={SOLAPE} />
+      <Sequence from={inicioC} durationInFrames={C_DUR}>
+        <Clip src="piloto/C_cuarto.mp4" entrada={SOLAPE} ritmo={RITMO_C} />
       </Sequence>
       {/* Transiciones motivadas: nubes blancas al bajar del mapa; luz cálida de la ventana al entrar. */}
       <Sequence from={inicioB - 8} durationInFrames={SOLAPE + 16}>

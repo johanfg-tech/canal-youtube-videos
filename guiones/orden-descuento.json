@@ -1,6 +1,6 @@
 {
   "audio": "narraciones/orden-descuento.mp3",
-  "duracion": 37.6,
+  "duracion": 90.8,
   "aviso": "",
   "sfx": true,
   "escenas": [
@@ -22,7 +22,7 @@
     {
       "tipo": "titular",
       "en": "¿Qué",
-      "inicio": 5.68,
+      "inicio": 5.63,
       "lineas": [
         "¿Qué se aplica",
         "primero?"
@@ -34,7 +34,7 @@
     {
       "tipo": "ecuacion",
       "en": "Descuento primero:",
-      "inicio": 7.1,
+      "inicio": 7.08,
       "a": "100",
       "operador": "×",
       "b": "0,8 × 1,2",
@@ -45,7 +45,7 @@
     {
       "tipo": "ecuacion",
       "en": "Impuesto primero:",
-      "inicio": 13.74,
+      "inicio": 13.73,
       "a": "100",
       "operador": "×",
       "b": "1,2 × 0,8",
@@ -56,7 +56,7 @@
     {
       "tipo": "titular",
       "en": "Da igual",
-      "inicio": 20.66,
+      "inicio": 20.74,
       "lineas": [
         "Siempre 96 €",
         "da igual el orden"
@@ -68,7 +68,7 @@
     {
       "tipo": "titular",
       "en": "La multiplicación",
-      "inicio": 23.9,
+      "inicio": 24.14,
       "lineas": [
         "Multiplicar no",
         "depende del orden"
@@ -81,7 +81,7 @@
     {
       "tipo": "titular",
       "en": "Eso sí:",
-      "inicio": 26.94,
+      "inicio": 27.24,
       "lineas": [
         "Pagas 96,",
         "no 100"
@@ -92,8 +92,141 @@
     },
     {
       "tipo": "titular",
+      "en": "El descuento",
+      "inicio": 30.52,
+      "lineas": [
+        "Descuento sobre 100",
+        "Impuesto sobre 80"
+      ],
+      "resaltar": [
+        "100",
+        "80"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora,",
+      "inicio": 36.13,
+      "lineas": [
+        "La trampa",
+        "más común"
+      ],
+      "resaltar": [
+        "trampa"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Una tienda",
+      "inicio": 38.52,
+      "lineas": [
+        "20 % de descuento",
+        "+ 10 % extra"
+      ],
+      "resaltar": [
+        "20",
+        "10"
+      ],
+      "imagen": "ia/calendario-porcentaje.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Mucha gente",
+      "inicio": 44.27,
+      "lineas": [
+        "¿20 + 10",
+        "= 30 %?"
+      ],
+      "resaltar": [
+        "30"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero no.",
+      "inicio": 50.28,
+      "lineas": [
+        "Pues no"
+      ],
+      "resaltar": [
+        "no"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "El primer",
+      "inicio": 51.14,
+      "a": "100",
+      "operador": "×",
+      "b": "0,8",
+      "resultado": 80,
+      "etiqueta": "€ tras el 1.er descuento",
+      "revelar": 2.5
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "El segundo",
+      "inicio": 53.72,
+      "a": "80",
+      "operador": "×",
+      "b": "0,9",
+      "resultado": 72,
+      "etiqueta": "€ pagas de verdad",
+      "revelar": 3
+    },
+    {
+      "tipo": "titular",
+      "en": "Pagas 72",
+      "inicio": 60.59,
+      "lineas": [
+        "Descuento real:",
+        "28 %, no 30 %"
+      ],
+      "resaltar": [
+        "28"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "En un artículo",
+      "inicio": 66.14,
+      "lineas": [
+        "En 1.000 €,",
+        "20 € de diferencia"
+      ],
+      "resaltar": [
+        "20"
+      ],
+      "imagen": "ia/billete-desvanece.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Regla fácil:",
+      "inicio": 71.57,
+      "lineas": [
+        "Cada porcentaje",
+        "es un multiplicador"
+      ],
+      "resaltar": [
+        "multiplicador"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Multiplícalos",
+      "inicio": 81.37,
+      "lineas": [
+        "0,8 × 0,9",
+        "= 0,72"
+      ],
+      "resaltar": [
+        "0,72"
+      ]
+    },
+    {
+      "tipo": "titular",
       "en": "El impuesto",
-      "inicio": 30.15,
+      "inicio": 83.23,
       "lineas": [
         "El 20 % de impuesto",
         "es un ejemplo"
@@ -105,14 +238,14 @@
     {
       "tipo": "titular",
       "en": "Sígueme",
-      "inicio": 34.27,
+      "inicio": 87.28,
       "lineas": [
         "Sígueme para más"
       ],
       "resaltar": [
         "más"
       ],
-      "destacado": "96",
+      "destacado": "72",
       "final": true
     }
   ],
@@ -126,481 +259,1207 @@
     {
       "texto": "artículo",
       "inicio": 0.19,
-      "fin": 0.71,
+      "fin": 0.7,
       "corte": false
     },
     {
       "texto": "de",
-      "inicio": 0.71,
-      "fin": 0.9,
+      "inicio": 0.7,
+      "fin": 0.89,
       "corte": false
     },
     {
       "texto": "100",
-      "inicio": 0.9,
-      "fin": 1.2,
+      "inicio": 0.89,
+      "fin": 1.19,
       "corte": false
     },
     {
       "texto": "euros,",
-      "inicio": 1.2,
+      "inicio": 1.19,
       "fin": 1.55,
       "corte": false
     },
     {
       "texto": "con",
       "inicio": 1.55,
-      "fin": 1.8,
+      "fin": 1.79,
       "corte": false
     },
     {
       "texto": "20 %",
-      "inicio": 1.8,
-      "fin": 2.75,
+      "inicio": 1.79,
+      "fin": 2.74,
       "corte": false
     },
     {
       "texto": "de",
-      "inicio": 2.75,
-      "fin": 2.94,
+      "inicio": 2.74,
+      "fin": 2.93,
       "corte": false
     },
     {
       "texto": "descuento",
-      "inicio": 2.94,
-      "fin": 3.51,
+      "inicio": 2.93,
+      "fin": 3.5,
       "corte": false
     },
     {
       "texto": "y",
-      "inicio": 3.51,
-      "fin": 3.65,
+      "inicio": 3.5,
+      "fin": 3.63,
       "corte": false
     },
     {
       "texto": "20 %",
-      "inicio": 3.65,
-      "fin": 4.6,
+      "inicio": 3.63,
+      "fin": 4.58,
       "corte": false
     },
     {
       "texto": "de",
-      "inicio": 4.6,
-      "fin": 4.79,
+      "inicio": 4.58,
+      "fin": 4.77,
       "corte": false
     },
     {
       "texto": "impuesto.",
-      "inicio": 4.79,
-      "fin": 5.31,
+      "inicio": 4.77,
+      "fin": 5.29,
       "corte": true
     },
     {
       "texto": "¿Qué",
-      "inicio": 5.83,
-      "fin": 6.0,
+      "inicio": 5.78,
+      "fin": 5.95,
       "corte": false
     },
     {
       "texto": "se",
-      "inicio": 6.0,
-      "fin": 6.13,
+      "inicio": 5.95,
+      "fin": 6.08,
       "corte": false
     },
     {
       "texto": "aplica",
-      "inicio": 6.13,
-      "fin": 6.41,
+      "inicio": 6.08,
+      "fin": 6.36,
       "corte": false
     },
     {
       "texto": "primero?",
-      "inicio": 6.41,
-      "fin": 6.73,
+      "inicio": 6.36,
+      "fin": 6.68,
       "corte": true
     },
     {
       "texto": "Descuento",
-      "inicio": 7.25,
-      "fin": 7.72,
+      "inicio": 7.23,
+      "fin": 7.71,
       "corte": false
     },
     {
       "texto": "primero:",
-      "inicio": 7.72,
+      "inicio": 7.71,
       "fin": 8.09,
       "corte": true
     },
     {
       "texto": "100",
-      "inicio": 8.53,
-      "fin": 8.86,
+      "inicio": 8.46,
+      "fin": 8.8,
       "corte": false
     },
     {
       "texto": "por",
-      "inicio": 8.86,
-      "fin": 9.13,
+      "inicio": 8.8,
+      "fin": 9.07,
       "corte": false
     },
     {
       "texto": "0,8",
-      "inicio": 9.13,
-      "fin": 10.0,
+      "inicio": 9.07,
+      "fin": 9.96,
       "corte": false
     },
     {
       "texto": "son",
-      "inicio": 10.0,
-      "fin": 10.27,
+      "inicio": 9.96,
+      "fin": 10.23,
       "corte": false
     },
     {
       "texto": "80,",
-      "inicio": 10.27,
-      "fin": 10.78,
+      "inicio": 10.23,
+      "fin": 10.75,
       "corte": false
     },
     {
       "texto": "y",
-      "inicio": 11.03,
-      "fin": 11.19,
+      "inicio": 11.1,
+      "fin": 11.26,
       "corte": false
     },
     {
       "texto": "por",
-      "inicio": 11.19,
-      "fin": 11.49,
+      "inicio": 11.26,
+      "fin": 11.55,
       "corte": false
     },
     {
       "texto": "1,2",
-      "inicio": 11.49,
-      "fin": 12.32,
+      "inicio": 11.55,
+      "fin": 12.36,
       "corte": false
     },
     {
       "texto": "son",
-      "inicio": 12.32,
-      "fin": 12.61,
+      "inicio": 12.36,
+      "fin": 12.65,
       "corte": false
     },
     {
       "texto": "96.",
-      "inicio": 12.61,
-      "fin": 13.37,
+      "inicio": 12.65,
+      "fin": 13.39,
       "corte": true
     },
     {
       "texto": "Impuesto",
-      "inicio": 13.89,
-      "fin": 14.35,
+      "inicio": 13.88,
+      "fin": 14.38,
       "corte": false
     },
     {
       "texto": "primero:",
-      "inicio": 14.35,
-      "fin": 14.76,
+      "inicio": 14.38,
+      "fin": 14.82,
       "corte": true
     },
     {
       "texto": "100",
-      "inicio": 15.13,
-      "fin": 15.45,
+      "inicio": 15.18,
+      "fin": 15.54,
       "corte": false
     },
     {
       "texto": "por",
-      "inicio": 15.45,
-      "fin": 15.72,
+      "inicio": 15.54,
+      "fin": 15.83,
       "corte": false
     },
     {
       "texto": "1,2",
-      "inicio": 15.72,
-      "fin": 16.46,
+      "inicio": 15.83,
+      "fin": 16.65,
       "corte": false
     },
     {
       "texto": "son",
-      "inicio": 16.46,
-      "fin": 16.72,
+      "inicio": 16.65,
+      "fin": 16.95,
       "corte": false
     },
     {
       "texto": "120,",
-      "inicio": 16.72,
-      "fin": 17.7,
+      "inicio": 16.95,
+      "fin": 18.02,
       "corte": false
     },
     {
       "texto": "y",
-      "inicio": 17.98,
-      "fin": 18.13,
+      "inicio": 18.02,
+      "fin": 18.19,
       "corte": false
     },
     {
       "texto": "por",
-      "inicio": 18.13,
-      "fin": 18.41,
+      "inicio": 18.19,
+      "fin": 18.48,
       "corte": false
     },
     {
       "texto": "0,8",
-      "inicio": 18.41,
-      "fin": 19.32,
+      "inicio": 18.48,
+      "fin": 19.43,
       "corte": false
     },
     {
       "texto": "son",
-      "inicio": 19.32,
-      "fin": 19.61,
+      "inicio": 19.43,
+      "fin": 19.72,
       "corte": false
     },
     {
       "texto": "96.",
-      "inicio": 19.61,
-      "fin": 20.33,
+      "inicio": 19.72,
+      "fin": 20.47,
       "corte": true
     },
     {
       "texto": "Da",
-      "inicio": 20.81,
-      "fin": 21.02,
+      "inicio": 20.89,
+      "fin": 21.12,
       "corte": false
     },
     {
       "texto": "igual",
-      "inicio": 21.02,
-      "fin": 21.43,
+      "inicio": 21.12,
+      "fin": 21.55,
       "corte": false
     },
     {
       "texto": "el",
-      "inicio": 21.43,
-      "fin": 21.65,
+      "inicio": 21.55,
+      "fin": 21.77,
       "corte": false
     },
     {
       "texto": "orden:",
-      "inicio": 21.65,
-      "fin": 22.06,
+      "inicio": 21.77,
+      "fin": 22.2,
       "corte": true
     },
     {
       "texto": "siempre",
-      "inicio": 22.06,
-      "fin": 22.59,
+      "inicio": 22.2,
+      "fin": 22.75,
       "corte": false
     },
     {
       "texto": "96",
-      "inicio": 22.59,
-      "fin": 23.31,
+      "inicio": 22.75,
+      "fin": 23.51,
       "corte": false
     },
     {
       "texto": "euros.",
-      "inicio": 23.31,
-      "fin": 23.72,
+      "inicio": 23.51,
+      "fin": 23.93,
       "corte": true
     },
     {
       "texto": "La",
-      "inicio": 24.05,
-      "fin": 24.2,
+      "inicio": 24.29,
+      "fin": 24.45,
       "corte": false
     },
     {
       "texto": "multiplicación",
-      "inicio": 24.2,
-      "fin": 24.89,
+      "inicio": 24.45,
+      "fin": 25.15,
       "corte": false
     },
     {
       "texto": "no",
-      "inicio": 24.89,
-      "fin": 25.05,
+      "inicio": 25.15,
+      "fin": 25.31,
       "corte": false
     },
     {
       "texto": "cambia",
-      "inicio": 25.05,
-      "fin": 25.38,
+      "inicio": 25.31,
+      "fin": 25.65,
       "corte": false
     },
     {
       "texto": "al",
-      "inicio": 25.38,
-      "fin": 25.54,
+      "inicio": 25.65,
+      "fin": 25.81,
       "corte": false
     },
     {
       "texto": "intercambiar",
-      "inicio": 25.54,
-      "fin": 26.14,
+      "inicio": 25.81,
+      "fin": 26.42,
       "corte": false
     },
     {
       "texto": "los",
-      "inicio": 26.14,
-      "fin": 26.34,
+      "inicio": 26.42,
+      "fin": 26.62,
       "corte": false
     },
     {
       "texto": "factores.",
-      "inicio": 26.34,
-      "fin": 26.77,
+      "inicio": 26.62,
+      "fin": 27.05,
       "corte": true
     },
     {
       "texto": "Eso",
-      "inicio": 27.09,
-      "fin": 27.32,
+      "inicio": 27.39,
+      "fin": 27.62,
       "corte": false
     },
     {
       "texto": "sí:",
-      "inicio": 27.32,
-      "fin": 27.49,
+      "inicio": 27.62,
+      "fin": 27.79,
       "corte": true
     },
     {
       "texto": "pagas",
-      "inicio": 27.84,
-      "fin": 28.31,
+      "inicio": 28.14,
+      "fin": 28.65,
       "corte": false
     },
     {
       "texto": "96,",
-      "inicio": 28.31,
-      "fin": 29.14,
+      "inicio": 28.65,
+      "fin": 29.56,
       "corte": false
     },
     {
       "texto": "no",
-      "inicio": 29.14,
-      "fin": 29.39,
+      "inicio": 29.56,
+      "fin": 29.84,
       "corte": false
     },
     {
       "texto": "100.",
-      "inicio": 29.39,
-      "fin": 29.79,
+      "inicio": 29.84,
+      "fin": 30.28,
       "corte": true
     },
     {
       "texto": "El",
-      "inicio": 30.3,
-      "fin": 30.46,
-      "corte": false
-    },
-    {
-      "texto": "impuesto",
-      "inicio": 30.46,
+      "inicio": 30.67,
       "fin": 30.86,
       "corte": false
     },
     {
-      "texto": "de",
+      "texto": "descuento",
       "inicio": 30.86,
-      "fin": 31.01,
+      "fin": 31.42,
       "corte": false
     },
     {
-      "texto": "20 %",
-      "inicio": 31.01,
-      "fin": 31.77,
+      "texto": "se",
+      "inicio": 31.42,
+      "fin": 31.6,
       "corte": false
     },
     {
-      "texto": "es",
-      "inicio": 31.77,
-      "fin": 31.92,
+      "texto": "calcula",
+      "inicio": 31.6,
+      "fin": 32.06,
       "corte": false
     },
     {
-      "texto": "un",
-      "inicio": 31.92,
-      "fin": 32.07,
+      "texto": "sobre",
+      "inicio": 32.06,
+      "fin": 32.4,
       "corte": false
     },
     {
-      "texto": "ejemplo,",
-      "inicio": 32.07,
-      "fin": 32.43,
+      "texto": "100,",
+      "inicio": 32.4,
+      "fin": 32.69,
       "corte": false
     },
     {
-      "texto": "cada",
-      "inicio": 32.73,
-      "fin": 32.99,
-      "corte": false
-    },
-    {
-      "texto": "país",
-      "inicio": 32.99,
-      "fin": 33.26,
-      "corte": false
-    },
-    {
-      "texto": "tiene",
-      "inicio": 33.26,
-      "fin": 33.56,
+      "texto": "y",
+      "inicio": 32.69,
+      "fin": 32.83,
       "corte": false
     },
     {
       "texto": "el",
-      "inicio": 33.56,
-      "fin": 33.73,
+      "inicio": 32.83,
+      "fin": 33.01,
       "corte": false
     },
     {
-      "texto": "suyo.",
-      "inicio": 33.73,
-      "fin": 33.99,
+      "texto": "impuesto",
+      "inicio": 33.01,
+      "fin": 33.52,
+      "corte": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 33.52,
+      "fin": 33.87,
+      "corte": false
+    },
+    {
+      "texto": "80,",
+      "inicio": 33.87,
+      "fin": 34.32,
+      "corte": false
+    },
+    {
+      "texto": "así",
+      "inicio": 34.32,
+      "fin": 34.56,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 34.56,
+      "fin": 34.8,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 34.8,
+      "fin": 34.99,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 34.99,
+      "fin": 35.17,
+      "corte": false
+    },
+    {
+      "texto": "cancelan.",
+      "inicio": 35.17,
+      "fin": 35.68,
       "corte": true
     },
     {
-      "texto": "Sígueme",
-      "inicio": 34.42,
-      "fin": 34.89,
+      "texto": "Ahora,",
+      "inicio": 36.28,
+      "fin": 36.71,
       "corte": false
     },
     {
-      "texto": "para",
-      "inicio": 34.89,
-      "fin": 35.19,
+      "texto": "la",
+      "inicio": 36.71,
+      "fin": 36.94,
+      "corte": false
+    },
+    {
+      "texto": "trampa",
+      "inicio": 36.94,
+      "fin": 37.43,
       "corte": false
     },
     {
       "texto": "más",
-      "inicio": 35.19,
-      "fin": 35.44,
+      "inicio": 37.43,
+      "fin": 37.72,
+      "corte": false
+    },
+    {
+      "texto": "común.",
+      "inicio": 37.72,
+      "fin": 38.15,
+      "corte": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 38.67,
+      "fin": 38.94,
+      "corte": false
+    },
+    {
+      "texto": "tienda",
+      "inicio": 38.94,
+      "fin": 39.38,
+      "corte": false
+    },
+    {
+      "texto": "anuncia",
+      "inicio": 39.38,
+      "fin": 39.88,
+      "corte": false
+    },
+    {
+      "texto": "20 %",
+      "inicio": 39.88,
+      "fin": 40.91,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 40.91,
+      "fin": 41.12,
+      "corte": false
+    },
+    {
+      "texto": "descuento",
+      "inicio": 41.12,
+      "fin": 41.74,
+      "corte": false
+    },
+    {
+      "texto": "y,",
+      "inicio": 41.74,
+      "fin": 41.89,
+      "corte": false
+    },
+    {
+      "texto": "encima,",
+      "inicio": 41.89,
+      "fin": 42.33,
+      "corte": false
+    },
+    {
+      "texto": "otro",
+      "inicio": 42.33,
+      "fin": 42.65,
+      "corte": false
+    },
+    {
+      "texto": "10 %",
+      "inicio": 42.65,
+      "fin": 43.57,
+      "corte": false
+    },
+    {
+      "texto": "extra.",
+      "inicio": 43.57,
+      "fin": 43.95,
+      "corte": true
+    },
+    {
+      "texto": "Mucha",
+      "inicio": 44.42,
+      "fin": 44.73,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 44.73,
+      "fin": 45.03,
+      "corte": false
+    },
+    {
+      "texto": "suma:",
+      "inicio": 45.03,
+      "fin": 45.29,
+      "corte": true
+    },
+    {
+      "texto": "20",
+      "inicio": 45.62,
+      "fin": 46.04,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 46.04,
+      "fin": 46.29,
+      "corte": false
+    },
+    {
+      "texto": "10",
+      "inicio": 46.29,
+      "fin": 46.59,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 46.59,
+      "fin": 46.84,
+      "corte": false
+    },
+    {
+      "texto": "30 %,",
+      "inicio": 46.84,
+      "fin": 47.86,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 48.12,
+      "fin": 48.29,
+      "corte": false
+    },
+    {
+      "texto": "sea,",
+      "inicio": 48.29,
+      "fin": 48.59,
+      "corte": false
+    },
+    {
+      "texto": "pagar",
+      "inicio": 48.59,
+      "fin": 49.03,
+      "corte": false
+    },
+    {
+      "texto": "70",
+      "inicio": 49.03,
+      "fin": 49.6,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 49.6,
+      "fin": 50.04,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 50.43,
+      "fin": 50.7,
+      "corte": false
+    },
+    {
+      "texto": "no.",
+      "inicio": 50.7,
+      "fin": 50.88,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 51.29,
+      "fin": 51.44,
+      "corte": false
+    },
+    {
+      "texto": "primer",
+      "inicio": 51.44,
+      "fin": 51.78,
+      "corte": false
+    },
+    {
+      "texto": "descuento",
+      "inicio": 51.78,
+      "fin": 52.25,
+      "corte": false
+    },
+    {
+      "texto": "deja",
+      "inicio": 52.25,
+      "fin": 52.49,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 52.49,
+      "fin": 52.65,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 52.65,
+      "fin": 52.99,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 52.99,
+      "fin": 53.14,
+      "corte": false
+    },
+    {
+      "texto": "80.",
+      "inicio": 53.14,
+      "fin": 53.52,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 53.87,
+      "fin": 54.07,
+      "corte": false
+    },
+    {
+      "texto": "segundo",
+      "inicio": 54.07,
+      "fin": 54.54,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 54.54,
+      "fin": 54.74,
+      "corte": false
+    },
+    {
+      "texto": "aplica",
+      "inicio": 54.74,
+      "fin": 55.16,
+      "corte": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 55.16,
+      "fin": 55.52,
+      "corte": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 55.52,
+      "fin": 55.82,
+      "corte": false
+    },
+    {
+      "texto": "80,",
+      "inicio": 55.82,
+      "fin": 56.3,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 56.3,
+      "fin": 56.49,
+      "corte": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 56.49,
+      "fin": 56.85,
+      "corte": false
+    },
+    {
+      "texto": "100:",
+      "inicio": 56.85,
+      "fin": 57.16,
+      "corte": true
+    },
+    {
+      "texto": "80",
+      "inicio": 57.63,
+      "fin": 58.13,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 58.13,
+      "fin": 58.39,
+      "corte": false
+    },
+    {
+      "texto": "0,9",
+      "inicio": 58.39,
+      "fin": 59.29,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 59.29,
+      "fin": 59.55,
+      "corte": false
+    },
+    {
+      "texto": "72.",
+      "inicio": 59.55,
+      "fin": 60.39,
+      "corte": true
+    },
+    {
+      "texto": "Pagas",
+      "inicio": 60.74,
+      "fin": 61.14,
+      "corte": false
+    },
+    {
+      "texto": "72",
+      "inicio": 61.14,
+      "fin": 62.04,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 62.04,
+      "fin": 62.44,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 62.76,
+      "fin": 62.94,
+      "corte": false
+    },
+    {
+      "texto": "descuento",
+      "inicio": 62.94,
+      "fin": 63.48,
+      "corte": false
+    },
+    {
+      "texto": "real",
+      "inicio": 63.48,
+      "fin": 63.76,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 63.76,
+      "fin": 63.94,
+      "corte": false
+    },
+    {
+      "texto": "28 %,",
+      "inicio": 63.94,
+      "fin": 65.05,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 65.05,
+      "fin": 65.23,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 65.23,
+      "fin": 65.41,
+      "corte": false
+    },
+    {
+      "texto": "30.",
+      "inicio": 65.41,
+      "fin": 65.85,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 66.29,
+      "fin": 66.45,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 66.45,
+      "fin": 66.6,
+      "corte": false
+    },
+    {
+      "texto": "artículo",
+      "inicio": 66.6,
+      "fin": 67.01,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 67.01,
+      "fin": 67.16,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 67.16,
+      "fin": 68.01,
+      "corte": false
+    },
+    {
+      "texto": "euros,",
+      "inicio": 68.01,
+      "fin": 68.3,
+      "corte": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 68.3,
+      "fin": 68.54,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 68.54,
+      "fin": 68.73,
+      "corte": false
+    },
+    {
+      "texto": "puntos",
+      "inicio": 68.73,
+      "fin": 69.06,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 69.06,
+      "fin": 69.25,
+      "corte": false
+    },
+    {
+      "texto": "20",
+      "inicio": 69.25,
+      "fin": 69.58,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 69.58,
+      "fin": 69.86,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 69.86,
+      "fin": 70.06,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 70.06,
+      "fin": 70.21,
+      "corte": false
+    },
+    {
+      "texto": "quedan",
+      "inicio": 70.21,
+      "fin": 70.54,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 70.54,
+      "fin": 70.69,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 70.69,
+      "fin": 70.84,
+      "corte": false
+    },
+    {
+      "texto": "tienda.",
+      "inicio": 70.84,
+      "fin": 71.17,
+      "corte": true
+    },
+    {
+      "texto": "Regla",
+      "inicio": 71.72,
+      "fin": 72.1,
+      "corte": false
+    },
+    {
+      "texto": "fácil:",
+      "inicio": 72.1,
+      "fin": 72.47,
+      "corte": true
+    },
+    {
+      "texto": "convierte",
+      "inicio": 72.85,
+      "fin": 73.38,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 73.38,
+      "fin": 73.66,
+      "corte": false
+    },
+    {
+      "texto": "porcentaje",
+      "inicio": 73.66,
+      "fin": 74.24,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 74.24,
+      "fin": 74.42,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 74.42,
+      "fin": 74.59,
+      "corte": false
+    },
+    {
+      "texto": "multiplicador.",
+      "inicio": 74.59,
+      "fin": 75.32,
+      "corte": true
+    },
+    {
+      "texto": "20 %",
+      "inicio": 75.71,
+      "fin": 76.63,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 76.63,
+      "fin": 76.81,
+      "corte": false
+    },
+    {
+      "texto": "descuento",
+      "inicio": 76.81,
+      "fin": 77.36,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 77.36,
+      "fin": 77.55,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 77.55,
+      "fin": 77.78,
+      "corte": false
+    },
+    {
+      "texto": "0,8,",
+      "inicio": 77.78,
+      "fin": 78.55,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 78.85,
+      "fin": 78.99,
+      "corte": false
+    },
+    {
+      "texto": "10 %",
+      "inicio": 78.99,
+      "fin": 79.85,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 79.85,
+      "fin": 80.05,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 80.05,
+      "fin": 80.3,
+      "corte": false
+    },
+    {
+      "texto": "0,9.",
+      "inicio": 80.3,
+      "fin": 81.17,
+      "corte": true
+    },
+    {
+      "texto": "Multiplícalos",
+      "inicio": 81.52,
+      "fin": 82.39,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 82.39,
+      "fin": 82.54,
+      "corte": false
+    },
+    {
+      "texto": "listo.",
+      "inicio": 82.54,
+      "fin": 82.93,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 83.38,
+      "fin": 83.53,
+      "corte": false
+    },
+    {
+      "texto": "impuesto",
+      "inicio": 83.53,
+      "fin": 83.94,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 83.94,
+      "fin": 84.09,
+      "corte": false
+    },
+    {
+      "texto": "20 %",
+      "inicio": 84.09,
+      "fin": 84.84,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 84.84,
+      "fin": 84.99,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 84.99,
+      "fin": 85.14,
+      "corte": false
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 85.14,
+      "fin": 85.51,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 85.79,
+      "fin": 86.04,
+      "corte": false
+    },
+    {
+      "texto": "país",
+      "inicio": 86.04,
+      "fin": 86.29,
+      "corte": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 86.29,
+      "fin": 86.59,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 86.59,
+      "fin": 86.75,
+      "corte": false
+    },
+    {
+      "texto": "suyo.",
+      "inicio": 86.75,
+      "fin": 87.0,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 87.43,
+      "fin": 87.92,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 87.92,
+      "fin": 88.24,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 88.24,
+      "fin": 88.5,
       "corte": false
     },
     {
       "texto": "dinero",
-      "inicio": 35.44,
-      "fin": 35.85,
+      "inicio": 88.5,
+      "fin": 88.93,
       "corte": false
     },
     {
       "texto": "explicado",
-      "inicio": 35.85,
-      "fin": 36.43,
+      "inicio": 88.93,
+      "fin": 89.53,
       "corte": false
     },
     {
       "texto": "con",
-      "inicio": 36.43,
-      "fin": 36.68,
+      "inicio": 89.53,
+      "fin": 89.79,
       "corte": false
     },
     {
       "texto": "números.",
-      "inicio": 36.68,
-      "fin": 37.15,
+      "inicio": 89.79,
+      "fin": 90.28,
       "corte": true
     }
   ]

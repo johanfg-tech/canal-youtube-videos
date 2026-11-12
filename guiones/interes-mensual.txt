@@ -1,6 +1,7 @@
 Un préstamo de 1.000 euros al 2 % mensual. ¿Cuánto es al año? La cuenta rápida: 2 por 12, un 24 %.
-Pero el interés se suma sobre lo que ya debes. 1,02 elevado a 12 es 1,268.
-Eso es un 26,8 % al año: 268 euros, no 240.
-Esos 28 euros de diferencia son el interés sobre el interés.
-Antes de pedir un préstamo, pregunta siempre por la tasa anual, no solo la mensual.
+Pero el interés se suma sobre lo que ya debes. El primer mes debes 1.020. El segundo, 1.040 con 40 céntimos, porque pagas 2 % sobre 1.020.
+Así, mes a mes, el interés crece. A los 6 meses debes 1.126. Y a los 12, 1.268.
+Eso es un 26,8 % al año: 268 euros, no 240. Esos 28 euros de diferencia son el interés sobre el interés.
+Y cuanto más alta la tasa, peor se pone. Con un 3 % mensual, la cuenta rápida dice 36 %, pero el real es 42,6 %.
+Por eso, antes de pedir un préstamo, pregunta siempre por la tasa anual, no solo la mensual.
 Sígueme para más dinero explicado con números.

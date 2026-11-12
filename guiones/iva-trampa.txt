@@ -1,0 +1,14 @@
+Un error muy común con el IVA.
+Un producto cuesta 121 euros con un 21 % de IVA incluido.
+¿Cuánto cuesta sin IVA? Mucha gente hace esto: calcula el 21 % de 121, que son 25,41, y lo resta.
+Resultado: 95,59 euros.
+Pero eso está mal.
+El 21 % se aplicó sobre el precio sin IVA, no sobre 121.
+La forma correcta: divide entre 1,21.
+121 entre 1,21 son exactamente 100 euros.
+La diferencia, 4,41 euros, parece poca.
+Pero en una factura de 10.000 euros, el error sería de más de 300.
+Regla fácil: para añadir IVA, multiplica por 1,21.
+Para quitarlo, divide entre 1,21.
+El 21 % es solo un ejemplo, cada país tiene el suyo.
+Sígueme para más dinero explicado con números.

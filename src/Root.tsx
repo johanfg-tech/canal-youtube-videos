@@ -13,6 +13,11 @@ import millon from "../guiones/millon.json";
 import ahorro10 from "../guiones/ahorro10.json";
 import regla115 from "../guiones/regla115.json";
 import comision from "../guiones/comision.json";
+import movilPlazos from "../guiones/movil-plazos.json";
+import horaTrabajo from "../guiones/hora-trabajo.json";
+import tulipanes from "../guiones/tulipanes.json";
+import hiperinflacion from "../guiones/hiperinflacion.json";
+import ahorro200 from "../guiones/ahorro-200.json";
 import sueldoInflacion from "../guiones/sueldo-inflacion.json";
 import reto52 from "../guiones/reto-52.json";
 import pagoMinimo from "../guiones/pago-minimo.json";
@@ -289,6 +294,71 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         durationInFrames={FPS * 10}
         defaultProps={datosShortSchema.parse(sueldoInflacion)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Ahorro200"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(ahorro200)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Hiperinflacion"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(hiperinflacion)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="Tulipanes"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(tulipanes)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="HoraTrabajo"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(horaTrabajo)}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="MovilPlazos"
+        component={DatosShort}
+        schema={datosShortSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={FPS * 10}
+        defaultProps={datosShortSchema.parse(movilPlazos)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
         })}

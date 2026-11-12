@@ -148,7 +148,21 @@ const calculadoraSchema = z.object({
   pie: z.string(),
 });
 
+const contadorSchema = z.object({
+  tipo: z.literal("contador"),
+  inicio: z.number(),
+  imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
+  mascota: mascotaSchema,
+  titulo: z.string(),
+  desde: z.number(),
+  hasta: z.number(),
+  unidad: z.string().optional(), // p. ej. "marcos" o "€"
+  duracion: z.number().optional(), // segundos que tarda en subir (3 por defecto)
+  pie: z.string().optional(),
+});
+
 const escenaSchema = z.discriminatedUnion("tipo", [
+  contadorSchema,
   etiquetaSchema,
   pensamientoSchema,
   billetesSchema,
@@ -452,6 +466,9 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const r = Math.max(1.2, revelar);
+  // Que la cuenta siempre quepa en 1080 px: cuantos más caracteres, más pequeña.
+  const letras = a.length + b.length;
+  const tamEcuacion = letras <= 6 ? 210 : letras <= 9 ? 140 : letras <= 11 ? 110 : 90;
   const factor = 10 ** decimales;
   const valor = (useContador(resultado * factor, r - 0.5, 0.5) / factor)
     .toFixed(decimales)
@@ -472,7 +489,7 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
         <Pop desde="-500px 0px">
           <div
             style={{
-              ...estiloTexto(a.length > 3 ? 140 : 210),
+              ...estiloTexto(tamEcuacion),
               whiteSpace: "nowrap",
             }}
           >
@@ -492,7 +509,7 @@ const Ecuacion: React.FC<z.infer<typeof ecuacionSchema>> = ({
         <Pop delay={0.5} desde="500px 0px">
           <div
             style={{
-              ...estiloTexto(b.length > 3 ? 140 : 210),
+              ...estiloTexto(tamEcuacion),
               whiteSpace: "nowrap",
             }}
           >
@@ -776,6 +793,68 @@ const Encoger: React.FC<z.infer<typeof encogerSchema>> = ({
   );
 };
 
+// Número que sube (o baja) de golpe: crece de forma exponencial, así cada cifra nueva se nota.
+const Contador: React.FC<z.infer<typeof contadorSchema>> = ({
+  titulo,
+  desde,
+  hasta,
+  unidad,
+  duracion = 3,
+  pie,
+}) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const p = interpolate(frame, [0.5 * fps, (0.5 + duracion) * fps], [0, 1], {
+    ...clamp,
+    easing: Easing.bezier(0.45, 0, 0.2, 1),
+  });
+  const valor = Math.round(desde * Math.pow(hasta / desde, p));
+  const texto = String(valor).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+  const cifras = String(hasta).length;
+  const tam =
+    cifras <= 4 ? 260 : cifras <= 7 ? 200 : cifras <= 9 ? 150 : cifras <= 11 ? 115 : cifras <= 12 ? 100 : 82;
+  const fin = useResorte(0.5 + duracion, 8);
+  const temblor = useTemblor(0.5 + duracion);
+  const pulso = 1 + 0.04 * Math.sin((frame / fps) * Math.PI * 6) * p;
+  return (
+    <AbsoluteFill
+      style={{
+        alignItems: "center",
+        justifyContent: "center",
+        gap: 40,
+        translate: temblor,
+      }}
+    >
+      <Pop>
+        <div style={{ ...estiloTexto(80), textAlign: "center" }}>{titulo}</div>
+      </Pop>
+      <div style={{ position: "relative", display: "flex", justifyContent: "center" }}>
+        <Estallido delay={0.5 + duracion} />
+        <div
+          style={{
+            ...estiloTexto(tam, AMARILLO),
+            whiteSpace: "nowrap",
+            scale: String(pulso * (1 + 0.12 * fin)),
+            textShadow: `0 0 ${40 + 60 * p}px ${AMARILLO}88, 0 14px 0 rgba(0,0,0,0.4)`,
+          }}
+        >
+          {texto}
+        </div>
+      </div>
+      {unidad ? (
+        <Pop delay={0.3}>
+          <div style={estiloTexto(90, theme.text, 800)}>{unidad}</div>
+        </Pop>
+      ) : null}
+      {pie ? (
+        <Pop delay={0.5 + duracion}>
+          <div style={{ ...estiloTexto(64, theme.text, 800), textAlign: "center" }}>{pie}</div>
+        </Pop>
+      ) : null}
+    </AbsoluteFill>
+  );
+};
+
 const EscenaContenido = ({
   escena,
   presentador,
@@ -794,6 +873,8 @@ const EscenaContenido = ({
       return <Barras {...escena} />;
     case "encoger":
       return <Encoger {...escena} />;
+    case "contador":
+      return <Contador {...escena} />;
     case "etiqueta":
       return <EscenaEtiqueta {...escena} />;
     case "pensamiento":
@@ -902,6 +983,7 @@ const Destello: React.FC = () => {
 const momentosDing = (e: Escena) => {
   if (e.tipo === "ecuacion") return [Math.max(1.2, e.revelar ?? 1.7)];
   if (e.tipo === "duplicar") return [1.1];
+  if (e.tipo === "contador") return [0.5 + (e.duracion ?? 3)];
   if (e.tipo === "titular" && e.destacado) return [0.8];
   if (e.tipo === "etiqueta") return e.pasos.map((p) => p.en);
   if (e.tipo === "pensamiento" && e.tachar !== undefined) return [e.tachar];

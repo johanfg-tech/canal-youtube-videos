@@ -51,11 +51,11 @@
   },
   "orden-descuento": {
     "video": "remate/orden-descuento.mp4",
-    "corte": 34.27,
-    "gancho": "¿Primero el descuento o el impuesto?",
+    "corte": 87.28,
+    "gancho": "¿Descuento + descuento = suma?",
     "pregunta": "¿Pensabas que el orden importaba?",
     "voz": "remate/voz-orden-descuento.mp3",
-    "vozDur": 5.8,
+    "vozDur": 6.77,
     "cierre": "SÍGUEME ▶",
     "subcierre": "Mañana, otro número que sorprende"
   },
@@ -81,11 +81,101 @@
   },
   "interes-mensual": {
     "video": "remate/interes-mensual.mp4",
-    "corte": 31.96,
+    "corte": 54.95,
     "gancho": "2 % al mes no es 24 % al año",
     "pregunta": "¿Te han ofrecido un préstamo al 2 % mensual?",
     "voz": "remate/voz-interes-mensual.mp3",
+    "vozDur": 7.71,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "fondo-emergencia": {
+    "video": "remate/fondo-emergencia.mp4",
+    "corte": 52.21,
+    "gancho": "Tu colchón para imprevistos",
+    "pregunta": "¿Cuántos meses de gastos tienes ahorrados?",
+    "voz": "remate/voz-fondo-emergencia.mp3",
+    "vozDur": 7.08,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "pago-minimo": {
+    "video": "remate/pago-minimo.mp4",
+    "corte": 23.13,
+    "gancho": "El pago mínimo te cuesta caro",
+    "pregunta": "¿Sabes qué tasa te cobra tu tarjeta?",
+    "voz": "remate/voz-pago-minimo.mp3",
+    "vozDur": 6.92,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "reto-52": {
+    "video": "remate/reto-52.mp4",
+    "corte": 56.94,
+    "gancho": "1.378 € ahorrando poco a poco",
+    "pregunta": "¿Te animas a empezar esta semana?",
+    "voz": "remate/voz-reto-52.mp3",
+    "vozDur": 6.53,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "sueldo-inflacion": {
+    "video": "remate/sueldo-inflacion.mp4",
+    "corte": 23.18,
+    "gancho": "¿Subida de sueldo? Depende",
+    "pregunta": "¿Tu sueldo le gana a la inflación?",
+    "voz": "remate/voz-sueldo-inflacion.mp3",
+    "vozDur": 6.69,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "ahorro-200": {
+    "video": "remate/ahorro-200.mp4",
+    "corte": 62.73,
+    "gancho": "200 € al mes durante 40 años",
+    "pregunta": "¿Cuántos años te faltan para tu meta?",
+    "voz": "remate/voz-ahorro-200.mp3",
     "vozDur": 6.84,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "hiperinflacion": {
+    "video": "remate/hiperinflacion.mp4",
+    "corte": 55.5,
+    "gancho": "Un pan: 200 mil millones de marcos",
+    "pregunta": "¿Confías en tu dinero?",
+    "voz": "remate/voz-hiperinflacion.mp3",
+    "vozDur": 6.11,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "tulipanes": {
+    "video": "remate/tulipanes.mp4",
+    "corte": 56.76,
+    "gancho": "Una flor costaba más que una casa",
+    "pregunta": "¿Comprarías algo solo porque sube?",
+    "voz": "remate/voz-tulipanes.mp3",
+    "vozDur": 7.39,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "hora-trabajo": {
+    "video": "remate/hora-trabajo.mp4",
+    "corte": 51.05,
+    "gancho": "¿Cuánto cuesta en horas de trabajo?",
+    "pregunta": "¿Sabes cuánto vale tu hora?",
+    "voz": "remate/voz-hora-trabajo.mp3",
+    "vozDur": 7.24,
+    "cierre": "SÍGUEME ▶",
+    "subcierre": "Mañana, otro número que sorprende"
+  },
+  "movil-plazos": {
+    "video": "remate/movil-plazos.mp4",
+    "corte": 49.41,
+    "gancho": "«Sin intereses»: ¿seguro?",
+    "pregunta": "¿Has pagado «sin intereses» que sí los tenía?",
+    "voz": "remate/voz-movil-plazos.mp3",
+    "vozDur": 8.44,
     "cierre": "SÍGUEME ▶",
     "subcierre": "Mañana, otro número que sorprende"
   }

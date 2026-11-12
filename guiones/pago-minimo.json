@@ -1,7 +1,7 @@
 {
   "audio": "narraciones/pago-minimo.mp3",
   "duracion": 23.3,
-  "aviso": "Ejemplo educativo. No es asesoramiento financiero.",
+  "aviso": "",
   "sfx": true,
   "escenas": [
     {

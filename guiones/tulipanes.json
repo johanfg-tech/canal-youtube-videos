@@ -1,0 +1,1130 @@
+{
+  "audio": "narraciones/tulipanes.mp3",
+  "duracion": 60.3,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "En 1637,",
+      "inicio": 0,
+      "lineas": [
+        "Holanda, 1637",
+        "Una flor costaba",
+        "más que una casa"
+      ],
+      "resaltar": [
+        "casa"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Los tulipanes",
+      "inicio": 7.44,
+      "lineas": [
+        "Raros y bonitos:",
+        "los precios suben"
+      ],
+      "resaltar": [
+        "suben"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pronto,",
+      "inicio": 13.42,
+      "lineas": [
+        "Ya no los compraban",
+        "para verlos"
+      ],
+      "resaltar": [
+        "verlos"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Los compraba para venderlos",
+      "inicio": 16.38,
+      "lineas": [
+        "Los compraban para",
+        "venderlos más caros"
+      ],
+      "resaltar": [
+        "más caros"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "Se cuenta",
+      "inicio": 18.89,
+      "titulo": "Un solo bulbo de tulipán",
+      "desde": 10,
+      "hasta": 10000,
+      "unidad": "florines",
+      "duracion": 2.4
+    },
+    {
+      "tipo": "barras",
+      "en": "Un artesano",
+      "inicio": 22.51,
+      "titulo": "Florines",
+      "barras": [
+        {
+          "etiqueta": "Sueldo anual",
+          "valor": 300,
+          "texto": "fl."
+        },
+        {
+          "etiqueta": "Un bulbo",
+          "valor": 10000,
+          "texto": "fl."
+        }
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Eran más",
+      "inicio": 25.27,
+      "lineas": [
+        "Más de 30 años",
+        "de sueldo por una flor"
+      ],
+      "resaltar": [
+        "30"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y entonces,",
+      "inicio": 28.88,
+      "lineas": [
+        "Febrero de 1637:",
+        "nadie quiso comprar"
+      ],
+      "resaltar": [
+        "nadie"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "En pocas",
+      "inicio": 34.32,
+      "titulo": "Precio del bulbo",
+      "desde": 10000,
+      "hasta": 300,
+      "unidad": "florines",
+      "duracion": 2.2
+    },
+    {
+      "tipo": "titular",
+      "en": "Quien compró",
+      "inicio": 37.16,
+      "lineas": [
+        "Comprar caro",
+        "y quedarse con la flor"
+      ],
+      "resaltar": [
+        "caro"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Algunos historiadores",
+      "inicio": 41.67,
+      "lineas": [
+        "Quizá se exageró,",
+        "pero el patrón es real"
+      ],
+      "resaltar": [
+        "real"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero el",
+      "inicio": 44.62,
+      "lineas": [
+        "Todos compran",
+        "porque el precio sube"
+      ],
+      "resaltar": [
+        "sube"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Antes de",
+      "inicio": 49.27,
+      "lineas": [
+        "¿Lo compras por",
+        "lo que vale?"
+      ],
+      "resaltar": [
+        "vale"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 56.78,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "10.000 florines",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.24,
+      "corte": false
+    },
+    {
+      "texto": "1637,",
+      "inicio": 0.24,
+      "fin": 1.73,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 1.73,
+      "fin": 1.97,
+      "corte": false
+    },
+    {
+      "texto": "Holanda,",
+      "inicio": 1.97,
+      "fin": 2.56,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 2.91,
+      "fin": 3.15,
+      "corte": false
+    },
+    {
+      "texto": "sola",
+      "inicio": 3.15,
+      "fin": 3.45,
+      "corte": false
+    },
+    {
+      "texto": "flor",
+      "inicio": 3.45,
+      "fin": 3.74,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 3.74,
+      "fin": 4.09,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 4.09,
+      "fin": 4.22,
+      "corte": false
+    },
+    {
+      "texto": "costar",
+      "inicio": 4.22,
+      "fin": 4.63,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 4.63,
+      "fin": 4.87,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 4.87,
+      "fin": 5.11,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 5.11,
+      "fin": 5.35,
+      "corte": false
+    },
+    {
+      "texto": "casa.",
+      "inicio": 5.35,
+      "fin": 5.64,
+      "corte": true
+    },
+    {
+      "texto": "Era",
+      "inicio": 6.12,
+      "fin": 6.37,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 6.37,
+      "fin": 6.57,
+      "corte": false
+    },
+    {
+      "texto": "tulipán.",
+      "inicio": 6.57,
+      "fin": 7.04,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 7.59,
+      "fin": 7.83,
+      "corte": false
+    },
+    {
+      "texto": "tulipanes",
+      "inicio": 7.83,
+      "fin": 8.4,
+      "corte": false
+    },
+    {
+      "texto": "eran",
+      "inicio": 8.4,
+      "fin": 8.7,
+      "corte": false
+    },
+    {
+      "texto": "raros",
+      "inicio": 8.7,
+      "fin": 9.05,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 9.05,
+      "fin": 9.18,
+      "corte": false
+    },
+    {
+      "texto": "bonitos.",
+      "inicio": 9.18,
+      "fin": 9.64,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 9.99,
+      "fin": 10.22,
+      "corte": false
+    },
+    {
+      "texto": "ricos",
+      "inicio": 10.22,
+      "fin": 10.54,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.54,
+      "fin": 10.77,
+      "corte": false
+    },
+    {
+      "texto": "querían,",
+      "inicio": 10.77,
+      "fin": 11.2,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 11.5,
+      "fin": 11.62,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 11.62,
+      "fin": 11.83,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 11.83,
+      "fin": 12.22,
+      "corte": false
+    },
+    {
+      "texto": "empezaron",
+      "inicio": 12.22,
+      "fin": 12.71,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 12.71,
+      "fin": 12.82,
+      "corte": false
+    },
+    {
+      "texto": "subir.",
+      "inicio": 12.82,
+      "fin": 13.13,
+      "corte": true
+    },
+    {
+      "texto": "Pronto,",
+      "inicio": 13.57,
+      "fin": 13.95,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13.95,
+      "fin": 14.13,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 14.13,
+      "fin": 14.45,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 14.45,
+      "fin": 14.63,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 14.63,
+      "fin": 14.81,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 14.81,
+      "fin": 15.04,
+      "corte": false
+    },
+    {
+      "texto": "compraba",
+      "inicio": 15.04,
+      "fin": 15.52,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 15.52,
+      "fin": 15.8,
+      "corte": false
+    },
+    {
+      "texto": "verlos.",
+      "inicio": 15.8,
+      "fin": 16.18,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 16.53,
+      "fin": 16.75,
+      "corte": false
+    },
+    {
+      "texto": "compraba",
+      "inicio": 16.75,
+      "fin": 17.21,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 17.21,
+      "fin": 17.48,
+      "corte": false
+    },
+    {
+      "texto": "venderlos",
+      "inicio": 17.48,
+      "fin": 17.99,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 17.99,
+      "fin": 18.21,
+      "corte": false
+    },
+    {
+      "texto": "caros.",
+      "inicio": 18.21,
+      "fin": 18.53,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 19.04,
+      "fin": 19.2,
+      "corte": false
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 19.2,
+      "fin": 19.54,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.54,
+      "fin": 19.74,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 19.74,
+      "fin": 19.89,
+      "corte": false
+    },
+    {
+      "texto": "bulbo",
+      "inicio": 19.89,
+      "fin": 20.19,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 20.19,
+      "fin": 20.48,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.48,
+      "fin": 20.59,
+      "corte": false
+    },
+    {
+      "texto": "costar",
+      "inicio": 20.59,
+      "fin": 20.92,
+      "corte": false
+    },
+    {
+      "texto": "10.000",
+      "inicio": 20.92,
+      "fin": 21.84,
+      "corte": false
+    },
+    {
+      "texto": "florines.",
+      "inicio": 21.84,
+      "fin": 22.27,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 22.66,
+      "fin": 22.83,
+      "corte": false
+    },
+    {
+      "texto": "artesano",
+      "inicio": 22.83,
+      "fin": 23.27,
+      "corte": false
+    },
+    {
+      "texto": "ganaba",
+      "inicio": 23.27,
+      "fin": 23.62,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 23.62,
+      "fin": 23.88,
+      "corte": false
+    },
+    {
+      "texto": "300",
+      "inicio": 23.88,
+      "fin": 24.66,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 24.66,
+      "fin": 24.82,
+      "corte": false
+    },
+    {
+      "texto": "año.",
+      "inicio": 24.82,
+      "fin": 25.03,
+      "corte": true
+    },
+    {
+      "texto": "Eran",
+      "inicio": 25.42,
+      "fin": 25.73,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 25.73,
+      "fin": 25.99,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.99,
+      "fin": 26.19,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 26.19,
+      "fin": 26.67,
+      "corte": false
+    },
+    {
+      "texto": "años",
+      "inicio": 26.67,
+      "fin": 26.98,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 26.98,
+      "fin": 27.18,
+      "corte": false
+    },
+    {
+      "texto": "sueldo",
+      "inicio": 27.18,
+      "fin": 27.61,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 27.61,
+      "fin": 27.86,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 27.86,
+      "fin": 28.12,
+      "corte": false
+    },
+    {
+      "texto": "flor.",
+      "inicio": 28.12,
+      "fin": 28.43,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.03,
+      "fin": 29.19,
+      "corte": false
+    },
+    {
+      "texto": "entonces,",
+      "inicio": 29.19,
+      "fin": 29.79,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 29.79,
+      "fin": 30.02,
+      "corte": false
+    },
+    {
+      "texto": "febrero",
+      "inicio": 30.02,
+      "fin": 30.56,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 30.56,
+      "fin": 30.78,
+      "corte": false
+    },
+    {
+      "texto": "1637,",
+      "inicio": 30.78,
+      "fin": 32.16,
+      "corte": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 32.45,
+      "fin": 32.85,
+      "corte": false
+    },
+    {
+      "texto": "quiso",
+      "inicio": 32.85,
+      "fin": 33.24,
+      "corte": false
+    },
+    {
+      "texto": "comprar",
+      "inicio": 33.24,
+      "fin": 33.75,
+      "corte": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 33.75,
+      "fin": 34.02,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 34.47,
+      "fin": 34.65,
+      "corte": false
+    },
+    {
+      "texto": "pocas",
+      "inicio": 34.65,
+      "fin": 34.97,
+      "corte": false
+    },
+    {
+      "texto": "semanas,",
+      "inicio": 34.97,
+      "fin": 35.39,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 35.39,
+      "fin": 35.62,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 35.62,
+      "fin": 36.04,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 36.04,
+      "fin": 36.21,
+      "corte": false
+    },
+    {
+      "texto": "desplomaron.",
+      "inicio": 36.21,
+      "fin": 36.84,
+      "corte": true
+    },
+    {
+      "texto": "Quien",
+      "inicio": 37.31,
+      "fin": 37.6,
+      "corte": false
+    },
+    {
+      "texto": "compró",
+      "inicio": 37.6,
+      "fin": 37.95,
+      "corte": false
+    },
+    {
+      "texto": "caro",
+      "inicio": 37.95,
+      "fin": 38.2,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 38.2,
+      "fin": 38.36,
+      "corte": false
+    },
+    {
+      "texto": "quedó",
+      "inicio": 38.36,
+      "fin": 38.65,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 38.65,
+      "fin": 38.86,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 38.86,
+      "fin": 39.06,
+      "corte": false
+    },
+    {
+      "texto": "flor",
+      "inicio": 39.06,
+      "fin": 39.31,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.31,
+      "fin": 39.52,
+      "corte": false
+    },
+    {
+      "texto": "valía",
+      "inicio": 39.52,
+      "fin": 39.82,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 39.82,
+      "fin": 40.02,
+      "corte": false
+    },
+    {
+      "texto": "fracción",
+      "inicio": 40.02,
+      "fin": 40.46,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 40.46,
+      "fin": 40.62,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 40.62,
+      "fin": 40.78,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 40.78,
+      "fin": 40.98,
+      "corte": false
+    },
+    {
+      "texto": "pagó.",
+      "inicio": 40.98,
+      "fin": 41.23,
+      "corte": true
+    },
+    {
+      "texto": "Algunos",
+      "inicio": 41.82,
+      "fin": 42.19,
+      "corte": false
+    },
+    {
+      "texto": "historiadores",
+      "inicio": 42.19,
+      "fin": 42.82,
+      "corte": false
+    },
+    {
+      "texto": "dicen",
+      "inicio": 42.82,
+      "fin": 43.1,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.1,
+      "fin": 43.29,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.29,
+      "fin": 43.44,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 43.44,
+      "fin": 43.85,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 43.85,
+      "fin": 44.01,
+      "corte": false
+    },
+    {
+      "texto": "exageró.",
+      "inicio": 44.01,
+      "fin": 44.37,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 44.77,
+      "fin": 45.06,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 45.06,
+      "fin": 45.24,
+      "corte": false
+    },
+    {
+      "texto": "patrón",
+      "inicio": 45.24,
+      "fin": 45.62,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 45.62,
+      "fin": 45.8,
+      "corte": false
+    },
+    {
+      "texto": "real:",
+      "inicio": 45.8,
+      "fin": 46.09,
+      "corte": true
+    },
+    {
+      "texto": "todos",
+      "inicio": 46.53,
+      "fin": 46.87,
+      "corte": false
+    },
+    {
+      "texto": "compran",
+      "inicio": 46.87,
+      "fin": 47.31,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 47.31,
+      "fin": 47.6,
+      "corte": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 47.6,
+      "fin": 47.99,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 47.99,
+      "fin": 48.17,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 48.17,
+      "fin": 48.56,
+      "corte": false
+    },
+    {
+      "texto": "sube.",
+      "inicio": 48.56,
+      "fin": 48.84,
+      "corte": true
+    },
+    {
+      "texto": "Antes",
+      "inicio": 49.42,
+      "fin": 49.74,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 49.74,
+      "fin": 49.92,
+      "corte": false
+    },
+    {
+      "texto": "comprar",
+      "inicio": 49.92,
+      "fin": 50.33,
+      "corte": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 50.33,
+      "fin": 50.6,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 50.6,
+      "fin": 50.83,
+      "corte": false
+    },
+    {
+      "texto": "sube",
+      "inicio": 50.83,
+      "fin": 51.1,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 51.1,
+      "fin": 51.32,
+      "corte": false
+    },
+    {
+      "texto": "parar,",
+      "inicio": 51.32,
+      "fin": 51.64,
+      "corte": false
+    },
+    {
+      "texto": "pregúntate:",
+      "inicio": 51.64,
+      "fin": 52.2,
+      "corte": true
+    },
+    {
+      "texto": "¿lo",
+      "inicio": 52.62,
+      "fin": 52.79,
+      "corte": false
+    },
+    {
+      "texto": "compro",
+      "inicio": 52.79,
+      "fin": 53.16,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 53.16,
+      "fin": 53.38,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 53.38,
+      "fin": 53.56,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 53.56,
+      "fin": 53.78,
+      "corte": false
+    },
+    {
+      "texto": "vale,",
+      "inicio": 53.78,
+      "fin": 54.05,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 54.05,
+      "fin": 54.17,
+      "corte": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 54.17,
+      "fin": 54.54,
+      "corte": false
+    },
+    {
+      "texto": "espero",
+      "inicio": 54.54,
+      "fin": 54.91,
+      "corte": false
+    },
+    {
+      "texto": "vendérselo",
+      "inicio": 54.91,
+      "fin": 55.47,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 55.47,
+      "fin": 55.69,
+      "corte": false
+    },
+    {
+      "texto": "caro",
+      "inicio": 55.69,
+      "fin": 55.96,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 55.96,
+      "fin": 56.09,
+      "corte": false
+    },
+    {
+      "texto": "otro?",
+      "inicio": 56.09,
+      "fin": 56.36,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 56.93,
+      "fin": 57.42,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 57.42,
+      "fin": 57.74,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 57.74,
+      "fin": 58.0,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 58.0,
+      "fin": 58.43,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 58.43,
+      "fin": 59.04,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 59.04,
+      "fin": 59.3,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 59.3,
+      "fin": 59.79,
+      "corte": true
+    }
+  ]
+}

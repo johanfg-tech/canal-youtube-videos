@@ -2,5 +2,12 @@ Un artículo de 100 euros, con 20 % de descuento y 20 % de impuesto. ¿Qué se a
 Descuento primero: 100 por 0,8 son 80, y por 1,2 son 96.
 Impuesto primero: 100 por 1,2 son 120, y por 0,8 son 96.
 Da igual el orden: siempre 96 euros. La multiplicación no cambia al intercambiar los factores.
-Eso sí: pagas 96, no 100. El impuesto de 20 % es un ejemplo, cada país tiene el suyo.
+Eso sí: pagas 96, no 100. El descuento se calcula sobre 100, y el impuesto sobre 80, así que no se cancelan.
+Ahora, la trampa más común. Una tienda anuncia 20 % de descuento y, encima, otro 10 % extra.
+Mucha gente suma: 20 más 10 son 30 %, o sea, pagar 70 euros. Pero no.
+El primer descuento deja el precio en 80. El segundo se aplica sobre esos 80, no sobre 100: 80 por 0,9 son 72.
+Pagas 72 euros. Un descuento real de 28 %, no de 30.
+En un artículo de 1.000 euros, esos dos puntos son 20 euros que se quedan en la tienda.
+Regla fácil: convierte cada porcentaje en un multiplicador. 20 % de descuento es por 0,8, y 10 % es por 0,9. Multiplícalos y listo.
+El impuesto de 20 % es un ejemplo, cada país tiene el suyo.
 Sígueme para más dinero explicado con números.

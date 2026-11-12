@@ -1,0 +1,15 @@
+Cómo calcular porcentajes de cabeza, en 10 segundos.
+Primero, el 10 %: mueve la coma un lugar a la izquierda.
+El 10 % de 80 es 8.
+Con eso ya tienes casi todo.
+El 20 % es el doble: 16.
+El 5 % es la mitad del 10: 4.
+El 15 %, que es la propina típica, es el 10 más el 5: 8 más 4, son 12.
+Y el 25 % es la cuarta parte: 80 entre 4, son 20.
+Probemos con una cuenta de 60 euros.
+El 10 % es 6.
+El 20 %, 12.
+El 15 %, 9.
+Y si te dan un descuento del 30 %, calcula el 10 % y multiplica por 3: en 60, son 18.
+Practícalo una semana, y no volverás a abrir la calculadora.
+Sígueme para más dinero explicado con números.

@@ -1,0 +1,1006 @@
+{
+  "audio": "narraciones/movil-plazos.mp3",
+  "duracion": 52.8,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Un móvil",
+      "inicio": 0,
+      "lineas": [
+        "Móvil de 600 €"
+      ],
+      "resaltar": [
+        "600"
+      ],
+      "imagen": "ia/calculadora.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "La tienda",
+      "inicio": 2.17,
+      "lineas": [
+        "24 cuotas de 28 €",
+        "¡Sin intereses!"
+      ],
+      "resaltar": [
+        "Sin"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Pero 24",
+      "inicio": 8.61,
+      "a": "24",
+      "operador": "×",
+      "b": "28",
+      "resultado": 672,
+      "etiqueta": "€ en total",
+      "revelar": 2.6
+    },
+    {
+      "tipo": "contador",
+      "en": "Pagas 72",
+      "inicio": 12.78,
+      "titulo": "Pagas de más",
+      "desde": 1,
+      "hasta": 72,
+      "unidad": "€",
+      "duracion": 1.4
+    },
+    {
+      "tipo": "titular",
+      "en": "Eso es",
+      "inicio": 15.62,
+      "lineas": [
+        "Un 12 % más",
+        "que al contado"
+      ],
+      "resaltar": [
+        "12"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y como",
+      "inicio": 17.61,
+      "lineas": [
+        "Interés real:",
+        "casi 12 % al año"
+      ],
+      "resaltar": [
+        "12"
+      ],
+      "imagen": "ia/calendario-porcentaje.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Cuando dicen",
+      "inicio": 23.85,
+      "lineas": [
+        "«Sin intereses»:",
+        "a veces va en",
+        "el precio"
+      ],
+      "resaltar": [
+        "precio"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Cómo comprobarlo:",
+      "inicio": 28.58,
+      "lineas": [
+        "Cómo",
+        "comprobarlo"
+      ],
+      "resaltar": [
+        "comprobarlo"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "pregunta cuánto",
+      "inicio": 29.85,
+      "lineas": [
+        "Pregunta el precio",
+        "al contado"
+      ],
+      "resaltar": [
+        "contado"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Si cuesta",
+      "inicio": 32.05,
+      "lineas": [
+        "Contado menor",
+        "que las cuotas",
+        "= hay intereses"
+      ],
+      "resaltar": [
+        "intereses"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Haz la",
+      "inicio": 35.59,
+      "a": "672",
+      "operador": "−",
+      "b": "600",
+      "resultado": 72,
+      "etiqueta": "€ de intereses",
+      "revelar": 3.0
+    },
+    {
+      "tipo": "titular",
+      "en": "Ese resultado",
+      "inicio": 40.54,
+      "lineas": [
+        "Eso pagas por",
+        "financiar"
+      ],
+      "resaltar": [
+        "financiar"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Si puedes,",
+      "inicio": 44.01,
+      "lineas": [
+        "Mejor ahorrar",
+        "y pagar al contado"
+      ],
+      "resaltar": [
+        "ahorrar"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "te quedas",
+      "inicio": 47.19,
+      "lineas": [
+        "Te quedas",
+        "72 €"
+      ],
+      "resaltar": [
+        "72"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 49.43,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "72 €",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.21,
+      "corte": false
+    },
+    {
+      "texto": "móvil",
+      "inicio": 0.21,
+      "fin": 0.6,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.6,
+      "fin": 0.81,
+      "corte": false
+    },
+    {
+      "texto": "600",
+      "inicio": 0.81,
+      "fin": 1.56,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 1.56,
+      "fin": 1.94,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 2.32,
+      "fin": 2.48,
+      "corte": false
+    },
+    {
+      "texto": "tienda",
+      "inicio": 2.48,
+      "fin": 2.82,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 2.82,
+      "fin": 2.98,
+      "corte": false
+    },
+    {
+      "texto": "dice:",
+      "inicio": 2.98,
+      "fin": 3.23,
+      "corte": true
+    },
+    {
+      "texto": "págalo",
+      "inicio": 3.65,
+      "fin": 4.05,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 4.05,
+      "fin": 4.24,
+      "corte": false
+    },
+    {
+      "texto": "24",
+      "inicio": 4.24,
+      "fin": 4.97,
+      "corte": false
+    },
+    {
+      "texto": "cuotas",
+      "inicio": 4.97,
+      "fin": 5.38,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.38,
+      "fin": 5.57,
+      "corte": false
+    },
+    {
+      "texto": "28",
+      "inicio": 5.57,
+      "fin": 6.19,
+      "corte": false
+    },
+    {
+      "texto": "euros,",
+      "inicio": 6.19,
+      "fin": 6.55,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 6.55,
+      "fin": 6.79,
+      "corte": false
+    },
+    {
+      "texto": "intereses.",
+      "inicio": 6.79,
+      "fin": 7.36,
+      "corte": true
+    },
+    {
+      "texto": "Suena",
+      "inicio": 7.78,
+      "fin": 8.08,
+      "corte": false
+    },
+    {
+      "texto": "bien.",
+      "inicio": 8.08,
+      "fin": 8.34,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 8.76,
+      "fin": 9.05,
+      "corte": false
+    },
+    {
+      "texto": "24",
+      "inicio": 9.05,
+      "fin": 9.75,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 9.75,
+      "fin": 9.99,
+      "corte": false
+    },
+    {
+      "texto": "28",
+      "inicio": 9.99,
+      "fin": 10.59,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 10.59,
+      "fin": 10.83,
+      "corte": false
+    },
+    {
+      "texto": "672",
+      "inicio": 10.83,
+      "fin": 12.21,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 12.21,
+      "fin": 12.55,
+      "corte": true
+    },
+    {
+      "texto": "Pagas",
+      "inicio": 12.93,
+      "fin": 13.26,
+      "corte": false
+    },
+    {
+      "texto": "72",
+      "inicio": 13.26,
+      "fin": 13.98,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 13.98,
+      "fin": 14.3,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 14.3,
+      "fin": 14.52,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 14.52,
+      "fin": 14.74,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 14.74,
+      "fin": 14.92,
+      "corte": false
+    },
+    {
+      "texto": "contado.",
+      "inicio": 14.92,
+      "fin": 15.34,
+      "corte": true
+    },
+    {
+      "texto": "Eso",
+      "inicio": 15.77,
+      "fin": 16.01,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 16.01,
+      "fin": 16.19,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 16.19,
+      "fin": 16.37,
+      "corte": false
+    },
+    {
+      "texto": "12 %",
+      "inicio": 16.37,
+      "fin": 17.18,
+      "corte": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 17.18,
+      "fin": 17.41,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.76,
+      "fin": 17.89,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 17.89,
+      "fin": 18.18,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.18,
+      "fin": 18.37,
+      "corte": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 18.37,
+      "fin": 18.71,
+      "corte": false
+    },
+    {
+      "texto": "poco",
+      "inicio": 18.71,
+      "fin": 19.0,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 19.0,
+      "fin": 19.13,
+      "corte": false
+    },
+    {
+      "texto": "poco,",
+      "inicio": 19.13,
+      "fin": 19.42,
+      "corte": false
+    },
+    {
+      "texto": "equivale",
+      "inicio": 19.42,
+      "fin": 19.92,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 19.92,
+      "fin": 20.06,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 20.06,
+      "fin": 20.24,
+      "corte": false
+    },
+    {
+      "texto": "interés",
+      "inicio": 20.24,
+      "fin": 20.69,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.69,
+      "fin": 20.87,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 20.87,
+      "fin": 21.16,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 21.16,
+      "fin": 21.35,
+      "corte": false
+    },
+    {
+      "texto": "12 %",
+      "inicio": 21.35,
+      "fin": 22.17,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 22.17,
+      "fin": 22.35,
+      "corte": false
+    },
+    {
+      "texto": "año,",
+      "inicio": 22.35,
+      "fin": 22.59,
+      "corte": false
+    },
+    {
+      "texto": "aunque",
+      "inicio": 22.59,
+      "fin": 22.98,
+      "corte": false
+    },
+    {
+      "texto": "diga",
+      "inicio": 22.98,
+      "fin": 23.27,
+      "corte": false
+    },
+    {
+      "texto": "cero.",
+      "inicio": 23.27,
+      "fin": 23.56,
+      "corte": true
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 24.0,
+      "fin": 24.4,
+      "corte": false
+    },
+    {
+      "texto": "dicen",
+      "inicio": 24.4,
+      "fin": 24.75,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 24.75,
+      "fin": 24.99,
+      "corte": false
+    },
+    {
+      "texto": "intereses,",
+      "inicio": 24.99,
+      "fin": 25.55,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.55,
+      "fin": 25.68,
+      "corte": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 25.68,
+      "fin": 26.03,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 26.03,
+      "fin": 26.22,
+      "corte": false
+    },
+    {
+      "texto": "interés",
+      "inicio": 26.22,
+      "fin": 26.67,
+      "corte": false
+    },
+    {
+      "texto": "va",
+      "inicio": 26.67,
+      "fin": 26.86,
+      "corte": false
+    },
+    {
+      "texto": "escondido",
+      "inicio": 26.86,
+      "fin": 27.42,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 27.42,
+      "fin": 27.6,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.6,
+      "fin": 27.79,
+      "corte": false
+    },
+    {
+      "texto": "precio.",
+      "inicio": 27.79,
+      "fin": 28.19,
+      "corte": true
+    },
+    {
+      "texto": "Cómo",
+      "inicio": 28.73,
+      "fin": 28.98,
+      "corte": false
+    },
+    {
+      "texto": "comprobarlo:",
+      "inicio": 28.98,
+      "fin": 29.55,
+      "corte": true
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 30.0,
+      "fin": 30.47,
+      "corte": false
+    },
+    {
+      "texto": "cuánto",
+      "inicio": 30.47,
+      "fin": 30.84,
+      "corte": false
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 30.84,
+      "fin": 31.21,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 31.21,
+      "fin": 31.39,
+      "corte": false
+    },
+    {
+      "texto": "contado.",
+      "inicio": 31.39,
+      "fin": 31.81,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 32.2,
+      "fin": 32.35,
+      "corte": false
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 32.35,
+      "fin": 32.68,
+      "corte": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 32.68,
+      "fin": 32.96,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 32.96,
+      "fin": 33.16,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 33.16,
+      "fin": 33.31,
+      "corte": false
+    },
+    {
+      "texto": "suma",
+      "inicio": 33.31,
+      "fin": 33.55,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.55,
+      "fin": 33.7,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 33.7,
+      "fin": 33.89,
+      "corte": false
+    },
+    {
+      "texto": "cuotas,",
+      "inicio": 33.89,
+      "fin": 34.22,
+      "corte": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 34.51,
+      "fin": 34.76,
+      "corte": false
+    },
+    {
+      "texto": "intereses.",
+      "inicio": 34.76,
+      "fin": 35.33,
+      "corte": true
+    },
+    {
+      "texto": "Haz",
+      "inicio": 35.74,
+      "fin": 35.94,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 35.94,
+      "fin": 36.1,
+      "corte": false
+    },
+    {
+      "texto": "cuenta:",
+      "inicio": 36.1,
+      "fin": 36.44,
+      "corte": true
+    },
+    {
+      "texto": "multiplica",
+      "inicio": 36.82,
+      "fin": 37.38,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 37.38,
+      "fin": 37.56,
+      "corte": false
+    },
+    {
+      "texto": "cuota",
+      "inicio": 37.56,
+      "fin": 37.88,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 37.88,
+      "fin": 38.1,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 38.1,
+      "fin": 38.33,
+      "corte": false
+    },
+    {
+      "texto": "meses,",
+      "inicio": 38.33,
+      "fin": 38.65,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 38.65,
+      "fin": 38.77,
+      "corte": false
+    },
+    {
+      "texto": "réstale",
+      "inicio": 38.77,
+      "fin": 39.19,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.19,
+      "fin": 39.37,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 39.37,
+      "fin": 39.74,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 39.74,
+      "fin": 39.91,
+      "corte": false
+    },
+    {
+      "texto": "contado.",
+      "inicio": 39.91,
+      "fin": 40.33,
+      "corte": true
+    },
+    {
+      "texto": "Ese",
+      "inicio": 40.69,
+      "fin": 40.92,
+      "corte": false
+    },
+    {
+      "texto": "resultado",
+      "inicio": 40.92,
+      "fin": 41.46,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 41.46,
+      "fin": 41.64,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.64,
+      "fin": 41.82,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 41.82,
+      "fin": 42.05,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.05,
+      "fin": 42.23,
+      "corte": false
+    },
+    {
+      "texto": "verdad",
+      "inicio": 42.23,
+      "fin": 42.62,
+      "corte": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 42.62,
+      "fin": 42.95,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 42.95,
+      "fin": 43.19,
+      "corte": false
+    },
+    {
+      "texto": "financiar.",
+      "inicio": 43.19,
+      "fin": 43.73,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 44.16,
+      "fin": 44.36,
+      "corte": false
+    },
+    {
+      "texto": "puedes,",
+      "inicio": 44.36,
+      "fin": 44.78,
+      "corte": false
+    },
+    {
+      "texto": "ahorra",
+      "inicio": 44.78,
+      "fin": 45.2,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 45.2,
+      "fin": 45.51,
+      "corte": false
+    },
+    {
+      "texto": "meses",
+      "inicio": 45.51,
+      "fin": 45.88,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 45.88,
+      "fin": 46.02,
+      "corte": false
+    },
+    {
+      "texto": "paga",
+      "inicio": 46.02,
+      "fin": 46.33,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 46.33,
+      "fin": 46.52,
+      "corte": false
+    },
+    {
+      "texto": "contado:",
+      "inicio": 46.52,
+      "fin": 47.0,
+      "corte": true
+    },
+    {
+      "texto": "te",
+      "inicio": 47.34,
+      "fin": 47.51,
+      "corte": false
+    },
+    {
+      "texto": "quedas",
+      "inicio": 47.51,
+      "fin": 47.88,
+      "corte": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 47.88,
+      "fin": 48.15,
+      "corte": false
+    },
+    {
+      "texto": "72",
+      "inicio": 48.15,
+      "fin": 48.86,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 48.86,
+      "fin": 49.18,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 49.58,
+      "fin": 50.06,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 50.06,
+      "fin": 50.37,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 50.37,
+      "fin": 50.62,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 50.62,
+      "fin": 51.04,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 51.04,
+      "fin": 51.62,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 51.62,
+      "fin": 51.87,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 51.87,
+      "fin": 52.35,
+      "corte": true
+    }
+  ]
+}

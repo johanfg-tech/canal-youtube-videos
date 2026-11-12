@@ -4,6 +4,7 @@ import { Miniatura } from "./compositions/Miniatura";
 import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
+import { BigMacShort, duracionBigMac } from "./compositions/BigMacShort";
 import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
 import remates from "../guiones/remates.json";
 import regla72 from "../guiones/regla-72.json";
@@ -504,6 +505,14 @@ export const RemotionRoot: React.FC = () => {
           })}
         />
       ))}
+      <Composition
+        id="BigMac"
+        component={BigMacShort}
+        durationInFrames={duracionBigMac}
+        fps={FPS}
+        width={1080}
+        height={1920}
+      />
     </>
   );
 };

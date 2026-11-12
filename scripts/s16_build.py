@@ -18,7 +18,7 @@ for k in sys.argv[1:]:
     d["escenas"] = esc
     json.dump(d, open(os.path.join(G, f"{k}.json"), "w"), ensure_ascii=False, indent=1)
     os.remove(tmp)
-ks = sorted(f[:-5] for f in os.listdir(G) if f.endswith(".json") and not f.endswith((".escenas.json", ".tiempos.json")))
+ks = sorted(f[:-13] for f in os.listdir(G) if f.endswith(".escenas.json") and os.path.exists(os.path.join(G, f[:-13] + ".json")))
 lines = ['// Generado por scripts/s16_build.py: Shorts explicativos de la semana 16-22 nov.', 'import { DatosExplica } from "../compositions/ExplicaShort";']
 for i, k in enumerate(ks):
     lines.append(f'import v{i} from "../../guiones/s16/{k}.json";')

@@ -1,0 +1,1155 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Por",
+   "inicio": 0.0,
+   "fin": 0.25,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 0.25,
+   "fin": 0.49,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 0.49,
+   "fin": 0.69,
+   "corte": false
+  },
+  {
+   "texto": "diamante",
+   "inicio": 0.69,
+   "fin": 1.18,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 1.18,
+   "fin": 1.48,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 1.48,
+   "fin": 1.72,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.72,
+   "fin": 1.97,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 1.97,
+   "fin": 2.17,
+   "corte": false
+  },
+  {
+   "texto": "agua?",
+   "inicio": 2.17,
+   "fin": 3.05,
+   "corte": true
+  },
+  {
+   "texto": "Sin",
+   "inicio": 3.05,
+   "fin": 3.3,
+   "corte": false
+  },
+  {
+   "texto": "agua,",
+   "inicio": 3.3,
+   "fin": 3.61,
+   "corte": false
+  },
+  {
+   "texto": "mueres",
+   "inicio": 3.61,
+   "fin": 4.02,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 4.02,
+   "fin": 4.22,
+   "corte": false
+  },
+  {
+   "texto": "tres",
+   "inicio": 4.22,
+   "fin": 4.53,
+   "corte": false
+  },
+  {
+   "texto": "días.",
+   "inicio": 4.53,
+   "fin": 4.83,
+   "corte": true
+  },
+  {
+   "texto": "Sin",
+   "inicio": 4.83,
+   "fin": 5.45,
+   "corte": false
+  },
+  {
+   "texto": "diamantes,",
+   "inicio": 5.46,
+   "fin": 6.02,
+   "corte": false
+  },
+  {
+   "texto": "vives",
+   "inicio": 6.02,
+   "fin": 6.38,
+   "corte": false
+  },
+  {
+   "texto": "perfectamente.",
+   "inicio": 6.38,
+   "fin": 7.14,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 7.14,
+   "fin": 7.29,
+   "corte": false
+  },
+  {
+   "texto": "aun",
+   "inicio": 7.29,
+   "fin": 7.52,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 7.52,
+   "fin": 8.19,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 8.19,
+   "fin": 8.38,
+   "corte": false
+  },
+  {
+   "texto": "diamante",
+   "inicio": 8.38,
+   "fin": 8.85,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 8.85,
+   "fin": 9.23,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 9.23,
+   "fin": 9.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.57,
+   "fin": 9.76,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 9.76,
+   "fin": 10.19,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 10.19,
+   "fin": 10.33,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 10.33,
+   "fin": 10.52,
+   "corte": false
+  },
+  {
+   "texto": "litro",
+   "inicio": 10.52,
+   "fin": 10.85,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.85,
+   "fin": 11.04,
+   "corte": false
+  },
+  {
+   "texto": "agua,",
+   "inicio": 11.04,
+   "fin": 11.33,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 11.33,
+   "fin": 11.61,
+   "corte": false
+  },
+  {
+   "texto": "nada.",
+   "inicio": 11.61,
+   "fin": 11.9,
+   "corte": true
+  },
+  {
+   "texto": "Esto",
+   "inicio": 11.9,
+   "fin": 12.26,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 12.26,
+   "fin": 12.49,
+   "corte": false
+  },
+  {
+   "texto": "llama",
+   "inicio": 12.5,
+   "fin": 12.91,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 12.91,
+   "fin": 13.72,
+   "corte": false
+  },
+  {
+   "texto": "paradoja",
+   "inicio": 13.72,
+   "fin": 14.31,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 14.31,
+   "fin": 14.61,
+   "corte": false
+  },
+  {
+   "texto": "valor,",
+   "inicio": 14.61,
+   "fin": 15.03,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 15.03,
+   "fin": 15.21,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 15.21,
+   "fin": 15.45,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 15.45,
+   "fin": 16.0,
+   "corte": false
+  },
+  {
+   "texto": "planteó",
+   "inicio": 16.0,
+   "fin": 16.54,
+   "corte": false
+  },
+  {
+   "texto": "Adam",
+   "inicio": 16.54,
+   "fin": 16.9,
+   "corte": false
+  },
+  {
+   "texto": "Smith",
+   "inicio": 16.9,
+   "fin": 17.31,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.31,
+   "fin": 17.55,
+   "corte": false
+  },
+  {
+   "texto": "1776.",
+   "inicio": 17.55,
+   "fin": 18.27,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 18.27,
+   "fin": 18.47,
+   "corte": false
+  },
+  {
+   "texto": "respuesta",
+   "inicio": 18.47,
+   "fin": 19.02,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 19.02,
+   "fin": 19.84,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 19.84,
+   "fin": 20.04,
+   "corte": false
+  },
+  {
+   "texto": "siglo",
+   "inicio": 20.04,
+   "fin": 20.39,
+   "corte": false
+  },
+  {
+   "texto": "después.",
+   "inicio": 20.39,
+   "fin": 20.84,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 20.84,
+   "fin": 21.03,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 21.03,
+   "fin": 21.41,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 21.41,
+   "fin": 21.6,
+   "corte": false
+  },
+  {
+   "texto": "depende",
+   "inicio": 21.6,
+   "fin": 22.52,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.52,
+   "fin": 22.71,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 22.71,
+   "fin": 22.9,
+   "corte": false
+  },
+  {
+   "texto": "útil",
+   "inicio": 22.9,
+   "fin": 23.18,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 23.18,
+   "fin": 23.41,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 23.42,
+   "fin": 23.6,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 23.6,
+   "fin": 23.89,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 23.89,
+   "fin": 24.07,
+   "corte": false
+  },
+  {
+   "texto": "general,",
+   "inicio": 24.08,
+   "fin": 24.5,
+   "corte": false
+  },
+  {
+   "texto": "sino",
+   "inicio": 24.5,
+   "fin": 24.78,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 24.78,
+   "fin": 24.97,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 24.97,
+   "fin": 25.16,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 25.16,
+   "fin": 25.65,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 25.65,
+   "fin": 25.93,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 25.93,
+   "fin": 26.17,
+   "corte": false
+  },
+  {
+   "texto": "unidad",
+   "inicio": 26.17,
+   "fin": 26.54,
+   "corte": false
+  },
+  {
+   "texto": "más.",
+   "inicio": 26.55,
+   "fin": 26.78,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 26.78,
+   "fin": 26.98,
+   "corte": false
+  },
+  {
+   "texto": "primer",
+   "inicio": 26.98,
+   "fin": 27.37,
+   "corte": false
+  },
+  {
+   "texto": "vaso",
+   "inicio": 27.37,
+   "fin": 27.66,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 27.66,
+   "fin": 28.33,
+   "corte": false
+  },
+  {
+   "texto": "agua",
+   "inicio": 28.33,
+   "fin": 28.62,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 28.62,
+   "fin": 28.87,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 28.87,
+   "fin": 29.11,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 29.11,
+   "fin": 29.41,
+   "corte": false
+  },
+  {
+   "texto": "muchísimo.",
+   "inicio": 29.41,
+   "fin": 29.95,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 29.95,
+   "fin": 30.23,
+   "corte": false
+  },
+  {
+   "texto": "tienes",
+   "inicio": 30.24,
+   "fin": 30.62,
+   "corte": false
+  },
+  {
+   "texto": "agua",
+   "inicio": 30.62,
+   "fin": 31.33,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 31.33,
+   "fin": 31.52,
+   "corte": false
+  },
+  {
+   "texto": "sobra,",
+   "inicio": 31.52,
+   "fin": 31.85,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 31.85,
+   "fin": 31.99,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 32.0,
+   "fin": 32.19,
+   "corte": false
+  },
+  {
+   "texto": "vaso",
+   "inicio": 32.19,
+   "fin": 32.73,
+   "corte": false
+  },
+  {
+   "texto": "número",
+   "inicio": 32.73,
+   "fin": 33.11,
+   "corte": false
+  },
+  {
+   "texto": "cien",
+   "inicio": 33.11,
+   "fin": 33.39,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 33.39,
+   "fin": 33.58,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 33.59,
+   "fin": 33.78,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 33.78,
+   "fin": 34.06,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 34.06,
+   "fin": 34.35,
+   "corte": false
+  },
+  {
+   "texto": "nada.",
+   "inicio": 34.35,
+   "fin": 34.63,
+   "corte": true
+  },
+  {
+   "texto": "Con",
+   "inicio": 34.64,
+   "fin": 34.87,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 34.87,
+   "fin": 35.63,
+   "corte": false
+  },
+  {
+   "texto": "diamantes",
+   "inicio": 35.63,
+   "fin": 36.15,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 36.15,
+   "fin": 36.34,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 36.34,
+   "fin": 36.53,
+   "corte": false
+  },
+  {
+   "texto": "revés:",
+   "inicio": 36.53,
+   "fin": 36.87,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 36.87,
+   "fin": 37.44,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 37.44,
+   "fin": 37.67,
+   "corte": false
+  },
+  {
+   "texto": "pocos,",
+   "inicio": 37.68,
+   "fin": 38.01,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 38.01,
+   "fin": 38.15,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 38.15,
+   "fin": 38.44,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 38.44,
+   "fin": 38.67,
+   "corte": false
+  },
+  {
+   "texto": "extra",
+   "inicio": 38.67,
+   "fin": 39.01,
+   "corte": false
+  },
+  {
+   "texto": "sigue",
+   "inicio": 39.01,
+   "fin": 39.34,
+   "corte": false
+  },
+  {
+   "texto": "siendo",
+   "inicio": 39.34,
+   "fin": 39.72,
+   "corte": false
+  },
+  {
+   "texto": "deseado.",
+   "inicio": 39.72,
+   "fin": 40.15,
+   "corte": true
+  },
+  {
+   "texto": "Ahora",
+   "inicio": 40.15,
+   "fin": 40.49,
+   "corte": false
+  },
+  {
+   "texto": "imagina",
+   "inicio": 40.49,
+   "fin": 41.42,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 41.42,
+   "fin": 41.67,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 41.67,
+   "fin": 41.87,
+   "corte": false
+  },
+  {
+   "texto": "pierdes",
+   "inicio": 41.87,
+   "fin": 42.31,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 42.31,
+   "fin": 42.51,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 42.51,
+   "fin": 42.7,
+   "corte": false
+  },
+  {
+   "texto": "desierto.",
+   "inicio": 42.71,
+   "fin": 43.2,
+   "corte": true
+  },
+  {
+   "texto": "Ahí",
+   "inicio": 43.2,
+   "fin": 43.44,
+   "corte": false
+  },
+  {
+   "texto": "cambiarías",
+   "inicio": 43.44,
+   "fin": 44.38,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 44.38,
+   "fin": 44.57,
+   "corte": false
+  },
+  {
+   "texto": "diamante",
+   "inicio": 44.57,
+   "fin": 45.05,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 45.05,
+   "fin": 45.29,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 45.29,
+   "fin": 45.53,
+   "corte": false
+  },
+  {
+   "texto": "botella",
+   "inicio": 45.54,
+   "fin": 45.97,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 45.97,
+   "fin": 46.16,
+   "corte": false
+  },
+  {
+   "texto": "agua",
+   "inicio": 46.16,
+   "fin": 46.45,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 46.45,
+   "fin": 46.69,
+   "corte": false
+  },
+  {
+   "texto": "pensarlo.",
+   "inicio": 46.7,
+   "fin": 47.63,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 47.63,
+   "fin": 47.83,
+   "corte": false
+  },
+  {
+   "texto": "valor",
+   "inicio": 47.83,
+   "fin": 48.17,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 48.17,
+   "fin": 48.36,
+   "corte": false
+  },
+  {
+   "texto": "está",
+   "inicio": 48.36,
+   "fin": 48.65,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 48.65,
+   "fin": 48.85,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 48.85,
+   "fin": 49.09,
+   "corte": false
+  },
+  {
+   "texto": "cosas,",
+   "inicio": 49.09,
+   "fin": 49.43,
+   "corte": false
+  },
+  {
+   "texto": "sino",
+   "inicio": 49.43,
+   "fin": 49.72,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 49.72,
+   "fin": 49.91,
+   "corte": false
+  },
+  {
+   "texto": "cuánto",
+   "inicio": 49.91,
+   "fin": 50.3,
+   "corte": false
+  },
+  {
+   "texto": "escasean.",
+   "inicio": 50.3,
+   "fin": 50.78,
+   "corte": true
+  },
+  {
+   "texto": "¿Qué",
+   "inicio": 50.79,
+   "fin": 51.57,
+   "corte": false
+  },
+  {
+   "texto": "elegirías",
+   "inicio": 51.57,
+   "fin": 52.12,
+   "corte": false
+  },
+  {
+   "texto": "tú",
+   "inicio": 52.12,
+   "fin": 52.33,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 52.33,
+   "fin": 52.53,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 52.53,
+   "fin": 52.73,
+   "corte": false
+  },
+  {
+   "texto": "desierto?",
+   "inicio": 52.73,
+   "fin": 53.24,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Por qué un diamante vale más que el agua?",
+   "inicio": 0.0,
+   "fin": 3.05
+  },
+  {
+   "texto": "Sin agua, mueres en tres días.",
+   "inicio": 3.05,
+   "fin": 4.83
+  },
+  {
+   "texto": "Sin diamantes, vives perfectamente.",
+   "inicio": 4.83,
+   "fin": 7.14
+  },
+  {
+   "texto": "Y aun así, un diamante cuesta miles de dólares y un litro de agua, casi nada.",
+   "inicio": 7.14,
+   "fin": 11.9
+  },
+  {
+   "texto": "Esto se llama la paradoja del valor, y ya la planteó Adam Smith en 1776.",
+   "inicio": 11.9,
+   "fin": 18.27
+  },
+  {
+   "texto": "La respuesta llegó un siglo después.",
+   "inicio": 18.27,
+   "fin": 20.84
+  },
+  {
+   "texto": "El precio no depende de lo útil que es algo en general, sino de lo que vale una unidad más.",
+   "inicio": 20.84,
+   "fin": 26.78
+  },
+  {
+   "texto": "El primer vaso de agua del día vale muchísimo.",
+   "inicio": 26.78,
+   "fin": 29.95
+  },
+  {
+   "texto": "Pero tienes agua de sobra, y el vaso número cien ya no vale casi nada.",
+   "inicio": 29.95,
+   "fin": 34.63
+  },
+  {
+   "texto": "Con los diamantes es al revés: hay muy pocos, y cada uno extra sigue siendo deseado.",
+   "inicio": 34.64,
+   "fin": 40.15
+  },
+  {
+   "texto": "Ahora imagina que te pierdes en el desierto.",
+   "inicio": 40.15,
+   "fin": 43.2
+  },
+  {
+   "texto": "Ahí cambiarías un diamante por una botella de agua sin pensarlo.",
+   "inicio": 43.2,
+   "fin": 47.63
+  },
+  {
+   "texto": "El valor no está en las cosas, sino en cuánto escasean.",
+   "inicio": 47.63,
+   "fin": 50.78
+  },
+  {
+   "texto": "¿Qué elegirías tú en el desierto?",
+   "inicio": 50.79,
+   "fin": 53.24
+  }
+ ],
+ "duracion": 53.24,
+ "voz": "narraciones/diamante-agua.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Por qué un",
+    "DIAMANTE vale",
+    "más que el agua?"
+   ],
+   "resaltar": "DIAMANTE",
+   "img": {
+    "src": "ia/s16/diamante.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 1,
+   "titulo": "¿Qué necesitas para vivir?",
+   "a": {
+    "etiqueta": "Sin agua",
+    "valor": "3 días",
+    "img": "ia/s16/vaso-agua.png",
+    "color": "#ff4d6d"
+   },
+   "b": {
+    "etiqueta": "Sin diamantes",
+    "valor": "Perfecto",
+    "img": "ia/s16/diamante.png",
+    "color": "#2ee59d"
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 3,
+   "titulo": "Y aun así…",
+   "a": {
+    "etiqueta": "Un diamante",
+    "valor": "Miles de $",
+    "img": "ia/s16/diamante.png",
+    "altura": 1,
+    "color": "#7fd1ff"
+   },
+   "b": {
+    "etiqueta": "Un litro de agua",
+    "valor": "Casi nada",
+    "img": "ia/s16/botella-agua.png",
+    "altura": 0.06,
+    "color": "#ffd60a"
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 4,
+   "cabecera": "ADAM SMITH · 1776",
+   "titulo": "La paradoja del valor",
+   "lineas": [
+    "La respuesta llegó un siglo después"
+   ],
+   "img": {
+    "src": "ia/s16/contrato.png",
+    "size": 480
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 6,
+   "lineas": [
+    "Lo que importa:",
+    "UNA UNIDAD MÁS"
+   ],
+   "resaltar": "UNA UNIDAD MÁS",
+   "img": {
+    "src": "ia/s16/vaso-agua.png",
+    "size": 520,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "barras",
+   "frase": 7,
+   "titulo": "Lo que vale cada vaso",
+   "items": [
+    {
+     "etiqueta": "Vaso 1",
+     "valor": 100,
+     "texto": "Muchísimo",
+     "img": "ia/s16/vaso-agua.png",
+     "color": "#2ee59d"
+    },
+    {
+     "etiqueta": "Vaso 10",
+     "valor": 30,
+     "texto": "Algo",
+     "img": "ia/s16/vaso-agua.png",
+     "color": "#ffd60a"
+    },
+    {
+     "etiqueta": "Vaso 100",
+     "valor": 3,
+     "texto": "Casi nada",
+     "img": "ia/s16/vaso-agua.png",
+     "color": "#ff4d6d"
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/s16/diamante.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Hay muy pocos",
+   "sub": "y cada uno extra sigue siendo deseado",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s16/desierto.png",
+    "size": 820,
+    "y": 760
+   },
+   "texto": "Perdido en el desierto"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 11,
+   "titulo": "Ahí cambiarías…",
+   "a": {
+    "etiqueta": "Un diamante",
+    "img": "ia/s16/diamante.png",
+    "color": "#7fd1ff"
+   },
+   "b": {
+    "etiqueta": "Una botella",
+    "img": "ia/s16/botella-agua.png",
+    "color": "#2ee59d"
+   },
+   "pie": "sin pensarlo"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 12,
+   "lineas": [
+    "El valor está",
+    "en cuánto ESCASEA"
+   ],
+   "resaltar": "ESCASEA",
+   "img": {
+    "src": "ia/s16/diamante.png",
+    "size": 520,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Qué elegirías tú en el desierto?"
+  }
+ ]
+}

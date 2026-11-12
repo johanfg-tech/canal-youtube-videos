@@ -1,0 +1,1109 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Por",
+   "inicio": 0.0,
+   "fin": 0.25,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 0.25,
+   "fin": 0.5,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 0.5,
+   "fin": 0.7,
+   "corte": false
+  },
+  {
+   "texto": "casino",
+   "inicio": 0.7,
+   "fin": 1.1,
+   "corte": false
+  },
+  {
+   "texto": "siempre",
+   "inicio": 1.1,
+   "fin": 1.54,
+   "corte": false
+  },
+  {
+   "texto": "gana?",
+   "inicio": 1.55,
+   "fin": 1.84,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 1.84,
+   "fin": 2.59,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 2.59,
+   "fin": 2.81,
+   "corte": false
+  },
+  {
+   "texto": "suerte.",
+   "inicio": 2.81,
+   "fin": 3.61,
+   "corte": true
+  },
+  {
+   "texto": "Son",
+   "inicio": 3.61,
+   "fin": 3.89,
+   "corte": false
+  },
+  {
+   "texto": "matemáticas.",
+   "inicio": 3.89,
+   "fin": 4.61,
+   "corte": true
+  },
+  {
+   "texto": "Mira",
+   "inicio": 4.61,
+   "fin": 5.31,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 5.31,
+   "fin": 5.53,
+   "corte": false
+  },
+  {
+   "texto": "ruleta",
+   "inicio": 5.53,
+   "fin": 5.97,
+   "corte": false
+  },
+  {
+   "texto": "europea:",
+   "inicio": 5.97,
+   "fin": 6.87,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 6.87,
+   "fin": 7.25,
+   "corte": false
+  },
+  {
+   "texto": "37",
+   "inicio": 7.25,
+   "fin": 7.8,
+   "corte": false
+  },
+  {
+   "texto": "casillas,",
+   "inicio": 7.8,
+   "fin": 8.35,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 8.35,
+   "fin": 8.62,
+   "corte": false
+  },
+  {
+   "texto": "0",
+   "inicio": 8.62,
+   "fin": 9.11,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 9.11,
+   "fin": 9.33,
+   "corte": false
+  },
+  {
+   "texto": "36.",
+   "inicio": 9.33,
+   "fin": 9.88,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 9.88,
+   "fin": 10.09,
+   "corte": false
+  },
+  {
+   "texto": "apuestas",
+   "inicio": 10.09,
+   "fin": 11.09,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 11.09,
+   "fin": 11.24,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 11.24,
+   "fin": 11.45,
+   "corte": false
+  },
+  {
+   "texto": "número",
+   "inicio": 11.45,
+   "fin": 11.87,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.87,
+   "fin": 12.02,
+   "corte": false
+  },
+  {
+   "texto": "aciertas,",
+   "inicio": 12.02,
+   "fin": 12.54,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 12.54,
+   "fin": 12.75,
+   "corte": false
+  },
+  {
+   "texto": "pagan",
+   "inicio": 12.75,
+   "fin": 13.11,
+   "corte": false
+  },
+  {
+   "texto": "35",
+   "inicio": 13.11,
+   "fin": 13.63,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 13.63,
+   "fin": 13.99,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 14.0,
+   "fin": 14.2,
+   "corte": false
+  },
+  {
+   "texto": "apuesta.",
+   "inicio": 14.2,
+   "fin": 14.67,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 14.67,
+   "fin": 15.45,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 15.45,
+   "fin": 15.77,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 15.77,
+   "fin": 16.04,
+   "corte": false
+  },
+  {
+   "texto": "fuera",
+   "inicio": 16.04,
+   "fin": 16.42,
+   "corte": false
+  },
+  {
+   "texto": "justo,",
+   "inicio": 16.42,
+   "fin": 16.8,
+   "corte": false
+  },
+  {
+   "texto": "deberían",
+   "inicio": 16.8,
+   "fin": 17.34,
+   "corte": false
+  },
+  {
+   "texto": "pagarte",
+   "inicio": 17.34,
+   "fin": 17.82,
+   "corte": false
+  },
+  {
+   "texto": "36.",
+   "inicio": 17.83,
+   "fin": 18.36,
+   "corte": true
+  },
+  {
+   "texto": "Esa",
+   "inicio": 18.37,
+   "fin": 19.15,
+   "corte": false
+  },
+  {
+   "texto": "pequeña",
+   "inicio": 19.15,
+   "fin": 19.68,
+   "corte": false
+  },
+  {
+   "texto": "diferencia",
+   "inicio": 19.68,
+   "fin": 20.4,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 20.4,
+   "fin": 20.63,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 20.63,
+   "fin": 20.87,
+   "corte": false
+  },
+  {
+   "texto": "ventaja",
+   "inicio": 20.87,
+   "fin": 21.4,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 21.4,
+   "fin": 22.09,
+   "corte": false
+  },
+  {
+   "texto": "casino:",
+   "inicio": 22.09,
+   "fin": 22.57,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 22.57,
+   "fin": 22.8,
+   "corte": false
+  },
+  {
+   "texto": "2,7",
+   "inicio": 22.81,
+   "fin": 23.4,
+   "corte": false
+  },
+  {
+   "texto": "%.",
+   "inicio": 23.4,
+   "fin": 23.52,
+   "corte": true
+  },
+  {
+   "texto": "Parece",
+   "inicio": 23.52,
+   "fin": 24.53,
+   "corte": false
+  },
+  {
+   "texto": "poco.",
+   "inicio": 24.53,
+   "fin": 25.25,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 25.25,
+   "fin": 25.45,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 25.45,
+   "fin": 25.7,
+   "corte": false
+  },
+  {
+   "texto": "noche",
+   "inicio": 25.7,
+   "fin": 26.05,
+   "corte": false
+  },
+  {
+   "texto": "puedes",
+   "inicio": 26.05,
+   "fin": 26.45,
+   "corte": false
+  },
+  {
+   "texto": "ganar,",
+   "inicio": 26.45,
+   "fin": 26.79,
+   "corte": false
+  },
+  {
+   "texto": "claro.",
+   "inicio": 26.8,
+   "fin": 27.68,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 27.68,
+   "fin": 27.96,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 27.96,
+   "fin": 28.15,
+   "corte": false
+  },
+  {
+   "texto": "casino",
+   "inicio": 28.15,
+   "fin": 28.53,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 28.53,
+   "fin": 28.72,
+   "corte": false
+  },
+  {
+   "texto": "juega",
+   "inicio": 28.72,
+   "fin": 29.44,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 29.44,
+   "fin": 29.68,
+   "corte": false
+  },
+  {
+   "texto": "noche:",
+   "inicio": 29.68,
+   "fin": 30.01,
+   "corte": false
+  },
+  {
+   "texto": "juega",
+   "inicio": 30.02,
+   "fin": 30.35,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 30.35,
+   "fin": 30.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.82,
+   "fin": 31.35,
+   "corte": false
+  },
+  {
+   "texto": "veces.",
+   "inicio": 31.35,
+   "fin": 31.69,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 31.69,
+   "fin": 31.86,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 31.86,
+   "fin": 32.14,
+   "corte": false
+  },
+  {
+   "texto": "tantas",
+   "inicio": 32.14,
+   "fin": 32.6,
+   "corte": false
+  },
+  {
+   "texto": "jugadas,",
+   "inicio": 32.6,
+   "fin": 33.11,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 33.12,
+   "fin": 33.34,
+   "corte": false
+  },
+  {
+   "texto": "suerte",
+   "inicio": 33.34,
+   "fin": 33.8,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 33.8,
+   "fin": 34.03,
+   "corte": false
+  },
+  {
+   "texto": "compensa",
+   "inicio": 34.03,
+   "fin": 34.6,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 34.6,
+   "fin": 34.77,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 34.77,
+   "fin": 35.11,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 35.11,
+   "fin": 35.51,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 35.51,
+   "fin": 35.8,
+   "corte": false
+  },
+  {
+   "texto": "2,7",
+   "inicio": 35.8,
+   "fin": 36.37,
+   "corte": false
+  },
+  {
+   "texto": "%.",
+   "inicio": 36.37,
+   "fin": 36.48,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 36.49,
+   "fin": 37.23,
+   "corte": false
+  },
+  {
+   "texto": "apuestas",
+   "inicio": 37.23,
+   "fin": 37.73,
+   "corte": false
+  },
+  {
+   "texto": "100",
+   "inicio": 37.73,
+   "fin": 38.28,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 38.28,
+   "fin": 38.73,
+   "corte": false
+  },
+  {
+   "texto": "mil",
+   "inicio": 38.73,
+   "fin": 38.98,
+   "corte": false
+  },
+  {
+   "texto": "veces,",
+   "inicio": 38.98,
+   "fin": 39.33,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 39.33,
+   "fin": 39.53,
+   "corte": false
+  },
+  {
+   "texto": "esperable",
+   "inicio": 39.53,
+   "fin": 40.08,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 40.08,
+   "fin": 40.28,
+   "corte": false
+  },
+  {
+   "texto": "perder",
+   "inicio": 40.28,
+   "fin": 40.68,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 40.68,
+   "fin": 40.98,
+   "corte": false
+  },
+  {
+   "texto": "2.700.",
+   "inicio": 40.98,
+   "fin": 41.58,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 41.58,
+   "fin": 41.81,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 41.81,
+   "fin": 42.5,
+   "corte": false
+  },
+  {
+   "texto": "ruleta",
+   "inicio": 42.5,
+   "fin": 42.96,
+   "corte": false
+  },
+  {
+   "texto": "americana,",
+   "inicio": 42.96,
+   "fin": 43.6,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 43.6,
+   "fin": 43.88,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 43.89,
+   "fin": 44.12,
+   "corte": false
+  },
+  {
+   "texto": "doble",
+   "inicio": 44.12,
+   "fin": 44.52,
+   "corte": false
+  },
+  {
+   "texto": "cero,",
+   "inicio": 44.52,
+   "fin": 44.86,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 44.87,
+   "fin": 45.1,
+   "corte": false
+  },
+  {
+   "texto": "ventaja",
+   "inicio": 45.1,
+   "fin": 45.61,
+   "corte": false
+  },
+  {
+   "texto": "sube",
+   "inicio": 45.62,
+   "fin": 45.96,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 45.96,
+   "fin": 46.19,
+   "corte": false
+  },
+  {
+   "texto": "5,3",
+   "inicio": 46.19,
+   "fin": 46.77,
+   "corte": false
+  },
+  {
+   "texto": "%.",
+   "inicio": 46.77,
+   "fin": 46.88,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 46.88,
+   "fin": 47.03,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 47.03,
+   "fin": 47.71,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 47.71,
+   "fin": 47.95,
+   "corte": false
+  },
+  {
+   "texto": "tragamonedas,",
+   "inicio": 47.95,
+   "fin": 48.63,
+   "corte": false
+  },
+  {
+   "texto": "puede",
+   "inicio": 48.63,
+   "fin": 48.97,
+   "corte": false
+  },
+  {
+   "texto": "ser",
+   "inicio": 48.97,
+   "fin": 49.21,
+   "corte": false
+  },
+  {
+   "texto": "aún",
+   "inicio": 49.21,
+   "fin": 49.46,
+   "corte": false
+  },
+  {
+   "texto": "mayor.",
+   "inicio": 49.46,
+   "fin": 49.8,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 49.8,
+   "fin": 50.51,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 50.52,
+   "fin": 50.75,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 50.75,
+   "fin": 50.94,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 50.94,
+   "fin": 51.17,
+   "corte": false
+  },
+  {
+   "texto": "relojes",
+   "inicio": 51.17,
+   "fin": 51.59,
+   "corte": false
+  },
+  {
+   "texto": "ni",
+   "inicio": 51.59,
+   "fin": 51.78,
+   "corte": false
+  },
+  {
+   "texto": "ventanas:",
+   "inicio": 51.78,
+   "fin": 52.25,
+   "corte": false
+  },
+  {
+   "texto": "cuanto",
+   "inicio": 52.25,
+   "fin": 52.97,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 52.97,
+   "fin": 53.21,
+   "corte": false
+  },
+  {
+   "texto": "juegas,",
+   "inicio": 53.21,
+   "fin": 53.58,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 53.58,
+   "fin": 53.81,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 53.82,
+   "fin": 54.0,
+   "corte": false
+  },
+  {
+   "texto": "cumple",
+   "inicio": 54.0,
+   "fin": 54.38,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 54.38,
+   "fin": 54.56,
+   "corte": false
+  },
+  {
+   "texto": "estadística.",
+   "inicio": 54.56,
+   "fin": 55.17,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 55.17,
+   "fin": 55.37,
+   "corte": false
+  },
+  {
+   "texto": "has",
+   "inicio": 55.37,
+   "fin": 56.32,
+   "corte": false
+  },
+  {
+   "texto": "ganado",
+   "inicio": 56.32,
+   "fin": 56.71,
+   "corte": false
+  },
+  {
+   "texto": "alguna",
+   "inicio": 56.71,
+   "fin": 57.1,
+   "corte": false
+  },
+  {
+   "texto": "vez",
+   "inicio": 57.1,
+   "fin": 57.34,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 57.34,
+   "fin": 57.54,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 57.54,
+   "fin": 57.73,
+   "corte": false
+  },
+  {
+   "texto": "casino?",
+   "inicio": 57.73,
+   "fin": 58.12,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Por qué el casino siempre gana?",
+   "inicio": 0.0,
+   "fin": 1.84
+  },
+  {
+   "texto": "No es suerte.",
+   "inicio": 1.84,
+   "fin": 3.61
+  },
+  {
+   "texto": "Son matemáticas.",
+   "inicio": 3.61,
+   "fin": 4.61
+  },
+  {
+   "texto": "Mira la ruleta europea: tiene 37 casillas, del 0 al 36.",
+   "inicio": 4.61,
+   "fin": 9.88
+  },
+  {
+   "texto": "Si apuestas a un número y aciertas, te pagan 35 veces tu apuesta.",
+   "inicio": 9.88,
+   "fin": 14.67
+  },
+  {
+   "texto": "Pero para que fuera justo, deberían pagarte 36.",
+   "inicio": 14.67,
+   "fin": 18.36
+  },
+  {
+   "texto": "Esa pequeña diferencia es la ventaja del casino: un 2,7 %.",
+   "inicio": 18.37,
+   "fin": 23.52
+  },
+  {
+   "texto": "Parece poco.",
+   "inicio": 23.52,
+   "fin": 25.25
+  },
+  {
+   "texto": "En una noche puedes ganar, claro.",
+   "inicio": 25.25,
+   "fin": 27.68
+  },
+  {
+   "texto": "Pero el casino no juega una noche: juega millones de veces.",
+   "inicio": 27.68,
+   "fin": 31.69
+  },
+  {
+   "texto": "Y con tantas jugadas, la suerte se compensa y solo queda ese 2,7 %.",
+   "inicio": 31.69,
+   "fin": 36.48
+  },
+  {
+   "texto": "Si apuestas 100 dólares mil veces, lo esperable es perder unos 2.700.",
+   "inicio": 36.49,
+   "fin": 41.58
+  },
+  {
+   "texto": "En la ruleta americana, con un doble cero, la ventaja sube al 5,3 %.",
+   "inicio": 41.58,
+   "fin": 46.88
+  },
+  {
+   "texto": "Y en las tragamonedas, puede ser aún mayor.",
+   "inicio": 46.88,
+   "fin": 49.8
+  },
+  {
+   "texto": "Por eso no hay relojes ni ventanas: cuanto más juegas, más se cumple la estadística.",
+   "inicio": 49.8,
+   "fin": 55.17
+  },
+  {
+   "texto": "¿Tú has ganado alguna vez en un casino?",
+   "inicio": 55.17,
+   "fin": 58.12
+  }
+ ],
+ "duracion": 58.12,
+ "voz": "narraciones/casino.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Por qué el casino",
+    "SIEMPRE gana?"
+   ],
+   "resaltar": "SIEMPRE",
+   "img": {
+    "src": "ia/s16/ruleta.png",
+    "size": 620,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 1,
+   "lineas": [
+    "No es suerte:",
+    "MATEMÁTICAS"
+   ],
+   "resaltar": "MATEMÁTICAS",
+   "color": "#2ee59d",
+   "img": {
+    "src": "ia/s16/dados.png",
+    "size": 520,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 3,
+   "antes": "La ruleta europea tiene",
+   "valor": 37,
+   "sufijo": " casillas",
+   "etiqueta": "del 0 al 36",
+   "img": {
+    "src": "ia/s16/ruleta.png",
+    "size": 600,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 4,
+   "titulo": "Si aciertas un número",
+   "a": {
+    "etiqueta": "Te pagan",
+    "valor": "35×",
+    "img": "ia/s16/fichas.png",
+    "altura": 0.92,
+    "color": "#ffd60a"
+   },
+   "b": {
+    "etiqueta": "Lo justo sería",
+    "valor": "36×",
+    "img": "ia/s16/fichas.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Ventaja del casino",
+   "valor": 2.7,
+   "decimales": 1,
+   "sufijo": " %",
+   "etiqueta": "parece poco…",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/fichas.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 8,
+   "a": {
+    "etiqueta": "Tú",
+    "valor": "1 noche",
+    "img": "ia/s16/dados.png",
+    "color": "#ffd60a"
+   },
+   "b": {
+    "etiqueta": "El casino",
+    "valor": "Millones de jugadas",
+    "img": "ia/s16/ruleta.png",
+    "color": "#ff4d6d"
+   },
+   "pie": "Solo queda ese 2,7 %"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 11,
+   "antes": "100 $ apostados mil veces",
+   "valor": 2700,
+   "prefijo": "−$",
+   "etiqueta": "pérdida esperada",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/fichas.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "barras",
+   "frase": 12,
+   "titulo": "Ventaja de la casa",
+   "items": [
+    {
+     "etiqueta": "Ruleta europea",
+     "valor": 2.7,
+     "texto": "2,7 %",
+     "img": "ia/s16/ruleta.png",
+     "color": "#ffd60a"
+    },
+    {
+     "etiqueta": "Ruleta americana",
+     "valor": 5.3,
+     "texto": "5,3 %",
+     "img": "ia/s16/ruleta.png",
+     "color": "#f7931a"
+    },
+    {
+     "etiqueta": "Tragamonedas",
+     "valor": 9,
+     "texto": "aún más",
+     "img": "ia/s16/tragamonedas.png",
+     "color": "#ff4d6d"
+    }
+   ]
+  },
+  {
+   "tipo": "titulo",
+   "frase": 14,
+   "lineas": [
+    "Sin relojes",
+    "ni VENTANAS"
+   ],
+   "resaltar": "VENTANAS",
+   "sub": "cuanto más juegas, más gana la estadística",
+   "img": {
+    "src": "ia/s16/tragamonedas.png",
+    "size": 540,
+    "y": 980
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 15,
+   "pregunta": "¿Tú has ganado alguna vez en un casino?"
+  }
+ ]
+}

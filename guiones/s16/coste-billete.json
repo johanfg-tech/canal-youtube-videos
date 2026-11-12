@@ -1,0 +1,1139 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Cuánto",
+   "inicio": 0.0,
+   "fin": 0.34,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 0.34,
+   "fin": 0.67,
+   "corte": false
+  },
+  {
+   "texto": "fabricar",
+   "inicio": 0.67,
+   "fin": 1.09,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 1.09,
+   "fin": 1.26,
+   "corte": false
+  },
+  {
+   "texto": "billete",
+   "inicio": 1.26,
+   "fin": 1.64,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.64,
+   "fin": 1.81,
+   "corte": false
+  },
+  {
+   "texto": "100",
+   "inicio": 1.81,
+   "fin": 2.27,
+   "corte": false
+  },
+  {
+   "texto": "dólares?",
+   "inicio": 2.27,
+   "fin": 3.04,
+   "corte": true
+  },
+  {
+   "texto": "Unos",
+   "inicio": 3.05,
+   "fin": 3.3,
+   "corte": false
+  },
+  {
+   "texto": "11",
+   "inicio": 3.3,
+   "fin": 3.73,
+   "corte": false
+  },
+  {
+   "texto": "centavos.",
+   "inicio": 3.73,
+   "fin": 4.16,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 4.16,
+   "fin": 4.28,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 4.28,
+   "fin": 4.76,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 4.76,
+   "fin": 4.92,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 4.92,
+   "fin": 5.28,
+   "corte": false
+  },
+  {
+   "texto": "dólar,",
+   "inicio": 5.29,
+   "fin": 5.57,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 5.57,
+   "fin": 5.81,
+   "corte": false
+  },
+  {
+   "texto": "4.",
+   "inicio": 5.81,
+   "fin": 6.17,
+   "corte": true
+  },
+  {
+   "texto": "Así",
+   "inicio": 6.17,
+   "fin": 6.44,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 6.44,
+   "fin": 7.03,
+   "corte": false
+  },
+  {
+   "texto": "calcula",
+   "inicio": 7.03,
+   "fin": 7.51,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 7.51,
+   "fin": 7.73,
+   "corte": false
+  },
+  {
+   "texto": "Reserva",
+   "inicio": 7.73,
+   "fin": 8.21,
+   "corte": false
+  },
+  {
+   "texto": "Federal",
+   "inicio": 8.21,
+   "fin": 8.69,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 8.69,
+   "fin": 9.01,
+   "corte": false
+  },
+  {
+   "texto": "2025.",
+   "inicio": 9.01,
+   "fin": 9.66,
+   "corte": true
+  },
+  {
+   "texto": "¿Por",
+   "inicio": 9.66,
+   "fin": 10.33,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 10.33,
+   "fin": 10.53,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 10.53,
+   "fin": 10.7,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.7,
+   "fin": 10.86,
+   "corte": false
+  },
+  {
+   "texto": "100",
+   "inicio": 10.86,
+   "fin": 11.32,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 11.32,
+   "fin": 11.48,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 11.48,
+   "fin": 11.69,
+   "corte": false
+  },
+  {
+   "texto": "caro?",
+   "inicio": 11.69,
+   "fin": 12.27,
+   "corte": true
+  },
+  {
+   "texto": "Porque",
+   "inicio": 12.27,
+   "fin": 12.62,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 12.62,
+   "fin": 12.79,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 12.79,
+   "fin": 12.97,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 12.97,
+   "fin": 13.18,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 13.18,
+   "fin": 13.4,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 13.4,
+   "fin": 13.57,
+   "corte": false
+  },
+  {
+   "texto": "falsifica,",
+   "inicio": 13.57,
+   "fin": 14.32,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 14.32,
+   "fin": 14.45,
+   "corte": false
+  },
+  {
+   "texto": "lleva",
+   "inicio": 14.45,
+   "fin": 14.75,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 14.75,
+   "fin": 14.97,
+   "corte": false
+  },
+  {
+   "texto": "seguridad:",
+   "inicio": 14.97,
+   "fin": 15.83,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 15.84,
+   "fin": 16.05,
+   "corte": false
+  },
+  {
+   "texto": "banda",
+   "inicio": 16.05,
+   "fin": 16.36,
+   "corte": false
+  },
+  {
+   "texto": "azul",
+   "inicio": 16.36,
+   "fin": 16.62,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 16.62,
+   "fin": 16.79,
+   "corte": false
+  },
+  {
+   "texto": "3D,",
+   "inicio": 16.79,
+   "fin": 17.22,
+   "corte": false
+  },
+  {
+   "texto": "tinta",
+   "inicio": 17.22,
+   "fin": 17.53,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 17.53,
+   "fin": 17.74,
+   "corte": false
+  },
+  {
+   "texto": "cambia",
+   "inicio": 17.74,
+   "fin": 18.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.09,
+   "fin": 18.26,
+   "corte": false
+  },
+  {
+   "texto": "color,",
+   "inicio": 18.26,
+   "fin": 18.84,
+   "corte": false
+  },
+  {
+   "texto": "marca",
+   "inicio": 18.84,
+   "fin": 19.15,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.15,
+   "fin": 19.32,
+   "corte": false
+  },
+  {
+   "texto": "agua",
+   "inicio": 19.32,
+   "fin": 19.58,
+   "corte": false
+  },
+  {
+   "texto": "e",
+   "inicio": 19.58,
+   "fin": 19.71,
+   "corte": false
+  },
+  {
+   "texto": "hilo",
+   "inicio": 19.71,
+   "fin": 19.97,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.97,
+   "fin": 20.14,
+   "corte": false
+  },
+  {
+   "texto": "seguridad.",
+   "inicio": 20.15,
+   "fin": 20.62,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 20.62,
+   "fin": 21.2,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 21.2,
+   "fin": 21.46,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 21.46,
+   "fin": 21.72,
+   "corte": false
+  },
+  {
+   "texto": "papel",
+   "inicio": 21.72,
+   "fin": 22.18,
+   "corte": false
+  },
+  {
+   "texto": "normal:",
+   "inicio": 22.18,
+   "fin": 23.02,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 23.02,
+   "fin": 23.27,
+   "corte": false
+  },
+  {
+   "texto": "75",
+   "inicio": 23.28,
+   "fin": 23.92,
+   "corte": false
+  },
+  {
+   "texto": "%",
+   "inicio": 23.92,
+   "fin": 24.05,
+   "corte": false
+  },
+  {
+   "texto": "algodón",
+   "inicio": 24.05,
+   "fin": 24.64,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 24.64,
+   "fin": 24.83,
+   "corte": false
+  },
+  {
+   "texto": "25",
+   "inicio": 24.83,
+   "fin": 25.48,
+   "corte": false
+  },
+  {
+   "texto": "%",
+   "inicio": 25.48,
+   "fin": 25.61,
+   "corte": false
+  },
+  {
+   "texto": "lino.",
+   "inicio": 25.61,
+   "fin": 26.0,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 26.0,
+   "fin": 26.55,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 26.55,
+   "fin": 26.78,
+   "corte": false
+  },
+  {
+   "texto": "aguanta",
+   "inicio": 26.78,
+   "fin": 27.19,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 27.19,
+   "fin": 27.37,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 27.37,
+   "fin": 27.55,
+   "corte": false
+  },
+  {
+   "texto": "metes",
+   "inicio": 27.56,
+   "fin": 27.87,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 27.87,
+   "fin": 28.06,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 28.06,
+   "fin": 28.24,
+   "corte": false
+  },
+  {
+   "texto": "lavadora.",
+   "inicio": 28.24,
+   "fin": 29.01,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 29.01,
+   "fin": 29.17,
+   "corte": false
+  },
+  {
+   "texto": "billete",
+   "inicio": 29.17,
+   "fin": 29.52,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.52,
+   "fin": 29.68,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 29.68,
+   "fin": 30.04,
+   "corte": false
+  },
+  {
+   "texto": "dólar",
+   "inicio": 30.04,
+   "fin": 30.32,
+   "corte": false
+  },
+  {
+   "texto": "dura",
+   "inicio": 30.32,
+   "fin": 30.56,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 30.56,
+   "fin": 30.79,
+   "corte": false
+  },
+  {
+   "texto": "siete",
+   "inicio": 30.79,
+   "fin": 31.07,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 31.07,
+   "fin": 31.61,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 31.61,
+   "fin": 31.81,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 31.81,
+   "fin": 31.97,
+   "corte": false
+  },
+  {
+   "texto": "100",
+   "inicio": 31.97,
+   "fin": 32.4,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 32.4,
+   "fin": 32.6,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.6,
+   "fin": 32.76,
+   "corte": false
+  },
+  {
+   "texto": "veinte.",
+   "inicio": 32.76,
+   "fin": 33.44,
+   "corte": true
+  },
+  {
+   "texto": "¿Entonces",
+   "inicio": 33.44,
+   "fin": 34.09,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 34.09,
+   "fin": 34.35,
+   "corte": false
+  },
+  {
+   "texto": "gobierno",
+   "inicio": 34.35,
+   "fin": 35.0,
+   "corte": false
+  },
+  {
+   "texto": "gana",
+   "inicio": 35.0,
+   "fin": 35.39,
+   "corte": false
+  },
+  {
+   "texto": "99,89",
+   "inicio": 35.39,
+   "fin": 36.16,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 36.16,
+   "fin": 36.75,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 36.75,
+   "fin": 37.07,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 37.07,
+   "fin": 37.46,
+   "corte": false
+  },
+  {
+   "texto": "uno?",
+   "inicio": 37.46,
+   "fin": 38.1,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 38.1,
+   "fin": 38.28,
+   "corte": false
+  },
+  {
+   "texto": "exactamente:",
+   "inicio": 38.28,
+   "fin": 38.85,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 38.85,
+   "fin": 39.06,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 39.07,
+   "fin": 39.73,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 39.73,
+   "fin": 39.9,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 39.9,
+   "fin": 40.08,
+   "corte": false
+  },
+  {
+   "texto": "ganancia",
+   "inicio": 40.08,
+   "fin": 40.51,
+   "corte": false
+  },
+  {
+   "texto": "libre,",
+   "inicio": 40.51,
+   "fin": 40.82,
+   "corte": false
+  },
+  {
+   "texto": "porque",
+   "inicio": 40.82,
+   "fin": 41.17,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 41.17,
+   "fin": 41.34,
+   "corte": false
+  },
+  {
+   "texto": "billete",
+   "inicio": 41.34,
+   "fin": 41.74,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 41.74,
+   "fin": 41.91,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 41.91,
+   "fin": 42.13,
+   "corte": false
+  },
+  {
+   "texto": "deuda",
+   "inicio": 42.13,
+   "fin": 42.44,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.44,
+   "fin": 42.61,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 42.61,
+   "fin": 42.79,
+   "corte": false
+  },
+  {
+   "texto": "Reserva",
+   "inicio": 42.79,
+   "fin": 43.18,
+   "corte": false
+  },
+  {
+   "texto": "Federal",
+   "inicio": 43.18,
+   "fin": 43.57,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 43.57,
+   "fin": 43.79,
+   "corte": false
+  },
+  {
+   "texto": "quien",
+   "inicio": 43.79,
+   "fin": 44.1,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 44.1,
+   "fin": 44.27,
+   "corte": false
+  },
+  {
+   "texto": "tiene.",
+   "inicio": 44.27,
+   "fin": 44.58,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 44.58,
+   "fin": 44.75,
+   "corte": false
+  },
+  {
+   "texto": "curioso",
+   "inicio": 44.75,
+   "fin": 45.54,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 45.54,
+   "fin": 45.72,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 45.72,
+   "fin": 45.94,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 45.94,
+   "fin": 46.16,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 46.16,
+   "fin": 46.38,
+   "corte": false
+  },
+  {
+   "texto": "monedas",
+   "inicio": 46.38,
+   "fin": 46.78,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 46.78,
+   "fin": 47.04,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 47.04,
+   "fin": 47.22,
+   "corte": false
+  },
+  {
+   "texto": "contrario:",
+   "inicio": 47.22,
+   "fin": 47.7,
+   "corte": false
+  },
+  {
+   "texto": "algunas",
+   "inicio": 47.7,
+   "fin": 48.37,
+   "corte": false
+  },
+  {
+   "texto": "cuestan",
+   "inicio": 48.37,
+   "fin": 48.77,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 48.77,
+   "fin": 48.99,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 48.99,
+   "fin": 49.21,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 49.21,
+   "fin": 49.38,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 49.38,
+   "fin": 49.6,
+   "corte": false
+  },
+  {
+   "texto": "valen.",
+   "inicio": 49.6,
+   "fin": 49.91,
+   "corte": true
+  },
+  {
+   "texto": "¿Te",
+   "inicio": 49.91,
+   "fin": 50.51,
+   "corte": false
+  },
+  {
+   "texto": "gustaría",
+   "inicio": 50.51,
+   "fin": 50.99,
+   "corte": false
+  },
+  {
+   "texto": "saber",
+   "inicio": 50.99,
+   "fin": 51.33,
+   "corte": false
+  },
+  {
+   "texto": "cuáles?",
+   "inicio": 51.33,
+   "fin": 51.72,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Cuánto cuesta fabricar un billete de 100 dólares?",
+   "inicio": 0.0,
+   "fin": 3.04
+  },
+  {
+   "texto": "Unos 11 centavos.",
+   "inicio": 3.05,
+   "fin": 4.16
+  },
+  {
+   "texto": "Y uno de 1 dólar, unos 4.",
+   "inicio": 4.16,
+   "fin": 6.17
+  },
+  {
+   "texto": "Así lo calcula la Reserva Federal para 2025.",
+   "inicio": 6.17,
+   "fin": 9.66
+  },
+  {
+   "texto": "¿Por qué el de 100 es más caro?",
+   "inicio": 9.66,
+   "fin": 12.27
+  },
+  {
+   "texto": "Porque es el que más se falsifica, y lleva más seguridad: una banda azul en 3D, tinta que cambia de color, marca de agua e hilo de seguridad.",
+   "inicio": 12.27,
+   "fin": 20.62
+  },
+  {
+   "texto": "Y no es papel normal: es 75 % algodón y 25 % lino.",
+   "inicio": 20.62,
+   "fin": 26.0
+  },
+  {
+   "texto": "Por eso aguanta si lo metes en la lavadora.",
+   "inicio": 26.0,
+   "fin": 29.01
+  },
+  {
+   "texto": "Un billete de 1 dólar dura unos siete años, uno de 100 más de veinte.",
+   "inicio": 29.01,
+   "fin": 33.44
+  },
+  {
+   "texto": "¿Entonces el gobierno gana 99,89 dólares con cada uno?",
+   "inicio": 33.44,
+   "fin": 38.1
+  },
+  {
+   "texto": "No exactamente: ese dinero no es ganancia libre, porque el billete es una deuda de la Reserva Federal con quien lo tiene.",
+   "inicio": 38.1,
+   "fin": 44.58
+  },
+  {
+   "texto": "Lo curioso es que con las monedas pasa lo contrario: algunas cuestan más que lo que valen.",
+   "inicio": 44.58,
+   "fin": 49.91
+  },
+  {
+   "texto": "¿Te gustaría saber cuáles?",
+   "inicio": 49.91,
+   "fin": 51.72
+  }
+ ],
+ "duracion": 51.72,
+ "voz": "narraciones/coste-billete.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Cuánto cuesta",
+    "FABRICAR",
+    "un billete de 100 $?"
+   ],
+   "resaltar": "FABRICAR",
+   "img": {
+    "src": "ia/s16/billete-100.png",
+    "size": 620,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 1,
+   "titulo": "Coste de fabricarlo",
+   "a": {
+    "etiqueta": "Billete de 100 $",
+    "valor": "11 ¢",
+    "img": "ia/s16/billete-100.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "Billete de 1 $",
+    "valor": "4 ¢",
+    "img": "ia/s16/billete-1.png",
+    "altura": 0.37,
+    "color": "#ffd60a"
+   },
+   "pie": "Reserva Federal · 2025"
+  },
+  {
+   "tipo": "lista",
+   "frase": 4,
+   "titulo": "¿Por qué cuesta más?",
+   "items": [
+    {
+     "texto": "Banda azul en 3D",
+     "emoji": "🟦",
+     "color": "#7fd1ff",
+     "en": 4.21
+    },
+    {
+     "texto": "Tinta que cambia de color",
+     "emoji": "🎨",
+     "en": 5.81
+    },
+    {
+     "texto": "Marca de agua",
+     "emoji": "💧",
+     "color": "#7fd1ff",
+     "en": 7.41
+    },
+    {
+     "texto": "Hilo de seguridad",
+     "img": "ia/s16/lupa.png",
+     "en": 8.41
+    }
+   ]
+  },
+  {
+   "tipo": "donut",
+   "frase": 6,
+   "titulo": "No es papel normal",
+   "centro": "Billete",
+   "partes": [
+    {
+     "etiqueta": "Algodón",
+     "valor": 75,
+     "color": "#f2f2f2"
+    },
+    {
+     "etiqueta": "Lino",
+     "valor": 25,
+     "color": "#2ee59d"
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 7,
+   "img": {
+    "src": "ia/s16/lavadora.png",
+    "size": 680,
+    "y": 760
+   },
+   "texto": "Aguanta la lavadora",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "barras",
+   "frase": 8,
+   "titulo": "Cuánto dura",
+   "items": [
+    {
+     "etiqueta": "Billete de 1 $",
+     "valor": 7,
+     "texto": "~7 años",
+     "img": "ia/s16/billete-1.png",
+     "color": "#ffd60a"
+    },
+    {
+     "etiqueta": "Billete de 100 $",
+     "valor": 22,
+     "texto": "+20 años",
+     "img": "ia/s16/billete-100.png",
+     "color": "#2ee59d"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "frase": 9,
+   "antes": "¿El gobierno gana…",
+   "valor": 99.89,
+   "decimales": 2,
+   "prefijo": "$",
+   "etiqueta": "con cada billete de 100?",
+   "img": {
+    "src": "ia/s16/billete-100.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 10,
+   "cabecera": "NO EXACTAMENTE",
+   "titulo": "El billete es una deuda de la Reserva Federal",
+   "lineas": [
+    "con quien lo tiene"
+   ],
+   "img": {
+    "src": "ia/s16/contrato.png",
+    "size": 460
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 11,
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 680,
+    "y": 760
+   },
+   "texto": "Hay monedas que cuestan",
+   "sub": "más de lo que valen",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "remate",
+   "frase": 12,
+   "pregunta": "¿Te gustaría saber cuáles?"
+  }
+ ]
+}

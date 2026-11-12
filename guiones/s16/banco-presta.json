@@ -1,0 +1,1079 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Sabías",
+   "inicio": 0.0,
+   "fin": 0.38,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 0.38,
+   "fin": 0.62,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 0.62,
+   "fin": 0.81,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 0.81,
+   "fin": 1.15,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 1.15,
+   "fin": 1.34,
+   "corte": false
+  },
+  {
+   "texto": "presta",
+   "inicio": 1.34,
+   "fin": 1.72,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 1.72,
+   "fin": 2.1,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 2.1,
+   "fin": 2.34,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 2.34,
+   "fin": 2.53,
+   "corte": false
+  },
+  {
+   "texto": "tiene?",
+   "inicio": 2.53,
+   "fin": 3.37,
+   "corte": true
+  },
+  {
+   "texto": "Mucha",
+   "inicio": 3.38,
+   "fin": 3.7,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 3.7,
+   "fin": 4.03,
+   "corte": false
+  },
+  {
+   "texto": "cree",
+   "inicio": 4.03,
+   "fin": 4.31,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 4.31,
+   "fin": 4.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 4.54,
+   "fin": 4.73,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 4.73,
+   "fin": 5.06,
+   "corte": false
+  },
+  {
+   "texto": "guarda",
+   "inicio": 5.06,
+   "fin": 5.43,
+   "corte": false
+  },
+  {
+   "texto": "tus",
+   "inicio": 5.43,
+   "fin": 5.67,
+   "corte": false
+  },
+  {
+   "texto": "ahorros",
+   "inicio": 5.67,
+   "fin": 6.09,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 6.09,
+   "fin": 6.23,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 6.23,
+   "fin": 6.41,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 6.42,
+   "fin": 6.65,
+   "corte": false
+  },
+  {
+   "texto": "presta",
+   "inicio": 6.65,
+   "fin": 7.44,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 7.44,
+   "fin": 7.58,
+   "corte": false
+  },
+  {
+   "texto": "otro.",
+   "inicio": 7.58,
+   "fin": 7.86,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 7.86,
+   "fin": 8.16,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 8.16,
+   "fin": 8.36,
+   "corte": false
+  },
+  {
+   "texto": "funciona",
+   "inicio": 8.36,
+   "fin": 8.85,
+   "corte": false
+  },
+  {
+   "texto": "exactamente",
+   "inicio": 8.86,
+   "fin": 10.03,
+   "corte": false
+  },
+  {
+   "texto": "así.",
+   "inicio": 10.03,
+   "fin": 10.28,
+   "corte": true
+  },
+  {
+   "texto": "Cuando",
+   "inicio": 10.28,
+   "fin": 10.65,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 10.65,
+   "fin": 10.83,
+   "corte": false
+  },
+  {
+   "texto": "dan",
+   "inicio": 10.83,
+   "fin": 11.06,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 11.06,
+   "fin": 11.24,
+   "corte": false
+  },
+  {
+   "texto": "préstamo",
+   "inicio": 11.24,
+   "fin": 11.69,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.7,
+   "fin": 11.88,
+   "corte": false
+  },
+  {
+   "texto": "10.000",
+   "inicio": 11.88,
+   "fin": 12.47,
+   "corte": false
+  },
+  {
+   "texto": "dólares,",
+   "inicio": 12.47,
+   "fin": 12.88,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 12.88,
+   "fin": 13.06,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 13.06,
+   "fin": 13.38,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 13.38,
+   "fin": 13.56,
+   "corte": false
+  },
+  {
+   "texto": "saca",
+   "inicio": 13.56,
+   "fin": 13.84,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 13.84,
+   "fin": 14.06,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 14.07,
+   "fin": 14.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.43,
+   "fin": 14.61,
+   "corte": false
+  },
+  {
+   "texto": "ninguna",
+   "inicio": 14.61,
+   "fin": 15.49,
+   "corte": false
+  },
+  {
+   "texto": "caja.",
+   "inicio": 15.49,
+   "fin": 15.77,
+   "corte": true
+  },
+  {
+   "texto": "Simplemente",
+   "inicio": 15.77,
+   "fin": 16.38,
+   "corte": false
+  },
+  {
+   "texto": "escribe",
+   "inicio": 16.38,
+   "fin": 16.8,
+   "corte": false
+  },
+  {
+   "texto": "10.000",
+   "inicio": 16.8,
+   "fin": 17.4,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.41,
+   "fin": 17.59,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 17.59,
+   "fin": 18.24,
+   "corte": false
+  },
+  {
+   "texto": "cuenta.",
+   "inicio": 18.24,
+   "fin": 18.62,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 18.62,
+   "fin": 18.82,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 18.82,
+   "fin": 19.06,
+   "corte": false
+  },
+  {
+   "texto": "momento,",
+   "inicio": 19.07,
+   "fin": 19.51,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 19.51,
+   "fin": 19.76,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 19.76,
+   "fin": 20.16,
+   "corte": false
+  },
+  {
+   "texto": "nace.",
+   "inicio": 20.16,
+   "fin": 20.46,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 20.46,
+   "fin": 21.14,
+   "corte": false
+  },
+  {
+   "texto": "explicó",
+   "inicio": 21.14,
+   "fin": 21.57,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.57,
+   "fin": 21.77,
+   "corte": false
+  },
+  {
+   "texto": "propio",
+   "inicio": 21.77,
+   "fin": 22.15,
+   "corte": false
+  },
+  {
+   "texto": "Banco",
+   "inicio": 22.15,
+   "fin": 22.49,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.49,
+   "fin": 22.68,
+   "corte": false
+  },
+  {
+   "texto": "Inglaterra",
+   "inicio": 22.69,
+   "fin": 23.26,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 23.27,
+   "fin": 23.46,
+   "corte": false
+  },
+  {
+   "texto": "2014:",
+   "inicio": 23.46,
+   "fin": 24.45,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 24.45,
+   "fin": 24.65,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 24.65,
+   "fin": 24.98,
+   "corte": false
+  },
+  {
+   "texto": "parte",
+   "inicio": 24.99,
+   "fin": 25.32,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 25.32,
+   "fin": 25.57,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 25.57,
+   "fin": 25.95,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 25.95,
+   "fin": 26.15,
+   "corte": false
+  },
+  {
+   "texto": "crea",
+   "inicio": 26.15,
+   "fin": 26.44,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 26.44,
+   "fin": 27.02,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 27.02,
+   "fin": 27.4,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 27.41,
+   "fin": 27.65,
+   "corte": false
+  },
+  {
+   "texto": "bancos",
+   "inicio": 27.65,
+   "fin": 28.6,
+   "corte": false
+  },
+  {
+   "texto": "prestan.",
+   "inicio": 28.6,
+   "fin": 29.04,
+   "corte": true
+  },
+  {
+   "texto": "¿Y",
+   "inicio": 29.04,
+   "fin": 29.19,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 29.19,
+   "fin": 29.39,
+   "corte": false
+  },
+  {
+   "texto": "pueden",
+   "inicio": 29.39,
+   "fin": 29.78,
+   "corte": false
+  },
+  {
+   "texto": "prestar",
+   "inicio": 29.78,
+   "fin": 30.23,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 30.23,
+   "fin": 30.88,
+   "corte": false
+  },
+  {
+   "texto": "límite?",
+   "inicio": 30.88,
+   "fin": 31.67,
+   "corte": true
+  },
+  {
+   "texto": "No.",
+   "inicio": 31.67,
+   "fin": 32.03,
+   "corte": true
+  },
+  {
+   "texto": "Necesitan",
+   "inicio": 32.03,
+   "fin": 32.54,
+   "corte": false
+  },
+  {
+   "texto": "clientes",
+   "inicio": 32.54,
+   "fin": 33.29,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 33.29,
+   "fin": 33.53,
+   "corte": false
+  },
+  {
+   "texto": "paguen,",
+   "inicio": 33.53,
+   "fin": 33.9,
+   "corte": false
+  },
+  {
+   "texto": "capital",
+   "inicio": 33.9,
+   "fin": 34.32,
+   "corte": false
+  },
+  {
+   "texto": "propio",
+   "inicio": 34.32,
+   "fin": 34.7,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 34.7,
+   "fin": 34.84,
+   "corte": false
+  },
+  {
+   "texto": "cumplir",
+   "inicio": 34.84,
+   "fin": 35.26,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 35.26,
+   "fin": 35.5,
+   "corte": false
+  },
+  {
+   "texto": "normas",
+   "inicio": 35.5,
+   "fin": 35.87,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 35.87,
+   "fin": 36.11,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 36.11,
+   "fin": 36.9,
+   "corte": false
+  },
+  {
+   "texto": "central.",
+   "inicio": 36.9,
+   "fin": 37.33,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 37.33,
+   "fin": 37.47,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 37.47,
+   "fin": 37.85,
+   "corte": false
+  },
+  {
+   "texto": "devuelves",
+   "inicio": 37.86,
+   "fin": 38.38,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.38,
+   "fin": 38.58,
+   "corte": false
+  },
+  {
+   "texto": "préstamo,",
+   "inicio": 38.58,
+   "fin": 39.06,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 39.06,
+   "fin": 39.3,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 39.3,
+   "fin": 39.68,
+   "corte": false
+  },
+  {
+   "texto": "desaparece.",
+   "inicio": 39.68,
+   "fin": 40.72,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 40.72,
+   "fin": 40.95,
+   "corte": false
+  },
+  {
+   "texto": "eso,",
+   "inicio": 40.95,
+   "fin": 41.19,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 41.19,
+   "fin": 41.56,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 41.56,
+   "fin": 41.74,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 41.74,
+   "fin": 42.07,
+   "corte": false
+  },
+  {
+   "texto": "pide",
+   "inicio": 42.07,
+   "fin": 42.34,
+   "corte": false
+  },
+  {
+   "texto": "muchos",
+   "inicio": 42.34,
+   "fin": 42.71,
+   "corte": false
+  },
+  {
+   "texto": "créditos,",
+   "inicio": 42.71,
+   "fin": 43.18,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 43.18,
+   "fin": 43.41,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 43.41,
+   "fin": 43.64,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 43.64,
+   "fin": 44.01,
+   "corte": false
+  },
+  {
+   "texto": "circulando,",
+   "inicio": 44.01,
+   "fin": 44.89,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 44.89,
+   "fin": 45.03,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 45.03,
+   "fin": 45.4,
+   "corte": false
+  },
+  {
+   "texto": "deja",
+   "inicio": 45.4,
+   "fin": 45.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 45.68,
+   "fin": 46.15,
+   "corte": false
+  },
+  {
+   "texto": "pedir,",
+   "inicio": 46.15,
+   "fin": 46.47,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 46.48,
+   "fin": 47.1,
+   "corte": false
+  },
+  {
+   "texto": "menos.",
+   "inicio": 47.1,
+   "fin": 47.43,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 47.43,
+   "fin": 47.61,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 47.61,
+   "fin": 47.99,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 47.99,
+   "fin": 48.18,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 48.18,
+   "fin": 48.36,
+   "corte": false
+  },
+  {
+   "texto": "guarda",
+   "inicio": 48.36,
+   "fin": 48.74,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 48.74,
+   "fin": 49.23,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 49.23,
+   "fin": 49.46,
+   "corte": false
+  },
+  {
+   "texto": "caja:",
+   "inicio": 49.47,
+   "fin": 49.75,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 49.75,
+   "fin": 49.93,
+   "corte": false
+  },
+  {
+   "texto": "crea",
+   "inicio": 49.93,
+   "fin": 50.21,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 50.21,
+   "fin": 50.35,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 50.36,
+   "fin": 50.54,
+   "corte": false
+  },
+  {
+   "texto": "destruye",
+   "inicio": 50.54,
+   "fin": 51.01,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 51.01,
+   "fin": 51.29,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 51.29,
+   "fin": 52.05,
+   "corte": true
+  },
+  {
+   "texto": "¿Lo",
+   "inicio": 52.05,
+   "fin": 52.29,
+   "corte": false
+  },
+  {
+   "texto": "sabías?",
+   "inicio": 52.29,
+   "fin": 52.77,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Sabías que el banco te presta dinero que no tiene?",
+   "inicio": 0.0,
+   "fin": 3.37
+  },
+  {
+   "texto": "Mucha gente cree que el banco guarda tus ahorros y se los presta a otro.",
+   "inicio": 3.38,
+   "fin": 7.86
+  },
+  {
+   "texto": "Pero no funciona exactamente así.",
+   "inicio": 7.86,
+   "fin": 10.28
+  },
+  {
+   "texto": "Cuando te dan un préstamo de 10.000 dólares, el banco no saca ese dinero de ninguna caja.",
+   "inicio": 10.28,
+   "fin": 15.77
+  },
+  {
+   "texto": "Simplemente escribe 10.000 en tu cuenta.",
+   "inicio": 15.77,
+   "fin": 18.62
+  },
+  {
+   "texto": "En ese momento, ese dinero nace.",
+   "inicio": 18.62,
+   "fin": 20.46
+  },
+  {
+   "texto": "Lo explicó el propio Banco de Inglaterra en 2014: la mayor parte del dinero se crea así, cuando los bancos prestan.",
+   "inicio": 20.46,
+   "fin": 29.04
+  },
+  {
+   "texto": "¿Y no pueden prestar sin límite?",
+   "inicio": 29.04,
+   "fin": 31.67
+  },
+  {
+   "texto": "No.",
+   "inicio": 31.67,
+   "fin": 32.03
+  },
+  {
+   "texto": "Necesitan clientes que paguen, capital propio y cumplir las normas del banco central.",
+   "inicio": 32.03,
+   "fin": 37.33
+  },
+  {
+   "texto": "Y cuando devuelves el préstamo, ese dinero desaparece.",
+   "inicio": 37.33,
+   "fin": 40.72
+  },
+  {
+   "texto": "Por eso, cuando la gente pide muchos créditos, hay más dinero circulando, y cuando deja de pedir, hay menos.",
+   "inicio": 40.72,
+   "fin": 47.43
+  },
+  {
+   "texto": "El dinero no se guarda en una caja: se crea y se destruye cada día.",
+   "inicio": 47.43,
+   "fin": 52.05
+  },
+  {
+   "texto": "¿Lo sabías?",
+   "inicio": 52.05,
+   "fin": 52.77
+  }
+ ],
+ "duracion": 52.77,
+ "voz": "narraciones/banco-presta.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "El banco te",
+    "presta dinero",
+    "que NO TIENE"
+   ],
+   "resaltar": "NO TIENE",
+   "img": {
+    "src": "ia/s16/banco.png",
+    "size": 620,
+    "y": 1030
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 1,
+   "cabecera": "LO QUE CREE MUCHA GENTE",
+   "titulo": "El banco presta tus ahorros a otro",
+   "lineas": [
+    "Pero no funciona exactamente así"
+   ],
+   "img": {
+    "src": "ia/s16/caja-fuerte.png",
+    "size": 500
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 3,
+   "antes": "Te dan un préstamo de",
+   "valor": 10000,
+   "prefijo": "$",
+   "etiqueta": "¿de qué caja sale?",
+   "img": {
+    "src": "ia/s16/caja-fuerte.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 4,
+   "img": {
+    "src": "ia/s16/monitor-billetes.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Solo escribe 10.000 en tu cuenta",
+   "sub": "En ese momento, ese dinero nace",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 6,
+   "cabecera": "BANCO DE INGLATERRA · 2014",
+   "titulo": "La mayor parte del dinero se crea cuando los bancos prestan",
+   "img": {
+    "src": "ia/s16/contrato.png",
+    "size": 500
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 7,
+   "titulo": "¿Sin límite? No",
+   "items": [
+    {
+     "texto": "Clientes que paguen",
+     "img": "ia/s16/contrato.png",
+     "en": 2.99
+    },
+    {
+     "texto": "Capital propio",
+     "img": "ia/s16/monedas.png",
+     "en": 3.99
+    },
+    {
+     "texto": "Normas del banco central",
+     "img": "ia/s16/banco.png",
+     "en": 4.99
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "Al devolverlo, desaparece",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 11,
+   "titulo": "Dinero circulando",
+   "a": {
+    "etiqueta": "Mucho crédito",
+    "valor": "Más dinero",
+    "img": "ia/s16/billetes-montana.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "Poco crédito",
+    "valor": "Menos",
+    "img": "ia/s16/fajo.png",
+    "altura": 0.35,
+    "color": "#ff4d6d"
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 12,
+   "lineas": [
+    "El dinero se CREA",
+    "y se destruye",
+    "cada día"
+   ],
+   "resaltar": "CREA",
+   "img": {
+    "src": "ia/s16/monitor-billetes.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Lo sabías?"
+  }
+ ]
+}

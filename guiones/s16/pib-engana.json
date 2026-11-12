@@ -1,0 +1,1120 @@
+{
+ "palabras": [
+  {
+   "texto": "El",
+   "inicio": 0.0,
+   "fin": 0.23,
+   "corte": false
+  },
+  {
+   "texto": "PIB",
+   "inicio": 0.23,
+   "fin": 0.51,
+   "corte": false
+  },
+  {
+   "texto": "mide",
+   "inicio": 0.51,
+   "fin": 0.85,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 0.85,
+   "fin": 1.07,
+   "corte": false
+  },
+  {
+   "texto": "riqueza",
+   "inicio": 1.07,
+   "fin": 1.58,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.58,
+   "fin": 1.81,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 1.81,
+   "fin": 2.03,
+   "corte": false
+  },
+  {
+   "texto": "país.",
+   "inicio": 2.04,
+   "fin": 2.37,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 2.38,
+   "fin": 3.11,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 3.11,
+   "fin": 3.27,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 3.27,
+   "fin": 3.65,
+   "corte": false
+  },
+  {
+   "texto": "engaña.",
+   "inicio": 3.65,
+   "fin": 4.56,
+   "corte": true
+  },
+  {
+   "texto": "Imagina",
+   "inicio": 4.56,
+   "fin": 5.01,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.01,
+   "fin": 5.26,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 5.26,
+   "fin": 5.46,
+   "corte": false
+  },
+  {
+   "texto": "huracán",
+   "inicio": 5.46,
+   "fin": 5.91,
+   "corte": false
+  },
+  {
+   "texto": "destroza",
+   "inicio": 5.91,
+   "fin": 6.41,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 6.41,
+   "fin": 6.66,
+   "corte": false
+  },
+  {
+   "texto": "ciudad.",
+   "inicio": 6.66,
+   "fin": 7.51,
+   "corte": true
+  },
+  {
+   "texto": "Hay",
+   "inicio": 7.51,
+   "fin": 7.76,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 7.76,
+   "fin": 8.01,
+   "corte": false
+  },
+  {
+   "texto": "reconstruir",
+   "inicio": 8.01,
+   "fin": 8.67,
+   "corte": false
+  },
+  {
+   "texto": "casas,",
+   "inicio": 8.67,
+   "fin": 9.02,
+   "corte": false
+  },
+  {
+   "texto": "carreteras,",
+   "inicio": 9.02,
+   "fin": 9.62,
+   "corte": false
+  },
+  {
+   "texto": "coches.",
+   "inicio": 9.62,
+   "fin": 10.02,
+   "corte": true
+  },
+  {
+   "texto": "Todo",
+   "inicio": 10.02,
+   "fin": 10.7,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 10.7,
+   "fin": 10.98,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 10.98,
+   "fin": 11.21,
+   "corte": false
+  },
+  {
+   "texto": "gasto,",
+   "inicio": 11.21,
+   "fin": 11.61,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.61,
+   "fin": 11.78,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 11.78,
+   "fin": 12.32,
+   "corte": false
+  },
+  {
+   "texto": "PIB",
+   "inicio": 12.32,
+   "fin": 12.6,
+   "corte": false
+  },
+  {
+   "texto": "sube.",
+   "inicio": 12.6,
+   "fin": 12.95,
+   "corte": true
+  },
+  {
+   "texto": "¿El",
+   "inicio": 12.95,
+   "fin": 13.16,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 13.16,
+   "fin": 13.95,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 13.95,
+   "fin": 14.16,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 14.16,
+   "fin": 14.42,
+   "corte": false
+  },
+  {
+   "texto": "rico?",
+   "inicio": 14.42,
+   "fin": 14.74,
+   "corte": true
+  },
+  {
+   "texto": "No:",
+   "inicio": 14.74,
+   "fin": 15.36,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 15.36,
+   "fin": 15.91,
+   "corte": false
+  },
+  {
+   "texto": "perdido",
+   "inicio": 15.91,
+   "fin": 16.37,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 16.37,
+   "fin": 16.57,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 16.58,
+   "fin": 16.83,
+   "corte": false
+  },
+  {
+   "texto": "tenía.",
+   "inicio": 16.83,
+   "fin": 17.67,
+   "corte": true
+  },
+  {
+   "texto": "Otro",
+   "inicio": 17.67,
+   "fin": 18.02,
+   "corte": false
+  },
+  {
+   "texto": "ejemplo.",
+   "inicio": 18.02,
+   "fin": 18.92,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 18.92,
+   "fin": 19.13,
+   "corte": false
+  },
+  {
+   "texto": "cuidas",
+   "inicio": 19.13,
+   "fin": 19.54,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.54,
+   "fin": 19.7,
+   "corte": false
+  },
+  {
+   "texto": "tus",
+   "inicio": 19.7,
+   "fin": 19.96,
+   "corte": false
+  },
+  {
+   "texto": "hijos",
+   "inicio": 19.96,
+   "fin": 20.32,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 20.32,
+   "fin": 20.47,
+   "corte": false
+  },
+  {
+   "texto": "cocinas",
+   "inicio": 20.48,
+   "fin": 20.94,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 20.94,
+   "fin": 21.15,
+   "corte": false
+  },
+  {
+   "texto": "casa,",
+   "inicio": 21.15,
+   "fin": 21.46,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.46,
+   "fin": 21.67,
+   "corte": false
+  },
+  {
+   "texto": "PIB",
+   "inicio": 21.67,
+   "fin": 21.93,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 21.93,
+   "fin": 22.13,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 22.13,
+   "fin": 22.34,
+   "corte": false
+  },
+  {
+   "texto": "cuenta.",
+   "inicio": 22.34,
+   "fin": 22.76,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 22.76,
+   "fin": 23.36,
+   "corte": false
+  },
+  {
+   "texto": "pagas",
+   "inicio": 23.36,
+   "fin": 23.71,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 23.71,
+   "fin": 23.86,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 23.86,
+   "fin": 24.3,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 24.3,
+   "fin": 24.6,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 24.6,
+   "fin": 24.85,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 24.85,
+   "fin": 25.05,
+   "corte": false
+  },
+  {
+   "texto": "haga,",
+   "inicio": 25.05,
+   "fin": 25.76,
+   "corte": false
+  },
+  {
+   "texto": "sí.",
+   "inicio": 25.76,
+   "fin": 25.96,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 25.96,
+   "fin": 26.16,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 26.16,
+   "fin": 26.51,
+   "corte": false
+  },
+  {
+   "texto": "trabajo,",
+   "inicio": 26.51,
+   "fin": 26.96,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 26.96,
+   "fin": 27.27,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 27.27,
+   "fin": 27.57,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 27.57,
+   "fin": 27.82,
+   "corte": false
+  },
+  {
+   "texto": "suma.",
+   "inicio": 27.82,
+   "fin": 28.12,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 28.12,
+   "fin": 28.27,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 28.27,
+   "fin": 28.89,
+   "corte": false
+  },
+  {
+   "texto": "PIB",
+   "inicio": 28.89,
+   "fin": 29.14,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 29.14,
+   "fin": 29.34,
+   "corte": false
+  },
+  {
+   "texto": "dice",
+   "inicio": 29.34,
+   "fin": 29.64,
+   "corte": false
+  },
+  {
+   "texto": "cómo",
+   "inicio": 29.64,
+   "fin": 29.94,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 29.94,
+   "fin": 30.14,
+   "corte": false
+  },
+  {
+   "texto": "reparte:",
+   "inicio": 30.14,
+   "fin": 30.59,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 30.59,
+   "fin": 30.79,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 30.79,
+   "fin": 31.5,
+   "corte": false
+  },
+  {
+   "texto": "puede",
+   "inicio": 31.5,
+   "fin": 31.85,
+   "corte": false
+  },
+  {
+   "texto": "crecer",
+   "inicio": 31.85,
+   "fin": 32.25,
+   "corte": false
+  },
+  {
+   "texto": "mientras",
+   "inicio": 32.25,
+   "fin": 32.75,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 32.75,
+   "fin": 32.95,
+   "corte": false
+  },
+  {
+   "texto": "mayoría",
+   "inicio": 32.95,
+   "fin": 33.4,
+   "corte": false
+  },
+  {
+   "texto": "gana",
+   "inicio": 33.4,
+   "fin": 33.7,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 33.7,
+   "fin": 33.9,
+   "corte": false
+  },
+  {
+   "texto": "mismo.",
+   "inicio": 33.91,
+   "fin": 34.26,
+   "corte": true
+  },
+  {
+   "texto": "Tampoco",
+   "inicio": 34.26,
+   "fin": 35.09,
+   "corte": false
+  },
+  {
+   "texto": "mide",
+   "inicio": 35.09,
+   "fin": 35.38,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 35.38,
+   "fin": 35.57,
+   "corte": false
+  },
+  {
+   "texto": "contaminación,",
+   "inicio": 35.58,
+   "fin": 36.31,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 36.31,
+   "fin": 36.5,
+   "corte": false
+  },
+  {
+   "texto": "tiempo",
+   "inicio": 36.5,
+   "fin": 36.89,
+   "corte": false
+  },
+  {
+   "texto": "libre",
+   "inicio": 36.9,
+   "fin": 37.24,
+   "corte": false
+  },
+  {
+   "texto": "ni",
+   "inicio": 37.24,
+   "fin": 37.43,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.43,
+   "fin": 37.63,
+   "corte": false
+  },
+  {
+   "texto": "salud.",
+   "inicio": 37.63,
+   "fin": 37.97,
+   "corte": true
+  },
+  {
+   "texto": "Hasta",
+   "inicio": 37.97,
+   "fin": 38.7,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 38.7,
+   "fin": 38.88,
+   "corte": false
+  },
+  {
+   "texto": "creador,",
+   "inicio": 38.89,
+   "fin": 39.31,
+   "corte": false
+  },
+  {
+   "texto": "Simon",
+   "inicio": 39.31,
+   "fin": 39.64,
+   "corte": false
+  },
+  {
+   "texto": "Kuznets,",
+   "inicio": 39.64,
+   "fin": 40.07,
+   "corte": false
+  },
+  {
+   "texto": "avisó",
+   "inicio": 40.07,
+   "fin": 40.4,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.4,
+   "fin": 40.59,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 40.59,
+   "fin": 40.82,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 40.83,
+   "fin": 41.11,
+   "corte": false
+  },
+  {
+   "texto": "30",
+   "inicio": 41.11,
+   "fin": 41.58,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 41.58,
+   "fin": 41.82,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 41.82,
+   "fin": 42.01,
+   "corte": false
+  },
+  {
+   "texto": "servía",
+   "inicio": 42.01,
+   "fin": 42.39,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 42.39,
+   "fin": 42.67,
+   "corte": false
+  },
+  {
+   "texto": "medir",
+   "inicio": 42.67,
+   "fin": 43.0,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 43.0,
+   "fin": 43.19,
+   "corte": false
+  },
+  {
+   "texto": "bienestar.",
+   "inicio": 43.19,
+   "fin": 43.71,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 43.71,
+   "fin": 43.93,
+   "corte": false
+  },
+  {
+   "texto": "PIB",
+   "inicio": 43.93,
+   "fin": 44.65,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 44.65,
+   "fin": 44.87,
+   "corte": false
+  },
+  {
+   "texto": "útil",
+   "inicio": 44.87,
+   "fin": 45.19,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 45.19,
+   "fin": 45.52,
+   "corte": false
+  },
+  {
+   "texto": "saber",
+   "inicio": 45.52,
+   "fin": 45.9,
+   "corte": false
+  },
+  {
+   "texto": "cuánto",
+   "inicio": 45.9,
+   "fin": 46.34,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 46.34,
+   "fin": 46.56,
+   "corte": false
+  },
+  {
+   "texto": "produce.",
+   "inicio": 46.56,
+   "fin": 47.05,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 47.05,
+   "fin": 47.34,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 47.34,
+   "fin": 47.9,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 47.9,
+   "fin": 48.1,
+   "corte": false
+  },
+  {
+   "texto": "dice",
+   "inicio": 48.1,
+   "fin": 48.4,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 48.4,
+   "fin": 48.59,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 48.6,
+   "fin": 48.79,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 48.79,
+   "fin": 49.14,
+   "corte": false
+  },
+  {
+   "texto": "vive",
+   "inicio": 49.14,
+   "fin": 49.44,
+   "corte": false
+  },
+  {
+   "texto": "mejor.",
+   "inicio": 49.44,
+   "fin": 49.79,
+   "corte": true
+  },
+  {
+   "texto": "¿Qué",
+   "inicio": 49.79,
+   "fin": 50.49,
+   "corte": false
+  },
+  {
+   "texto": "medirías",
+   "inicio": 50.5,
+   "fin": 50.99,
+   "corte": false
+  },
+  {
+   "texto": "tú",
+   "inicio": 50.99,
+   "fin": 51.18,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.18,
+   "fin": 51.48,
+   "corte": false
+  },
+  {
+   "texto": "saber",
+   "inicio": 51.48,
+   "fin": 51.82,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 51.82,
+   "fin": 52.02,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 52.02,
+   "fin": 52.22,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 52.22,
+   "fin": 52.51,
+   "corte": false
+  },
+  {
+   "texto": "va",
+   "inicio": 52.51,
+   "fin": 52.71,
+   "corte": false
+  },
+  {
+   "texto": "bien?",
+   "inicio": 52.71,
+   "fin": 53.0,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "El PIB mide la riqueza de un país.",
+   "inicio": 0.0,
+   "fin": 2.37
+  },
+  {
+   "texto": "Pero a veces engaña.",
+   "inicio": 2.38,
+   "fin": 4.56
+  },
+  {
+   "texto": "Imagina que un huracán destroza una ciudad.",
+   "inicio": 4.56,
+   "fin": 7.51
+  },
+  {
+   "texto": "Hay que reconstruir casas, carreteras, coches.",
+   "inicio": 7.51,
+   "fin": 10.02
+  },
+  {
+   "texto": "Todo eso es gasto, y el PIB sube.",
+   "inicio": 10.02,
+   "fin": 12.95
+  },
+  {
+   "texto": "¿El país es más rico?",
+   "inicio": 12.95,
+   "fin": 14.74
+  },
+  {
+   "texto": "No: ha perdido lo que tenía.",
+   "inicio": 14.74,
+   "fin": 17.67
+  },
+  {
+   "texto": "Otro ejemplo.",
+   "inicio": 17.67,
+   "fin": 18.92
+  },
+  {
+   "texto": "Si cuidas a tus hijos o cocinas en casa, el PIB no lo cuenta.",
+   "inicio": 18.92,
+   "fin": 22.76
+  },
+  {
+   "texto": "Si pagas a alguien para que lo haga, sí.",
+   "inicio": 22.76,
+   "fin": 25.96
+  },
+  {
+   "texto": "El mismo trabajo, pero solo uno suma.",
+   "inicio": 25.96,
+   "fin": 28.12
+  },
+  {
+   "texto": "Y el PIB no dice cómo se reparte: un país puede crecer mientras la mayoría gana lo mismo.",
+   "inicio": 28.12,
+   "fin": 34.26
+  },
+  {
+   "texto": "Tampoco mide la contaminación, el tiempo libre ni la salud.",
+   "inicio": 34.26,
+   "fin": 37.97
+  },
+  {
+   "texto": "Hasta su creador, Simon Kuznets, avisó en los años 30 que no servía para medir el bienestar.",
+   "inicio": 37.97,
+   "fin": 43.71
+  },
+  {
+   "texto": "El PIB es útil para saber cuánto se produce.",
+   "inicio": 43.71,
+   "fin": 47.05
+  },
+  {
+   "texto": "Pero no te dice si la gente vive mejor.",
+   "inicio": 47.05,
+   "fin": 49.79
+  },
+  {
+   "texto": "¿Qué medirías tú para saber si un país va bien?",
+   "inicio": 49.79,
+   "fin": 53.0
+  }
+ ],
+ "duracion": 53.0,
+ "voz": "narraciones/pib-engana.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "El PIB",
+    "a veces ENGAÑA"
+   ],
+   "resaltar": "ENGAÑA",
+   "sub": "mide la riqueza de un país",
+   "img": {
+    "src": "ia/s16/fabrica.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 2,
+   "img": {
+    "src": "ia/s16/casa-huracan.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Un huracán destroza una ciudad",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s16/grua-casa.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Reconstruir = gasto",
+   "sub": "y el PIB sube"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 5,
+   "titulo": "¿El país es más rico?",
+   "a": {
+    "etiqueta": "PIB",
+    "valor": "Sube",
+    "img": "ia/s16/grua-casa.png",
+    "altura": 0.9,
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "Riqueza real",
+    "valor": "Baja",
+    "img": "ia/s16/casa-huracan.png",
+    "altura": 0.4,
+    "color": "#ff4d6d"
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 8,
+   "titulo": "El mismo trabajo",
+   "a": {
+    "etiqueta": "Cocinas en casa",
+    "valor": "No cuenta",
+    "img": "ia/s16/sarten.png",
+    "color": "#ff4d6d"
+   },
+   "b": {
+    "etiqueta": "Pagas a alguien",
+    "valor": "Suma al PIB",
+    "img": "ia/s16/fajo.png",
+    "color": "#2ee59d"
+   },
+   "pie": "Solo uno suma"
+  },
+  {
+   "tipo": "lista",
+   "frase": 11,
+   "titulo": "Lo que el PIB no mide",
+   "items": [
+    {
+     "texto": "Cómo se reparte",
+     "img": "ia/s16/monedas.png"
+    },
+    {
+     "texto": "La contaminación",
+     "img": "ia/s16/fabrica.png",
+     "en": 6.14
+    },
+    {
+     "texto": "El tiempo libre",
+     "emoji": "⏳",
+     "en": 7.34
+    },
+    {
+     "texto": "La salud",
+     "emoji": "❤️",
+     "en": 8.34
+    }
+   ]
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 13,
+   "cabecera": "SIMON KUZNETS · AÑOS 30",
+   "titulo": "Su creador avisó: no sirve para medir el bienestar",
+   "img": {
+    "src": "ia/s16/contrato.png",
+    "size": 480
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 14,
+   "a": {
+    "etiqueta": "Cuánto se produce",
+    "valor": "✓",
+    "img": "ia/s16/fabrica.png",
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "Si se vive mejor",
+    "valor": "✗",
+    "img": "ia/s16/casa-huracan.png",
+    "color": "#ff4d6d"
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 16,
+   "pregunta": "¿Qué medirías tú para saber si un país va bien?"
+  }
+ ]
+}

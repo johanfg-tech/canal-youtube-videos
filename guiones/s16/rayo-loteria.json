@@ -1,0 +1,1039 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Qué",
+   "inicio": 0.0,
+   "fin": 0.24,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 0.24,
+   "fin": 0.44,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 0.44,
+   "fin": 0.68,
+   "corte": false
+  },
+  {
+   "texto": "probable:",
+   "inicio": 0.68,
+   "fin": 1.55,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.55,
+   "fin": 1.79,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 1.79,
+   "fin": 1.98,
+   "corte": false
+  },
+  {
+   "texto": "caiga",
+   "inicio": 1.98,
+   "fin": 2.32,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 2.32,
+   "fin": 2.52,
+   "corte": false
+  },
+  {
+   "texto": "rayo",
+   "inicio": 2.52,
+   "fin": 2.81,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 2.81,
+   "fin": 2.95,
+   "corte": false
+  },
+  {
+   "texto": "ganar",
+   "inicio": 2.95,
+   "fin": 3.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 3.29,
+   "fin": 3.49,
+   "corte": false
+  },
+  {
+   "texto": "lotería?",
+   "inicio": 3.49,
+   "fin": 4.44,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 4.44,
+   "fin": 4.64,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 4.64,
+   "fin": 5.08,
+   "corte": false
+  },
+  {
+   "texto": "Unidos,",
+   "inicio": 5.08,
+   "fin": 5.48,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 5.48,
+   "fin": 5.68,
+   "corte": false
+  },
+  {
+   "texto": "probabilidad",
+   "inicio": 5.68,
+   "fin": 6.37,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 6.37,
+   "fin": 6.56,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 6.56,
+   "fin": 6.81,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 6.81,
+   "fin": 7.01,
+   "corte": false
+  },
+  {
+   "texto": "caiga",
+   "inicio": 7.01,
+   "fin": 7.35,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 7.35,
+   "fin": 7.55,
+   "corte": false
+  },
+  {
+   "texto": "rayo",
+   "inicio": 7.55,
+   "fin": 7.85,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 7.85,
+   "fin": 8.04,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 8.05,
+   "fin": 8.24,
+   "corte": false
+  },
+  {
+   "texto": "año",
+   "inicio": 8.24,
+   "fin": 8.49,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 8.49,
+   "fin": 8.69,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.69,
+   "fin": 8.88,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 8.88,
+   "fin": 9.33,
+   "corte": false
+  },
+  {
+   "texto": "entre",
+   "inicio": 9.33,
+   "fin": 9.67,
+   "corte": false
+  },
+  {
+   "texto": "1,2",
+   "inicio": 9.67,
+   "fin": 10.17,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 10.17,
+   "fin": 10.66,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 10.66,
+   "fin": 11.26,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 11.26,
+   "fin": 11.47,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.47,
+   "fin": 11.69,
+   "corte": false
+  },
+  {
+   "texto": "ganar",
+   "inicio": 11.69,
+   "fin": 12.07,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 12.07,
+   "fin": 12.28,
+   "corte": false
+  },
+  {
+   "texto": "premio",
+   "inicio": 12.28,
+   "fin": 12.71,
+   "corte": false
+  },
+  {
+   "texto": "gordo",
+   "inicio": 12.71,
+   "fin": 13.09,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 13.09,
+   "fin": 13.36,
+   "corte": false
+  },
+  {
+   "texto": "Powerball",
+   "inicio": 13.36,
+   "fin": 14.44,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 14.44,
+   "fin": 14.71,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 14.71,
+   "fin": 14.92,
+   "corte": false
+  },
+  {
+   "texto": "boleto:",
+   "inicio": 14.92,
+   "fin": 15.35,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 15.35,
+   "fin": 15.84,
+   "corte": false
+  },
+  {
+   "texto": "entre",
+   "inicio": 15.84,
+   "fin": 16.22,
+   "corte": false
+  },
+  {
+   "texto": "292",
+   "inicio": 16.22,
+   "fin": 16.81,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 16.81,
+   "fin": 17.74,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 17.75,
+   "fin": 17.96,
+   "corte": false
+  },
+  {
+   "texto": "decir,",
+   "inicio": 17.96,
+   "fin": 18.62,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 18.62,
+   "fin": 18.84,
+   "corte": false
+  },
+  {
+   "texto": "unas",
+   "inicio": 18.84,
+   "fin": 19.17,
+   "corte": false
+  },
+  {
+   "texto": "240",
+   "inicio": 19.17,
+   "fin": 19.77,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 19.77,
+   "fin": 20.15,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 20.15,
+   "fin": 20.43,
+   "corte": false
+  },
+  {
+   "texto": "probable",
+   "inicio": 20.43,
+   "fin": 20.98,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 20.98,
+   "fin": 21.25,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 21.25,
+   "fin": 21.47,
+   "corte": false
+  },
+  {
+   "texto": "caiga",
+   "inicio": 21.47,
+   "fin": 21.85,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 21.86,
+   "fin": 22.07,
+   "corte": false
+  },
+  {
+   "texto": "rayo.",
+   "inicio": 22.07,
+   "fin": 22.91,
+   "corte": true
+  },
+  {
+   "texto": "Imagínalo",
+   "inicio": 22.92,
+   "fin": 23.86,
+   "corte": false
+  },
+  {
+   "texto": "así:",
+   "inicio": 23.86,
+   "fin": 24.1,
+   "corte": false
+  },
+  {
+   "texto": "llena",
+   "inicio": 24.1,
+   "fin": 24.45,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 24.45,
+   "fin": 24.65,
+   "corte": false
+  },
+  {
+   "texto": "estadio",
+   "inicio": 24.65,
+   "fin": 25.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 25.09,
+   "fin": 25.29,
+   "corte": false
+  },
+  {
+   "texto": "fútbol",
+   "inicio": 25.29,
+   "fin": 25.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 25.68,
+   "fin": 25.88,
+   "corte": false
+  },
+  {
+   "texto": "80.000",
+   "inicio": 25.88,
+   "fin": 26.94,
+   "corte": false
+  },
+  {
+   "texto": "personas.",
+   "inicio": 26.94,
+   "fin": 27.44,
+   "corte": true
+  },
+  {
+   "texto": "Ahora",
+   "inicio": 27.44,
+   "fin": 27.96,
+   "corte": false
+  },
+  {
+   "texto": "llena",
+   "inicio": 27.96,
+   "fin": 28.48,
+   "corte": false
+  },
+  {
+   "texto": "3.650",
+   "inicio": 28.48,
+   "fin": 29.37,
+   "corte": false
+  },
+  {
+   "texto": "estadios",
+   "inicio": 29.37,
+   "fin": 30.12,
+   "corte": false
+  },
+  {
+   "texto": "iguales.",
+   "inicio": 30.12,
+   "fin": 31.21,
+   "corte": true
+  },
+  {
+   "texto": "Solo",
+   "inicio": 31.21,
+   "fin": 31.5,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 31.5,
+   "fin": 31.75,
+   "corte": false
+  },
+  {
+   "texto": "persona",
+   "inicio": 31.75,
+   "fin": 32.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.19,
+   "fin": 32.38,
+   "corte": false
+  },
+  {
+   "texto": "todas",
+   "inicio": 32.39,
+   "fin": 32.73,
+   "corte": false
+  },
+  {
+   "texto": "esas",
+   "inicio": 32.73,
+   "fin": 33.02,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 33.02,
+   "fin": 33.37,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 33.37,
+   "fin": 33.56,
+   "corte": false
+  },
+  {
+   "texto": "boleto",
+   "inicio": 33.56,
+   "fin": 33.96,
+   "corte": false
+  },
+  {
+   "texto": "ganador.",
+   "inicio": 33.96,
+   "fin": 34.91,
+   "corte": true
+  },
+  {
+   "texto": "Si",
+   "inicio": 34.91,
+   "fin": 35.11,
+   "corte": false
+  },
+  {
+   "texto": "compraras",
+   "inicio": 35.12,
+   "fin": 35.68,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 35.68,
+   "fin": 35.89,
+   "corte": false
+  },
+  {
+   "texto": "boleto",
+   "inicio": 35.89,
+   "fin": 36.3,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 36.3,
+   "fin": 36.61,
+   "corte": false
+  },
+  {
+   "texto": "semana,",
+   "inicio": 36.61,
+   "fin": 37.03,
+   "corte": false
+  },
+  {
+   "texto": "tardarías",
+   "inicio": 37.03,
+   "fin": 37.6,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.6,
+   "fin": 37.8,
+   "corte": false
+  },
+  {
+   "texto": "media",
+   "inicio": 37.8,
+   "fin": 38.16,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 38.16,
+   "fin": 38.47,
+   "corte": false
+  },
+  {
+   "texto": "5,6",
+   "inicio": 38.47,
+   "fin": 38.99,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 38.99,
+   "fin": 39.51,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.51,
+   "fin": 39.71,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 39.72,
+   "fin": 40.02,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.03,
+   "fin": 40.23,
+   "corte": false
+  },
+  {
+   "texto": "ganar.",
+   "inicio": 40.23,
+   "fin": 41.04,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 41.05,
+   "fin": 41.17,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 41.17,
+   "fin": 41.43,
+   "corte": false
+  },
+  {
+   "texto": "boleto",
+   "inicio": 41.43,
+   "fin": 41.78,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 41.78,
+   "fin": 42.12,
+   "corte": false
+  },
+  {
+   "texto": "2",
+   "inicio": 42.12,
+   "fin": 42.51,
+   "corte": false
+  },
+  {
+   "texto": "dólares:",
+   "inicio": 42.51,
+   "fin": 42.9,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 42.9,
+   "fin": 43.43,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 43.44,
+   "fin": 43.61,
+   "corte": false
+  },
+  {
+   "texto": "año,",
+   "inicio": 43.61,
+   "fin": 43.82,
+   "corte": false
+  },
+  {
+   "texto": "son",
+   "inicio": 43.82,
+   "fin": 44.04,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 44.04,
+   "fin": 44.25,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.26,
+   "fin": 44.43,
+   "corte": false
+  },
+  {
+   "texto": "100.",
+   "inicio": 44.43,
+   "fin": 44.9,
+   "corte": true
+  },
+  {
+   "texto": "¿Significa",
+   "inicio": 44.9,
+   "fin": 46.03,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.03,
+   "fin": 46.29,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 46.29,
+   "fin": 46.66,
+   "corte": false
+  },
+  {
+   "texto": "gana?",
+   "inicio": 46.66,
+   "fin": 46.98,
+   "corte": true
+  },
+  {
+   "texto": "No:",
+   "inicio": 46.98,
+   "fin": 47.64,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 47.64,
+   "fin": 48.25,
+   "corte": false
+  },
+  {
+   "texto": "tantos",
+   "inicio": 48.25,
+   "fin": 48.65,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 48.65,
+   "fin": 49.14,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 49.14,
+   "fin": 49.34,
+   "corte": false
+  },
+  {
+   "texto": "boletos,",
+   "inicio": 49.34,
+   "fin": 49.78,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 49.78,
+   "fin": 50.22,
+   "corte": false
+  },
+  {
+   "texto": "acaba",
+   "inicio": 50.22,
+   "fin": 50.57,
+   "corte": false
+  },
+  {
+   "texto": "ganando.",
+   "inicio": 50.57,
+   "fin": 51.01,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 51.01,
+   "fin": 51.7,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 51.7,
+   "fin": 52.0,
+   "corte": false
+  },
+  {
+   "texto": "seguro",
+   "inicio": 52.0,
+   "fin": 52.41,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 52.41,
+   "fin": 52.66,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 52.66,
+   "fin": 52.86,
+   "corte": false
+  },
+  {
+   "texto": "serás",
+   "inicio": 52.86,
+   "fin": 53.22,
+   "corte": false
+  },
+  {
+   "texto": "tú.",
+   "inicio": 53.22,
+   "fin": 53.42,
+   "corte": true
+  },
+  {
+   "texto": "¿Sigues",
+   "inicio": 53.42,
+   "fin": 54.42,
+   "corte": false
+  },
+  {
+   "texto": "comprando",
+   "inicio": 54.42,
+   "fin": 55.0,
+   "corte": false
+  },
+  {
+   "texto": "lotería?",
+   "inicio": 55.0,
+   "fin": 55.48,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Qué es más probable: que te caiga un rayo o ganar la lotería?",
+   "inicio": 0.0,
+   "fin": 4.44
+  },
+  {
+   "texto": "En Estados Unidos, la probabilidad de que te caiga un rayo en un año es de 1 entre 1,2 millones.",
+   "inicio": 4.44,
+   "fin": 10.66
+  },
+  {
+   "texto": "Y la de ganar el premio gordo del Powerball con un boleto: 1 entre 292 millones.",
+   "inicio": 10.66,
+   "fin": 17.74
+  },
+  {
+   "texto": "Es decir, es unas 240 veces más probable que te caiga un rayo.",
+   "inicio": 17.75,
+   "fin": 22.91
+  },
+  {
+   "texto": "Imagínalo así: llena un estadio de fútbol de 80.000 personas.",
+   "inicio": 22.92,
+   "fin": 27.44
+  },
+  {
+   "texto": "Ahora llena 3.650 estadios iguales.",
+   "inicio": 27.44,
+   "fin": 31.21
+  },
+  {
+   "texto": "Solo una persona de todas esas tiene el boleto ganador.",
+   "inicio": 31.21,
+   "fin": 34.91
+  },
+  {
+   "texto": "Si compraras un boleto cada semana, tardarías de media unos 5,6 millones de años en ganar.",
+   "inicio": 34.91,
+   "fin": 41.04
+  },
+  {
+   "texto": "Y cada boleto cuesta 2 dólares: en un año, son más de 100.",
+   "inicio": 41.05,
+   "fin": 44.9
+  },
+  {
+   "texto": "¿Significa que nadie gana?",
+   "inicio": 44.9,
+   "fin": 46.98
+  },
+  {
+   "texto": "No: con tantos millones de boletos, alguien acaba ganando.",
+   "inicio": 46.98,
+   "fin": 51.01
+  },
+  {
+   "texto": "Pero casi seguro que no serás tú.",
+   "inicio": 51.01,
+   "fin": 53.42
+  },
+  {
+   "texto": "¿Sigues comprando lotería?",
+   "inicio": 53.42,
+   "fin": 55.48
+  }
+ ],
+ "duracion": 55.48,
+ "voz": "narraciones/rayo-loteria.mp3",
+ "escenas": [
+  {
+   "tipo": "comparar",
+   "frase": 0,
+   "titulo": "¿Qué es más probable?",
+   "a": {
+    "etiqueta": "Que te caiga un rayo",
+    "img": "ia/s16/nube-rayo.png",
+    "color": "#7fd1ff"
+   },
+   "b": {
+    "etiqueta": "Ganar la lotería",
+    "img": "ia/s16/boleto.png",
+    "color": "#ffd60a"
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 1,
+   "antes": "Rayo en un año (EE. UU.)",
+   "valor": 1.2,
+   "decimales": 1,
+   "prefijo": "1 entre ",
+   "sufijo": " millones",
+   "color": "#7fd1ff",
+   "img": {
+    "src": "ia/s16/nube-rayo.png",
+    "size": 580,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 2,
+   "antes": "Premio gordo del Powerball",
+   "valor": 292,
+   "prefijo": "1 entre ",
+   "sufijo": " millones",
+   "color": "#ffd60a",
+   "img": {
+    "src": "ia/s16/boleto.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 3,
+   "antes": "El rayo es",
+   "valor": 240,
+   "sufijo": " veces",
+   "etiqueta": "más probable",
+   "color": "#2ee59d",
+   "img": {
+    "src": "ia/s16/nube-rayo.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 4,
+   "antes": "Un estadio lleno",
+   "valor": 80000,
+   "etiqueta": "personas",
+   "img": {
+    "src": "ia/s16/estadio.png",
+    "size": 680,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 5,
+   "antes": "Ahora llena",
+   "valor": 3650,
+   "sufijo": " estadios",
+   "etiqueta": "solo 1 persona gana",
+   "color": "#ffd60a",
+   "img": {
+    "src": "ia/s16/estadio.png",
+    "size": 600,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 7,
+   "antes": "Un boleto por semana",
+   "valor": 5.6,
+   "decimales": 1,
+   "sufijo": " millones",
+   "etiqueta": "de años para ganar (de media)",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/reloj-arena.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 8,
+   "antes": "Cada boleto: 2 $. Al año…",
+   "valor": 104,
+   "prefijo": "$",
+   "etiqueta": "gastados",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/boleto.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/s16/boleto.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "Alguien acaba ganando",
+   "sub": "pero casi seguro que no serás tú",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "remate",
+   "frase": 12,
+   "pregunta": "¿Sigues comprando lotería?"
+  }
+ ]
+}

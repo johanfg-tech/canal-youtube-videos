@@ -1,0 +1,1088 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Cuánto",
+   "inicio": 0.0,
+   "fin": 0.4,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 0.4,
+   "fin": 0.8,
+   "corte": false
+  },
+  {
+   "texto": "existe",
+   "inicio": 0.8,
+   "fin": 1.2,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.2,
+   "fin": 1.39,
+   "corte": false
+  },
+  {
+   "texto": "verdad?",
+   "inicio": 1.4,
+   "fin": 1.79,
+   "corte": true
+  },
+  {
+   "texto": "Toma",
+   "inicio": 1.79,
+   "fin": 2.69,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 2.69,
+   "fin": 3.16,
+   "corte": false
+  },
+  {
+   "texto": "Unidos.",
+   "inicio": 3.16,
+   "fin": 3.98,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 3.98,
+   "fin": 4.19,
+   "corte": false
+  },
+  {
+   "texto": "billetes",
+   "inicio": 4.19,
+   "fin": 4.72,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 4.72,
+   "fin": 4.88,
+   "corte": false
+  },
+  {
+   "texto": "monedas",
+   "inicio": 4.88,
+   "fin": 5.35,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 5.35,
+   "fin": 5.62,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 5.62,
+   "fin": 5.94,
+   "corte": false
+  },
+  {
+   "texto": "2,4",
+   "inicio": 5.94,
+   "fin": 6.47,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 6.47,
+   "fin": 7.0,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 7.0,
+   "fin": 7.21,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 7.21,
+   "fin": 7.68,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 7.68,
+   "fin": 7.96,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 7.97,
+   "fin": 8.57,
+   "corte": false
+  },
+  {
+   "texto": "sumas",
+   "inicio": 8.57,
+   "fin": 8.9,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 8.9,
+   "fin": 9.18,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 9.18,
+   "fin": 9.37,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 9.37,
+   "fin": 9.74,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 9.74,
+   "fin": 9.98,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 9.98,
+   "fin": 10.16,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 10.16,
+   "fin": 10.49,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 10.49,
+   "fin": 10.82,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 10.82,
+   "fin": 11.01,
+   "corte": false
+  },
+  {
+   "texto": "cuentas",
+   "inicio": 11.01,
+   "fin": 11.43,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.43,
+   "fin": 11.57,
+   "corte": false
+  },
+  {
+   "texto": "depósitos,",
+   "inicio": 11.57,
+   "fin": 12.08,
+   "corte": false
+  },
+  {
+   "texto": "sale",
+   "inicio": 12.08,
+   "fin": 12.62,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 12.62,
+   "fin": 12.86,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.86,
+   "fin": 13.04,
+   "corte": false
+  },
+  {
+   "texto": "23",
+   "inicio": 13.04,
+   "fin": 13.51,
+   "corte": false
+  },
+  {
+   "texto": "billones.",
+   "inicio": 13.51,
+   "fin": 13.98,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 13.98,
+   "fin": 14.16,
+   "corte": false
+  },
+  {
+   "texto": "decir:",
+   "inicio": 14.16,
+   "fin": 14.47,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.47,
+   "fin": 15.05,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 15.05,
+   "fin": 15.31,
+   "corte": false
+  },
+  {
+   "texto": "10",
+   "inicio": 15.31,
+   "fin": 16.14,
+   "corte": false
+  },
+  {
+   "texto": "dólares,",
+   "inicio": 16.14,
+   "fin": 16.54,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 16.54,
+   "fin": 16.81,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 16.81,
+   "fin": 17.03,
+   "corte": false
+  },
+  {
+   "texto": "existe",
+   "inicio": 17.03,
+   "fin": 17.39,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.39,
+   "fin": 17.57,
+   "corte": false
+  },
+  {
+   "texto": "papel.",
+   "inicio": 17.57,
+   "fin": 17.88,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 17.88,
+   "fin": 18.11,
+   "corte": false
+  },
+  {
+   "texto": "otros",
+   "inicio": 18.11,
+   "fin": 18.44,
+   "corte": false
+  },
+  {
+   "texto": "nueve",
+   "inicio": 18.44,
+   "fin": 18.77,
+   "corte": false
+  },
+  {
+   "texto": "son",
+   "inicio": 18.78,
+   "fin": 19.01,
+   "corte": false
+  },
+  {
+   "texto": "números",
+   "inicio": 19.01,
+   "fin": 19.89,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 19.89,
+   "fin": 20.08,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 20.08,
+   "fin": 20.27,
+   "corte": false
+  },
+  {
+   "texto": "ordenador",
+   "inicio": 20.27,
+   "fin": 20.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 20.79,
+   "fin": 20.98,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 20.98,
+   "fin": 21.17,
+   "corte": false
+  },
+  {
+   "texto": "banco.",
+   "inicio": 21.17,
+   "fin": 21.5,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 21.5,
+   "fin": 21.64,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 21.64,
+   "fin": 21.82,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.83,
+   "fin": 22.01,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 22.01,
+   "fin": 22.34,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 22.34,
+   "fin": 23.16,
+   "corte": false
+  },
+  {
+   "texto": "igual:",
+   "inicio": 23.16,
+   "fin": 23.49,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 23.49,
+   "fin": 23.67,
+   "corte": false
+  },
+  {
+   "texto": "gran",
+   "inicio": 23.67,
+   "fin": 23.95,
+   "corte": false
+  },
+  {
+   "texto": "mayoría",
+   "inicio": 23.96,
+   "fin": 24.8,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 24.8,
+   "fin": 25.04,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 25.04,
+   "fin": 25.41,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 25.41,
+   "fin": 25.6,
+   "corte": false
+  },
+  {
+   "texto": "digital.",
+   "inicio": 25.6,
+   "fin": 26.02,
+   "corte": true
+  },
+  {
+   "texto": "¿Por",
+   "inicio": 26.02,
+   "fin": 26.33,
+   "corte": false
+  },
+  {
+   "texto": "qué?",
+   "inicio": 26.33,
+   "fin": 26.64,
+   "corte": true
+  },
+  {
+   "texto": "Porque",
+   "inicio": 26.65,
+   "fin": 27.54,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 27.54,
+   "fin": 28.36,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 28.36,
+   "fin": 28.64,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 28.64,
+   "fin": 28.83,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 28.83,
+   "fin": 29.21,
+   "corte": false
+  },
+  {
+   "texto": "nace",
+   "inicio": 29.21,
+   "fin": 29.49,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 29.49,
+   "fin": 29.87,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 29.87,
+   "fin": 30.29,
+   "corte": false
+  },
+  {
+   "texto": "pide",
+   "inicio": 30.29,
+   "fin": 30.57,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 30.57,
+   "fin": 30.76,
+   "corte": false
+  },
+  {
+   "texto": "préstamo.",
+   "inicio": 30.76,
+   "fin": 31.23,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 31.23,
+   "fin": 31.42,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 31.42,
+   "fin": 32.23,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 32.23,
+   "fin": 32.42,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 32.42,
+   "fin": 32.61,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 32.61,
+   "fin": 32.8,
+   "corte": false
+  },
+  {
+   "texto": "billetes:",
+   "inicio": 32.8,
+   "fin": 33.27,
+   "corte": false
+  },
+  {
+   "texto": "apunta",
+   "inicio": 33.27,
+   "fin": 33.95,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 33.95,
+   "fin": 34.18,
+   "corte": false
+  },
+  {
+   "texto": "cifra",
+   "inicio": 34.18,
+   "fin": 34.51,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 34.51,
+   "fin": 34.7,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 34.7,
+   "fin": 34.89,
+   "corte": false
+  },
+  {
+   "texto": "cuenta.",
+   "inicio": 34.89,
+   "fin": 35.26,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 35.26,
+   "fin": 35.41,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 35.41,
+   "fin": 36.04,
+   "corte": false
+  },
+  {
+   "texto": "número",
+   "inicio": 36.04,
+   "fin": 36.42,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 36.42,
+   "fin": 36.62,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 36.62,
+   "fin": 36.81,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 36.81,
+   "fin": 37.19,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 37.19,
+   "fin": 37.43,
+   "corte": false
+  },
+  {
+   "texto": "puedes",
+   "inicio": 37.43,
+   "fin": 37.81,
+   "corte": false
+  },
+  {
+   "texto": "gastar.",
+   "inicio": 37.81,
+   "fin": 38.2,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 38.2,
+   "fin": 38.86,
+   "corte": false
+  },
+  {
+   "texto": "eso,",
+   "inicio": 38.86,
+   "fin": 39.09,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 39.09,
+   "fin": 39.28,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 39.28,
+   "fin": 39.55,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 39.55,
+   "fin": 39.73,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 39.74,
+   "fin": 40.06,
+   "corte": false
+  },
+  {
+   "texto": "fuera",
+   "inicio": 40.06,
+   "fin": 40.38,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 40.38,
+   "fin": 40.52,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 40.52,
+   "fin": 40.7,
+   "corte": false
+  },
+  {
+   "texto": "vez",
+   "inicio": 40.7,
+   "fin": 40.93,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 40.93,
+   "fin": 41.07,
+   "corte": false
+  },
+  {
+   "texto": "sacar",
+   "inicio": 41.07,
+   "fin": 41.39,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 41.39,
+   "fin": 41.57,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 41.57,
+   "fin": 41.94,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 41.94,
+   "fin": 42.12,
+   "corte": false
+  },
+  {
+   "texto": "efectivo,",
+   "inicio": 42.12,
+   "fin": 42.58,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 42.58,
+   "fin": 42.77,
+   "corte": false
+  },
+  {
+   "texto": "habría",
+   "inicio": 42.77,
+   "fin": 43.13,
+   "corte": false
+  },
+  {
+   "texto": "billetes",
+   "inicio": 43.13,
+   "fin": 43.59,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 43.59,
+   "fin": 43.87,
+   "corte": false
+  },
+  {
+   "texto": "todos.",
+   "inicio": 43.87,
+   "fin": 44.19,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 44.19,
+   "fin": 44.79,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 44.79,
+   "fin": 45.17,
+   "corte": false
+  },
+  {
+   "texto": "funciona",
+   "inicio": 45.17,
+   "fin": 45.64,
+   "corte": false
+  },
+  {
+   "texto": "porque",
+   "inicio": 45.64,
+   "fin": 46.01,
+   "corte": false
+  },
+  {
+   "texto": "confiamos",
+   "inicio": 46.01,
+   "fin": 46.53,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 46.53,
+   "fin": 46.71,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.71,
+   "fin": 46.95,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 46.95,
+   "fin": 47.13,
+   "corte": false
+  },
+  {
+   "texto": "estará",
+   "inicio": 47.14,
+   "fin": 47.51,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 47.51,
+   "fin": 47.88,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 47.88,
+   "fin": 48.07,
+   "corte": false
+  },
+  {
+   "texto": "necesitemos.",
+   "inicio": 48.07,
+   "fin": 49.24,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 49.24,
+   "fin": 49.43,
+   "corte": false
+  },
+  {
+   "texto": "cuánto",
+   "inicio": 49.43,
+   "fin": 49.82,
+   "corte": false
+  },
+  {
+   "texto": "llevas",
+   "inicio": 49.82,
+   "fin": 50.21,
+   "corte": false
+  },
+  {
+   "texto": "ahora",
+   "inicio": 50.21,
+   "fin": 50.55,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 50.55,
+   "fin": 50.89,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 50.89,
+   "fin": 51.08,
+   "corte": false
+  },
+  {
+   "texto": "efectivo?",
+   "inicio": 51.08,
+   "fin": 51.57,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Cuánto dinero existe de verdad?",
+   "inicio": 0.0,
+   "fin": 1.79
+  },
+  {
+   "texto": "Toma Estados Unidos.",
+   "inicio": 1.79,
+   "fin": 3.98
+  },
+  {
+   "texto": "En billetes y monedas hay unos 2,4 billones de dólares.",
+   "inicio": 3.98,
+   "fin": 7.68
+  },
+  {
+   "texto": "Pero si sumas todo el dinero que la gente tiene en cuentas y depósitos, sale más de 23 billones.",
+   "inicio": 7.68,
+   "fin": 13.98
+  },
+  {
+   "texto": "Es decir: de cada 10 dólares, solo uno existe en papel.",
+   "inicio": 13.98,
+   "fin": 17.88
+  },
+  {
+   "texto": "Los otros nueve son números en el ordenador de un banco.",
+   "inicio": 17.88,
+   "fin": 21.5
+  },
+  {
+   "texto": "Y en el mundo pasa igual: la gran mayoría del dinero es digital.",
+   "inicio": 21.5,
+   "fin": 26.02
+  },
+  {
+   "texto": "¿Por qué?",
+   "inicio": 26.02,
+   "fin": 26.64
+  },
+  {
+   "texto": "Porque casi todo el dinero nace cuando alguien pide un préstamo.",
+   "inicio": 26.65,
+   "fin": 31.23
+  },
+  {
+   "texto": "El banco no te da billetes: apunta una cifra en tu cuenta.",
+   "inicio": 31.23,
+   "fin": 35.26
+  },
+  {
+   "texto": "Y ese número ya es dinero que puedes gastar.",
+   "inicio": 35.26,
+   "fin": 38.2
+  },
+  {
+   "texto": "Por eso, si todo el mundo fuera a la vez a sacar su dinero en efectivo, no habría billetes para todos.",
+   "inicio": 38.2,
+   "fin": 44.19
+  },
+  {
+   "texto": "El dinero funciona porque confiamos en que lo estará cuando lo necesitemos.",
+   "inicio": 44.19,
+   "fin": 49.24
+  },
+  {
+   "texto": "¿Tú cuánto llevas ahora mismo en efectivo?",
+   "inicio": 49.24,
+   "fin": 51.57
+  }
+ ],
+ "duracion": 51.57,
+ "voz": "narraciones/cuanto-dinero.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Cuánto DINERO",
+    "existe de verdad?"
+   ],
+   "resaltar": "DINERO",
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 620,
+    "y": 1020
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 2,
+   "antes": "En billetes y monedas",
+   "valor": 2.4,
+   "decimales": 1,
+   "prefijo": "$",
+   "sufijo": " billones",
+   "etiqueta": "en Estados Unidos",
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 3,
+   "titulo": "Efectivo vs. cuentas",
+   "a": {
+    "etiqueta": "Billetes y monedas",
+    "valor": "2,4 bill.",
+    "img": "ia/s16/fajo.png",
+    "altura": 0.1,
+    "color": "#ffd60a"
+   },
+   "b": {
+    "etiqueta": "Cuentas y depósitos",
+    "valor": "+23 bill.",
+    "img": "ia/s16/portatil-grafico.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 4,
+   "lineas": [
+    "De cada 10 $,",
+    "solo 1 es PAPEL"
+   ],
+   "resaltar": "PAPEL",
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 5,
+   "img": {
+    "src": "ia/s16/portatil-grafico.png",
+    "size": 760,
+    "y": 780
+   },
+   "texto": "Los otros 9 son números",
+   "sub": "en el ordenador de un banco"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 6,
+   "lineas": [
+    "En el mundo, casi",
+    "todo es DIGITAL"
+   ],
+   "resaltar": "DIGITAL",
+   "color": "#2ee59d",
+   "img": {
+    "src": "ia/s16/portatil-grafico.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 7,
+   "cabecera": "¿POR QUÉ?",
+   "titulo": "El dinero nace con los préstamos",
+   "lineas": [
+    "El banco apunta una cifra en tu cuenta",
+    "Y ese número ya se puede gastar"
+   ],
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 500
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 11,
+   "img": {
+    "src": "ia/s16/cajero.png",
+    "size": 700,
+    "y": 760
+   },
+   "texto": "No habría billetes para todos",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 12,
+   "lineas": [
+    "El dinero funciona",
+    "por CONFIANZA"
+   ],
+   "resaltar": "CONFIANZA",
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Cuánto llevas ahora mismo en efectivo?"
+  }
+ ]
+}

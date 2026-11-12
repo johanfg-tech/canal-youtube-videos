@@ -1,0 +1,1148 @@
+{
+ "palabras": [
+  {
+   "texto": "En",
+   "inicio": 0.0,
+   "fin": 0.2,
+   "corte": false
+  },
+  {
+   "texto": "Nueva",
+   "inicio": 0.2,
+   "fin": 0.56,
+   "corte": false
+  },
+  {
+   "texto": "York",
+   "inicio": 0.56,
+   "fin": 0.86,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 0.86,
+   "fin": 1.11,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 1.11,
+   "fin": 1.31,
+   "corte": false
+  },
+  {
+   "texto": "reloj",
+   "inicio": 1.32,
+   "fin": 1.67,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.67,
+   "fin": 1.92,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 1.92,
+   "fin": 2.12,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 2.12,
+   "fin": 2.33,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 2.33,
+   "fin": 2.53,
+   "corte": false
+  },
+  {
+   "texto": "hora.",
+   "inicio": 2.53,
+   "fin": 3.2,
+   "corte": true
+  },
+  {
+   "texto": "Da",
+   "inicio": 3.21,
+   "fin": 3.41,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 3.41,
+   "fin": 3.61,
+   "corte": false
+  },
+  {
+   "texto": "deuda",
+   "inicio": 3.61,
+   "fin": 3.97,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.97,
+   "fin": 4.17,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 4.17,
+   "fin": 4.63,
+   "corte": false
+  },
+  {
+   "texto": "Unidos,",
+   "inicio": 4.63,
+   "fin": 5.03,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 5.03,
+   "fin": 5.18,
+   "corte": false
+  },
+  {
+   "texto": "nunca",
+   "inicio": 5.18,
+   "fin": 5.54,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 5.54,
+   "fin": 5.74,
+   "corte": false
+  },
+  {
+   "texto": "para.",
+   "inicio": 5.74,
+   "fin": 6.05,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 6.05,
+   "fin": 6.77,
+   "corte": false
+  },
+  {
+   "texto": "instaló",
+   "inicio": 6.77,
+   "fin": 7.35,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 7.35,
+   "fin": 7.6,
+   "corte": false
+  },
+  {
+   "texto": "empresario",
+   "inicio": 7.6,
+   "fin": 8.37,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 8.37,
+   "fin": 8.63,
+   "corte": false
+  },
+  {
+   "texto": "1989,",
+   "inicio": 8.63,
+   "fin": 9.4,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 9.4,
+   "fin": 9.91,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 9.91,
+   "fin": 10.17,
+   "corte": false
+  },
+  {
+   "texto": "deuda",
+   "inicio": 10.17,
+   "fin": 10.62,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 10.62,
+   "fin": 10.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.94,
+   "fin": 11.2,
+   "corte": false
+  },
+  {
+   "texto": "2,7",
+   "inicio": 11.2,
+   "fin": 11.84,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 11.84,
+   "fin": 12.48,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.48,
+   "fin": 12.73,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 12.74,
+   "fin": 13.74,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 13.74,
+   "fin": 14.08,
+   "corte": false
+  },
+  {
+   "texto": "supera",
+   "inicio": 14.08,
+   "fin": 14.62,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 14.62,
+   "fin": 14.95,
+   "corte": false
+  },
+  {
+   "texto": "40,5",
+   "inicio": 14.95,
+   "fin": 15.69,
+   "corte": false
+  },
+  {
+   "texto": "billones.",
+   "inicio": 15.7,
+   "fin": 16.7,
+   "corte": true
+  },
+  {
+   "texto": "Quince",
+   "inicio": 16.7,
+   "fin": 17.16,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 17.16,
+   "fin": 17.56,
+   "corte": false
+  },
+  {
+   "texto": "más.",
+   "inicio": 17.56,
+   "fin": 17.85,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 17.85,
+   "fin": 18.46,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 18.46,
+   "fin": 18.66,
+   "corte": false
+  },
+  {
+   "texto": "último",
+   "inicio": 18.66,
+   "fin": 19.07,
+   "corte": false
+  },
+  {
+   "texto": "año",
+   "inicio": 19.07,
+   "fin": 19.32,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 19.32,
+   "fin": 19.52,
+   "corte": false
+  },
+  {
+   "texto": "crecido",
+   "inicio": 19.52,
+   "fin": 19.98,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 19.98,
+   "fin": 20.28,
+   "corte": false
+  },
+  {
+   "texto": "80.000",
+   "inicio": 20.28,
+   "fin": 20.94,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 20.94,
+   "fin": 21.4,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 21.4,
+   "fin": 21.7,
+   "corte": false
+  },
+  {
+   "texto": "segundo.",
+   "inicio": 21.7,
+   "fin": 22.15,
+   "corte": true
+  },
+  {
+   "texto": "Mientras",
+   "inicio": 22.16,
+   "fin": 23.09,
+   "corte": false
+  },
+  {
+   "texto": "ves",
+   "inicio": 23.09,
+   "fin": 23.33,
+   "corte": false
+  },
+  {
+   "texto": "este",
+   "inicio": 23.33,
+   "fin": 23.63,
+   "corte": false
+  },
+  {
+   "texto": "vídeo,",
+   "inicio": 23.63,
+   "fin": 23.97,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 23.97,
+   "fin": 24.27,
+   "corte": false
+  },
+  {
+   "texto": "5",
+   "inicio": 24.27,
+   "fin": 24.71,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 24.71,
+   "fin": 25.21,
+   "corte": false
+  },
+  {
+   "texto": "más.",
+   "inicio": 25.21,
+   "fin": 25.45,
+   "corte": true
+  },
+  {
+   "texto": "Repartida",
+   "inicio": 25.45,
+   "fin": 26.4,
+   "corte": false
+  },
+  {
+   "texto": "entre",
+   "inicio": 26.4,
+   "fin": 26.77,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 26.77,
+   "fin": 27.15,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 27.15,
+   "fin": 27.42,
+   "corte": false
+  },
+  {
+   "texto": "estadounidenses,",
+   "inicio": 27.42,
+   "fin": 28.33,
+   "corte": false
+  },
+  {
+   "texto": "son",
+   "inicio": 28.33,
+   "fin": 28.6,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 28.6,
+   "fin": 28.92,
+   "corte": false
+  },
+  {
+   "texto": "118.000",
+   "inicio": 28.92,
+   "fin": 29.68,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 29.68,
+   "fin": 30.16,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 30.16,
+   "fin": 30.43,
+   "corte": false
+  },
+  {
+   "texto": "persona,",
+   "inicio": 30.43,
+   "fin": 30.91,
+   "corte": false
+  },
+  {
+   "texto": "bebés",
+   "inicio": 30.91,
+   "fin": 31.29,
+   "corte": false
+  },
+  {
+   "texto": "incluidos.",
+   "inicio": 31.29,
+   "fin": 31.88,
+   "corte": true
+  },
+  {
+   "texto": "¿Y",
+   "inicio": 31.88,
+   "fin": 32.04,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 32.04,
+   "fin": 32.2,
+   "corte": false
+  },
+  {
+   "texto": "quién",
+   "inicio": 32.2,
+   "fin": 32.99,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 32.99,
+   "fin": 33.2,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 33.2,
+   "fin": 33.42,
+   "corte": false
+  },
+  {
+   "texto": "deben?",
+   "inicio": 33.42,
+   "fin": 34.16,
+   "corte": true
+  },
+  {
+   "texto": "Sobre",
+   "inicio": 34.16,
+   "fin": 34.51,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 34.51,
+   "fin": 34.81,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 34.81,
+   "fin": 34.96,
+   "corte": false
+  },
+  {
+   "texto": "ellos",
+   "inicio": 34.96,
+   "fin": 35.31,
+   "corte": false
+  },
+  {
+   "texto": "mismos:",
+   "inicio": 35.31,
+   "fin": 35.97,
+   "corte": false
+  },
+  {
+   "texto": "fondos,",
+   "inicio": 35.97,
+   "fin": 36.36,
+   "corte": false
+  },
+  {
+   "texto": "bancos,",
+   "inicio": 36.37,
+   "fin": 36.76,
+   "corte": false
+  },
+  {
+   "texto": "pensiones",
+   "inicio": 36.77,
+   "fin": 37.31,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 37.31,
+   "fin": 37.46,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.46,
+   "fin": 37.66,
+   "corte": false
+  },
+  {
+   "texto": "Reserva",
+   "inicio": 37.66,
+   "fin": 38.11,
+   "corte": false
+  },
+  {
+   "texto": "Federal.",
+   "inicio": 38.11,
+   "fin": 38.56,
+   "corte": true
+  },
+  {
+   "texto": "Una",
+   "inicio": 38.56,
+   "fin": 38.82,
+   "corte": false
+  },
+  {
+   "texto": "parte,",
+   "inicio": 38.82,
+   "fin": 39.6,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 39.6,
+   "fin": 39.75,
+   "corte": false
+  },
+  {
+   "texto": "otros",
+   "inicio": 39.75,
+   "fin": 40.11,
+   "corte": false
+  },
+  {
+   "texto": "países,",
+   "inicio": 40.11,
+   "fin": 40.51,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 40.51,
+   "fin": 40.82,
+   "corte": false
+  },
+  {
+   "texto": "Japón",
+   "inicio": 40.82,
+   "fin": 41.18,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 41.18,
+   "fin": 41.33,
+   "corte": false
+  },
+  {
+   "texto": "China.",
+   "inicio": 41.33,
+   "fin": 41.69,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 41.69,
+   "fin": 41.88,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 41.88,
+   "fin": 42.13,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 42.13,
+   "fin": 42.37,
+   "corte": false
+  },
+  {
+   "texto": "preocupa",
+   "inicio": 42.37,
+   "fin": 43.32,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 43.32,
+   "fin": 43.52,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 43.52,
+   "fin": 43.71,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 43.71,
+   "fin": 43.91,
+   "corte": false
+  },
+  {
+   "texto": "cifra,",
+   "inicio": 43.91,
+   "fin": 44.25,
+   "corte": false
+  },
+  {
+   "texto": "sino",
+   "inicio": 44.25,
+   "fin": 44.54,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 44.54,
+   "fin": 44.79,
+   "corte": false
+  },
+  {
+   "texto": "intereses:",
+   "inicio": 44.79,
+   "fin": 45.33,
+   "corte": false
+  },
+  {
+   "texto": "pagarlos",
+   "inicio": 45.33,
+   "fin": 45.82,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 45.82,
+   "fin": 46.01,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 46.01,
+   "fin": 46.73,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 46.73,
+   "fin": 46.97,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.97,
+   "fin": 47.22,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 47.22,
+   "fin": 47.51,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 47.51,
+   "fin": 47.71,
+   "corte": false
+  },
+  {
+   "texto": "gasto",
+   "inicio": 47.71,
+   "fin": 48.05,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 48.05,
+   "fin": 48.24,
+   "corte": false
+  },
+  {
+   "texto": "defensa.",
+   "inicio": 48.25,
+   "fin": 48.68,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 48.69,
+   "fin": 48.88,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 48.89,
+   "fin": 49.18,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 49.19,
+   "fin": 49.38,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 49.39,
+   "fin": 50.07,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 50.07,
+   "fin": 50.32,
+   "corte": false
+  },
+  {
+   "texto": "familia:",
+   "inicio": 50.32,
+   "fin": 50.77,
+   "corte": false
+  },
+  {
+   "texto": "puede",
+   "inicio": 50.77,
+   "fin": 51.12,
+   "corte": false
+  },
+  {
+   "texto": "deber",
+   "inicio": 51.12,
+   "fin": 51.47,
+   "corte": false
+  },
+  {
+   "texto": "mucho",
+   "inicio": 51.47,
+   "fin": 52.14,
+   "corte": false
+  },
+  {
+   "texto": "durante",
+   "inicio": 52.14,
+   "fin": 52.59,
+   "corte": false
+  },
+  {
+   "texto": "mucho",
+   "inicio": 52.59,
+   "fin": 52.94,
+   "corte": false
+  },
+  {
+   "texto": "tiempo.",
+   "inicio": 52.94,
+   "fin": 53.34,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 53.34,
+   "fin": 53.66,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 53.66,
+   "fin": 53.87,
+   "corte": false
+  },
+  {
+   "texto": "contador",
+   "inicio": 53.87,
+   "fin": 54.83,
+   "corte": false
+  },
+  {
+   "texto": "sigue",
+   "inicio": 54.83,
+   "fin": 55.2,
+   "corte": false
+  },
+  {
+   "texto": "corriendo.",
+   "inicio": 55.2,
+   "fin": 55.78,
+   "corte": true
+  },
+  {
+   "texto": "¿Crees",
+   "inicio": 55.78,
+   "fin": 56.14,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 56.14,
+   "fin": 56.86,
+   "corte": false
+  },
+  {
+   "texto": "algún",
+   "inicio": 56.86,
+   "fin": 57.22,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 57.22,
+   "fin": 57.48,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 57.48,
+   "fin": 57.68,
+   "corte": false
+  },
+  {
+   "texto": "pondrá",
+   "inicio": 57.68,
+   "fin": 58.09,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 58.1,
+   "fin": 58.25,
+   "corte": false
+  },
+  {
+   "texto": "cero?",
+   "inicio": 58.25,
+   "fin": 58.56,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "En Nueva York hay un reloj que no da la hora.",
+   "inicio": 0.0,
+   "fin": 3.2
+  },
+  {
+   "texto": "Da la deuda de Estados Unidos, y nunca se para.",
+   "inicio": 3.21,
+   "fin": 6.05
+  },
+  {
+   "texto": "Lo instaló un empresario en 1989, cuando la deuda era de 2,7 billones de dólares.",
+   "inicio": 6.05,
+   "fin": 13.74
+  },
+  {
+   "texto": "Hoy supera los 40,5 billones.",
+   "inicio": 13.74,
+   "fin": 16.7
+  },
+  {
+   "texto": "Quince veces más.",
+   "inicio": 16.7,
+   "fin": 17.85
+  },
+  {
+   "texto": "En el último año ha crecido casi 80.000 dólares cada segundo.",
+   "inicio": 17.85,
+   "fin": 22.15
+  },
+  {
+   "texto": "Mientras ves este vídeo, unos 5 millones más.",
+   "inicio": 22.16,
+   "fin": 25.45
+  },
+  {
+   "texto": "Repartida entre todos los estadounidenses, son unos 118.000 dólares por persona, bebés incluidos.",
+   "inicio": 25.45,
+   "fin": 31.88
+  },
+  {
+   "texto": "¿Y a quién se lo deben?",
+   "inicio": 31.88,
+   "fin": 34.16
+  },
+  {
+   "texto": "Sobre todo a ellos mismos: fondos, bancos, pensiones y la Reserva Federal.",
+   "inicio": 34.16,
+   "fin": 38.56
+  },
+  {
+   "texto": "Una parte, a otros países, como Japón o China.",
+   "inicio": 38.56,
+   "fin": 41.69
+  },
+  {
+   "texto": "Lo que más preocupa no es la cifra, sino los intereses: pagarlos ya cuesta más que todo su gasto en defensa.",
+   "inicio": 41.69,
+   "fin": 48.68
+  },
+  {
+   "texto": "Un país no es una familia: puede deber mucho durante mucho tiempo.",
+   "inicio": 48.69,
+   "fin": 53.34
+  },
+  {
+   "texto": "Pero el contador sigue corriendo.",
+   "inicio": 53.34,
+   "fin": 55.78
+  },
+  {
+   "texto": "¿Crees que algún día se pondrá a cero?",
+   "inicio": 55.78,
+   "fin": 58.56
+  }
+ ],
+ "duracion": 58.83,
+ "voz": "narraciones/deuda-eeuu.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "Un reloj que",
+    "NO da la hora"
+   ],
+   "resaltar": "NO",
+   "sub": "Nueva York",
+   "img": {
+    "src": "ia/s16/billetes-montana.png",
+    "size": 640,
+    "y": 1020
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 2,
+   "antes": "En 1989 la deuda era",
+   "valor": 2.7,
+   "decimales": 1,
+   "prefijo": "$",
+   "sufijo": " billones",
+   "etiqueta": "cuando se instaló el reloj",
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 3,
+   "antes": "Hoy supera",
+   "desdeValor": 2.7,
+   "valor": 40.5,
+   "decimales": 1,
+   "prefijo": "$",
+   "sufijo": " billones",
+   "etiqueta": "15 veces más",
+   "color": "#ff4d6d",
+   "dur": 2.2,
+   "img": {
+    "src": "ia/s16/billetes-montana.png",
+    "size": 640,
+    "y": 1090
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 5,
+   "antes": "Cada segundo crece",
+   "valor": 80000,
+   "prefijo": "+$",
+   "etiqueta": "en el último año",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Mientras ves este vídeo",
+   "valor": 5,
+   "prefijo": "+$",
+   "sufijo": " millones",
+   "etiqueta": "más de deuda",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 7,
+   "antes": "Por cada estadounidense",
+   "valor": 118000,
+   "prefijo": "$",
+   "etiqueta": "bebés incluidos",
+   "img": {
+    "src": "ia/s16/cerdito-cadena.png",
+    "size": 580,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 8,
+   "titulo": "¿A quién se lo deben?",
+   "items": [
+    {
+     "texto": "Fondos y bancos",
+     "img": "ia/s16/fajo.png",
+     "en": 2.28
+    },
+    {
+     "texto": "Pensiones",
+     "img": "ia/s16/cerdito-cadena.png",
+     "en": 3.08
+    },
+    {
+     "texto": "Reserva Federal",
+     "img": "ia/s16/monedas.png",
+     "en": 3.88
+    },
+    {
+     "texto": "Otros países: Japón, China…",
+     "emoji": "🌏",
+     "color": "#7fd1ff",
+     "en": 6.68
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "frase": 11,
+   "titulo": "Lo que más preocupa",
+   "a": {
+    "etiqueta": "Intereses",
+    "img": "ia/s16/billetes-montana.png",
+    "altura": 1,
+    "color": "#ff4d6d"
+   },
+   "b": {
+    "etiqueta": "Defensa",
+    "img": "ia/s16/casco-defensa.png",
+    "altura": 0.92,
+    "color": "#2ee59d"
+   },
+   "pie": "Pagar intereses ya cuesta más"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 12,
+   "cabecera": "OJO",
+   "titulo": "Un país no es una familia",
+   "lineas": [
+    "Puede deber mucho",
+    "durante mucho tiempo"
+   ],
+   "img": {
+    "src": "ia/s16/capitolio.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 13,
+   "lineas": [
+    "El contador",
+    "sigue CORRIENDO"
+   ],
+   "resaltar": "CORRIENDO",
+   "img": {
+    "src": "ia/s16/billetes-montana.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 14,
+   "pregunta": "¿Crees que algún día se pondrá a cero?"
+  }
+ ]
+}

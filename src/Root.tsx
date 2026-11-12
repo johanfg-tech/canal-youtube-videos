@@ -5,6 +5,7 @@ import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
 import { BigMacShort, duracionBigMac } from "./compositions/BigMacShort";
+import { PizzasBitcoinShort, duracionPizzas } from "./compositions/PizzasBitcoinShort";
 import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
 import remates from "../guiones/remates.json";
 import regla72 from "../guiones/regla-72.json";
@@ -509,6 +510,14 @@ export const RemotionRoot: React.FC = () => {
         id="BigMac"
         component={BigMacShort}
         durationInFrames={duracionBigMac}
+        fps={FPS}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PizzasBitcoin"
+        component={PizzasBitcoinShort}
+        durationInFrames={duracionPizzas}
         fps={FPS}
         width={1080}
         height={1920}

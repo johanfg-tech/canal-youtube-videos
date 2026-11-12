@@ -1,0 +1,7 @@
+¿Qué rentabilidad necesitas para duplicar tu dinero en 10 años? Usa la regla del 72, al revés.
+En vez de dividir 72 entre el porcentaje, divide 72 entre los años.
+72 entre 10 son 7,2. Necesitas un 7,2 % anual.
+Compruébalo: 1.000 euros crecen un 7,2 % durante 10 años y llegan a unos 2.004.
+¿Y si quieres duplicar en solo 5 años? 72 entre 5: un 14,4 %. Mucho más difícil.
+Cuanto menos tiempo tienes, más rentabilidad necesitas. El tiempo es tu mejor aliado.
+Sígueme para más dinero explicado con números.

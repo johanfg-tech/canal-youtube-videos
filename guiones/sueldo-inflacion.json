@@ -1,0 +1,394 @@
+{
+  "audio": "narraciones/sueldo-inflacion.mp3",
+  "duracion": 23.4,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Tu sueldo",
+      "inicio": 0,
+      "lineas": [
+        "Sueldo: 1.000 €",
+        "sube un 3 %"
+      ],
+      "resaltar": [
+        "3 %"
+      ],
+      "imagen": "ia/grafico-sube.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora ganas",
+      "inicio": 3.08,
+      "lineas": [
+        "Ahora ganas"
+      ],
+      "destacado": "1.030 €"
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero los",
+      "inicio": 4.95,
+      "lineas": [
+        "Los precios",
+        "suben un 5 %"
+      ],
+      "resaltar": [
+        "5 %"
+      ],
+      "imagen": "ia/carrito-compra.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Lo que",
+      "inicio": 7.41,
+      "lineas": [
+        "Lo que costaba 1.000 €",
+        "ahora cuesta 1.050 €"
+      ],
+      "resaltar": [
+        "1.050 €"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "1.030 entre",
+      "inicio": 10.54,
+      "a": "1.030",
+      "operador": "÷",
+      "b": "1.050",
+      "resultado": 0.981,
+      "etiqueta": "tu poder de compra",
+      "revelar": 4.0,
+      "decimales": 3
+    },
+    {
+      "tipo": "titular",
+      "en": "Tu poder",
+      "inicio": 15.29,
+      "lineas": [
+        "Tu poder de compra",
+        "bajó un 1,9 %"
+      ],
+      "resaltar": [
+        "1,9 %"
+      ],
+      "imagen": "ia/billete-desvanece.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Un aumento",
+      "inicio": 18.87,
+      "lineas": [
+        "Subir menos que",
+        "la inflación es bajar"
+      ],
+      "resaltar": [
+        "bajar"
+      ]
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0.0,
+      "fin": 0.11,
+      "corte": false
+    },
+    {
+      "texto": "sueldo",
+      "inicio": 0.11,
+      "fin": 0.35,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 0.35,
+      "fin": 0.47,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.47,
+      "fin": 0.58,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 0.58,
+      "fin": 1.21,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 1.47,
+      "fin": 1.6,
+      "corte": false
+    },
+    {
+      "texto": "sube",
+      "inicio": 1.6,
+      "fin": 1.89,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 1.89,
+      "fin": 2.07,
+      "corte": false
+    },
+    {
+      "texto": "3 %.",
+      "inicio": 2.07,
+      "fin": 2.87,
+      "corte": true
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 3.23,
+      "fin": 3.51,
+      "corte": false
+    },
+    {
+      "texto": "ganas",
+      "inicio": 3.51,
+      "fin": 3.79,
+      "corte": false
+    },
+    {
+      "texto": "1.030.",
+      "inicio": 3.79,
+      "fin": 4.62,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 5.1,
+      "fin": 5.36,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 5.36,
+      "fin": 5.58,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 5.58,
+      "fin": 5.98,
+      "corte": false
+    },
+    {
+      "texto": "suben",
+      "inicio": 5.98,
+      "fin": 6.29,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 6.29,
+      "fin": 6.45,
+      "corte": false
+    },
+    {
+      "texto": "5 %.",
+      "inicio": 6.45,
+      "fin": 7.23,
+      "corte": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 7.56,
+      "fin": 7.69,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 7.69,
+      "fin": 7.87,
+      "corte": false
+    },
+    {
+      "texto": "costaba",
+      "inicio": 7.87,
+      "fin": 8.2,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 8.2,
+      "fin": 8.96,
+      "corte": false
+    },
+    {
+      "texto": "ahora",
+      "inicio": 8.96,
+      "fin": 9.21,
+      "corte": false
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 9.21,
+      "fin": 9.5,
+      "corte": false
+    },
+    {
+      "texto": "1.050.",
+      "inicio": 9.5,
+      "fin": 10.26,
+      "corte": true
+    },
+    {
+      "texto": "1.030",
+      "inicio": 10.69,
+      "fin": 11.82,
+      "corte": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 11.82,
+      "fin": 12.2,
+      "corte": false
+    },
+    {
+      "texto": "1.050",
+      "inicio": 12.2,
+      "fin": 13.33,
+      "corte": false
+    },
+    {
+      "texto": "da",
+      "inicio": 13.33,
+      "fin": 13.53,
+      "corte": false
+    },
+    {
+      "texto": "0,981.",
+      "inicio": 13.53,
+      "fin": 15.01,
+      "corte": true
+    },
+    {
+      "texto": "Tu",
+      "inicio": 15.44,
+      "fin": 15.64,
+      "corte": false
+    },
+    {
+      "texto": "poder",
+      "inicio": 15.64,
+      "fin": 16.01,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 16.01,
+      "fin": 16.2,
+      "corte": false
+    },
+    {
+      "texto": "compra",
+      "inicio": 16.2,
+      "fin": 16.62,
+      "corte": false
+    },
+    {
+      "texto": "bajó",
+      "inicio": 16.62,
+      "fin": 16.93,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 16.93,
+      "fin": 17.13,
+      "corte": false
+    },
+    {
+      "texto": "1,9 %.",
+      "inicio": 17.13,
+      "fin": 18.51,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 19.02,
+      "fin": 19.22,
+      "corte": false
+    },
+    {
+      "texto": "aumento",
+      "inicio": 19.22,
+      "fin": 19.7,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 19.7,
+      "fin": 19.9,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 19.9,
+      "fin": 20.1,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 20.1,
+      "fin": 20.35,
+      "corte": false
+    },
+    {
+      "texto": "subida",
+      "inicio": 20.35,
+      "fin": 20.78,
+      "corte": false
+    },
+    {
+      "texto": "real",
+      "inicio": 20.78,
+      "fin": 21.09,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 21.09,
+      "fin": 21.29,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 21.29,
+      "fin": 21.49,
+      "corte": false
+    },
+    {
+      "texto": "menor",
+      "inicio": 21.49,
+      "fin": 21.86,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 21.86,
+      "fin": 22.11,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 22.11,
+      "fin": 22.31,
+      "corte": false
+    },
+    {
+      "texto": "inflación.",
+      "inicio": 22.31,
+      "fin": 22.91,
+      "corte": true
+    }
+  ]
+}

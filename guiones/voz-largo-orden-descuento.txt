@@ -1,0 +1,25 @@
+Un artículo de cien euros, con veinte por ciento de descuento y veinte por ciento de impuesto. ¿Qué se aplica primero?
+
+Descuento primero: cien por cero coma ocho son ochenta, y por uno coma dos son noventa y seis.
+
+Impuesto primero: cien por uno coma dos son ciento veinte, y por cero coma ocho son noventa y seis.
+
+Da igual el orden: siempre noventa y seis euros. La multiplicación no cambia al intercambiar los factores.
+
+Eso sí: pagas noventa y seis, no cien. El descuento se calcula sobre cien, y el impuesto sobre ochenta, así que no se cancelan.
+
+Ahora, la trampa más común. Una tienda anuncia veinte por ciento de descuento y, encima, otro diez por ciento extra.
+
+Mucha gente suma: veinte más diez son treinta por ciento, o sea, pagar setenta euros. Pero no.
+
+El primer descuento deja el precio en ochenta. El segundo se aplica sobre esos ochenta, no sobre cien: ochenta por cero coma nueve son setenta y dos.
+
+Pagas setenta y dos euros. Un descuento real de veintiocho por ciento, no de treinta.
+
+En un artículo de mil euros, esos dos puntos son veinte euros que se quedan en la tienda.
+
+Regla fácil: convierte cada porcentaje en un multiplicador. Veinte por ciento de descuento es por cero coma ocho, y diez por ciento es por cero coma nueve. Multiplícalos y listo.
+
+El impuesto de veinte por ciento es un ejemplo, cada país tiene el suyo.
+
+Sígueme para más dinero explicado con números.

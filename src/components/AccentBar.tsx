@@ -1,7 +1,10 @@
 import { Easing, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
 import { theme } from "../theme";
 
-export const AccentBar: React.FC<{ width: number; delay?: number }> = ({ width, delay = 0 }) => {
+export const AccentBar: React.FC<{ width: number; delay?: number }> = ({
+  width,
+  delay = 0,
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const start = delay * fps;

@@ -1,0 +1,1056 @@
+{
+  "audio": "narraciones/reto-52.mp3",
+  "duracion": 60.4,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "El reto",
+      "inicio": 0,
+      "lineas": [
+        "Reto de las",
+        "52 semanas"
+      ],
+      "resaltar": [
+        "52"
+      ],
+      "imagen": "ia/calendario-porcentaje.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "La primera",
+      "inicio": 2.59,
+      "lineas": [
+        "Semana 1",
+        "1 €"
+      ],
+      "resaltar": [
+        "1"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La segunda,",
+      "inicio": 4.95,
+      "lineas": [
+        "Semana 2",
+        "2 €"
+      ],
+      "resaltar": [
+        "2"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La tercera,",
+      "inicio": 6.48,
+      "lineas": [
+        "Semana 3",
+        "3 €"
+      ],
+      "resaltar": [
+        "3"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y así",
+      "inicio": 7.87,
+      "lineas": [
+        "Hasta la",
+        "semana 52"
+      ],
+      "resaltar": [
+        "52"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Al principio",
+      "inicio": 10.4,
+      "lineas": [
+        "Al principio",
+        "parece poco"
+      ],
+      "resaltar": [
+        "poco"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "En las",
+      "inicio": 12.15,
+      "titulo": "Ahorrado en 10 semanas",
+      "desde": 1,
+      "hasta": 55,
+      "unidad": "€",
+      "duracion": 2.0
+    },
+    {
+      "tipo": "contador",
+      "en": "Y en",
+      "inicio": 16.22,
+      "titulo": "Ahorrado en 26 semanas",
+      "desde": 55,
+      "hasta": 351,
+      "unidad": "€",
+      "duracion": 1.8
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero lo",
+      "inicio": 19.74,
+      "lineas": [
+        "Lo difícil llega",
+        "al final"
+      ],
+      "resaltar": [
+        "final"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "en la semana 52 tienes",
+      "inicio": 21.67,
+      "lineas": [
+        "Semana 52:",
+        "52 € de golpe"
+      ],
+      "resaltar": [
+        "52"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Al terminar,",
+      "inicio": 26.32,
+      "a": "52",
+      "operador": "×",
+      "b": "53 ÷ 2",
+      "resultado": 1378,
+      "etiqueta": "€ en un año",
+      "revelar": 2.8
+    },
+    {
+      "tipo": "titular",
+      "en": "Es más",
+      "inicio": 33.19,
+      "lineas": [
+        "Más un hábito",
+        "que una cifra"
+      ],
+      "resaltar": [
+        "hábito"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Si lo prefieres",
+      "inicio": 39.9,
+      "lineas": [
+        "Más suave:",
+        "al revés"
+      ],
+      "resaltar": [
+        "suave"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "empieza por 52",
+      "inicio": 42.46,
+      "lineas": [
+        "Empieza en 52",
+        "y baja hasta 1"
+      ],
+      "resaltar": [
+        "52"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Y si te sobra,",
+      "inicio": 47.99,
+      "a": "1.378",
+      "operador": "×",
+      "b": "2",
+      "resultado": 2756,
+      "etiqueta": "€ si duplicas",
+      "revelar": 2.6
+    },
+    {
+      "tipo": "titular",
+      "en": "Con un",
+      "inicio": 53.77,
+      "lineas": [
+        "Con 1 euro",
+        "ya empezaste"
+      ],
+      "resaltar": [
+        "1"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 56.96,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "1.378 €",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.22,
+      "corte": false
+    },
+    {
+      "texto": "reto",
+      "inicio": 0.22,
+      "fin": 0.57,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.57,
+      "fin": 0.79,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 0.79,
+      "fin": 1.07,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 1.07,
+      "fin": 1.79,
+      "corte": false
+    },
+    {
+      "texto": "semanas.",
+      "inicio": 1.79,
+      "fin": 2.33,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 2.74,
+      "fin": 2.93,
+      "corte": false
+    },
+    {
+      "texto": "primera",
+      "inicio": 2.93,
+      "fin": 3.37,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 3.37,
+      "fin": 3.76,
+      "corte": false
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 3.76,
+      "fin": 4.2,
+      "corte": false
+    },
+    {
+      "texto": "1",
+      "inicio": 4.2,
+      "fin": 4.44,
+      "corte": false
+    },
+    {
+      "texto": "euro.",
+      "inicio": 4.44,
+      "fin": 4.72,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 5.1,
+      "fin": 5.36,
+      "corte": false
+    },
+    {
+      "texto": "segunda,",
+      "inicio": 5.36,
+      "fin": 5.99,
+      "corte": false
+    },
+    {
+      "texto": "2.",
+      "inicio": 5.99,
+      "fin": 6.32,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 6.63,
+      "fin": 6.86,
+      "corte": false
+    },
+    {
+      "texto": "tercera,",
+      "inicio": 6.86,
+      "fin": 7.4,
+      "corte": false
+    },
+    {
+      "texto": "3.",
+      "inicio": 7.4,
+      "fin": 7.76,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.02,
+      "fin": 8.17,
+      "corte": false
+    },
+    {
+      "texto": "así",
+      "inicio": 8.17,
+      "fin": 8.43,
+      "corte": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 8.43,
+      "fin": 8.82,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 8.82,
+      "fin": 9.03,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 9.03,
+      "fin": 9.48,
+      "corte": false
+    },
+    {
+      "texto": "52.",
+      "inicio": 9.48,
+      "fin": 10.16,
+      "corte": true
+    },
+    {
+      "texto": "Al",
+      "inicio": 10.55,
+      "fin": 10.73,
+      "corte": false
+    },
+    {
+      "texto": "principio",
+      "inicio": 10.73,
+      "fin": 11.26,
+      "corte": false
+    },
+    {
+      "texto": "parece",
+      "inicio": 11.26,
+      "fin": 11.64,
+      "corte": false
+    },
+    {
+      "texto": "poco.",
+      "inicio": 11.64,
+      "fin": 11.92,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 12.3,
+      "fin": 12.49,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 12.49,
+      "fin": 12.73,
+      "corte": false
+    },
+    {
+      "texto": "primeras",
+      "inicio": 12.73,
+      "fin": 13.25,
+      "corte": false
+    },
+    {
+      "texto": "10",
+      "inicio": 13.25,
+      "fin": 13.55,
+      "corte": false
+    },
+    {
+      "texto": "semanas,",
+      "inicio": 13.55,
+      "fin": 14.01,
+      "corte": false
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 14.01,
+      "fin": 14.47,
+      "corte": false
+    },
+    {
+      "texto": "55",
+      "inicio": 14.47,
+      "fin": 15.1,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 15.1,
+      "fin": 15.45,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 15.45,
+      "fin": 15.64,
+      "corte": false
+    },
+    {
+      "texto": "total.",
+      "inicio": 15.64,
+      "fin": 15.99,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.37,
+      "fin": 16.51,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 16.51,
+      "fin": 16.71,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 16.71,
+      "fin": 16.9,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 16.9,
+      "fin": 17.32,
+      "corte": false
+    },
+    {
+      "texto": "26,",
+      "inicio": 17.32,
+      "fin": 17.97,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 17.97,
+      "fin": 18.17,
+      "corte": false
+    },
+    {
+      "texto": "llevas",
+      "inicio": 18.17,
+      "fin": 18.59,
+      "corte": false
+    },
+    {
+      "texto": "351.",
+      "inicio": 18.59,
+      "fin": 19.51,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 19.89,
+      "fin": 20.15,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.15,
+      "fin": 20.31,
+      "corte": false
+    },
+    {
+      "texto": "difícil",
+      "inicio": 20.31,
+      "fin": 20.7,
+      "corte": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 20.7,
+      "fin": 21.0,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 21.0,
+      "fin": 21.16,
+      "corte": false
+    },
+    {
+      "texto": "final:",
+      "inicio": 21.16,
+      "fin": 21.46,
+      "corte": true
+    },
+    {
+      "texto": "en",
+      "inicio": 21.82,
+      "fin": 22.01,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 22.01,
+      "fin": 22.21,
+      "corte": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 22.21,
+      "fin": 22.62,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 22.62,
+      "fin": 23.26,
+      "corte": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 23.26,
+      "fin": 23.67,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 23.67,
+      "fin": 23.92,
+      "corte": false
+    },
+    {
+      "texto": "apartar",
+      "inicio": 23.92,
+      "fin": 24.4,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 24.4,
+      "fin": 25.03,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 25.03,
+      "fin": 25.39,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.39,
+      "fin": 25.59,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 25.59,
+      "fin": 25.84,
+      "corte": false
+    },
+    {
+      "texto": "vez.",
+      "inicio": 25.84,
+      "fin": 26.09,
+      "corte": true
+    },
+    {
+      "texto": "Al",
+      "inicio": 26.47,
+      "fin": 26.72,
+      "corte": false
+    },
+    {
+      "texto": "terminar,",
+      "inicio": 26.72,
+      "fin": 27.4,
+      "corte": false
+    },
+    {
+      "texto": "sumas",
+      "inicio": 27.4,
+      "fin": 27.86,
+      "corte": false
+    },
+    {
+      "texto": "1.378",
+      "inicio": 27.86,
+      "fin": 29.25,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 29.25,
+      "fin": 29.71,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 30.04,
+      "fin": 30.28,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 30.28,
+      "fin": 31.08,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 31.08,
+      "fin": 31.39,
+      "corte": false
+    },
+    {
+      "texto": "53,",
+      "inicio": 31.39,
+      "fin": 32.18,
+      "corte": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 32.18,
+      "fin": 32.63,
+      "corte": false
+    },
+    {
+      "texto": "2.",
+      "inicio": 32.63,
+      "fin": 32.94,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 33.34,
+      "fin": 33.5,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 33.5,
+      "fin": 33.7,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 33.7,
+      "fin": 33.86,
+      "corte": false
+    },
+    {
+      "texto": "hábito",
+      "inicio": 33.86,
+      "fin": 34.2,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 34.2,
+      "fin": 34.4,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 34.4,
+      "fin": 34.61,
+      "corte": false
+    },
+    {
+      "texto": "cifra:",
+      "inicio": 34.61,
+      "fin": 34.9,
+      "corte": true
+    },
+    {
+      "texto": "empiezas",
+      "inicio": 35.27,
+      "fin": 35.79,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 35.79,
+      "fin": 36.1,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 36.1,
+      "fin": 36.35,
+      "corte": false
+    },
+    {
+      "texto": "notarlo,",
+      "inicio": 36.35,
+      "fin": 36.82,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 37.1,
+      "fin": 37.24,
+      "corte": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 37.24,
+      "fin": 37.65,
+      "corte": false
+    },
+    {
+      "texto": "pesa,",
+      "inicio": 37.65,
+      "fin": 37.96,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 37.96,
+      "fin": 38.15,
+      "corte": false
+    },
+    {
+      "texto": "llevas",
+      "inicio": 38.15,
+      "fin": 38.56,
+      "corte": false
+    },
+    {
+      "texto": "semanas",
+      "inicio": 38.56,
+      "fin": 39.03,
+      "corte": false
+    },
+    {
+      "texto": "ahorrando.",
+      "inicio": 39.03,
+      "fin": 39.62,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 40.05,
+      "fin": 40.22,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 40.22,
+      "fin": 40.4,
+      "corte": false
+    },
+    {
+      "texto": "prefieres",
+      "inicio": 40.4,
+      "fin": 40.92,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 40.92,
+      "fin": 41.14,
+      "corte": false
+    },
+    {
+      "texto": "suave,",
+      "inicio": 41.14,
+      "fin": 41.47,
+      "corte": false
+    },
+    {
+      "texto": "hazlo",
+      "inicio": 41.47,
+      "fin": 41.79,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 41.79,
+      "fin": 41.96,
+      "corte": false
+    },
+    {
+      "texto": "revés:",
+      "inicio": 41.96,
+      "fin": 42.29,
+      "corte": true
+    },
+    {
+      "texto": "empieza",
+      "inicio": 42.61,
+      "fin": 43.1,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 43.1,
+      "fin": 43.37,
+      "corte": false
+    },
+    {
+      "texto": "52",
+      "inicio": 43.37,
+      "fin": 44.04,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 44.04,
+      "fin": 44.18,
+      "corte": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 44.18,
+      "fin": 44.5,
+      "corte": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 44.5,
+      "fin": 44.88,
+      "corte": false
+    },
+    {
+      "texto": "1.",
+      "inicio": 44.88,
+      "fin": 45.15,
+      "corte": true
+    },
+    {
+      "texto": "Duele",
+      "inicio": 45.52,
+      "fin": 45.88,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 45.88,
+      "fin": 46.07,
+      "corte": false
+    },
+    {
+      "texto": "principio,",
+      "inicio": 46.07,
+      "fin": 46.65,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 46.65,
+      "fin": 46.96,
+      "corte": false
+    },
+    {
+      "texto": "termina",
+      "inicio": 46.96,
+      "fin": 47.43,
+      "corte": false
+    },
+    {
+      "texto": "fácil.",
+      "inicio": 47.43,
+      "fin": 47.79,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 48.14,
+      "fin": 48.28,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 48.28,
+      "fin": 48.47,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 48.47,
+      "fin": 48.67,
+      "corte": false
+    },
+    {
+      "texto": "sobra,",
+      "inicio": 48.67,
+      "fin": 49.03,
+      "corte": false
+    },
+    {
+      "texto": "multiplica",
+      "inicio": 49.03,
+      "fin": 49.67,
+      "corte": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 49.67,
+      "fin": 49.98,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 49.98,
+      "fin": 50.23,
+      "corte": false
+    },
+    {
+      "texto": "2:",
+      "inicio": 50.23,
+      "fin": 50.48,
+      "corte": true
+    },
+    {
+      "texto": "serían",
+      "inicio": 50.75,
+      "fin": 51.38,
+      "corte": false
+    },
+    {
+      "texto": "2.756",
+      "inicio": 51.38,
+      "fin": 53.02,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 53.02,
+      "fin": 53.56,
+      "corte": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 53.92,
+      "fin": 54.17,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 54.17,
+      "fin": 54.37,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 54.37,
+      "fin": 54.68,
+      "corte": false
+    },
+    {
+      "texto": "euro",
+      "inicio": 54.68,
+      "fin": 54.99,
+      "corte": false
+    },
+    {
+      "texto": "esta",
+      "inicio": 54.99,
+      "fin": 55.3,
+      "corte": false
+    },
+    {
+      "texto": "semana,",
+      "inicio": 55.3,
+      "fin": 55.72,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 55.72,
+      "fin": 55.91,
+      "corte": false
+    },
+    {
+      "texto": "has",
+      "inicio": 55.91,
+      "fin": 56.17,
+      "corte": false
+    },
+    {
+      "texto": "empezado.",
+      "inicio": 56.17,
+      "fin": 56.7,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 57.11,
+      "fin": 57.58,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 57.58,
+      "fin": 57.89,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 57.89,
+      "fin": 58.14,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 58.14,
+      "fin": 58.56,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 58.56,
+      "fin": 59.15,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 59.15,
+      "fin": 59.4,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 59.4,
+      "fin": 59.87,
+      "corte": true
+    }
+  ]
+}

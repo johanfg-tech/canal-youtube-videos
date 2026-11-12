@@ -1,0 +1,1138 @@
+{
+  "audio": "narraciones/fondo-emergencia.mp3",
+  "duracion": 55.7,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Tu coche",
+      "inicio": 0,
+      "lineas": [
+        "Avería, despido,",
+        "factura médica…"
+      ],
+      "resaltar": [
+        "despido"
+      ],
+      "imagen": "ia/reloj-arena.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Con qué",
+      "inicio": 5.0,
+      "lineas": [
+        "¿Con qué",
+        "pagas?"
+      ],
+      "resaltar": [
+        "pagas"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Para eso",
+      "inicio": 6.21,
+      "lineas": [
+        "Fondo de",
+        "emergencia"
+      ],
+      "resaltar": [
+        "emergencia"
+      ],
+      "imagen": "ia/bola-monedas.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "La regla:",
+      "inicio": 8.8,
+      "lineas": [
+        "Entre 3 y 6 meses",
+        "de gastos"
+      ],
+      "resaltar": [
+        "3 y 6"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Imagina que",
+      "inicio": 12.38,
+      "lineas": [
+        "Gastos:",
+        "1.000 € al mes"
+      ],
+      "resaltar": [
+        "1.000"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "3 por",
+      "inicio": 14.84,
+      "a": "3",
+      "operador": "×",
+      "b": "1.000 €",
+      "resultado": 3000,
+      "etiqueta": "€ como mínimo",
+      "revelar": 2.0
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "6 por",
+      "inicio": 17.76,
+      "a": "6",
+      "operador": "×",
+      "b": "1.000 €",
+      "resultado": 6000,
+      "etiqueta": "€ como máximo",
+      "revelar": 1.8
+    },
+    {
+      "tipo": "titular",
+      "en": "Si tu",
+      "inicio": 20.49,
+      "lineas": [
+        "Trabajo estable:",
+        "3 meses bastan"
+      ],
+      "resaltar": [
+        "3"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Si eres",
+      "inicio": 24.0,
+      "lineas": [
+        "Ingresos variables:",
+        "6 meses o más"
+      ],
+      "resaltar": [
+        "6"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Es dinero",
+      "inicio": 28.9,
+      "lineas": [
+        "Solo para",
+        "imprevistos"
+      ],
+      "resaltar": [
+        "imprevistos"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y guárdalo",
+      "inicio": 33.95,
+      "lineas": [
+        "Fácil de sacar:",
+        "cuenta de ahorro"
+      ],
+      "resaltar": [
+        "fácil"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Si lo",
+      "inicio": 37.37,
+      "lineas": [
+        "Si lo necesitas de golpe,",
+        "no puedes esperar"
+      ],
+      "resaltar": [
+        "golpe"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Cómo se",
+      "inicio": 41.19,
+      "lineas": [
+        "¿Cómo empezar",
+        "sin agobiarte?"
+      ],
+      "resaltar": [
+        "empezar"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "Con 100",
+      "inicio": 43.41,
+      "a": "100",
+      "operador": "×",
+      "b": "30 meses",
+      "resultado": 3000,
+      "etiqueta": "€ en 30 meses",
+      "revelar": 2.2
+    },
+    {
+      "tipo": "titular",
+      "en": "Empieza por",
+      "inicio": 46.86,
+      "lineas": [
+        "Primer objetivo:",
+        "1 mes de gastos"
+      ],
+      "resaltar": [
+        "1 mes"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 52.23,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "1.000 €",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0.0,
+      "fin": 0.2,
+      "corte": false
+    },
+    {
+      "texto": "coche",
+      "inicio": 0.2,
+      "fin": 0.58,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 0.58,
+      "fin": 0.78,
+      "corte": false
+    },
+    {
+      "texto": "avería.",
+      "inicio": 0.78,
+      "fin": 1.22,
+      "corte": true
+    },
+    {
+      "texto": "O",
+      "inicio": 1.51,
+      "fin": 1.66,
+      "corte": false
+    },
+    {
+      "texto": "pierdes",
+      "inicio": 1.66,
+      "fin": 2.15,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 2.15,
+      "fin": 2.35,
+      "corte": false
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 2.35,
+      "fin": 2.84,
+      "corte": true
+    },
+    {
+      "texto": "O",
+      "inicio": 3.11,
+      "fin": 3.23,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 3.23,
+      "fin": 3.39,
+      "corte": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 3.39,
+      "fin": 3.7,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 3.7,
+      "fin": 3.92,
+      "corte": false
+    },
+    {
+      "texto": "factura",
+      "inicio": 3.92,
+      "fin": 4.33,
+      "corte": false
+    },
+    {
+      "texto": "médica.",
+      "inicio": 4.33,
+      "fin": 4.68,
+      "corte": true
+    },
+    {
+      "texto": "¿Con",
+      "inicio": 5.15,
+      "fin": 5.37,
+      "corte": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 5.37,
+      "fin": 5.59,
+      "corte": false
+    },
+    {
+      "texto": "pagas?",
+      "inicio": 5.59,
+      "fin": 5.91,
+      "corte": true
+    },
+    {
+      "texto": "Para",
+      "inicio": 6.36,
+      "fin": 6.65,
+      "corte": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 6.65,
+      "fin": 6.88,
+      "corte": false
+    },
+    {
+      "texto": "existe",
+      "inicio": 6.88,
+      "fin": 7.27,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 7.27,
+      "fin": 7.46,
+      "corte": false
+    },
+    {
+      "texto": "fondo",
+      "inicio": 7.46,
+      "fin": 7.8,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 7.8,
+      "fin": 7.98,
+      "corte": false
+    },
+    {
+      "texto": "emergencia.",
+      "inicio": 7.98,
+      "fin": 8.58,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 8.95,
+      "fin": 9.12,
+      "corte": false
+    },
+    {
+      "texto": "regla:",
+      "inicio": 9.12,
+      "fin": 9.45,
+      "corte": true
+    },
+    {
+      "texto": "entre",
+      "inicio": 9.81,
+      "fin": 10.21,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 10.21,
+      "fin": 10.54,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 10.54,
+      "fin": 10.7,
+      "corte": false
+    },
+    {
+      "texto": "6",
+      "inicio": 10.7,
+      "fin": 11.03,
+      "corte": false
+    },
+    {
+      "texto": "meses",
+      "inicio": 11.03,
+      "fin": 11.43,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 11.43,
+      "fin": 11.65,
+      "corte": false
+    },
+    {
+      "texto": "gastos.",
+      "inicio": 11.65,
+      "fin": 12.1,
+      "corte": true
+    },
+    {
+      "texto": "Imagina",
+      "inicio": 12.53,
+      "fin": 12.85,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 12.85,
+      "fin": 13.02,
+      "corte": false
+    },
+    {
+      "texto": "gastas",
+      "inicio": 13.02,
+      "fin": 13.31,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 13.31,
+      "fin": 14.04,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 14.04,
+      "fin": 14.29,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 14.29,
+      "fin": 14.42,
+      "corte": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 14.42,
+      "fin": 14.59,
+      "corte": true
+    },
+    {
+      "texto": "3",
+      "inicio": 14.99,
+      "fin": 15.18,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 15.18,
+      "fin": 15.33,
+      "corte": false
+    },
+    {
+      "texto": "1.000,",
+      "inicio": 15.33,
+      "fin": 16.01,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 16.01,
+      "fin": 16.16,
+      "corte": false
+    },
+    {
+      "texto": "3.000",
+      "inicio": 16.16,
+      "fin": 16.87,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 16.87,
+      "fin": 17.09,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 17.09,
+      "fin": 17.28,
+      "corte": false
+    },
+    {
+      "texto": "mínimo.",
+      "inicio": 17.28,
+      "fin": 17.54,
+      "corte": true
+    },
+    {
+      "texto": "6",
+      "inicio": 17.91,
+      "fin": 18.12,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 18.12,
+      "fin": 18.28,
+      "corte": false
+    },
+    {
+      "texto": "1.000,",
+      "inicio": 18.28,
+      "fin": 18.99,
+      "corte": false
+    },
+    {
+      "texto": "6.000",
+      "inicio": 18.99,
+      "fin": 19.75,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 19.75,
+      "fin": 19.95,
+      "corte": false
+    },
+    {
+      "texto": "máximo.",
+      "inicio": 19.95,
+      "fin": 20.22,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.64,
+      "fin": 20.82,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 20.82,
+      "fin": 20.99,
+      "corte": false
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 20.99,
+      "fin": 21.42,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 21.42,
+      "fin": 21.59,
+      "corte": false
+    },
+    {
+      "texto": "muy",
+      "inicio": 21.59,
+      "fin": 21.81,
+      "corte": false
+    },
+    {
+      "texto": "estable,",
+      "inicio": 21.81,
+      "fin": 22.24,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 22.24,
+      "fin": 22.46,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 22.46,
+      "fin": 22.74,
+      "corte": false
+    },
+    {
+      "texto": "meses",
+      "inicio": 22.74,
+      "fin": 23.06,
+      "corte": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 23.06,
+      "fin": 23.39,
+      "corte": false
+    },
+    {
+      "texto": "bastar.",
+      "inicio": 23.39,
+      "fin": 23.76,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 24.15,
+      "fin": 24.36,
+      "corte": false
+    },
+    {
+      "texto": "eres",
+      "inicio": 24.36,
+      "fin": 24.69,
+      "corte": false
+    },
+    {
+      "texto": "autónomo,",
+      "inicio": 24.69,
+      "fin": 25.25,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 25.25,
+      "fin": 25.4,
+      "corte": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 25.4,
+      "fin": 25.67,
+      "corte": false
+    },
+    {
+      "texto": "ingresos",
+      "inicio": 25.67,
+      "fin": 26.24,
+      "corte": false
+    },
+    {
+      "texto": "cambian",
+      "inicio": 26.24,
+      "fin": 26.74,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 26.74,
+      "fin": 27.07,
+      "corte": false
+    },
+    {
+      "texto": "mes,",
+      "inicio": 27.07,
+      "fin": 27.34,
+      "corte": false
+    },
+    {
+      "texto": "apunta",
+      "inicio": 27.34,
+      "fin": 27.78,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 27.78,
+      "fin": 27.93,
+      "corte": false
+    },
+    {
+      "texto": "6",
+      "inicio": 27.93,
+      "fin": 28.26,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 28.26,
+      "fin": 28.41,
+      "corte": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 28.41,
+      "fin": 28.68,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 29.05,
+      "fin": 29.23,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 29.23,
+      "fin": 29.61,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 29.61,
+      "fin": 29.88,
+      "corte": false
+    },
+    {
+      "texto": "imprevistos.",
+      "inicio": 29.88,
+      "fin": 30.51,
+      "corte": true
+    },
+    {
+      "texto": "No",
+      "inicio": 30.51,
+      "fin": 30.68,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 30.68,
+      "fin": 30.86,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 30.86,
+      "fin": 31.14,
+      "corte": false
+    },
+    {
+      "texto": "invertir,",
+      "inicio": 31.14,
+      "fin": 31.61,
+      "corte": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 31.61,
+      "fin": 31.79,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 31.79,
+      "fin": 32.06,
+      "corte": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 32.06,
+      "fin": 32.29,
+      "corte": false
+    },
+    {
+      "texto": "viaje",
+      "inicio": 32.29,
+      "fin": 32.62,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 32.62,
+      "fin": 32.84,
+      "corte": false
+    },
+    {
+      "texto": "viste",
+      "inicio": 32.84,
+      "fin": 33.17,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 33.17,
+      "fin": 33.34,
+      "corte": false
+    },
+    {
+      "texto": "oferta.",
+      "inicio": 33.34,
+      "fin": 33.72,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 34.1,
+      "fin": 34.21,
+      "corte": false
+    },
+    {
+      "texto": "guárdalo",
+      "inicio": 34.21,
+      "fin": 34.66,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 34.66,
+      "fin": 34.82,
+      "corte": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 34.82,
+      "fin": 35.08,
+      "corte": false
+    },
+    {
+      "texto": "fácil",
+      "inicio": 35.08,
+      "fin": 35.38,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 35.38,
+      "fin": 35.55,
+      "corte": false
+    },
+    {
+      "texto": "sacar,",
+      "inicio": 35.55,
+      "fin": 35.85,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 35.85,
+      "fin": 36.11,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 36.11,
+      "fin": 36.32,
+      "corte": false
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 36.32,
+      "fin": 36.67,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 36.67,
+      "fin": 36.83,
+      "corte": false
+    },
+    {
+      "texto": "ahorro.",
+      "inicio": 36.83,
+      "fin": 37.18,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 37.52,
+      "fin": 37.68,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.68,
+      "fin": 37.85,
+      "corte": false
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 37.85,
+      "fin": 38.35,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 38.35,
+      "fin": 38.52,
+      "corte": false
+    },
+    {
+      "texto": "golpe,",
+      "inicio": 38.52,
+      "fin": 38.83,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 38.83,
+      "fin": 38.99,
+      "corte": false
+    },
+    {
+      "texto": "puedes",
+      "inicio": 38.99,
+      "fin": 39.35,
+      "corte": false
+    },
+    {
+      "texto": "esperar",
+      "inicio": 39.35,
+      "fin": 39.76,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 39.76,
+      "fin": 39.88,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.88,
+      "fin": 40.09,
+      "corte": false
+    },
+    {
+      "texto": "suba",
+      "inicio": 40.09,
+      "fin": 40.35,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 40.35,
+      "fin": 40.52,
+      "corte": false
+    },
+    {
+      "texto": "precio.",
+      "inicio": 40.52,
+      "fin": 40.88,
+      "corte": true
+    },
+    {
+      "texto": "¿Cómo",
+      "inicio": 41.34,
+      "fin": 41.65,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 41.65,
+      "fin": 41.85,
+      "corte": false
+    },
+    {
+      "texto": "empieza,",
+      "inicio": 41.85,
+      "fin": 42.33,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 42.33,
+      "fin": 42.58,
+      "corte": false
+    },
+    {
+      "texto": "agobiarte?",
+      "inicio": 42.58,
+      "fin": 43.18,
+      "corte": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 43.56,
+      "fin": 43.75,
+      "corte": false
+    },
+    {
+      "texto": "100",
+      "inicio": 43.75,
+      "fin": 43.99,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 43.99,
+      "fin": 44.27,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 44.27,
+      "fin": 44.42,
+      "corte": false
+    },
+    {
+      "texto": "mes,",
+      "inicio": 44.42,
+      "fin": 44.62,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 44.62,
+      "fin": 44.77,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 44.77,
+      "fin": 45.14,
+      "corte": false
+    },
+    {
+      "texto": "meses",
+      "inicio": 45.14,
+      "fin": 45.42,
+      "corte": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 45.42,
+      "fin": 45.75,
+      "corte": false
+    },
+    {
+      "texto": "3.000.",
+      "inicio": 45.75,
+      "fin": 46.64,
+      "corte": true
+    },
+    {
+      "texto": "Empieza",
+      "inicio": 47.01,
+      "fin": 47.43,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 47.43,
+      "fin": 47.65,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 47.65,
+      "fin": 47.82,
+      "corte": false
+    },
+    {
+      "texto": "primer",
+      "inicio": 47.82,
+      "fin": 48.19,
+      "corte": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 48.19,
+      "fin": 48.42,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 48.42,
+      "fin": 48.59,
+      "corte": false
+    },
+    {
+      "texto": "gastos:",
+      "inicio": 48.59,
+      "fin": 48.96,
+      "corte": true
+    },
+    {
+      "texto": "1.000",
+      "inicio": 49.21,
+      "fin": 49.76,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 49.76,
+      "fin": 49.94,
+      "corte": true
+    },
+    {
+      "texto": "Ese",
+      "inicio": 50.27,
+      "fin": 50.54,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 50.54,
+      "fin": 50.74,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 50.74,
+      "fin": 50.95,
+      "corte": false
+    },
+    {
+      "texto": "primer",
+      "inicio": 50.95,
+      "fin": 51.4,
+      "corte": false
+    },
+    {
+      "texto": "objetivo.",
+      "inicio": 51.4,
+      "fin": 51.97,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 52.38,
+      "fin": 52.86,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 52.86,
+      "fin": 53.17,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 53.17,
+      "fin": 53.42,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 53.42,
+      "fin": 53.85,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 53.85,
+      "fin": 54.44,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 54.44,
+      "fin": 54.69,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 54.69,
+      "fin": 55.17,
+      "corte": true
+    }
+  ]
+}

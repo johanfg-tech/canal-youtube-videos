@@ -1,0 +1,691 @@
+{
+  "audio": "narraciones/regla503020.mp3",
+  "duracion": 42.3,
+  "aviso": "",
+  "sfx": true,
+  "palabras": [
+    {
+      "texto": "Regla",
+      "inicio": 0.33,
+      "fin": 0.76,
+      "corte": false
+    },
+    {
+      "texto": "número",
+      "inicio": 0.76,
+      "fin": 1.26,
+      "corte": false
+    },
+    {
+      "texto": "seis:",
+      "inicio": 1.26,
+      "fin": 1.62,
+      "corte": true
+    },
+    {
+      "texto": "la",
+      "inicio": 1.96,
+      "fin": 2.19,
+      "corte": false
+    },
+    {
+      "texto": "regla",
+      "inicio": 2.19,
+      "fin": 2.61,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 2.61,
+      "fin": 2.91,
+      "corte": false
+    },
+    {
+      "texto": "50,",
+      "inicio": 2.91,
+      "fin": 3.59,
+      "corte": false
+    },
+    {
+      "texto": "30,",
+      "inicio": 3.59,
+      "fin": 4.15,
+      "corte": false
+    },
+    {
+      "texto": "20.",
+      "inicio": 4.15,
+      "fin": 4.64,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 5.05,
+      "fin": 5.21,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 5.21,
+      "fin": 5.42,
+      "corte": false
+    },
+    {
+      "texto": "forma",
+      "inicio": 5.42,
+      "fin": 5.72,
+      "corte": false
+    },
+    {
+      "texto": "sencilla",
+      "inicio": 5.72,
+      "fin": 6.16,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 6.16,
+      "fin": 6.32,
+      "corte": false
+    },
+    {
+      "texto": "repartir",
+      "inicio": 6.32,
+      "fin": 6.75,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.75,
+      "fin": 6.91,
+      "corte": false
+    },
+    {
+      "texto": "sueldo.",
+      "inicio": 6.91,
+      "fin": 7.26,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 7.62,
+      "fin": 7.79,
+      "corte": false
+    },
+    {
+      "texto": "50 %",
+      "inicio": 7.79,
+      "fin": 8.74,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 8.74,
+      "fin": 8.99,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 8.99,
+      "fin": 9.15,
+      "corte": false
+    },
+    {
+      "texto": "necesario:",
+      "inicio": 9.15,
+      "fin": 9.64,
+      "corte": true
+    },
+    {
+      "texto": "vivienda,",
+      "inicio": 10.01,
+      "fin": 10.69,
+      "corte": false
+    },
+    {
+      "texto": "comida,",
+      "inicio": 10.69,
+      "fin": 11.22,
+      "corte": false
+    },
+    {
+      "texto": "transporte",
+      "inicio": 11.22,
+      "fin": 12.04,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 12.04,
+      "fin": 12.22,
+      "corte": false
+    },
+    {
+      "texto": "servicios.",
+      "inicio": 12.22,
+      "fin": 12.97,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 13.31,
+      "fin": 13.47,
+      "corte": false
+    },
+    {
+      "texto": "30 %",
+      "inicio": 13.47,
+      "fin": 14.33,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 14.33,
+      "fin": 14.59,
+      "corte": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 14.59,
+      "fin": 14.8,
+      "corte": false
+    },
+    {
+      "texto": "gustos:",
+      "inicio": 14.8,
+      "fin": 15.15,
+      "corte": true
+    },
+    {
+      "texto": "salir,",
+      "inicio": 15.43,
+      "fin": 16.1,
+      "corte": false
+    },
+    {
+      "texto": "ropa,",
+      "inicio": 16.1,
+      "fin": 16.67,
+      "corte": false
+    },
+    {
+      "texto": "viajes.",
+      "inicio": 16.67,
+      "fin": 17.44,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.78,
+      "fin": 17.91,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 17.91,
+      "fin": 18.09,
+      "corte": false
+    },
+    {
+      "texto": "20 %",
+      "inicio": 18.09,
+      "fin": 19.02,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 19.02,
+      "fin": 19.31,
+      "corte": false
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 19.31,
+      "fin": 19.75,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 19.75,
+      "fin": 19.88,
+      "corte": false
+    },
+    {
+      "texto": "pagar",
+      "inicio": 19.88,
+      "fin": 20.23,
+      "corte": false
+    },
+    {
+      "texto": "deudas.",
+      "inicio": 20.23,
+      "fin": 20.62,
+      "corte": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.96,
+      "fin": 21.1,
+      "corte": false
+    },
+    {
+      "texto": "ganas",
+      "inicio": 21.1,
+      "fin": 21.36,
+      "corte": false
+    },
+    {
+      "texto": "1.000",
+      "inicio": 21.36,
+      "fin": 22.15,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 22.15,
+      "fin": 22.29,
+      "corte": false
+    },
+    {
+      "texto": "mes,",
+      "inicio": 22.29,
+      "fin": 22.48,
+      "corte": false
+    },
+    {
+      "texto": "serían",
+      "inicio": 22.48,
+      "fin": 22.78,
+      "corte": false
+    },
+    {
+      "texto": "500",
+      "inicio": 22.78,
+      "fin": 23.45,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 23.45,
+      "fin": 23.67,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 23.67,
+      "fin": 23.81,
+      "corte": false
+    },
+    {
+      "texto": "necesario,",
+      "inicio": 23.81,
+      "fin": 24.24,
+      "corte": false
+    },
+    {
+      "texto": "300",
+      "inicio": 24.54,
+      "fin": 25.29,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 25.29,
+      "fin": 25.53,
+      "corte": false
+    },
+    {
+      "texto": "gustos",
+      "inicio": 25.53,
+      "fin": 25.87,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 25.87,
+      "fin": 25.98,
+      "corte": false
+    },
+    {
+      "texto": "200",
+      "inicio": 25.98,
+      "fin": 26.72,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 26.72,
+      "fin": 26.97,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 26.97,
+      "fin": 27.13,
+      "corte": false
+    },
+    {
+      "texto": "futuro.",
+      "inicio": 27.13,
+      "fin": 27.46,
+      "corte": true
+    },
+    {
+      "texto": "No",
+      "inicio": 27.85,
+      "fin": 28.03,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 28.03,
+      "fin": 28.21,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 28.21,
+      "fin": 28.44,
+      "corte": false
+    },
+    {
+      "texto": "ley:",
+      "inicio": 28.44,
+      "fin": 28.67,
+      "corte": true
+    },
+    {
+      "texto": "si",
+      "inicio": 29.01,
+      "fin": 29.19,
+      "corte": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 29.19,
+      "fin": 29.42,
+      "corte": false
+    },
+    {
+      "texto": "gastos",
+      "inicio": 29.42,
+      "fin": 29.8,
+      "corte": false
+    },
+    {
+      "texto": "básicos",
+      "inicio": 29.8,
+      "fin": 30.24,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30.24,
+      "fin": 30.42,
+      "corte": false
+    },
+    {
+      "texto": "comen",
+      "inicio": 30.42,
+      "fin": 30.76,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 30.76,
+      "fin": 30.99,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 30.99,
+      "fin": 31.22,
+      "corte": false
+    },
+    {
+      "texto": "50 %,",
+      "inicio": 31.22,
+      "fin": 32.28,
+      "corte": false
+    },
+    {
+      "texto": "empieza",
+      "inicio": 32.28,
+      "fin": 32.72,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 32.72,
+      "fin": 32.95,
+      "corte": false
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 32.95,
+      "fin": 33.39,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 33.39,
+      "fin": 33.57,
+      "corte": false
+    },
+    {
+      "texto": "10 %.",
+      "inicio": 33.57,
+      "fin": 34.37,
+      "corte": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 34.73,
+      "fin": 34.9,
+      "corte": false
+    },
+    {
+      "texto": "importante",
+      "inicio": 34.9,
+      "fin": 35.46,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 35.46,
+      "fin": 35.63,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 35.63,
+      "fin": 35.85,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 35.85,
+      "fin": 36.02,
+      "corte": false
+    },
+    {
+      "texto": "ahorro",
+      "inicio": 36.02,
+      "fin": 36.39,
+      "corte": false
+    },
+    {
+      "texto": "salga",
+      "inicio": 36.39,
+      "fin": 36.71,
+      "corte": false
+    },
+    {
+      "texto": "primero,",
+      "inicio": 36.71,
+      "fin": 37.12,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 37.4,
+      "fin": 37.57,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.57,
+      "fin": 37.73,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 37.73,
+      "fin": 37.94,
+      "corte": false
+    },
+    {
+      "texto": "sobra",
+      "inicio": 37.94,
+      "fin": 38.25,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 38.25,
+      "fin": 38.41,
+      "corte": false
+    },
+    {
+      "texto": "final",
+      "inicio": 38.41,
+      "fin": 38.71,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 38.71,
+      "fin": 38.92,
+      "corte": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 38.92,
+      "fin": 39.13,
+      "corte": true
+    }
+  ],
+  "escenas": [
+    {
+      "tipo": "titular",
+      "lineas": [
+        "La regla",
+        "50 / 30 / 20"
+      ],
+      "resaltar": [
+        "50 / 30 / 20"
+      ],
+      "inicio": 0.18
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "Para repartir",
+        "tu sueldo"
+      ],
+      "resaltar": [
+        "sueldo"
+      ],
+      "inicio": 4.9
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "% necesario"
+      ],
+      "resaltar": [
+        "necesario"
+      ],
+      "destacado": "50",
+      "inicio": 7.47
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "% gustos"
+      ],
+      "resaltar": [
+        "gustos"
+      ],
+      "destacado": "30",
+      "inicio": 13.16
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "% ahorro o deudas"
+      ],
+      "resaltar": [
+        "ahorro"
+      ],
+      "destacado": "20",
+      "inicio": 17.63
+    },
+    {
+      "tipo": "barras",
+      "titulo": "Con 1.000 al mes",
+      "barras": [
+        {
+          "etiqueta": "Necesario",
+          "valor": 500,
+          "texto": ""
+        },
+        {
+          "etiqueta": "Gustos",
+          "valor": 300,
+          "texto": ""
+        },
+        {
+          "etiqueta": "Futuro",
+          "valor": 200,
+          "texto": ""
+        }
+      ],
+      "inicio": 20.81
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "Si no llegas:",
+        "empieza con 10 %"
+      ],
+      "resaltar": [
+        "10 %"
+      ],
+      "inicio": 27.7
+    },
+    {
+      "tipo": "titular",
+      "lineas": [
+        "El ahorro",
+        "sale primero"
+      ],
+      "resaltar": [
+        "primero"
+      ],
+      "inicio": 34.58
+    },
+    {
+      "tipo": "titular",
+      "inicio": 39.43,
+      "lineas": [
+        "7 reglas de dinero",
+        "vídeo completo este sábado"
+      ],
+      "resaltar": [
+        "7"
+      ],
+      "final": true
+    }
+  ]
+}

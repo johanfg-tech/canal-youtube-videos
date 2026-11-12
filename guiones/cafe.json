@@ -1,0 +1,495 @@
+{
+  "audio": "narraciones/cafe.mp3",
+  "duracion": 27.2,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "Un café",
+      "inicio": 0,
+      "lineas": [
+        "Un café de 3 €",
+        "cada día"
+      ],
+      "resaltar": [
+        "3"
+      ],
+      "imagen": "ia/cafe-monedas.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Al año",
+      "inicio": 2.77,
+      "lineas": [
+        "€ al año"
+      ],
+      "resaltar": [
+        "año"
+      ],
+      "destacado": "1095"
+    },
+    {
+      "tipo": "titular",
+      "en": "En diez",
+      "inicio": 5.35,
+      "lineas": [
+        "€ en diez años"
+      ],
+      "resaltar": [
+        "diez"
+      ],
+      "destacado": "10950"
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero si",
+      "inicio": 8.28,
+      "lineas": [
+        "Si lo inviertes",
+        "cada año al 7 %"
+      ],
+      "resaltar": [
+        "7"
+      ],
+      "imagen": "ia/grafico-sube.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "unos 15.129",
+      "inicio": 13.58,
+      "lineas": [
+        "€ en diez años",
+        "invertido"
+      ],
+      "resaltar": [
+        "invertido"
+      ],
+      "destacado": "15129"
+    },
+    {
+      "tipo": "titular",
+      "en": "No te digo",
+      "inicio": 16.24,
+      "lineas": [
+        "No dejes el café:",
+        "sabe cuánto cuesta"
+      ],
+      "resaltar": [
+        "cuesta"
+      ],
+      "imagen": "ia/cafe-monedas.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "El 7",
+      "inicio": 20.23,
+      "lineas": [
+        "El 7 % es un supuesto",
+        "no una promesa"
+      ],
+      "resaltar": [
+        "supuesto"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 23.88,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "3 €",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.19,
+      "corte": false
+    },
+    {
+      "texto": "café",
+      "inicio": 0.19,
+      "fin": 0.49,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.49,
+      "fin": 0.68,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 0.68,
+      "fin": 0.98,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 0.98,
+      "fin": 1.34,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 1.34,
+      "fin": 1.53,
+      "corte": false
+    },
+    {
+      "texto": "día",
+      "inicio": 1.53,
+      "fin": 1.78,
+      "corte": false
+    },
+    {
+      "texto": "parece",
+      "inicio": 1.78,
+      "fin": 2.19,
+      "corte": false
+    },
+    {
+      "texto": "poco.",
+      "inicio": 2.19,
+      "fin": 2.49,
+      "corte": true
+    },
+    {
+      "texto": "Al",
+      "inicio": 2.92,
+      "fin": 3.12,
+      "corte": false
+    },
+    {
+      "texto": "año",
+      "inicio": 3.12,
+      "fin": 3.39,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 3.39,
+      "fin": 3.65,
+      "corte": false
+    },
+    {
+      "texto": "1.095",
+      "inicio": 3.65,
+      "fin": 4.79,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 4.79,
+      "fin": 5.17,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 5.5,
+      "fin": 5.76,
+      "corte": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 5.76,
+      "fin": 6.17,
+      "corte": false
+    },
+    {
+      "texto": "años,",
+      "inicio": 6.17,
+      "fin": 6.57,
+      "corte": false
+    },
+    {
+      "texto": "10.950.",
+      "inicio": 6.57,
+      "fin": 8.1,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 8.43,
+      "fin": 8.75,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 8.75,
+      "fin": 8.95,
+      "corte": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 8.95,
+      "fin": 9.22,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 9.22,
+      "fin": 9.65,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.65,
+      "fin": 9.86,
+      "corte": false
+    },
+    {
+      "texto": "invirtieras",
+      "inicio": 9.86,
+      "fin": 10.58,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.58,
+      "fin": 10.9,
+      "corte": false
+    },
+    {
+      "texto": "año",
+      "inicio": 10.9,
+      "fin": 11.17,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 11.17,
+      "fin": 11.37,
+      "corte": false
+    },
+    {
+      "texto": "7 %,",
+      "inicio": 11.37,
+      "fin": 12.33,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 12.33,
+      "fin": 12.53,
+      "corte": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 12.53,
+      "fin": 12.85,
+      "corte": false
+    },
+    {
+      "texto": "años",
+      "inicio": 12.85,
+      "fin": 13.17,
+      "corte": false
+    },
+    {
+      "texto": "tendrías",
+      "inicio": 13.17,
+      "fin": 13.73,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 13.73,
+      "fin": 14.05,
+      "corte": false
+    },
+    {
+      "texto": "15.129",
+      "inicio": 14.05,
+      "fin": 15.59,
+      "corte": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 15.59,
+      "fin": 15.97,
+      "corte": true
+    },
+    {
+      "texto": "No",
+      "inicio": 16.39,
+      "fin": 16.55,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 16.55,
+      "fin": 16.7,
+      "corte": false
+    },
+    {
+      "texto": "digo",
+      "inicio": 16.7,
+      "fin": 16.95,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 16.95,
+      "fin": 17.15,
+      "corte": false
+    },
+    {
+      "texto": "dejes",
+      "inicio": 17.15,
+      "fin": 17.44,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 17.44,
+      "fin": 17.6,
+      "corte": false
+    },
+    {
+      "texto": "café.",
+      "inicio": 17.6,
+      "fin": 17.85,
+      "corte": true
+    },
+    {
+      "texto": "Te",
+      "inicio": 18.22,
+      "fin": 18.39,
+      "corte": false
+    },
+    {
+      "texto": "digo",
+      "inicio": 18.39,
+      "fin": 18.67,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 18.67,
+      "fin": 18.9,
+      "corte": false
+    },
+    {
+      "texto": "sepas",
+      "inicio": 18.9,
+      "fin": 19.23,
+      "corte": false
+    },
+    {
+      "texto": "cuánto",
+      "inicio": 19.23,
+      "fin": 19.61,
+      "corte": false
+    },
+    {
+      "texto": "cuesta.",
+      "inicio": 19.61,
+      "fin": 19.98,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 20.38,
+      "fin": 20.55,
+      "corte": false
+    },
+    {
+      "texto": "7 %",
+      "inicio": 20.55,
+      "fin": 21.33,
+      "corte": false
+    },
+    {
+      "texto": "anual",
+      "inicio": 21.33,
+      "fin": 21.63,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 21.63,
+      "fin": 21.8,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 21.8,
+      "fin": 21.96,
+      "corte": false
+    },
+    {
+      "texto": "supuesto,",
+      "inicio": 21.96,
+      "fin": 22.41,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 22.68,
+      "fin": 22.88,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 22.88,
+      "fin": 23.14,
+      "corte": false
+    },
+    {
+      "texto": "promesa.",
+      "inicio": 23.14,
+      "fin": 23.62,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 24.03,
+      "fin": 24.5,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 24.5,
+      "fin": 24.8,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 24.8,
+      "fin": 25.05,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 25.05,
+      "fin": 25.46,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 25.46,
+      "fin": 26.04,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 26.04,
+      "fin": 26.28,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 26.28,
+      "fin": 26.75,
+      "corte": true
+    }
+  ]
+}

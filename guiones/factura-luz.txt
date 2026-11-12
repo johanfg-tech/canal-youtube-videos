@@ -1,0 +1,11 @@
+¿Qué aparato te sube más la factura de la luz? Para saberlo, necesitas una cuenta: la potencia en kilovatios, por las horas que está encendido, por el precio del kilovatio hora.
+Supongamos 0,15 euros por kilovatio hora.
+Un calefactor eléctrico de 2.000 vatios, o 2 kilovatios, encendido 4 horas: 2 por 4 son 8 kilovatios hora.
+8 por 0,15, son 1,20 euros al día.
+Al mes, unos 36 euros.
+En cambio, una bombilla LED de 10 vatios, encendida 5 horas al día, cuesta unos 7 céntimos al día.
+Y un cargador de móvil, enchufado sin nada, apenas gasta unos céntimos al mes.
+La regla: lo que calienta, gasta.
+Calefactores, planchas, secadores, hornos.
+Esos son los que cuentan.
+Sígueme para más dinero explicado con números.

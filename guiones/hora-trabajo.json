@@ -1,0 +1,1060 @@
+{
+  "audio": "narraciones/hora-trabajo.mp3",
+  "duracion": 54.5,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "¿Cuánto vale",
+      "inicio": 0,
+      "lineas": [
+        "¿Cuánto vale",
+        "tu hora de trabajo?"
+      ],
+      "resaltar": [
+        "hora"
+      ],
+      "imagen": "ia/reloj-arena.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Imagina que",
+      "inicio": 2.3,
+      "lineas": [
+        "1.500 € netos",
+        "160 horas al mes"
+      ],
+      "resaltar": [
+        "1.500"
+      ]
+    },
+    {
+      "tipo": "ecuacion",
+      "en": "1.500 entre",
+      "inicio": 7.66,
+      "a": "1.500",
+      "operador": "÷",
+      "b": "160",
+      "resultado": 9.4,
+      "etiqueta": "€ por hora",
+      "revelar": 3.4,
+      "decimales": 1
+    },
+    {
+      "tipo": "titular",
+      "en": "Ese es",
+      "inicio": 12.46,
+      "lineas": [
+        "Ese es",
+        "tu precio"
+      ],
+      "resaltar": [
+        "precio"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora mira",
+      "inicio": 13.93,
+      "lineas": [
+        "Tus compras,",
+        "medidas en horas"
+      ],
+      "resaltar": [
+        "horas"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Un café",
+      "inicio": 16.71,
+      "lineas": [
+        "Café de 3 €",
+        "= 19 minutos"
+      ],
+      "resaltar": [
+        "19"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Una cena",
+      "inicio": 20.39,
+      "lineas": [
+        "Cena de 30 €",
+        "= más de 3 horas"
+      ],
+      "resaltar": [
+        "3 horas"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Un móvil",
+      "inicio": 23.82,
+      "lineas": [
+        "Móvil de 800 €",
+        "= 85 horas"
+      ],
+      "resaltar": [
+        "85"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Más de 10 días",
+      "inicio": 27.59,
+      "lineas": [
+        "Más de 10 días",
+        "de trabajo completos"
+      ],
+      "resaltar": [
+        "10"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "Y un coche",
+      "inicio": 30.32,
+      "titulo": "Coche de 15.000 €",
+      "desde": 100,
+      "hasta": 1600,
+      "unidad": "horas de trabajo",
+      "duracion": 2.2
+    },
+    {
+      "tipo": "titular",
+      "en": "Son 10 meses",
+      "inicio": 33.66,
+      "lineas": [
+        "10 meses enteros",
+        "solo para pagarlo"
+      ],
+      "resaltar": [
+        "10 meses"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "No es para",
+      "inicio": 37.7,
+      "lineas": [
+        "No es para",
+        "dejar de comprar"
+      ],
+      "resaltar": [
+        "No"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Es para que decidas",
+      "inicio": 39.38,
+      "lineas": [
+        "Decide con",
+        "otros ojos"
+      ],
+      "resaltar": [
+        "ojos"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "¿esto vale",
+      "inicio": 41.75,
+      "lineas": [
+        "¿Vale las horas",
+        "de mi vida?"
+      ],
+      "resaltar": [
+        "vida"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Es fácil",
+      "inicio": 44.3,
+      "lineas": [
+        "Precio",
+        "÷ tu hora"
+      ],
+      "resaltar": [
+        "÷"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Hazlo con",
+      "inicio": 48.14,
+      "lineas": [
+        "Hazlo con tu",
+        "próxima compra"
+      ],
+      "resaltar": [
+        "próxima"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 51.07,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "9,40 €/h",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Cuánto",
+      "inicio": 0.0,
+      "fin": 0.37,
+      "corte": false
+    },
+    {
+      "texto": "vale",
+      "inicio": 0.37,
+      "fin": 0.65,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 0.65,
+      "fin": 0.87,
+      "corte": false
+    },
+    {
+      "texto": "hora",
+      "inicio": 0.87,
+      "fin": 1.15,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.15,
+      "fin": 1.32,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.32,
+      "fin": 1.5,
+      "corte": false
+    },
+    {
+      "texto": "trabajo?",
+      "inicio": 1.5,
+      "fin": 1.92,
+      "corte": true
+    },
+    {
+      "texto": "Imagina",
+      "inicio": 2.45,
+      "fin": 2.89,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 2.89,
+      "fin": 3.13,
+      "corte": false
+    },
+    {
+      "texto": "cobras",
+      "inicio": 3.13,
+      "fin": 3.52,
+      "corte": false
+    },
+    {
+      "texto": "1.500",
+      "inicio": 3.52,
+      "fin": 4.53,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 4.53,
+      "fin": 4.86,
+      "corte": false
+    },
+    {
+      "texto": "netos",
+      "inicio": 4.86,
+      "fin": 5.2,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 5.2,
+      "fin": 5.38,
+      "corte": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 5.38,
+      "fin": 5.62,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 5.62,
+      "fin": 5.75,
+      "corte": false
+    },
+    {
+      "texto": "trabajas",
+      "inicio": 5.75,
+      "fin": 6.24,
+      "corte": false
+    },
+    {
+      "texto": "160",
+      "inicio": 6.24,
+      "fin": 7.04,
+      "corte": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 7.04,
+      "fin": 7.38,
+      "corte": true
+    },
+    {
+      "texto": "1.500",
+      "inicio": 7.81,
+      "fin": 8.79,
+      "corte": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 8.79,
+      "fin": 9.11,
+      "corte": false
+    },
+    {
+      "texto": "160",
+      "inicio": 9.11,
+      "fin": 9.89,
+      "corte": false
+    },
+    {
+      "texto": "son",
+      "inicio": 9.89,
+      "fin": 10.11,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 10.11,
+      "fin": 10.39,
+      "corte": false
+    },
+    {
+      "texto": "9,40",
+      "inicio": 10.39,
+      "fin": 11.36,
+      "corte": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 11.36,
+      "fin": 11.69,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 11.69,
+      "fin": 11.91,
+      "corte": false
+    },
+    {
+      "texto": "hora.",
+      "inicio": 11.91,
+      "fin": 12.19,
+      "corte": true
+    },
+    {
+      "texto": "Ese",
+      "inicio": 12.61,
+      "fin": 12.84,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 12.84,
+      "fin": 13.02,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 13.02,
+      "fin": 13.2,
+      "corte": false
+    },
+    {
+      "texto": "precio.",
+      "inicio": 13.2,
+      "fin": 13.58,
+      "corte": true
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 14.08,
+      "fin": 14.41,
+      "corte": false
+    },
+    {
+      "texto": "mira",
+      "inicio": 14.41,
+      "fin": 14.69,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.69,
+      "fin": 14.87,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 14.87,
+      "fin": 15.1,
+      "corte": false
+    },
+    {
+      "texto": "compras,",
+      "inicio": 15.1,
+      "fin": 15.53,
+      "corte": false
+    },
+    {
+      "texto": "medido",
+      "inicio": 15.53,
+      "fin": 15.91,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 15.91,
+      "fin": 16.09,
+      "corte": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 16.09,
+      "fin": 16.42,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 16.86,
+      "fin": 17.05,
+      "corte": false
+    },
+    {
+      "texto": "café",
+      "inicio": 17.05,
+      "fin": 17.34,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 17.34,
+      "fin": 17.52,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 17.52,
+      "fin": 17.81,
+      "corte": false
+    },
+    {
+      "texto": "euros:",
+      "inicio": 17.81,
+      "fin": 18.15,
+      "corte": true
+    },
+    {
+      "texto": "19",
+      "inicio": 18.41,
+      "fin": 19.04,
+      "corte": false
+    },
+    {
+      "texto": "minutos",
+      "inicio": 19.04,
+      "fin": 19.5,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.5,
+      "fin": 19.69,
+      "corte": false
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 19.69,
+      "fin": 20.16,
+      "corte": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 20.54,
+      "fin": 20.82,
+      "corte": false
+    },
+    {
+      "texto": "cena",
+      "inicio": 20.82,
+      "fin": 21.17,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 21.17,
+      "fin": 21.39,
+      "corte": false
+    },
+    {
+      "texto": "30",
+      "inicio": 21.39,
+      "fin": 21.92,
+      "corte": false
+    },
+    {
+      "texto": "euros:",
+      "inicio": 21.92,
+      "fin": 22.33,
+      "corte": true
+    },
+    {
+      "texto": "más",
+      "inicio": 22.33,
+      "fin": 22.61,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.61,
+      "fin": 22.83,
+      "corte": false
+    },
+    {
+      "texto": "3",
+      "inicio": 22.83,
+      "fin": 23.18,
+      "corte": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 23.18,
+      "fin": 23.58,
+      "corte": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 23.97,
+      "fin": 24.15,
+      "corte": false
+    },
+    {
+      "texto": "móvil",
+      "inicio": 24.15,
+      "fin": 24.49,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.49,
+      "fin": 24.67,
+      "corte": false
+    },
+    {
+      "texto": "800",
+      "inicio": 24.67,
+      "fin": 25.32,
+      "corte": false
+    },
+    {
+      "texto": "euros:",
+      "inicio": 25.32,
+      "fin": 25.65,
+      "corte": true
+    },
+    {
+      "texto": "85",
+      "inicio": 25.96,
+      "fin": 26.93,
+      "corte": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 26.93,
+      "fin": 27.47,
+      "corte": true
+    },
+    {
+      "texto": "Más",
+      "inicio": 27.74,
+      "fin": 28.0,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 28.0,
+      "fin": 28.2,
+      "corte": false
+    },
+    {
+      "texto": "10",
+      "inicio": 28.2,
+      "fin": 28.51,
+      "corte": false
+    },
+    {
+      "texto": "días",
+      "inicio": 28.51,
+      "fin": 28.83,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 28.83,
+      "fin": 29.03,
+      "corte": false
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 29.03,
+      "fin": 29.51,
+      "corte": false
+    },
+    {
+      "texto": "completos.",
+      "inicio": 29.51,
+      "fin": 30.11,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 30.47,
+      "fin": 30.56,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 30.56,
+      "fin": 30.67,
+      "corte": false
+    },
+    {
+      "texto": "coche",
+      "inicio": 30.67,
+      "fin": 30.9,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 30.9,
+      "fin": 31.01,
+      "corte": false
+    },
+    {
+      "texto": "15.000",
+      "inicio": 31.01,
+      "fin": 31.91,
+      "corte": false
+    },
+    {
+      "texto": "euros:",
+      "inicio": 31.91,
+      "fin": 32.13,
+      "corte": true
+    },
+    {
+      "texto": "1.600",
+      "inicio": 32.4,
+      "fin": 33.4,
+      "corte": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 33.4,
+      "fin": 33.81,
+      "corte": true
+    },
+    {
+      "texto": "Son",
+      "inicio": 33.81,
+      "fin": 34.1,
+      "corte": false
+    },
+    {
+      "texto": "10",
+      "inicio": 34.1,
+      "fin": 34.46,
+      "corte": false
+    },
+    {
+      "texto": "meses",
+      "inicio": 34.46,
+      "fin": 34.87,
+      "corte": false
+    },
+    {
+      "texto": "enteros",
+      "inicio": 34.87,
+      "fin": 35.42,
+      "corte": false
+    },
+    {
+      "texto": "trabajando",
+      "inicio": 35.42,
+      "fin": 36.16,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 36.16,
+      "fin": 36.51,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 36.51,
+      "fin": 36.86,
+      "corte": false
+    },
+    {
+      "texto": "pagarlo.",
+      "inicio": 36.86,
+      "fin": 37.41,
+      "corte": true
+    },
+    {
+      "texto": "No",
+      "inicio": 37.85,
+      "fin": 37.98,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 37.98,
+      "fin": 38.12,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 38.12,
+      "fin": 38.33,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 38.33,
+      "fin": 38.5,
+      "corte": false
+    },
+    {
+      "texto": "dejes",
+      "inicio": 38.5,
+      "fin": 38.76,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 38.76,
+      "fin": 38.89,
+      "corte": false
+    },
+    {
+      "texto": "comprar.",
+      "inicio": 38.89,
+      "fin": 39.22,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 39.53,
+      "fin": 39.71,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 39.71,
+      "fin": 39.99,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.99,
+      "fin": 40.22,
+      "corte": false
+    },
+    {
+      "texto": "decidas",
+      "inicio": 40.22,
+      "fin": 40.66,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 40.66,
+      "fin": 40.89,
+      "corte": false
+    },
+    {
+      "texto": "otros",
+      "inicio": 40.89,
+      "fin": 41.22,
+      "corte": false
+    },
+    {
+      "texto": "ojos:",
+      "inicio": 41.22,
+      "fin": 41.51,
+      "corte": true
+    },
+    {
+      "texto": "¿esto",
+      "inicio": 41.9,
+      "fin": 42.15,
+      "corte": false
+    },
+    {
+      "texto": "vale",
+      "inicio": 42.15,
+      "fin": 42.41,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 42.41,
+      "fin": 42.61,
+      "corte": false
+    },
+    {
+      "texto": "horas",
+      "inicio": 42.61,
+      "fin": 42.91,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.91,
+      "fin": 43.07,
+      "corte": false
+    },
+    {
+      "texto": "mi",
+      "inicio": 43.07,
+      "fin": 43.23,
+      "corte": false
+    },
+    {
+      "texto": "vida",
+      "inicio": 43.23,
+      "fin": 43.48,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.48,
+      "fin": 43.69,
+      "corte": false
+    },
+    {
+      "texto": "cuesta?",
+      "inicio": 43.69,
+      "fin": 44.03,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 44.45,
+      "fin": 44.61,
+      "corte": false
+    },
+    {
+      "texto": "fácil",
+      "inicio": 44.61,
+      "fin": 44.89,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 44.89,
+      "fin": 45.04,
+      "corte": false
+    },
+    {
+      "texto": "calcular:",
+      "inicio": 45.04,
+      "fin": 45.46,
+      "corte": true
+    },
+    {
+      "texto": "divide",
+      "inicio": 45.78,
+      "fin": 46.1,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 46.1,
+      "fin": 46.25,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 46.25,
+      "fin": 46.56,
+      "corte": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 46.56,
+      "fin": 46.84,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 46.84,
+      "fin": 46.99,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 46.99,
+      "fin": 47.18,
+      "corte": false
+    },
+    {
+      "texto": "ganas",
+      "inicio": 47.18,
+      "fin": 47.46,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 47.46,
+      "fin": 47.65,
+      "corte": false
+    },
+    {
+      "texto": "hora.",
+      "inicio": 47.65,
+      "fin": 47.88,
+      "corte": true
+    },
+    {
+      "texto": "Hazlo",
+      "inicio": 48.29,
+      "fin": 48.59,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 48.59,
+      "fin": 48.79,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 48.79,
+      "fin": 48.95,
+      "corte": false
+    },
+    {
+      "texto": "sueldo",
+      "inicio": 48.95,
+      "fin": 49.29,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 49.29,
+      "fin": 49.4,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 49.4,
+      "fin": 49.6,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 49.6,
+      "fin": 49.76,
+      "corte": false
+    },
+    {
+      "texto": "próxima",
+      "inicio": 49.76,
+      "fin": 50.14,
+      "corte": false
+    },
+    {
+      "texto": "compra",
+      "inicio": 50.14,
+      "fin": 50.48,
+      "corte": false
+    },
+    {
+      "texto": "grande.",
+      "inicio": 50.48,
+      "fin": 50.82,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 51.22,
+      "fin": 51.71,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 51.71,
+      "fin": 52.02,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 52.02,
+      "fin": 52.28,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 52.28,
+      "fin": 52.71,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 52.71,
+      "fin": 53.3,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 53.3,
+      "fin": 53.56,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 53.56,
+      "fin": 54.05,
+      "corte": true
+    }
+  ]
+}

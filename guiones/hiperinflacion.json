@@ -1,0 +1,1087 @@
+{
+  "audio": "narraciones/hiperinflacion.mp3",
+  "duracion": 59.0,
+  "aviso": "",
+  "sfx": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "En 1923,",
+      "inicio": 0,
+      "lineas": [
+        "Alemania, 1923",
+        "Un pan: 250 marcos"
+      ],
+      "resaltar": [
+        "250"
+      ],
+      "imagen": "ia/billetes.png"
+    },
+    {
+      "tipo": "contador",
+      "en": "noviembre,",
+      "inicio": 5.94,
+      "titulo": "Un pan en noviembre",
+      "desde": 250,
+      "hasta": 200000000000,
+      "unidad": "marcos",
+      "duracion": 2.2
+    },
+    {
+      "tipo": "titular",
+      "en": "Los precios",
+      "inicio": 8.7,
+      "lineas": [
+        "Precios ×2",
+        "cada pocos días"
+      ],
+      "resaltar": [
+        "×2"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "A muchos",
+      "inicio": 11.42,
+      "lineas": [
+        "Sueldo diario…",
+        "y a gastarlo ya"
+      ],
+      "resaltar": [
+        "gastarlo"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Por qué",
+      "inicio": 17.02,
+      "lineas": [
+        "¿Por qué",
+        "pasó?"
+      ],
+      "resaltar": [
+        "pasó"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Alemania debía",
+      "inicio": 18.15,
+      "lineas": [
+        "Deudas de guerra",
+        "enormes"
+      ],
+      "resaltar": [
+        "deudas"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Más billetes,",
+      "inicio": 24.31,
+      "lineas": [
+        "Más billetes,",
+        "las mismas cosas"
+      ],
+      "resaltar": [
+        "billetes"
+      ],
+      "imagen": "ia/billetes.png"
+    },
+    {
+      "tipo": "encoger",
+      "en": "Resultado:",
+      "inicio": 27.4,
+      "titulo": "Valor de un billete",
+      "desde": 100,
+      "hasta": 3,
+      "pie": "cada vez valía menos"
+    },
+    {
+      "tipo": "contador",
+      "en": "En noviembre de",
+      "inicio": 30.46,
+      "titulo": "Marcos por 1 dólar",
+      "desde": 4,
+      "hasta": 4200000000000,
+      "unidad": "marcos",
+      "duracion": 3.6
+    },
+    {
+      "tipo": "titular",
+      "en": "Quien tenía ahorros",
+      "inicio": 36.81,
+      "lineas": [
+        "Ahorros en marcos:",
+        "casi todo perdido"
+      ],
+      "resaltar": [
+        "perdido"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Quien tenía deudas,",
+      "inicio": 39.75,
+      "lineas": [
+        "Deudas:",
+        "pagadas con papel"
+      ],
+      "resaltar": [
+        "Deudas"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Se frenó",
+      "inicio": 42.91,
+      "lineas": [
+        "Se frenó con",
+        "una moneda nueva"
+      ],
+      "resaltar": [
+        "nueva"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La lección:",
+      "inicio": 48.17,
+      "lineas": [
+        "El dinero vale",
+        "lo que confías en él"
+      ],
+      "resaltar": [
+        "confías"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Cuando esa",
+      "inicio": 51.92,
+      "lineas": [
+        "Sin confianza,",
+        "los precios se disparan"
+      ],
+      "resaltar": [
+        "disparan"
+      ],
+      "imagen": "ia/grafico-sube.png"
+    },
+    {
+      "tipo": "titular",
+      "en": "Sígueme",
+      "inicio": 55.52,
+      "lineas": [
+        "Sígueme para más"
+      ],
+      "resaltar": [
+        "más"
+      ],
+      "destacado": "200 mil millones",
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.21,
+      "corte": false
+    },
+    {
+      "texto": "1923,",
+      "inicio": 0.21,
+      "fin": 1.53,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 1.53,
+      "fin": 1.75,
+      "corte": false
+    },
+    {
+      "texto": "Alemania,",
+      "inicio": 1.75,
+      "fin": 2.33,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 2.33,
+      "fin": 2.55,
+      "corte": false
+    },
+    {
+      "texto": "pan",
+      "inicio": 2.55,
+      "fin": 2.82,
+      "corte": false
+    },
+    {
+      "texto": "costaba",
+      "inicio": 2.82,
+      "fin": 3.35,
+      "corte": false
+    },
+    {
+      "texto": "250",
+      "inicio": 3.35,
+      "fin": 4.36,
+      "corte": false
+    },
+    {
+      "texto": "marcos",
+      "inicio": 4.36,
+      "fin": 4.82,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 4.82,
+      "fin": 5.03,
+      "corte": false
+    },
+    {
+      "texto": "enero.",
+      "inicio": 5.03,
+      "fin": 5.43,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 5.89,
+      "fin": 6.09,
+      "corte": false
+    },
+    {
+      "texto": "noviembre,",
+      "inicio": 6.09,
+      "fin": 6.7,
+      "corte": false
+    },
+    {
+      "texto": "200",
+      "inicio": 6.7,
+      "fin": 7.64,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 7.64,
+      "fin": 7.9,
+      "corte": false
+    },
+    {
+      "texto": "millones.",
+      "inicio": 7.9,
+      "fin": 8.45,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 8.85,
+      "fin": 9.08,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 9.08,
+      "fin": 9.51,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 9.51,
+      "fin": 9.68,
+      "corte": false
+    },
+    {
+      "texto": "duplicaban",
+      "inicio": 9.68,
+      "fin": 10.26,
+      "corte": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.26,
+      "fin": 10.54,
+      "corte": false
+    },
+    {
+      "texto": "pocos",
+      "inicio": 10.54,
+      "fin": 10.87,
+      "corte": false
+    },
+    {
+      "texto": "días.",
+      "inicio": 10.87,
+      "fin": 11.14,
+      "corte": true
+    },
+    {
+      "texto": "A",
+      "inicio": 11.57,
+      "fin": 11.69,
+      "corte": false
+    },
+    {
+      "texto": "muchos",
+      "inicio": 11.69,
+      "fin": 12.04,
+      "corte": false
+    },
+    {
+      "texto": "trabajadores",
+      "inicio": 12.04,
+      "fin": 12.68,
+      "corte": false
+    },
+    {
+      "texto": "les",
+      "inicio": 12.68,
+      "fin": 12.89,
+      "corte": false
+    },
+    {
+      "texto": "pagaban",
+      "inicio": 12.89,
+      "fin": 13.29,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 13.29,
+      "fin": 13.41,
+      "corte": false
+    },
+    {
+      "texto": "diario,",
+      "inicio": 13.41,
+      "fin": 13.76,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 13.76,
+      "fin": 13.88,
+      "corte": false
+    },
+    {
+      "texto": "corrían",
+      "inicio": 13.88,
+      "fin": 14.28,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 14.28,
+      "fin": 14.39,
+      "corte": false
+    },
+    {
+      "texto": "gastar",
+      "inicio": 14.39,
+      "fin": 14.75,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 14.75,
+      "fin": 14.91,
+      "corte": false
+    },
+    {
+      "texto": "sueldo",
+      "inicio": 14.91,
+      "fin": 15.26,
+      "corte": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 15.26,
+      "fin": 15.57,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 15.57,
+      "fin": 15.73,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 15.73,
+      "fin": 15.95,
+      "corte": false
+    },
+    {
+      "texto": "perdiera",
+      "inicio": 15.95,
+      "fin": 16.39,
+      "corte": false
+    },
+    {
+      "texto": "valor.",
+      "inicio": 16.39,
+      "fin": 16.7,
+      "corte": true
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 17.17,
+      "fin": 17.36,
+      "corte": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 17.36,
+      "fin": 17.55,
+      "corte": false
+    },
+    {
+      "texto": "pasó?",
+      "inicio": 17.55,
+      "fin": 17.78,
+      "corte": true
+    },
+    {
+      "texto": "Alemania",
+      "inicio": 18.3,
+      "fin": 18.77,
+      "corte": false
+    },
+    {
+      "texto": "debía",
+      "inicio": 18.77,
+      "fin": 19.09,
+      "corte": false
+    },
+    {
+      "texto": "enormes",
+      "inicio": 19.09,
+      "fin": 19.5,
+      "corte": false
+    },
+    {
+      "texto": "reparaciones",
+      "inicio": 19.5,
+      "fin": 20.16,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.16,
+      "fin": 20.34,
+      "corte": false
+    },
+    {
+      "texto": "guerra,",
+      "inicio": 20.34,
+      "fin": 20.7,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 20.7,
+      "fin": 20.83,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 20.83,
+      "fin": 21.0,
+      "corte": false
+    },
+    {
+      "texto": "gobierno",
+      "inicio": 21.0,
+      "fin": 21.46,
+      "corte": false
+    },
+    {
+      "texto": "empezó",
+      "inicio": 21.46,
+      "fin": 21.83,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 21.83,
+      "fin": 21.96,
+      "corte": false
+    },
+    {
+      "texto": "imprimir",
+      "inicio": 21.96,
+      "fin": 22.42,
+      "corte": false
+    },
+    {
+      "texto": "billetes",
+      "inicio": 22.42,
+      "fin": 22.89,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 22.89,
+      "fin": 23.16,
+      "corte": false
+    },
+    {
+      "texto": "pagar",
+      "inicio": 23.16,
+      "fin": 23.48,
+      "corte": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 23.48,
+      "fin": 23.7,
+      "corte": false
+    },
+    {
+      "texto": "deudas.",
+      "inicio": 23.7,
+      "fin": 24.06,
+      "corte": true
+    },
+    {
+      "texto": "Más",
+      "inicio": 24.46,
+      "fin": 24.71,
+      "corte": false
+    },
+    {
+      "texto": "billetes,",
+      "inicio": 24.71,
+      "fin": 25.26,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 25.26,
+      "fin": 25.52,
+      "corte": false
+    },
+    {
+      "texto": "mismas",
+      "inicio": 25.52,
+      "fin": 25.95,
+      "corte": false
+    },
+    {
+      "texto": "cosas",
+      "inicio": 25.95,
+      "fin": 26.33,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 26.33,
+      "fin": 26.64,
+      "corte": false
+    },
+    {
+      "texto": "comprar.",
+      "inicio": 26.64,
+      "fin": 27.13,
+      "corte": true
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 27.55,
+      "fin": 28.15,
+      "corte": true
+    },
+    {
+      "texto": "cada",
+      "inicio": 28.48,
+      "fin": 28.81,
+      "corte": false
+    },
+    {
+      "texto": "billete",
+      "inicio": 28.81,
+      "fin": 29.33,
+      "corte": false
+    },
+    {
+      "texto": "valía",
+      "inicio": 29.33,
+      "fin": 29.72,
+      "corte": false
+    },
+    {
+      "texto": "menos.",
+      "inicio": 29.72,
+      "fin": 30.11,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 30.61,
+      "fin": 30.81,
+      "corte": false
+    },
+    {
+      "texto": "noviembre",
+      "inicio": 30.81,
+      "fin": 31.4,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 31.4,
+      "fin": 31.59,
+      "corte": false
+    },
+    {
+      "texto": "1923,",
+      "inicio": 31.59,
+      "fin": 32.8,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 32.8,
+      "fin": 33.0,
+      "corte": false
+    },
+    {
+      "texto": "dólar",
+      "inicio": 33.0,
+      "fin": 33.37,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 33.37,
+      "fin": 33.73,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 33.73,
+      "fin": 33.87,
+      "corte": false
+    },
+    {
+      "texto": "valer",
+      "inicio": 33.87,
+      "fin": 34.24,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 34.24,
+      "fin": 34.55,
+      "corte": false
+    },
+    {
+      "texto": "4,2",
+      "inicio": 34.55,
+      "fin": 35.42,
+      "corte": false
+    },
+    {
+      "texto": "billones",
+      "inicio": 35.42,
+      "fin": 35.96,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 35.96,
+      "fin": 36.15,
+      "corte": false
+    },
+    {
+      "texto": "marcos.",
+      "inicio": 36.15,
+      "fin": 36.57,
+      "corte": true
+    },
+    {
+      "texto": "Quien",
+      "inicio": 36.96,
+      "fin": 37.26,
+      "corte": false
+    },
+    {
+      "texto": "tenía",
+      "inicio": 37.26,
+      "fin": 37.57,
+      "corte": false
+    },
+    {
+      "texto": "ahorros",
+      "inicio": 37.57,
+      "fin": 37.97,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 37.97,
+      "fin": 38.13,
+      "corte": false
+    },
+    {
+      "texto": "marcos",
+      "inicio": 38.13,
+      "fin": 38.48,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 38.48,
+      "fin": 38.65,
+      "corte": false
+    },
+    {
+      "texto": "perdió",
+      "inicio": 38.65,
+      "fin": 39.0,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 39.0,
+      "fin": 39.26,
+      "corte": false
+    },
+    {
+      "texto": "todo.",
+      "inicio": 39.26,
+      "fin": 39.52,
+      "corte": true
+    },
+    {
+      "texto": "Quien",
+      "inicio": 39.9,
+      "fin": 40.22,
+      "corte": false
+    },
+    {
+      "texto": "tenía",
+      "inicio": 40.22,
+      "fin": 40.54,
+      "corte": false
+    },
+    {
+      "texto": "deudas,",
+      "inicio": 40.54,
+      "fin": 40.91,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 40.91,
+      "fin": 41.13,
+      "corte": false
+    },
+    {
+      "texto": "pagó",
+      "inicio": 41.13,
+      "fin": 41.4,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 41.4,
+      "fin": 41.62,
+      "corte": false
+    },
+    {
+      "texto": "billetes",
+      "inicio": 41.62,
+      "fin": 42.08,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 42.08,
+      "fin": 42.3,
+      "corte": false
+    },
+    {
+      "texto": "valor.",
+      "inicio": 42.3,
+      "fin": 42.62,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 43.06,
+      "fin": 43.22,
+      "corte": false
+    },
+    {
+      "texto": "frenó",
+      "inicio": 43.22,
+      "fin": 43.53,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 43.53,
+      "fin": 43.74,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 43.74,
+      "fin": 43.95,
+      "corte": false
+    },
+    {
+      "texto": "moneda",
+      "inicio": 43.95,
+      "fin": 44.3,
+      "corte": false
+    },
+    {
+      "texto": "nueva,",
+      "inicio": 44.3,
+      "fin": 44.6,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 44.86,
+      "fin": 45.03,
+      "corte": false
+    },
+    {
+      "texto": "Rentenmark,",
+      "inicio": 45.03,
+      "fin": 45.58,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 45.58,
+      "fin": 45.7,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 45.7,
+      "fin": 45.91,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 45.91,
+      "fin": 46.08,
+      "corte": false
+    },
+    {
+      "texto": "límite",
+      "inicio": 46.08,
+      "fin": 46.43,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 46.43,
+      "fin": 46.55,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 46.55,
+      "fin": 46.72,
+      "corte": false
+    },
+    {
+      "texto": "impresión",
+      "inicio": 46.72,
+      "fin": 47.22,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 47.22,
+      "fin": 47.38,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 47.38,
+      "fin": 47.74,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 48.32,
+      "fin": 48.48,
+      "corte": false
+    },
+    {
+      "texto": "lección:",
+      "inicio": 48.48,
+      "fin": 48.87,
+      "corte": true
+    },
+    {
+      "texto": "el",
+      "inicio": 49.25,
+      "fin": 49.42,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 49.42,
+      "fin": 49.78,
+      "corte": false
+    },
+    {
+      "texto": "vale",
+      "inicio": 49.78,
+      "fin": 50.04,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 50.04,
+      "fin": 50.21,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 50.21,
+      "fin": 50.42,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 50.42,
+      "fin": 50.59,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 50.59,
+      "fin": 50.9,
+      "corte": false
+    },
+    {
+      "texto": "confía",
+      "inicio": 50.9,
+      "fin": 51.26,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 51.26,
+      "fin": 51.42,
+      "corte": false
+    },
+    {
+      "texto": "él.",
+      "inicio": 51.42,
+      "fin": 51.59,
+      "corte": true
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 52.07,
+      "fin": 52.46,
+      "corte": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 52.46,
+      "fin": 52.7,
+      "corte": false
+    },
+    {
+      "texto": "confianza",
+      "inicio": 52.7,
+      "fin": 53.25,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 53.25,
+      "fin": 53.44,
+      "corte": false
+    },
+    {
+      "texto": "rompe,",
+      "inicio": 53.44,
+      "fin": 53.78,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 53.78,
+      "fin": 54.02,
+      "corte": false
+    },
+    {
+      "texto": "precios",
+      "inicio": 54.02,
+      "fin": 54.47,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 54.47,
+      "fin": 54.65,
+      "corte": false
+    },
+    {
+      "texto": "disparan.",
+      "inicio": 54.65,
+      "fin": 55.16,
+      "corte": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 55.67,
+      "fin": 56.16,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 56.16,
+      "fin": 56.48,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 56.48,
+      "fin": 56.74,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 56.74,
+      "fin": 57.17,
+      "corte": false
+    },
+    {
+      "texto": "explicado",
+      "inicio": 57.17,
+      "fin": 57.77,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 57.77,
+      "fin": 58.03,
+      "corte": false
+    },
+    {
+      "texto": "números.",
+      "inicio": 58.03,
+      "fin": 58.51,
+      "corte": true
+    }
+  ]
+}

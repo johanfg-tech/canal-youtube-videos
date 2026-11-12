@@ -1,0 +1,12 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Cuánto ORO","hay en el mundo?"],"resaltar":"ORO","img":{"src":"ia/s16/lingote.png","size":640,"y":1000}},
+ {"tipo":"cifra","frase":1,"antes":"Todo el oro de la historia","valor":216000,"sufijo":" t","etiqueta":"toneladas extraídas","img":{"src":"ia/s16/lingotes.png","size":600,"y":1080}},
+ {"tipo":"imagen","frase":3,"img":{"src":"ia/s16/cubo-oro.png","size":860,"y":760},"texto":"Un cubo de 22 metros","sub":"≈ un edificio de 7 pisos"},
+ {"tipo":"cifra","frase":5,"antes":"1 litro de oro pesa","valor":19.3,"decimales":1,"sufijo":" kg","etiqueta":"el oro es muy denso","img":{"src":"ia/s16/lingote.png","size":520,"y":1080}},
+ {"tipo":"cifra","frase":6,"antes":"Todo ese oro vale","valor":28,"prefijo":"$","sufijo":" billones","etiqueta":"con la onza a unos 4.100 $","color":"#2ee59d","img":{"src":"ia/s16/lingotes.png","size":560,"y":1080}},
+ {"tipo":"donut","frase":8,"titulo":"¿Dónde está?","centro":"216.000 t","partes":[{"etiqueta":"Joyas","valor":45,"color":"#ffd60a"},{"etiqueta":"Lingotes y monedas","valor":22,"color":"#f7931a"},{"etiqueta":"Bancos centrales","valor":17,"color":"#2ee59d"},{"etiqueta":"Industria y otros","valor":16,"color":"#7fd1ff"}]},
+ {"tipo":"imagen","frase":12,"img":{"src":"ia/s16/movil-oro.png","size":640,"y":740},"texto":"Hasta tu móvil lleva oro"},
+ {"tipo":"cifra","frase":13,"antes":"Cada año se sacan","valor":3600,"sufijo":" t","etiqueta":"un cubo extra de unos 6 metros","img":{"src":"ia/s16/cubo-oro.png","size":520,"y":1100}},
+ {"tipo":"titulo","frase":14,"lineas":["Todo el oro","de la historia","cabe en una PLAZA"],"resaltar":"PLAZA","img":{"src":"ia/s16/cubo-oro.png","size":620,"y":1060}},
+ {"tipo":"remate","frase":15,"pregunta":"¿Lo habrías imaginado tan pequeño?"}
+]

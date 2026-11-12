@@ -1,0 +1,17 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["Un reloj que","NO da la hora"],"resaltar":"NO","sub":"Nueva York","img":{"src":"ia/s16/billetes-montana.png","size":640,"y":1020}},
+ {"tipo":"cifra","frase":2,"antes":"En 1989 la deuda era","valor":2.7,"decimales":1,"prefijo":"$","sufijo":" billones","etiqueta":"cuando se instaló el reloj","img":{"src":"ia/s16/fajo.png","size":520,"y":1080}},
+ {"tipo":"cifra","frase":3,"antes":"Hoy supera","desdeValor":2.7,"valor":40.5,"decimales":1,"prefijo":"$","sufijo":" billones","etiqueta":"15 veces más","color":"#ff4d6d","dur":2.2,"img":{"src":"ia/s16/billetes-montana.png","size":640,"y":1090}},
+ {"tipo":"cifra","frase":5,"antes":"Cada segundo crece","valor":80000,"prefijo":"+$","etiqueta":"en el último año","color":"#ff4d6d","img":{"src":"ia/s16/monedas.png","size":560,"y":1080}},
+ {"tipo":"cifra","frase":6,"antes":"Mientras ves este vídeo","valor":5,"prefijo":"+$","sufijo":" millones","etiqueta":"más de deuda","color":"#ff4d6d","img":{"src":"ia/s16/fajo.png","size":520,"y":1080}},
+ {"tipo":"cifra","frase":7,"antes":"Por cada estadounidense","valor":118000,"prefijo":"$","etiqueta":"bebés incluidos","img":{"src":"ia/s16/cerdito-cadena.png","size":580,"y":1080}},
+ {"tipo":"lista","frase":8,"titulo":"¿A quién se lo deben?","items":[
+   {"texto":"Fondos y bancos","img":"ia/s16/fajo.png","enFrase":9},
+   {"texto":"Pensiones","img":"ia/s16/cerdito-cadena.png","enFrase":9,"mas":0.8},
+   {"texto":"Reserva Federal","img":"ia/s16/monedas.png","enFrase":9,"mas":1.6},
+   {"texto":"Otros países: Japón, China…","emoji":"🌏","color":"#7fd1ff","enFrase":10}]},
+ {"tipo":"comparar","frase":11,"titulo":"Lo que más preocupa","a":{"etiqueta":"Intereses","img":"ia/s16/billetes-montana.png","altura":1,"color":"#ff4d6d"},"b":{"etiqueta":"Defensa","img":"ia/s16/casco-defensa.png","altura":0.92,"color":"#2ee59d"},"pie":"Pagar intereses ya cuesta más"},
+ {"tipo":"tarjeta","frase":12,"cabecera":"OJO","titulo":"Un país no es una familia","lineas":["Puede deber mucho","durante mucho tiempo"],"img":{"src":"ia/s16/capitolio.png","size":560}},
+ {"tipo":"titulo","frase":13,"lineas":["El contador","sigue CORRIENDO"],"resaltar":"CORRIENDO","img":{"src":"ia/s16/billetes-montana.png","size":600,"y":1040}},
+ {"tipo":"remate","frase":14,"pregunta":"¿Crees que algún día se pondrá a cero?"}
+]

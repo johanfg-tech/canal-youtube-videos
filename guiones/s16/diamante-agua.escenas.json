@@ -1,0 +1,13 @@
+[
+ {"tipo": "titulo", "frase": 0, "lineas": ["¿Por qué un", "DIAMANTE vale", "más que el agua?"], "resaltar": "DIAMANTE", "img": {"src": "ia/s16/diamante.png", "size": 560, "y": 1040}},
+ {"tipo": "comparar", "frase": 1, "titulo": "¿Qué necesitas para vivir?", "a": {"etiqueta": "Sin agua", "valor": "3 días", "img": "ia/s16/vaso-agua.png", "color": "#ff4d6d"}, "b": {"etiqueta": "Sin diamantes", "valor": "Perfecto", "img": "ia/s16/diamante.png", "color": "#2ee59d"}},
+ {"tipo": "comparar", "frase": 3, "titulo": "Y aun así…", "a": {"etiqueta": "Un diamante", "valor": "Miles de $", "img": "ia/s16/diamante.png", "altura": 1, "color": "#7fd1ff"}, "b": {"etiqueta": "Un litro de agua", "valor": "Casi nada", "img": "ia/s16/botella-agua.png", "altura": 0.06, "color": "#ffd60a"}},
+ {"tipo": "tarjeta", "frase": 4, "cabecera": "ADAM SMITH · 1776", "titulo": "La paradoja del valor", "lineas": ["La respuesta llegó un siglo después"], "img": {"src": "ia/s16/contrato.png", "size": 480}},
+ {"tipo": "titulo", "frase": 6, "lineas": ["Lo que importa:", "UNA UNIDAD MÁS"], "resaltar": "UNA UNIDAD MÁS", "img": {"src": "ia/s16/vaso-agua.png", "size": 520, "y": 1060}},
+ {"tipo": "barras", "frase": 7, "titulo": "Lo que vale cada vaso", "items": [{"etiqueta": "Vaso 1", "valor": 100, "texto": "Muchísimo", "img": "ia/s16/vaso-agua.png", "color": "#2ee59d"}, {"etiqueta": "Vaso 10", "valor": 30, "texto": "Algo", "img": "ia/s16/vaso-agua.png", "color": "#ffd60a"}, {"etiqueta": "Vaso 100", "valor": 3, "texto": "Casi nada", "img": "ia/s16/vaso-agua.png", "color": "#ff4d6d"}]},
+ {"tipo": "imagen", "frase": 9, "img": {"src": "ia/s16/diamante.png", "size": 620, "y": 760}, "texto": "Hay muy pocos", "sub": "y cada uno extra sigue siendo deseado", "color": "#7fd1ff"},
+ {"tipo": "imagen", "frase": 10, "img": {"src": "ia/s16/desierto.png", "size": 820, "y": 760}, "texto": "Perdido en el desierto"},
+ {"tipo": "comparar", "frase": 11, "titulo": "Ahí cambiarías…", "a": {"etiqueta": "Un diamante", "img": "ia/s16/diamante.png", "color": "#7fd1ff"}, "b": {"etiqueta": "Una botella", "img": "ia/s16/botella-agua.png", "color": "#2ee59d"}, "pie": "sin pensarlo"},
+ {"tipo": "titulo", "frase": 12, "lineas": ["El valor está", "en cuánto ESCASEA"], "resaltar": "ESCASEA", "img": {"src": "ia/s16/diamante.png", "size": 520, "y": 1060}},
+ {"tipo": "remate", "frase": 13, "pregunta": "¿Qué elegirías tú en el desierto?"}
+]

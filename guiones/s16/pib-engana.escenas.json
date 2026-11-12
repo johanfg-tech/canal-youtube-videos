@@ -1,0 +1,15 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["El PIB","a veces ENGAÑA"],"resaltar":"ENGAÑA","sub":"mide la riqueza de un país","img":{"src":"ia/s16/fabrica.png","size":600,"y":1040}},
+ {"tipo":"imagen","frase":2,"img":{"src":"ia/s16/casa-huracan.png","size":760,"y":760},"texto":"Un huracán destroza una ciudad","color":"#ff4d6d"},
+ {"tipo":"imagen","frase":3,"img":{"src":"ia/s16/grua-casa.png","size":760,"y":760},"texto":"Reconstruir = gasto","sub":"y el PIB sube"},
+ {"tipo":"comparar","frase":5,"titulo":"¿El país es más rico?","a":{"etiqueta":"PIB","valor":"Sube","img":"ia/s16/grua-casa.png","altura":0.9,"color":"#2ee59d"},"b":{"etiqueta":"Riqueza real","valor":"Baja","img":"ia/s16/casa-huracan.png","altura":0.4,"color":"#ff4d6d"}},
+ {"tipo":"comparar","frase":8,"titulo":"El mismo trabajo","a":{"etiqueta":"Cocinas en casa","valor":"No cuenta","img":"ia/s16/sarten.png","color":"#ff4d6d"},"b":{"etiqueta":"Pagas a alguien","valor":"Suma al PIB","img":"ia/s16/fajo.png","color":"#2ee59d"},"pie":"Solo uno suma"},
+ {"tipo":"lista","frase":11,"titulo":"Lo que el PIB no mide","items":[
+   {"texto":"Cómo se reparte","img":"ia/s16/monedas.png"},
+   {"texto":"La contaminación","img":"ia/s16/fabrica.png","enFrase":12},
+   {"texto":"El tiempo libre","emoji":"⏳","enFrase":12,"mas":1.2},
+   {"texto":"La salud","emoji":"❤️","enFrase":12,"mas":2.2}]},
+ {"tipo":"tarjeta","frase":13,"cabecera":"SIMON KUZNETS · AÑOS 30","titulo":"Su creador avisó: no sirve para medir el bienestar","img":{"src":"ia/s16/contrato.png","size":480}},
+ {"tipo":"comparar","frase":14,"a":{"etiqueta":"Cuánto se produce","valor":"✓","img":"ia/s16/fabrica.png","color":"#2ee59d"},"b":{"etiqueta":"Si se vive mejor","valor":"✗","img":"ia/s16/casa-huracan.png","color":"#ff4d6d"}},
+ {"tipo":"remate","frase":16,"pregunta":"¿Qué medirías tú para saber si un país va bien?"}
+]

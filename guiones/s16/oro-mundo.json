@@ -1,0 +1,1134 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Cuánto",
+   "inicio": 0.0,
+   "fin": 0.41,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 0.41,
+   "fin": 0.66,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 0.66,
+   "fin": 0.92,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 0.92,
+   "fin": 1.12,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 1.12,
+   "fin": 1.32,
+   "corte": false
+  },
+  {
+   "texto": "mundo?",
+   "inicio": 1.33,
+   "fin": 2.23,
+   "corte": true
+  },
+  {
+   "texto": "Todo",
+   "inicio": 2.23,
+   "fin": 2.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 2.54,
+   "fin": 2.75,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 2.75,
+   "fin": 3.01,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 3.01,
+   "fin": 3.27,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 3.27,
+   "fin": 3.48,
+   "corte": false
+  },
+  {
+   "texto": "humanidad",
+   "inicio": 3.48,
+   "fin": 4.05,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 4.05,
+   "fin": 4.26,
+   "corte": false
+  },
+  {
+   "texto": "sacado",
+   "inicio": 4.26,
+   "fin": 4.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 4.68,
+   "fin": 4.89,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 4.89,
+   "fin": 5.1,
+   "corte": false
+  },
+  {
+   "texto": "tierra,",
+   "inicio": 5.1,
+   "fin": 5.51,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 5.52,
+   "fin": 5.72,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 5.72,
+   "fin": 6.04,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 6.04,
+   "fin": 6.51,
+   "corte": false
+  },
+  {
+   "texto": "historia,",
+   "inicio": 6.51,
+   "fin": 7.03,
+   "corte": false
+  },
+  {
+   "texto": "pesa",
+   "inicio": 7.03,
+   "fin": 7.34,
+   "corte": false
+  },
+  {
+   "texto": "unas",
+   "inicio": 7.34,
+   "fin": 7.66,
+   "corte": false
+  },
+  {
+   "texto": "216.000",
+   "inicio": 7.66,
+   "fin": 8.39,
+   "corte": false
+  },
+  {
+   "texto": "toneladas.",
+   "inicio": 8.39,
+   "fin": 8.96,
+   "corte": true
+  },
+  {
+   "texto": "Suena",
+   "inicio": 8.96,
+   "fin": 9.68,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 9.68,
+   "fin": 9.85,
+   "corte": false
+  },
+  {
+   "texto": "montaña.",
+   "inicio": 9.85,
+   "fin": 10.35,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 10.35,
+   "fin": 10.63,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 10.63,
+   "fin": 11.28,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 11.28,
+   "fin": 11.51,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 11.52,
+   "fin": 11.7,
+   "corte": false
+  },
+  {
+   "texto": "tan",
+   "inicio": 11.71,
+   "fin": 11.94,
+   "corte": false
+  },
+  {
+   "texto": "denso",
+   "inicio": 11.94,
+   "fin": 12.28,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 12.28,
+   "fin": 12.51,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 12.51,
+   "fin": 12.8,
+   "corte": false
+  },
+  {
+   "texto": "cabría",
+   "inicio": 12.8,
+   "fin": 13.18,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 13.18,
+   "fin": 13.37,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 13.37,
+   "fin": 13.56,
+   "corte": false
+  },
+  {
+   "texto": "cubo",
+   "inicio": 13.56,
+   "fin": 13.85,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.85,
+   "fin": 14.04,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 14.04,
+   "fin": 14.32,
+   "corte": false
+  },
+  {
+   "texto": "22",
+   "inicio": 14.32,
+   "fin": 14.8,
+   "corte": false
+  },
+  {
+   "texto": "metros",
+   "inicio": 14.8,
+   "fin": 15.18,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.18,
+   "fin": 15.37,
+   "corte": false
+  },
+  {
+   "texto": "lado.",
+   "inicio": 15.37,
+   "fin": 15.66,
+   "corte": true
+  },
+  {
+   "texto": "Más",
+   "inicio": 15.66,
+   "fin": 16.31,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 16.31,
+   "fin": 16.46,
+   "corte": false
+  },
+  {
+   "texto": "menos,",
+   "inicio": 16.46,
+   "fin": 16.81,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 16.81,
+   "fin": 17.0,
+   "corte": false
+  },
+  {
+   "texto": "edificio",
+   "inicio": 17.01,
+   "fin": 17.5,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.5,
+   "fin": 17.7,
+   "corte": false
+  },
+  {
+   "texto": "siete",
+   "inicio": 17.7,
+   "fin": 18.04,
+   "corte": false
+  },
+  {
+   "texto": "pisos.",
+   "inicio": 18.04,
+   "fin": 18.39,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 18.39,
+   "fin": 18.59,
+   "corte": false
+  },
+  {
+   "texto": "litro",
+   "inicio": 18.59,
+   "fin": 19.37,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.37,
+   "fin": 19.58,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 19.58,
+   "fin": 19.83,
+   "corte": false
+  },
+  {
+   "texto": "pesa",
+   "inicio": 19.83,
+   "fin": 20.13,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 20.13,
+   "fin": 20.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 20.39,
+   "fin": 20.59,
+   "corte": false
+  },
+  {
+   "texto": "19",
+   "inicio": 20.59,
+   "fin": 21.1,
+   "corte": false
+  },
+  {
+   "texto": "kilos.",
+   "inicio": 21.1,
+   "fin": 21.45,
+   "corte": true
+  },
+  {
+   "texto": "¿Y",
+   "inicio": 21.45,
+   "fin": 21.61,
+   "corte": false
+  },
+  {
+   "texto": "cuánto",
+   "inicio": 21.61,
+   "fin": 22.44,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 22.44,
+   "fin": 22.75,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 22.76,
+   "fin": 23.01,
+   "corte": false
+  },
+  {
+   "texto": "cubo?",
+   "inicio": 23.02,
+   "fin": 23.33,
+   "corte": true
+  },
+  {
+   "texto": "Con",
+   "inicio": 23.33,
+   "fin": 23.59,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 23.59,
+   "fin": 24.21,
+   "corte": false
+  },
+  {
+   "texto": "onza",
+   "inicio": 24.21,
+   "fin": 24.52,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 24.52,
+   "fin": 24.68,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 24.68,
+   "fin": 25.0,
+   "corte": false
+  },
+  {
+   "texto": "4.100",
+   "inicio": 25.0,
+   "fin": 25.63,
+   "corte": false
+  },
+  {
+   "texto": "dólares,",
+   "inicio": 25.63,
+   "fin": 26.1,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 26.1,
+   "fin": 26.42,
+   "corte": false
+  },
+  {
+   "texto": "28",
+   "inicio": 26.42,
+   "fin": 26.94,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 26.94,
+   "fin": 27.47,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 27.47,
+   "fin": 27.68,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 27.68,
+   "fin": 28.16,
+   "corte": true
+  },
+  {
+   "texto": "¿Dónde",
+   "inicio": 28.16,
+   "fin": 28.58,
+   "corte": false
+  },
+  {
+   "texto": "está?",
+   "inicio": 28.58,
+   "fin": 28.93,
+   "corte": true
+  },
+  {
+   "texto": "Casi",
+   "inicio": 28.94,
+   "fin": 29.69,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.69,
+   "fin": 29.9,
+   "corte": false
+  },
+  {
+   "texto": "mitad,",
+   "inicio": 29.9,
+   "fin": 30.7,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 30.7,
+   "fin": 30.91,
+   "corte": false
+  },
+  {
+   "texto": "joyas.",
+   "inicio": 30.91,
+   "fin": 31.27,
+   "corte": true
+  },
+  {
+   "texto": "Una",
+   "inicio": 31.27,
+   "fin": 31.51,
+   "corte": false
+  },
+  {
+   "texto": "quinta",
+   "inicio": 31.52,
+   "fin": 31.9,
+   "corte": false
+  },
+  {
+   "texto": "parte,",
+   "inicio": 31.9,
+   "fin": 32.56,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 32.57,
+   "fin": 32.76,
+   "corte": false
+  },
+  {
+   "texto": "lingotes",
+   "inicio": 32.76,
+   "fin": 33.25,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 33.25,
+   "fin": 33.39,
+   "corte": false
+  },
+  {
+   "texto": "monedas",
+   "inicio": 33.39,
+   "fin": 33.83,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.83,
+   "fin": 34.02,
+   "corte": false
+  },
+  {
+   "texto": "inversión.",
+   "inicio": 34.03,
+   "fin": 34.56,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 34.56,
+   "fin": 34.7,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 34.7,
+   "fin": 34.94,
+   "corte": false
+  },
+  {
+   "texto": "bancos",
+   "inicio": 34.95,
+   "fin": 35.66,
+   "corte": false
+  },
+  {
+   "texto": "centrales",
+   "inicio": 35.66,
+   "fin": 36.19,
+   "corte": false
+  },
+  {
+   "texto": "guardan",
+   "inicio": 36.19,
+   "fin": 36.62,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 36.62,
+   "fin": 36.91,
+   "corte": false
+  },
+  {
+   "texto": "quinta",
+   "inicio": 36.91,
+   "fin": 37.29,
+   "corte": false
+  },
+  {
+   "texto": "parte",
+   "inicio": 37.3,
+   "fin": 37.63,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 37.63,
+   "fin": 37.82,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 37.82,
+   "fin": 38.06,
+   "corte": false
+  },
+  {
+   "texto": "bóvedas.",
+   "inicio": 38.06,
+   "fin": 38.5,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 38.5,
+   "fin": 38.69,
+   "corte": false
+  },
+  {
+   "texto": "resto",
+   "inicio": 38.69,
+   "fin": 39.41,
+   "corte": false
+  },
+  {
+   "texto": "está",
+   "inicio": 39.41,
+   "fin": 39.7,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 39.7,
+   "fin": 39.89,
+   "corte": false
+  },
+  {
+   "texto": "industria",
+   "inicio": 39.89,
+   "fin": 40.41,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 40.41,
+   "fin": 40.55,
+   "corte": false
+  },
+  {
+   "texto": "tecnología:",
+   "inicio": 40.56,
+   "fin": 41.13,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 41.13,
+   "fin": 41.78,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 41.79,
+   "fin": 41.97,
+   "corte": false
+  },
+  {
+   "texto": "móvil",
+   "inicio": 41.98,
+   "fin": 42.31,
+   "corte": false
+  },
+  {
+   "texto": "lleva",
+   "inicio": 42.31,
+   "fin": 42.64,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 42.64,
+   "fin": 42.83,
+   "corte": false
+  },
+  {
+   "texto": "poquito.",
+   "inicio": 42.84,
+   "fin": 43.67,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 43.67,
+   "fin": 43.82,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 43.82,
+   "fin": 44.03,
+   "corte": false
+  },
+  {
+   "texto": "sigue",
+   "inicio": 44.03,
+   "fin": 44.38,
+   "corte": false
+  },
+  {
+   "texto": "sacando:",
+   "inicio": 44.38,
+   "fin": 45.16,
+   "corte": false
+  },
+  {
+   "texto": "unas",
+   "inicio": 45.16,
+   "fin": 45.46,
+   "corte": false
+  },
+  {
+   "texto": "3.600",
+   "inicio": 45.47,
+   "fin": 46.08,
+   "corte": false
+  },
+  {
+   "texto": "toneladas",
+   "inicio": 46.08,
+   "fin": 46.64,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 46.64,
+   "fin": 46.85,
+   "corte": false
+  },
+  {
+   "texto": "año,",
+   "inicio": 46.85,
+   "fin": 47.1,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 47.1,
+   "fin": 47.31,
+   "corte": false
+  },
+  {
+   "texto": "cubo",
+   "inicio": 47.31,
+   "fin": 47.9,
+   "corte": false
+  },
+  {
+   "texto": "extra",
+   "inicio": 47.9,
+   "fin": 48.26,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 48.26,
+   "fin": 48.46,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 48.46,
+   "fin": 48.77,
+   "corte": false
+  },
+  {
+   "texto": "6",
+   "inicio": 48.77,
+   "fin": 49.23,
+   "corte": false
+  },
+  {
+   "texto": "metros.",
+   "inicio": 49.23,
+   "fin": 49.64,
+   "corte": true
+  },
+  {
+   "texto": "Todo",
+   "inicio": 49.64,
+   "fin": 50.34,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 50.34,
+   "fin": 50.54,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 50.54,
+   "fin": 50.78,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.78,
+   "fin": 50.98,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 50.98,
+   "fin": 51.17,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 51.17,
+   "fin": 51.66,
+   "corte": false
+  },
+  {
+   "texto": "cabe",
+   "inicio": 51.66,
+   "fin": 51.95,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 51.95,
+   "fin": 52.14,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 52.14,
+   "fin": 52.39,
+   "corte": false
+  },
+  {
+   "texto": "plaza.",
+   "inicio": 52.39,
+   "fin": 53.14,
+   "corte": true
+  },
+  {
+   "texto": "¿Lo",
+   "inicio": 53.14,
+   "fin": 53.34,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 53.34,
+   "fin": 53.8,
+   "corte": false
+  },
+  {
+   "texto": "imaginado",
+   "inicio": 53.8,
+   "fin": 54.36,
+   "corte": false
+  },
+  {
+   "texto": "tan",
+   "inicio": 54.36,
+   "fin": 54.61,
+   "corte": false
+  },
+  {
+   "texto": "pequeño?",
+   "inicio": 54.61,
+   "fin": 55.07,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Cuánto oro hay en el mundo?",
+   "inicio": 0.0,
+   "fin": 2.23
+  },
+  {
+   "texto": "Todo el oro que la humanidad ha sacado de la tierra, en toda la historia, pesa unas 216.000 toneladas.",
+   "inicio": 2.23,
+   "fin": 8.96
+  },
+  {
+   "texto": "Suena a montaña.",
+   "inicio": 8.96,
+   "fin": 10.35
+  },
+  {
+   "texto": "Pero el oro es tan denso que todo cabría en un cubo de unos 22 metros de lado.",
+   "inicio": 10.35,
+   "fin": 15.66
+  },
+  {
+   "texto": "Más o menos, un edificio de siete pisos.",
+   "inicio": 15.66,
+   "fin": 18.39
+  },
+  {
+   "texto": "Un litro de oro pesa más de 19 kilos.",
+   "inicio": 18.39,
+   "fin": 21.45
+  },
+  {
+   "texto": "¿Y cuánto vale ese cubo?",
+   "inicio": 21.45,
+   "fin": 23.33
+  },
+  {
+   "texto": "Con la onza a unos 4.100 dólares, unos 28 billones de dólares.",
+   "inicio": 23.33,
+   "fin": 28.16
+  },
+  {
+   "texto": "¿Dónde está?",
+   "inicio": 28.16,
+   "fin": 28.93
+  },
+  {
+   "texto": "Casi la mitad, en joyas.",
+   "inicio": 28.94,
+   "fin": 31.27
+  },
+  {
+   "texto": "Una quinta parte, en lingotes y monedas de inversión.",
+   "inicio": 31.27,
+   "fin": 34.56
+  },
+  {
+   "texto": "Y los bancos centrales guardan otra quinta parte en sus bóvedas.",
+   "inicio": 34.56,
+   "fin": 38.5
+  },
+  {
+   "texto": "El resto está en industria y tecnología: hasta tu móvil lleva un poquito.",
+   "inicio": 38.5,
+   "fin": 43.67
+  },
+  {
+   "texto": "Y se sigue sacando: unas 3.600 toneladas al año, un cubo extra de unos 6 metros.",
+   "inicio": 43.67,
+   "fin": 49.64
+  },
+  {
+   "texto": "Todo el oro de la historia cabe en una plaza.",
+   "inicio": 49.64,
+   "fin": 53.14
+  },
+  {
+   "texto": "¿Lo habrías imaginado tan pequeño?",
+   "inicio": 53.14,
+   "fin": 55.07
+  }
+ ],
+ "duracion": 55.07,
+ "voz": "narraciones/oro-mundo.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Cuánto ORO",
+    "hay en el mundo?"
+   ],
+   "resaltar": "ORO",
+   "img": {
+    "src": "ia/s16/lingote.png",
+    "size": 640,
+    "y": 1000
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 1,
+   "antes": "Todo el oro de la historia",
+   "valor": 216000,
+   "sufijo": " t",
+   "etiqueta": "toneladas extraídas",
+   "img": {
+    "src": "ia/s16/lingotes.png",
+    "size": 600,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s16/cubo-oro.png",
+    "size": 860,
+    "y": 760
+   },
+   "texto": "Un cubo de 22 metros",
+   "sub": "≈ un edificio de 7 pisos"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 5,
+   "antes": "1 litro de oro pesa",
+   "valor": 19.3,
+   "decimales": 1,
+   "sufijo": " kg",
+   "etiqueta": "el oro es muy denso",
+   "img": {
+    "src": "ia/s16/lingote.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Todo ese oro vale",
+   "valor": 28,
+   "prefijo": "$",
+   "sufijo": " billones",
+   "etiqueta": "con la onza a unos 4.100 $",
+   "color": "#2ee59d",
+   "img": {
+    "src": "ia/s16/lingotes.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "donut",
+   "frase": 8,
+   "titulo": "¿Dónde está?",
+   "centro": "216.000 t",
+   "partes": [
+    {
+     "etiqueta": "Joyas",
+     "valor": 45,
+     "color": "#ffd60a"
+    },
+    {
+     "etiqueta": "Lingotes y monedas",
+     "valor": 22,
+     "color": "#f7931a"
+    },
+    {
+     "etiqueta": "Bancos centrales",
+     "valor": 17,
+     "color": "#2ee59d"
+    },
+    {
+     "etiqueta": "Industria y otros",
+     "valor": 16,
+     "color": "#7fd1ff"
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 12,
+   "img": {
+    "src": "ia/s16/movil-oro.png",
+    "size": 640,
+    "y": 740
+   },
+   "texto": "Hasta tu móvil lleva oro"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 13,
+   "antes": "Cada año se sacan",
+   "valor": 3600,
+   "sufijo": " t",
+   "etiqueta": "un cubo extra de unos 6 metros",
+   "img": {
+    "src": "ia/s16/cubo-oro.png",
+    "size": 520,
+    "y": 1100
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 14,
+   "lineas": [
+    "Todo el oro",
+    "de la historia",
+    "cabe en una PLAZA"
+   ],
+   "resaltar": "PLAZA",
+   "img": {
+    "src": "ia/s16/cubo-oro.png",
+    "size": 620,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 15,
+   "pregunta": "¿Lo habrías imaginado tan pequeño?"
+  }
+ ]
+}

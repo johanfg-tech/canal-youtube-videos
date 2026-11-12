@@ -1,0 +1,12 @@
+[
+ {"tipo": "titulo", "frase": 0, "lineas": ["El banco te", "presta dinero", "que NO TIENE"], "resaltar": "NO TIENE", "img": {"src": "ia/s16/banco.png", "size": 620, "y": 1030}},
+ {"tipo": "tarjeta", "frase": 1, "cabecera": "LO QUE CREE MUCHA GENTE", "titulo": "El banco presta tus ahorros a otro", "lineas": ["Pero no funciona exactamente así"], "img": {"src": "ia/s16/caja-fuerte.png", "size": 500}},
+ {"tipo": "cifra", "frase": 3, "antes": "Te dan un préstamo de", "valor": 10000, "prefijo": "$", "etiqueta": "¿de qué caja sale?", "img": {"src": "ia/s16/caja-fuerte.png", "size": 560, "y": 1080}},
+ {"tipo": "imagen", "frase": 4, "img": {"src": "ia/s16/monitor-billetes.png", "size": 760, "y": 760}, "texto": "Solo escribe 10.000 en tu cuenta", "sub": "En ese momento, ese dinero nace", "color": "#2ee59d"},
+ {"tipo": "tarjeta", "frase": 6, "cabecera": "BANCO DE INGLATERRA · 2014", "titulo": "La mayor parte del dinero se crea cuando los bancos prestan", "img": {"src": "ia/s16/contrato.png", "size": 500}},
+ {"tipo": "lista", "frase": 7, "titulo": "¿Sin límite? No", "items": [{"texto": "Clientes que paguen", "img": "ia/s16/contrato.png", "enFrase": 9}, {"texto": "Capital propio", "img": "ia/s16/monedas.png", "enFrase": 9, "mas": 1.0}, {"texto": "Normas del banco central", "img": "ia/s16/banco.png", "enFrase": 9, "mas": 2.0}]},
+ {"tipo": "imagen", "frase": 10, "img": {"src": "ia/s16/fajo.png", "size": 640, "y": 760}, "texto": "Al devolverlo, desaparece", "color": "#ff4d6d"},
+ {"tipo": "comparar", "frase": 11, "titulo": "Dinero circulando", "a": {"etiqueta": "Mucho crédito", "valor": "Más dinero", "img": "ia/s16/billetes-montana.png", "altura": 1, "color": "#2ee59d"}, "b": {"etiqueta": "Poco crédito", "valor": "Menos", "img": "ia/s16/fajo.png", "altura": 0.35, "color": "#ff4d6d"}},
+ {"tipo": "titulo", "frase": 12, "lineas": ["El dinero se CREA", "y se destruye", "cada día"], "resaltar": "CREA", "img": {"src": "ia/s16/monitor-billetes.png", "size": 560, "y": 1080}},
+ {"tipo": "remate", "frase": 13, "pregunta": "¿Lo sabías?"}
+]

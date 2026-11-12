@@ -1,3 +1,5 @@
+import { ExplicaShort, duracionExplica } from "./compositions/ExplicaShort";
+import { VIDEOS_S16 } from "./explica/videos";
 import { PilotoFloridaShort, duracionPiloto } from "./compositions/PilotoFloridaShort";
 import { Composition } from "remotion";
 import { Avatar } from "./compositions/Avatar";
@@ -531,6 +533,18 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
       />
+      {VIDEOS_S16.map((v) => (
+        <Composition
+          key={v.id}
+          id={v.id}
+          component={ExplicaShort}
+          durationInFrames={duracionExplica(v.datos)}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{ datos: v.datos }}
+        />
+      ))}
     </>
   );
 };

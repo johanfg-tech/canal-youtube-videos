@@ -1,0 +1,12 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Cuánto DINERO","existe de verdad?"],"resaltar":"DINERO","img":{"src":"ia/s16/fajo.png","size":620,"y":1020}},
+ {"tipo":"cifra","frase":2,"antes":"En billetes y monedas","valor":2.4,"decimales":1,"prefijo":"$","sufijo":" billones","etiqueta":"en Estados Unidos","img":{"src":"ia/s16/monedas.png","size":560,"y":1080}},
+ {"tipo":"comparar","frase":3,"titulo":"Efectivo vs. cuentas","a":{"etiqueta":"Billetes y monedas","valor":"2,4 bill.","img":"ia/s16/fajo.png","altura":0.1,"color":"#ffd60a"},"b":{"etiqueta":"Cuentas y depósitos","valor":"+23 bill.","img":"ia/s16/portatil-grafico.png","altura":1,"color":"#2ee59d"}},
+ {"tipo":"titulo","frase":4,"lineas":["De cada 10 $,","solo 1 es PAPEL"],"resaltar":"PAPEL","img":{"src":"ia/s16/fajo.png","size":560,"y":1040}},
+ {"tipo":"imagen","frase":5,"img":{"src":"ia/s16/portatil-grafico.png","size":760,"y":780},"texto":"Los otros 9 son números","sub":"en el ordenador de un banco"},
+ {"tipo":"titulo","frase":6,"lineas":["En el mundo, casi","todo es DIGITAL"],"resaltar":"DIGITAL","color":"#2ee59d","img":{"src":"ia/s16/portatil-grafico.png","size":600,"y":1040}},
+ {"tipo":"tarjeta","frase":7,"cabecera":"¿POR QUÉ?","titulo":"El dinero nace con los préstamos","lineas":["El banco apunta una cifra en tu cuenta","Y ese número ya se puede gastar"],"img":{"src":"ia/s16/monedas.png","size":500}},
+ {"tipo":"imagen","frase":11,"img":{"src":"ia/s16/cajero.png","size":700,"y":760},"texto":"No habría billetes para todos","color":"#ff4d6d"},
+ {"tipo":"titulo","frase":12,"lineas":["El dinero funciona","por CONFIANZA"],"resaltar":"CONFIANZA","img":{"src":"ia/s16/monedas.png","size":560,"y":1040}},
+ {"tipo":"remate","frase":13,"pregunta":"¿Cuánto llevas ahora mismo en efectivo?"}
+]

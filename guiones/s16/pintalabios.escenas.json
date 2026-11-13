@@ -1,14 +1,177 @@
 [
- {"tipo": "titulo", "frase": 0, "lineas": ["En crisis se", "venden más", "PINTALABIOS"], "resaltar": "PINTALABIOS", "img": {"src": "ia/s16/pintalabios.png", "size": 520, "y": 1080}},
- {"tipo": "imagen", "frase": 1, "img": {"src": "ia/s16/pintalabios.png", "size": 600, "y": 760}, "texto": "El efecto pintalabios"},
- {"tipo": "tarjeta", "frase": 2, "cabecera": "LEONARD LAUDER · ESTÉE LAUDER", "titulo": "Tras 2001, sus ventas de labiales subían", "lineas": ["mientras la economía caía"], "img": {"src": "ia/s16/pintalabios.png", "size": 460}},
- {"tipo": "titulo", "frase": 4, "lineas": ["¿Por qué", "PASA ESTO?"], "resaltar": "PASA ESTO?", "img": {"src": "ia/s16/lupa.png", "size": 480, "y": 1080}},
- {"tipo": "lista", "frase": 5, "titulo": "Lo grande se deja de comprar", "items": [{"texto": "Un coche", "img": "ia/s16/coche.png", "color": "#ff4d6d", "enFrase": 5, "mas": 3.2}, {"texto": "Un viaje", "emoji": "✈️", "color": "#ff4d6d", "enFrase": 5, "mas": 3.9}, {"texto": "Una casa", "img": "ia/s16/casa.png", "color": "#ff4d6d", "enFrase": 5, "mas": 4.6}]},
- {"tipo": "imagen", "frase": 6, "img": {"src": "ia/s16/bolsa-lujo.png", "size": 560, "y": 760}, "texto": "Pero no a todo", "sub": "se busca un pequeño lujo barato", "color": "#2ee59d"},
- {"tipo": "lista", "frase": 8, "titulo": "Pequeños lujos", "items": [{"texto": "Un labial", "img": "ia/s16/pintalabios.png", "color": "#ff4d6d", "enFrase": 8}, {"texto": "Un chocolate caro", "img": "ia/s16/chocolate.png", "color": "#ffd60a", "enFrase": 8, "mas": 0.9}, {"texto": "Un café especial", "img": "ia/s16/cafe.png", "color": "#2ee59d", "enFrase": 8, "mas": 2.0}]},
- {"tipo": "comparar", "frase": 9, "titulo": "Gastas poco…", "a": {"etiqueta": "Gasto", "valor": "Poco", "img": "ia/s16/monedas.png", "altura": 0.2, "color": "#ffd60a"}, "b": {"etiqueta": "Te das un gusto", "valor": "Mucho", "img": "ia/s16/bolsa-lujo.png", "altura": 1, "color": "#2ee59d"}},
- {"tipo": "imagen", "frase": 10, "img": {"src": "ia/s16/nube-rayo.png", "size": 560, "y": 760}, "texto": "¿Señal de crisis?", "color": "#ff4d6d"},
- {"tipo": "tarjeta", "frase": 11, "cabecera": "OJO", "titulo": "Los estudios no siempre lo confirman", "lineas": ["en algunas crisis pasa y en otras no"], "img": {"src": "ia/s16/lupa.png", "size": 420}},
- {"tipo": "titulo", "frase": 12, "lineas": ["Incluso sin dinero,", "queremos", "SENTIRNOS BIEN"], "resaltar": "SENTIRNOS BIEN", "img": {"src": "ia/s16/cafe.png", "size": 480, "y": 1080}},
- {"tipo": "remate", "frase": 13, "pregunta": "¿Cuál es tu pequeño lujo cuando las cosas van mal?"}
+ {
+  "tipo": "titulo",
+  "frase": 0,
+  "lineas": [
+   "En crisis se",
+   "venden más",
+   "PINTALABIOS"
+  ],
+  "resaltar": "PINTALABIOS",
+  "img": {
+   "src": "ia/s16/pintalabios.png",
+   "size": 520,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 1,
+  "img": {
+   "src": "ia/s16/pintalabios.png",
+   "size": 600,
+   "y": 760
+  },
+  "texto": "El efecto pintalabios"
+ },
+ {
+  "tipo": "tarjeta",
+  "frase": 2,
+  "cabecera": "LEONARD LAUDER · ESTÉE LAUDER",
+  "titulo": "Tras 2001, sus ventas de labiales subían",
+  "lineas": [
+   "mientras la economía caía"
+  ],
+  "img": {
+   "src": "ia/s16/pintalabios.png",
+   "size": 460
+  }
+ },
+ {
+  "tipo": "titulo",
+  "frase": 4,
+  "lineas": [
+   "¿Por qué",
+   "PASA ESTO?"
+  ],
+  "resaltar": "PASA ESTO?",
+  "img": {
+   "src": "ia/s16/lupa.png",
+   "size": 480,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "lista",
+  "frase": 5,
+  "titulo": "Lo grande se deja de comprar",
+  "items": [
+   {
+    "texto": "Un coche",
+    "img": "ia/s16/coche.png",
+    "color": "#ff4d6d",
+    "enFrase": 5,
+    "mas": 3.2
+   },
+   {
+    "texto": "Un viaje",
+    "emoji": "✈️",
+    "color": "#ff4d6d",
+    "enFrase": 5,
+    "mas": 3.9
+   },
+   {
+    "texto": "Una casa",
+    "img": "ia/s16/casa.png",
+    "color": "#ff4d6d",
+    "enFrase": 5,
+    "mas": 4.6
+   }
+  ]
+ },
+ {
+  "tipo": "imagen",
+  "frase": 6,
+  "img": {
+   "src": "ia/s16/bolsa-lujo.png",
+   "size": 560,
+   "y": 760
+  },
+  "texto": "Pero no a todo",
+  "sub": "se busca un pequeño lujo barato",
+  "color": "#2ee59d"
+ },
+ {
+  "tipo": "lista",
+  "frase": 8,
+  "titulo": "Pequeños lujos",
+  "items": [
+   {
+    "texto": "Un labial",
+    "img": "ia/s16/pintalabios.png",
+    "color": "#ff4d6d",
+    "enFrase": 8
+   },
+   {
+    "texto": "Un chocolate caro",
+    "img": "ia/s16/chocolate.png",
+    "color": "#ffd60a",
+    "enFrase": 8,
+    "mas": 0.9
+   },
+   {
+    "texto": "Un café especial",
+    "img": "ia/s16/cafe.png",
+    "color": "#2ee59d",
+    "enFrase": 8,
+    "mas": 2.0
+   }
+  ]
+ },
+ {
+  "tipo": "imagen",
+  "frase": 9,
+  "img": {
+   "src": "ia/s16/bolsa-lujo.png",
+   "size": 560,
+   "y": 760
+  },
+  "texto": "Gastas poco",
+  "sub": "pero sientes que te das un gusto",
+  "color": "#2ee59d"
+ },
+ {
+  "tipo": "imagen",
+  "frase": 10,
+  "img": {
+   "src": "ia/s16/nube-rayo.png",
+   "size": 560,
+   "y": 760
+  },
+  "texto": "¿Señal de crisis?",
+  "color": "#ff4d6d"
+ },
+ {
+  "tipo": "tarjeta",
+  "frase": 11,
+  "cabecera": "OJO",
+  "titulo": "Los estudios no siempre lo confirman",
+  "lineas": [
+   "en algunas crisis pasa y en otras no"
+  ],
+  "img": {
+   "src": "ia/s16/lupa.png",
+   "size": 420
+  }
+ },
+ {
+  "tipo": "titulo",
+  "frase": 12,
+  "lineas": [
+   "Incluso sin dinero,",
+   "queremos",
+   "SENTIRNOS BIEN"
+  ],
+  "resaltar": "SENTIRNOS BIEN",
+  "img": {
+   "src": "ia/s16/cafe.png",
+   "size": 480,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "remate",
+  "frase": 13,
+  "pregunta": "¿Cuál es tu pequeño lujo cuando las cosas van mal?"
+ }
 ]

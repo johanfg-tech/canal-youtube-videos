@@ -1109,23 +1109,16 @@
    ]
   },
   {
-   "tipo": "comparar",
+   "tipo": "imagen",
    "frase": 9,
-   "titulo": "Gastas poco…",
-   "a": {
-    "etiqueta": "Gasto",
-    "valor": "Poco",
-    "img": "ia/s16/monedas.png",
-    "altura": 0.2,
-    "color": "#ffd60a"
+   "img": {
+    "src": "ia/s16/bolsa-lujo.png",
+    "size": 560,
+    "y": 760
    },
-   "b": {
-    "etiqueta": "Te das un gusto",
-    "valor": "Mucho",
-    "img": "ia/s16/bolsa-lujo.png",
-    "altura": 1,
-    "color": "#2ee59d"
-   }
+   "texto": "Gastas poco",
+   "sub": "pero sientes que te das un gusto",
+   "color": "#2ee59d"
   },
   {
    "tipo": "imagen",

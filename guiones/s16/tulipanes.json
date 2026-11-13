@@ -1103,10 +1103,10 @@
   {
    "tipo": "cifra",
    "frase": 6,
-   "antes": "Por un bulbo Semper Augustus",
+   "antes": "Por un solo bulbo",
    "valor": 10000,
    "sufijo": " florines",
-   "etiqueta": "se llegaron a pedir",
+   "etiqueta": "pedían por un Semper Augustus",
    "img": {
     "src": "ia/s16/bulbo.png",
     "size": 520,

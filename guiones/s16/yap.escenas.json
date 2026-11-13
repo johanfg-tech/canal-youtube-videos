@@ -3,7 +3,7 @@
  {"tipo": "tarjeta", "frase": 1, "cabecera": "ISLA DE YAP · MICRONESIA", "titulo": "Su dinero: piedras gigantes llamadas rai", "img": {"src": "ia/s16/isla.png", "size": 560}},
  {"tipo": "comparar", "frase": 2, "titulo": "Algunas piedras rai", "a": {"etiqueta": "Diámetro", "valor": "~4 m", "img": "ia/s16/piedra-rai.png", "color": "#ffd60a"}, "b": {"etiqueta": "Peso", "valor": "Toneladas", "img": "ia/s16/coche.png", "color": "#ff9f1c"}},
  {"tipo": "imagen", "frase": 3, "img": {"src": "ia/s16/isla.png", "size": 700, "y": 760}, "texto": "En Yap no había esa piedra", "color": "#ff4d6d"},
- {"tipo": "cifra", "frase": 4, "antes": "La traían en canoa desde Palaos", "valor": 400, "sufijo": " km", "etiqueta": "arriesgando la vida en el mar", "img": {"src": "ia/s16/canoa.png", "size": 600, "y": 1060}},
+ {"tipo": "cifra", "frase": 4, "antes": "En canoa desde Palaos", "valor": 400, "sufijo": " km", "etiqueta": "arriesgando la vida en el mar", "img": {"src": "ia/s16/canoa.png", "size": 600, "y": 1060}},
  {"tipo": "titulo", "frase": 5, "lineas": ["Por eso", "VALÍAN TANTO"], "resaltar": "VALÍAN TANTO", "img": {"src": "ia/s16/piedra-rai.png", "size": 540, "y": 1060}},
  {"tipo": "titulo", "frase": 6, "lineas": ["Lo curioso:", "casi NUNCA", "se mueven"], "resaltar": "NUNCA", "img": {"src": "ia/s16/piedra-rai.png", "size": 520, "y": 1080}},
  {"tipo": "lista", "frase": 7, "titulo": "Si pagas con una piedra…", "items": [{"texto": "La piedra se queda donde está", "img": "ia/s16/piedra-rai.png", "enFrase": 7, "mas": 1.2}, {"texto": "Todo el pueblo recuerda que es tuya", "img": "ia/s16/isla.png", "enFrase": 8}]},

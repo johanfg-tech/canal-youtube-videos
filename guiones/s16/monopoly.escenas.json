@@ -6,7 +6,7 @@
  {"tipo": "lista", "frase": 4, "titulo": "Dos formas de jugar", "items": [{"texto": "Todos ganan cuando se crea riqueza", "img": "ia/s16/casitas.png", "color": "#2ee59d", "enFrase": 5}, {"texto": "Uno se queda con todo y los demás quiebran", "img": "ia/s16/casero.png", "color": "#ff4d6d", "enFrase": 6}]},
  {"tipo": "imagen", "frase": 7, "img": {"src": "ia/s16/casero.png", "size": 620, "y": 760}, "texto": "Adivina cuál triunfó", "color": "#ff4d6d"},
  {"tipo": "tarjeta", "frase": 8, "cabecera": "1935 · CHARLES DARROW", "titulo": "Vendió una versión a Parker Brothers", "lineas": ["y se hizo famoso como su inventor"], "img": {"src": "ia/s16/fajo.png", "size": 480}},
- {"tipo": "cifra", "frase": 9, "antes": "Lizzie recibió por su patente", "valor": 500, "prefijo": "$", "etiqueta": "Darrow se hizo millonario", "img": {"src": "ia/s16/inventora.png", "size": 520, "y": 1080}},
+ {"tipo": "cifra", "frase": 9, "antes": "Lizzie recibió", "valor": 500, "prefijo": "$", "etiqueta": "Darrow se hizo millonario", "img": {"src": "ia/s16/inventora.png", "size": 520, "y": 1080}},
  {"tipo": "titulo", "frase": 10, "lineas": ["Una crítica que", "se volvió el juego", "MÁS FAMOSO"], "resaltar": "MÁS FAMOSO", "img": {"src": "ia/s16/casitas.png", "size": 500, "y": 1080}},
  {"tipo": "remate", "frase": 11, "pregunta": "¿Tú eres de los que compran todas las calles?"}
 ]

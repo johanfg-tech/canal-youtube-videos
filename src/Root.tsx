@@ -6,6 +6,7 @@ import { PilotoFloridaShort, duracionPiloto } from "./compositions/PilotoFlorida
 import { Composition } from "remotion";
 import { Avatar } from "./compositions/Avatar";
 import { Miniatura } from "./compositions/Miniatura";
+import { Portada, portadaSchema } from "./compositions/Portada";
 import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
 import { LargoConIntro, INTRO_SEG } from "./compositions/IntroLargo";
@@ -495,6 +496,16 @@ export const RemotionRoot: React.FC = () => {
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
         })}
+      />
+      <Composition
+        id="Portada"
+        component={Portada}
+        schema={portadaSchema}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={1}
+        defaultProps={{ lineas: ["El banco te presta", "dinero que no tiene"], resaltar: "no tiene", imgs: ["ia/s16/banco.png"] }}
       />
       <Composition
         id="Miniatura"

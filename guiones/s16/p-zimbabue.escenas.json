@@ -1,0 +1,14 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Y si imprimes","dinero SIN PARAR?"],"resaltar":"SIN PARAR?","img":{"src":"ia/s16/prensa-monedas.png","size":600,"y":1020}},
+ {"tipo":"titulo","frase":1,"lineas":["Pasó en","ZIMBABUE"],"resaltar":"ZIMBABUE","img":{"src":"ia/s16/billetes-montana.png","size":620,"y":1040}},
+ {"tipo":"imagen","frase":2,"img":{"src":"ia/s16/prensa-monedas.png","size":680,"y":760},"texto":"Imprimían billetes","sub":"para pagar los gastos del gobierno"},
+ {"tipo":"comparar","frase":3,"titulo":"Más dinero, mismas cosas","a":{"etiqueta":"Dinero","img":"ia/s16/fajo.png","altura":1,"color":"#2ee59d"},"b":{"etiqueta":"Cosas","img":"ia/s16/carrito.png","altura":0.35,"color":"#ff4d6d"},"pie":"Los precios empiezan a subir"},
+ {"tipo":"titulo","frase":5,"lineas":["Y luego","a VOLAR"],"resaltar":"VOLAR","color":"#ff4d6d","img":{"src":"ia/s16/etiqueta-precio.png","size":560,"y":1040}},
+ {"tipo":"cifra","frase":6,"antes":"Inflación al mes","valor":79600,"sufijo":" millones %","etiqueta":"noviembre de 2008","color":"#ff4d6d","img":{"src":"ia/s16/etiqueta-precio.png","size":520,"y":1080}},
+ {"tipo":"imagen","frase":7,"img":{"src":"ia/s16/pan.png","size":620,"y":760},"texto":"Precios ×2","sub":"cada día","color":"#ff4d6d"},
+ {"tipo":"cifra","frase":9,"antes":"Un billete de","valor":100,"sufijo":" billones","etiqueta":"de dólares zimbabuenses","img":{"src":"ia/s16/billete-100.png","size":560,"y":1080}},
+ {"tipo":"imagen","frase":10,"img":{"src":"ia/s16/carretilla.png","size":700,"y":760},"texto":"Y valía muy poco","color":"#ff4d6d"},
+ {"tipo":"tarjeta","frase":11,"cabecera":"2009","titulo":"Adiós a su moneda","lineas":["empezaron a usar el dólar"],"img":{"src":"ia/s16/billete-1.png","size":480}},
+ {"tipo":"tarjeta","frase":12,"cabecera":"LA LECCIÓN","titulo":"Imprimir no crea riqueza","lineas":["solo la reparte en más papeles"],"img":{"src":"ia/s16/billetes-montana.png","size":500}},
+ {"tipo":"remate","frase":13,"pregunta":"¿Tu país ha vivido una inflación así?"}
+]

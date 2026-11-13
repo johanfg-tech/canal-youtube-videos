@@ -1,0 +1,14 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["Bitcoin, moneda","OFICIAL"],"resaltar":"OFICIAL","sub":"El Salvador, 2021","img":{"src":"ia/monedas-btc.png","size":600,"y":1040}},
+ {"tipo":"imagen","frase":1,"img":{"src":"ia/s16/cajero.png","size":620,"y":760},"texto":"Obligatorio aceptarlo","sub":"en todos los comercios"},
+ {"tipo":"cifra","frase":2,"antes":"Regalo al bajar la app","valor":30,"prefijo":"$","etiqueta":"en bitcoin, billetera Chivo","color":"#f7931a","img":{"src":"ia/monedas-btc.png","size":540,"y":1080}},
+ {"tipo":"imagen","frase":3,"img":{"src":"ia/s16/caja-fuerte.png","size":620,"y":760},"texto":"Compró bitcoin","sub":"con dinero público","color":"#f7931a"},
+ {"tipo":"titulo","frase":4,"lineas":["¿Y qué","PASÓ?"],"resaltar":"PASÓ?","img":{"src":"ia/s16/lupa.png","size":540,"y":1040}},
+ {"tipo":"imagen","frase":5,"img":{"src":"ia/s16/fajo.png","size":620,"y":760},"texto":"Siguieron con efectivo","sub":"y dólares","color":"#2ee59d"},
+ {"tipo":"cifra","frase":6,"antes":"Préstamo del FMI","valor":1400,"prefijo":"$","sufijo":" millones","etiqueta":"a cambio de cambiar la ley","img":{"src":"ia/s16/banco.png","size":560,"y":1080}},
+ {"tipo":"tarjeta","frase":7,"cabecera":"2025","titulo":"Ya no es obligatorio","lineas":["aceptar bitcoin"],"img":{"src":"ia/s16/contrato.png","size":460}},
+ {"tipo":"imagen","frase":8,"img":{"src":"ia/s16/cerdito-cadena.png","size":600,"y":760},"texto":"Sin compras públicas","sub":"desde junio de 2025, según el FMI","color":"#7fd1ff"},
+ {"tipo":"imagen","frase":9,"img":{"src":"ia/monedas-btc.png","size":640,"y":760},"texto":"Aún guarda miles","sub":"de bitcoins","color":"#f7931a"},
+ {"tipo":"titulo","frase":10,"lineas":["Un experimento","POLÉMICO"],"resaltar":"POLÉMICO","img":{"src":"ia/s16/balanza.png","size":560,"y":1040}},
+ {"tipo":"remate","frase":11,"pregunta":"¿Tú pagarías el pan con bitcoin?"}
+]

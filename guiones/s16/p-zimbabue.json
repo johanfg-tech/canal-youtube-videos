@@ -1,0 +1,1073 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Qué",
+   "inicio": 0.0,
+   "fin": 0.25,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 0.25,
+   "fin": 0.54,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 0.54,
+   "fin": 0.74,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 0.74,
+   "fin": 0.93,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 0.93,
+   "fin": 1.23,
+   "corte": false
+  },
+  {
+   "texto": "imprime",
+   "inicio": 1.23,
+   "fin": 1.67,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 1.67,
+   "fin": 2.06,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 2.06,
+   "fin": 2.31,
+   "corte": false
+  },
+  {
+   "texto": "parar?",
+   "inicio": 2.31,
+   "fin": 2.65,
+   "corte": true
+  },
+  {
+   "texto": "Pasó",
+   "inicio": 2.65,
+   "fin": 3.53,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 3.53,
+   "fin": 3.75,
+   "corte": false
+  },
+  {
+   "texto": "Zimbabue.",
+   "inicio": 3.75,
+   "fin": 4.31,
+   "corte": true
+  },
+  {
+   "texto": "A",
+   "inicio": 4.31,
+   "fin": 4.85,
+   "corte": false
+  },
+  {
+   "texto": "principios",
+   "inicio": 4.85,
+   "fin": 5.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 5.41,
+   "fin": 5.6,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 5.6,
+   "fin": 5.83,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 5.83,
+   "fin": 6.11,
+   "corte": false
+  },
+  {
+   "texto": "2000,",
+   "inicio": 6.11,
+   "fin": 6.67,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 6.67,
+   "fin": 6.85,
+   "corte": false
+  },
+  {
+   "texto": "gobierno",
+   "inicio": 6.85,
+   "fin": 7.32,
+   "corte": false
+  },
+  {
+   "texto": "empezó",
+   "inicio": 7.32,
+   "fin": 7.69,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 7.69,
+   "fin": 7.83,
+   "corte": false
+  },
+  {
+   "texto": "imprimir",
+   "inicio": 7.83,
+   "fin": 8.3,
+   "corte": false
+  },
+  {
+   "texto": "billetes",
+   "inicio": 8.3,
+   "fin": 8.76,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 8.76,
+   "fin": 9.04,
+   "corte": false
+  },
+  {
+   "texto": "pagar",
+   "inicio": 9.04,
+   "fin": 9.37,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 9.37,
+   "fin": 9.93,
+   "corte": false
+  },
+  {
+   "texto": "gastos.",
+   "inicio": 9.93,
+   "fin": 10.3,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 10.3,
+   "fin": 10.59,
+   "corte": false
+  },
+  {
+   "texto": "había",
+   "inicio": 10.6,
+   "fin": 10.94,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 10.94,
+   "fin": 11.44,
+   "corte": false
+  },
+  {
+   "texto": "dinero,",
+   "inicio": 11.44,
+   "fin": 11.83,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.83,
+   "fin": 11.97,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 11.97,
+   "fin": 12.17,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 12.17,
+   "fin": 12.41,
+   "corte": false
+  },
+  {
+   "texto": "cosas",
+   "inicio": 12.41,
+   "fin": 12.75,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 12.75,
+   "fin": 13.35,
+   "corte": false
+  },
+  {
+   "texto": "comprar.",
+   "inicio": 13.35,
+   "fin": 13.79,
+   "corte": true
+  },
+  {
+   "texto": "Así",
+   "inicio": 13.79,
+   "fin": 14.03,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 14.04,
+   "fin": 14.28,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 14.29,
+   "fin": 14.53,
+   "corte": false
+  },
+  {
+   "texto": "precios",
+   "inicio": 14.53,
+   "fin": 14.98,
+   "corte": false
+  },
+  {
+   "texto": "empezaron",
+   "inicio": 14.98,
+   "fin": 15.53,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 15.53,
+   "fin": 16.09,
+   "corte": false
+  },
+  {
+   "texto": "subir.",
+   "inicio": 16.09,
+   "fin": 16.44,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 16.44,
+   "fin": 16.6,
+   "corte": false
+  },
+  {
+   "texto": "luego",
+   "inicio": 16.6,
+   "fin": 16.98,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 16.98,
+   "fin": 17.15,
+   "corte": false
+  },
+  {
+   "texto": "volar.",
+   "inicio": 17.15,
+   "fin": 17.95,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 17.95,
+   "fin": 18.18,
+   "corte": false
+  },
+  {
+   "texto": "noviembre",
+   "inicio": 18.18,
+   "fin": 18.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.82,
+   "fin": 19.05,
+   "corte": false
+  },
+  {
+   "texto": "2008,",
+   "inicio": 19.05,
+   "fin": 19.75,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 19.75,
+   "fin": 19.99,
+   "corte": false
+  },
+  {
+   "texto": "inflación",
+   "inicio": 19.99,
+   "fin": 20.63,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 20.63,
+   "fin": 21.04,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 21.04,
+   "fin": 21.21,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 21.21,
+   "fin": 21.44,
+   "corte": false
+  },
+  {
+   "texto": "ritmo",
+   "inicio": 21.44,
+   "fin": 21.85,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.85,
+   "fin": 22.08,
+   "corte": false
+  },
+  {
+   "texto": "79.600",
+   "inicio": 22.09,
+   "fin": 22.84,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 22.84,
+   "fin": 23.43,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 23.43,
+   "fin": 23.72,
+   "corte": false
+  },
+  {
+   "texto": "ciento",
+   "inicio": 23.72,
+   "fin": 24.18,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 24.18,
+   "fin": 24.42,
+   "corte": false
+  },
+  {
+   "texto": "mes.",
+   "inicio": 24.42,
+   "fin": 25.0,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 25.0,
+   "fin": 25.25,
+   "corte": false
+  },
+  {
+   "texto": "precios",
+   "inicio": 25.25,
+   "fin": 25.71,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 25.71,
+   "fin": 25.91,
+   "corte": false
+  },
+  {
+   "texto": "duplicaban",
+   "inicio": 25.91,
+   "fin": 26.51,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 26.51,
+   "fin": 26.82,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 26.82,
+   "fin": 27.41,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 27.41,
+   "fin": 27.6,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 27.6,
+   "fin": 27.84,
+   "corte": false
+  },
+  {
+   "texto": "costaba",
+   "inicio": 27.84,
+   "fin": 28.27,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 28.28,
+   "fin": 28.56,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 28.56,
+   "fin": 28.8,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 28.8,
+   "fin": 28.99,
+   "corte": false
+  },
+  {
+   "texto": "mañana",
+   "inicio": 29.0,
+   "fin": 29.38,
+   "corte": false
+  },
+  {
+   "texto": "podía",
+   "inicio": 29.38,
+   "fin": 29.72,
+   "corte": false
+  },
+  {
+   "texto": "costar",
+   "inicio": 29.72,
+   "fin": 30.1,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 30.1,
+   "fin": 30.34,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 30.34,
+   "fin": 30.89,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 30.89,
+   "fin": 31.08,
+   "corte": false
+  },
+  {
+   "texto": "tarde.",
+   "inicio": 31.08,
+   "fin": 31.41,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 31.42,
+   "fin": 31.6,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 31.6,
+   "fin": 31.91,
+   "corte": false
+  },
+  {
+   "texto": "central",
+   "inicio": 31.91,
+   "fin": 32.32,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 32.32,
+   "fin": 32.64,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 32.64,
+   "fin": 32.78,
+   "corte": false
+  },
+  {
+   "texto": "sacar",
+   "inicio": 32.78,
+   "fin": 33.09,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 33.1,
+   "fin": 33.28,
+   "corte": false
+  },
+  {
+   "texto": "billete",
+   "inicio": 33.28,
+   "fin": 33.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.69,
+   "fin": 33.87,
+   "corte": false
+  },
+  {
+   "texto": "100",
+   "inicio": 33.87,
+   "fin": 34.37,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 34.37,
+   "fin": 34.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 34.82,
+   "fin": 35.0,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 35.0,
+   "fin": 35.67,
+   "corte": false
+  },
+  {
+   "texto": "zimbabuenses.",
+   "inicio": 35.67,
+   "fin": 36.3,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 36.31,
+   "fin": 36.46,
+   "corte": false
+  },
+  {
+   "texto": "aun",
+   "inicio": 36.46,
+   "fin": 36.72,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 36.72,
+   "fin": 36.97,
+   "corte": false
+  },
+  {
+   "texto": "valía",
+   "inicio": 36.97,
+   "fin": 37.33,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 37.33,
+   "fin": 37.94,
+   "corte": false
+  },
+  {
+   "texto": "poco.",
+   "inicio": 37.94,
+   "fin": 38.25,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 38.25,
+   "fin": 38.45,
+   "corte": false
+  },
+  {
+   "texto": "2009",
+   "inicio": 38.45,
+   "fin": 39.05,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 39.05,
+   "fin": 39.25,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 39.25,
+   "fin": 39.55,
+   "corte": false
+  },
+  {
+   "texto": "dejó",
+   "inicio": 39.55,
+   "fin": 39.86,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 39.86,
+   "fin": 40.06,
+   "corte": false
+  },
+  {
+   "texto": "moneda",
+   "inicio": 40.06,
+   "fin": 40.46,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 40.46,
+   "fin": 40.61,
+   "corte": false
+  },
+  {
+   "texto": "empezó",
+   "inicio": 40.61,
+   "fin": 41.01,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 41.01,
+   "fin": 41.16,
+   "corte": false
+  },
+  {
+   "texto": "usar",
+   "inicio": 41.16,
+   "fin": 41.46,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 41.47,
+   "fin": 41.92,
+   "corte": false
+  },
+  {
+   "texto": "estadounidenses.",
+   "inicio": 41.92,
+   "fin": 43.07,
+   "corte": true
+  },
+  {
+   "texto": "Imprimir",
+   "inicio": 43.07,
+   "fin": 43.55,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 43.55,
+   "fin": 43.93,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 43.93,
+   "fin": 44.12,
+   "corte": false
+  },
+  {
+   "texto": "crea",
+   "inicio": 44.13,
+   "fin": 44.41,
+   "corte": false
+  },
+  {
+   "texto": "riqueza:",
+   "inicio": 44.41,
+   "fin": 45.14,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 45.14,
+   "fin": 45.43,
+   "corte": false
+  },
+  {
+   "texto": "reparte",
+   "inicio": 45.43,
+   "fin": 45.86,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 45.86,
+   "fin": 46.05,
+   "corte": false
+  },
+  {
+   "texto": "misma",
+   "inicio": 46.05,
+   "fin": 46.38,
+   "corte": false
+  },
+  {
+   "texto": "riqueza",
+   "inicio": 46.38,
+   "fin": 46.81,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 46.82,
+   "fin": 47.01,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 47.01,
+   "fin": 47.25,
+   "corte": false
+  },
+  {
+   "texto": "papeles.",
+   "inicio": 47.25,
+   "fin": 48.14,
+   "corte": true
+  },
+  {
+   "texto": "¿Tu",
+   "inicio": 48.14,
+   "fin": 48.33,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 48.33,
+   "fin": 48.63,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 48.63,
+   "fin": 48.82,
+   "corte": false
+  },
+  {
+   "texto": "vivido",
+   "inicio": 48.82,
+   "fin": 49.22,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 49.22,
+   "fin": 49.46,
+   "corte": false
+  },
+  {
+   "texto": "inflación",
+   "inicio": 49.46,
+   "fin": 50.0,
+   "corte": false
+  },
+  {
+   "texto": "así",
+   "inicio": 50.0,
+   "fin": 50.25,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.25,
+   "fin": 50.44,
+   "corte": false
+  },
+  {
+   "texto": "fuerte?",
+   "inicio": 50.44,
+   "fin": 50.83,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Qué pasa si un país imprime dinero sin parar?",
+   "inicio": 0.0,
+   "fin": 2.65
+  },
+  {
+   "texto": "Pasó en Zimbabue.",
+   "inicio": 2.65,
+   "fin": 4.31
+  },
+  {
+   "texto": "A principios de los años 2000, el gobierno empezó a imprimir billetes para pagar sus gastos.",
+   "inicio": 4.31,
+   "fin": 10.3
+  },
+  {
+   "texto": "Pero había más dinero, y no más cosas que comprar.",
+   "inicio": 10.3,
+   "fin": 13.79
+  },
+  {
+   "texto": "Así que los precios empezaron a subir.",
+   "inicio": 13.79,
+   "fin": 16.44
+  },
+  {
+   "texto": "Y luego a volar.",
+   "inicio": 16.44,
+   "fin": 17.95
+  },
+  {
+   "texto": "En noviembre de 2008, la inflación llegó a un ritmo de 79.600 millones por ciento al mes.",
+   "inicio": 17.95,
+   "fin": 25.0
+  },
+  {
+   "texto": "Los precios se duplicaban cada día.",
+   "inicio": 25.0,
+   "fin": 27.41
+  },
+  {
+   "texto": "Lo que costaba algo por la mañana podía costar más por la tarde.",
+   "inicio": 27.41,
+   "fin": 31.41
+  },
+  {
+   "texto": "El banco central llegó a sacar un billete de 100 billones de dólares zimbabuenses.",
+   "inicio": 31.42,
+   "fin": 36.3
+  },
+  {
+   "texto": "Y aun así, valía muy poco.",
+   "inicio": 36.31,
+   "fin": 38.25
+  },
+  {
+   "texto": "En 2009 el país dejó su moneda y empezó a usar dólares estadounidenses.",
+   "inicio": 38.25,
+   "fin": 43.07
+  },
+  {
+   "texto": "Imprimir dinero no crea riqueza: solo reparte la misma riqueza en más papeles.",
+   "inicio": 43.07,
+   "fin": 48.14
+  },
+  {
+   "texto": "¿Tu país ha vivido una inflación así de fuerte?",
+   "inicio": 48.14,
+   "fin": 50.83
+  }
+ ],
+ "duracion": 50.83,
+ "voz": "narraciones/p-zimbabue.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Y si imprimes",
+    "dinero SIN PARAR?"
+   ],
+   "resaltar": "SIN PARAR?",
+   "img": {
+    "src": "ia/s16/prensa-monedas.png",
+    "size": 600,
+    "y": 1020
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 1,
+   "lineas": [
+    "Pasó en",
+    "ZIMBABUE"
+   ],
+   "resaltar": "ZIMBABUE",
+   "img": {
+    "src": "ia/s16/billetes-montana.png",
+    "size": 620,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 2,
+   "img": {
+    "src": "ia/s16/prensa-monedas.png",
+    "size": 680,
+    "y": 760
+   },
+   "texto": "Imprimían billetes",
+   "sub": "para pagar los gastos del gobierno"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 3,
+   "titulo": "Más dinero, mismas cosas",
+   "a": {
+    "etiqueta": "Dinero",
+    "img": "ia/s16/fajo.png",
+    "altura": 1,
+    "color": "#2ee59d"
+   },
+   "b": {
+    "etiqueta": "Cosas",
+    "img": "ia/s16/carrito.png",
+    "altura": 0.35,
+    "color": "#ff4d6d"
+   },
+   "pie": "Los precios empiezan a subir"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 5,
+   "lineas": [
+    "Y luego",
+    "a VOLAR"
+   ],
+   "resaltar": "VOLAR",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/etiqueta-precio.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Inflación al mes",
+   "valor": 79600,
+   "sufijo": " millones %",
+   "etiqueta": "noviembre de 2008",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/etiqueta-precio.png",
+    "size": 520,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 7,
+   "img": {
+    "src": "ia/s16/pan.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Precios ×2",
+   "sub": "cada día",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 9,
+   "antes": "Un billete de",
+   "valor": 100,
+   "sufijo": " billones",
+   "etiqueta": "de dólares zimbabuenses",
+   "img": {
+    "src": "ia/s16/billete-100.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s16/carretilla.png",
+    "size": 700,
+    "y": 760
+   },
+   "texto": "Y valía muy poco",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 11,
+   "cabecera": "2009",
+   "titulo": "Adiós a su moneda",
+   "lineas": [
+    "empezaron a usar el dólar"
+   ],
+   "img": {
+    "src": "ia/s16/billete-1.png",
+    "size": 480
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 12,
+   "cabecera": "LA LECCIÓN",
+   "titulo": "Imprimir no crea riqueza",
+   "lineas": [
+    "solo la reparte en más papeles"
+   ],
+   "img": {
+    "src": "ia/s16/billetes-montana.png",
+    "size": 500
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 13,
+   "pregunta": "¿Tu país ha vivido una inflación así?"
+  }
+ ]
+}

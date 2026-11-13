@@ -1,0 +1,185 @@
+[
+{
+"tipo": "titulo",
+"frase": 0,
+"lineas": [
+"¿Dónde se pagan",
+"MÁS impuestos?"
+],
+"resaltar": "MÁS",
+"img": {
+"src": "ia/s16/sello-impuestos.png",
+"size": 600,
+"y": 1020
+}
+},
+{
+"tipo": "tarjeta",
+"frase": 1,
+"cabecera": "CÓMO SE MIDE",
+"titulo": "Impuestos ÷ economía",
+"lineas": [
+"lo que recauda el país",
+"frente a todo lo que produce"
+],
+"img": {
+"src": "ia/calculadora.png",
+"size": 460
+}
+},
+{
+"tipo": "cifra",
+"frase": 2,
+"antes": "Dinamarca, campeón:",
+"valor": 45,
+"sufijo": " %",
+"etiqueta": "de su economía en impuestos",
+"color": "#ff4d6d",
+"img": {
+"src": "ia/s16/sello-impuestos.png",
+"size": 520,
+"y": 1080
+}
+},
+{
+"tipo": "tarjeta",
+"frase": 3,
+"cabecera": "LE SIGUEN",
+"titulo": "Francia y Austria",
+"lineas": [
+"con más del 43 %"
+],
+"color": "#ff4d6d"
+},
+{
+"tipo": "cifra",
+"frase": 4,
+"antes": "Promedio OCDE",
+"valor": 34,
+"sufijo": " %",
+"etiqueta": "el club de economías ricas",
+"img": {
+"src": "ia/s16/banco.png",
+"size": 540,
+"y": 1080
+}
+},
+{
+"tipo": "titulo",
+"frase": 5,
+"lineas": [
+"¿Y",
+"LATINOAMÉRICA?"
+],
+"resaltar": "LATINOAMÉRICA?",
+"img": {
+"src": "ia/s16/lupa.png",
+"size": 540,
+"y": 1040
+}
+},
+{
+"tipo": "barras",
+"frase": 6,
+"titulo": "Impuestos / economía",
+"items": [
+{
+"etiqueta": "Dinamarca",
+"valor": 45,
+"texto": "45 %",
+"color": "#ff4d6d"
+},
+{
+"etiqueta": "Promedio OCDE",
+"valor": 34,
+"texto": "34 %",
+"color": "#7fd1ff"
+},
+{
+"etiqueta": "Brasil",
+"valor": 32,
+"texto": "32 %",
+"color": "#ffd60a"
+},
+{
+"etiqueta": "Latinoamérica",
+"valor": 21,
+"texto": "21 %",
+"color": "#2ee59d"
+},
+{
+"etiqueta": "México",
+"valor": 18,
+"texto": "18 %",
+"color": "#2ee59d"
+}
+]
+},
+{
+"tipo": "titulo",
+"frase": 9,
+"lineas": [
+"¿Mejor pagar",
+"POCOS?"
+],
+"resaltar": "POCOS?",
+"img": {
+"src": "ia/s16/balanza.png",
+"size": 560,
+"y": 1040
+}
+},
+{
+"tipo": "tarjeta",
+"frase": 10,
+"cabecera": "DEPENDE",
+"titulo": "¿Qué recibes a cambio?",
+"lineas": [],
+"img": {
+"src": "ia/s16/cofre-recibo.png",
+"size": 480
+}
+},
+{
+"tipo": "lista",
+"frase": 11,
+"titulo": "En Dinamarca, gratis",
+"items": [
+{
+"texto": "Salud pública",
+"emoji": "🏥",
+"enFrase": 11
+},
+{
+"texto": "Universidad pública",
+"emoji": "🎓",
+"enFrase": 11,
+"mas": 1.0
+}
+]
+},
+{
+"tipo": "comparar",
+"frase": 12,
+"titulo": "El dilema",
+"a": {
+"etiqueta": "Pocos impuestos",
+"img": "ia/s16/fajo.png",
+"altura": 0.5,
+"valor": "menos servicios",
+"color": "#2ee59d"
+},
+"b": {
+"etiqueta": "Muchos impuestos",
+"img": "ia/s16/sello-impuestos.png",
+"altura": 1,
+"valor": "menos en tu bolsillo",
+"color": "#ff4d6d"
+}
+},
+{
+"tipo": "remate",
+"frase": 13,
+"pregunta": "¿Pagarías más impuestos por más servicios?"
+}
+]

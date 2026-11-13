@@ -1,0 +1,19 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Y si tu país","usa el DÓLAR?"],"resaltar":"DÓLAR?","img":{"src":"ia/s16/billete-100.png","size":600,"y":1020}},
+ {"tipo":"titulo","frase":1,"lineas":["Ecuador","lo HIZO"],"resaltar":"HIZO","sub":"año 2000","img":{"src":"ia/s16/billete-1.png","size":600,"y":1040}},
+ {"tipo":"imagen","frase":2,"img":{"src":"ia/s16/banco.png","size":620,"y":760},"texto":"Bancos quebrados","sub":"y el sucre perdía valor cada día","color":"#ff4d6d"},
+ {"tipo":"cifra","frase":3,"antes":"Inflación anual","valor":90,"sufijo":" %","etiqueta":"antes de dolarizar","color":"#ff4d6d","img":{"src":"ia/s16/etiqueta-precio.png","size":520,"y":1080}},
+ {"tipo":"cifra","frase":4,"antes":"Por cada dólar","valor":25000,"sufijo":" sucres","etiqueta":"y adiós al sucre","img":{"src":"ia/s16/billetes-montana.png","size":580,"y":1080}},
+ {"tipo":"barras","frase":6,"titulo":"Inflación anual","items":[
+   {"etiqueta":"Antes","valor":90,"texto":"~90 %","img":"ia/s16/etiqueta-precio.png","color":"#ff4d6d"},
+   {"etiqueta":"Pocos años después","valor":3,"texto":"< 3 %","img":"ia/s16/billete-1.png","color":"#2ee59d"}]},
+ {"tipo":"imagen","frase":7,"img":{"src":"ia/s16/frasco-monedas.png","size":600,"y":760},"texto":"De las más bajas","sub":"de Latinoamérica","color":"#2ee59d"},
+ {"tipo":"titulo","frase":8,"lineas":["Pero tiene","un PRECIO"],"resaltar":"PRECIO","color":"#ff4d6d","img":{"src":"ia/s16/etiqueta-precio.png","size":540,"y":1040}},
+ {"tipo":"lista","frase":9,"titulo":"Lo que pierde","items":[
+   {"texto":"No puede imprimir dinero","img":"ia/s16/prensa-monedas.png","enFrase":9},
+   {"texto":"No mueve el tipo de cambio","emoji":"💱","enFrase":9,"mas":1.4},
+   {"texto":"Dólar fuerte: exporta más caro","img":"ia/s16/fabrica.png","color":"#ff4d6d","enFrase":10}]},
+ {"tipo":"comparar","frase":11,"titulo":"¿Qué es la dolarización?","a":{"etiqueta":"Salvavidas","img":"ia/s16/caja-fuerte.png","altura":1,"color":"#2ee59d"},"b":{"etiqueta":"Camisa de fuerza","img":"ia/s16/cerdito-cadena.png","altura":1,"color":"#ff4d6d"},"pie":"Depende de a quién preguntes"},
+ {"tipo":"imagen","frase":12,"img":{"src":"ia/s16/billete-100.png","size":640,"y":760},"texto":"Aun así, muy popular","sub":"en Ecuador","color":"#2ee59d"},
+ {"tipo":"remate","frase":13,"pregunta":"¿Dolarizarías tu país?"}
+]

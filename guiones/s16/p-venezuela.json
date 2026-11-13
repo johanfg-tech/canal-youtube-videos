@@ -1,0 +1,1121 @@
+{
+ "palabras": [
+  {
+   "texto": "Venezuela",
+   "inicio": 0.0,
+   "fin": 0.53,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 0.54,
+   "fin": 0.87,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 0.88,
+   "fin": 1.12,
+   "corte": false
+  },
+  {
+   "texto": "petróleo",
+   "inicio": 1.12,
+   "fin": 1.6,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.6,
+   "fin": 1.85,
+   "corte": false
+  },
+  {
+   "texto": "ningún",
+   "inicio": 1.85,
+   "fin": 2.23,
+   "corte": false
+  },
+  {
+   "texto": "otro",
+   "inicio": 2.24,
+   "fin": 2.53,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 2.53,
+   "fin": 2.82,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 2.82,
+   "fin": 3.06,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 3.06,
+   "fin": 3.4,
+   "corte": true
+  },
+  {
+   "texto": "Sus",
+   "inicio": 3.4,
+   "fin": 4.11,
+   "corte": false
+  },
+  {
+   "texto": "reservas",
+   "inicio": 4.11,
+   "fin": 4.61,
+   "corte": false
+  },
+  {
+   "texto": "probadas",
+   "inicio": 4.61,
+   "fin": 5.1,
+   "corte": false
+  },
+  {
+   "texto": "rondan",
+   "inicio": 5.11,
+   "fin": 5.5,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 5.5,
+   "fin": 5.75,
+   "corte": false
+  },
+  {
+   "texto": "300.000",
+   "inicio": 5.75,
+   "fin": 6.44,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 6.45,
+   "fin": 6.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 6.94,
+   "fin": 7.14,
+   "corte": false
+  },
+  {
+   "texto": "barriles,",
+   "inicio": 7.14,
+   "fin": 7.64,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 7.64,
+   "fin": 7.88,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 7.88,
+   "fin": 8.43,
+   "corte": false
+  },
+  {
+   "texto": "Arabia",
+   "inicio": 8.43,
+   "fin": 8.82,
+   "corte": false
+  },
+  {
+   "texto": "Saudita.",
+   "inicio": 8.82,
+   "fin": 9.27,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 9.27,
+   "fin": 9.41,
+   "corte": false
+  },
+  {
+   "texto": "aun",
+   "inicio": 9.41,
+   "fin": 10.14,
+   "corte": false
+  },
+  {
+   "texto": "así",
+   "inicio": 10.14,
+   "fin": 10.38,
+   "corte": false
+  },
+  {
+   "texto": "vivió",
+   "inicio": 10.38,
+   "fin": 10.72,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 10.72,
+   "fin": 10.96,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.96,
+   "fin": 11.15,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 11.15,
+   "fin": 11.39,
+   "corte": false
+  },
+  {
+   "texto": "peores",
+   "inicio": 11.39,
+   "fin": 11.77,
+   "corte": false
+  },
+  {
+   "texto": "crisis",
+   "inicio": 11.77,
+   "fin": 12.15,
+   "corte": false
+  },
+  {
+   "texto": "económicas",
+   "inicio": 12.15,
+   "fin": 12.73,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.73,
+   "fin": 12.92,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 12.92,
+   "fin": 13.11,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 13.11,
+   "fin": 13.59,
+   "corte": false
+  },
+  {
+   "texto": "moderna.",
+   "inicio": 13.59,
+   "fin": 14.02,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 14.02,
+   "fin": 14.22,
+   "corte": false
+  },
+  {
+   "texto": "2013",
+   "inicio": 14.22,
+   "fin": 15.28,
+   "corte": false
+  },
+  {
+   "texto": "sacaba",
+   "inicio": 15.28,
+   "fin": 15.67,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 15.67,
+   "fin": 15.97,
+   "corte": false
+  },
+  {
+   "texto": "3",
+   "inicio": 15.97,
+   "fin": 16.42,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 16.42,
+   "fin": 16.91,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 16.91,
+   "fin": 17.11,
+   "corte": false
+  },
+  {
+   "texto": "barriles",
+   "inicio": 17.11,
+   "fin": 17.61,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 17.61,
+   "fin": 17.8,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 17.81,
+   "fin": 18.05,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 18.05,
+   "fin": 18.74,
+   "corte": false
+  },
+  {
+   "texto": "2020",
+   "inicio": 18.74,
+   "fin": 19.46,
+   "corte": false
+  },
+  {
+   "texto": "cayó",
+   "inicio": 19.47,
+   "fin": 19.83,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.83,
+   "fin": 20.01,
+   "corte": false
+  },
+  {
+   "texto": "menos",
+   "inicio": 20.01,
+   "fin": 20.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 20.43,
+   "fin": 20.67,
+   "corte": false
+  },
+  {
+   "texto": "400.000.",
+   "inicio": 20.68,
+   "fin": 22.06,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 22.06,
+   "fin": 22.26,
+   "corte": false
+  },
+  {
+   "texto": "economía",
+   "inicio": 22.26,
+   "fin": 22.78,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 22.78,
+   "fin": 22.98,
+   "corte": false
+  },
+  {
+   "texto": "encogió",
+   "inicio": 22.98,
+   "fin": 23.45,
+   "corte": false
+  },
+  {
+   "texto": "cerca",
+   "inicio": 23.45,
+   "fin": 23.81,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 23.81,
+   "fin": 24.01,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 24.01,
+   "fin": 24.22,
+   "corte": false
+  },
+  {
+   "texto": "80",
+   "inicio": 24.22,
+   "fin": 24.73,
+   "corte": false
+  },
+  {
+   "texto": "%,",
+   "inicio": 24.73,
+   "fin": 24.84,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 24.84,
+   "fin": 25.5,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 25.5,
+   "fin": 25.76,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 25.76,
+   "fin": 26.07,
+   "corte": false
+  },
+  {
+   "texto": "nunca",
+   "inicio": 26.07,
+   "fin": 26.43,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 26.43,
+   "fin": 26.74,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 26.74,
+   "fin": 26.94,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 26.94,
+   "fin": 27.15,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 27.15,
+   "fin": 27.46,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 27.46,
+   "fin": 27.71,
+   "corte": false
+  },
+  {
+   "texto": "guerra.",
+   "inicio": 27.71,
+   "fin": 28.51,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 28.51,
+   "fin": 28.65,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 28.65,
+   "fin": 28.93,
+   "corte": false
+  },
+  {
+   "texto": "8",
+   "inicio": 28.93,
+   "fin": 29.34,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 29.35,
+   "fin": 29.81,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.81,
+   "fin": 29.99,
+   "corte": false
+  },
+  {
+   "texto": "venezolanos",
+   "inicio": 30.0,
+   "fin": 30.6,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 30.6,
+   "fin": 30.78,
+   "corte": false
+  },
+  {
+   "texto": "han",
+   "inicio": 30.78,
+   "fin": 31.02,
+   "corte": false
+  },
+  {
+   "texto": "ido",
+   "inicio": 31.02,
+   "fin": 31.25,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 31.25,
+   "fin": 31.48,
+   "corte": false
+  },
+  {
+   "texto": "país.",
+   "inicio": 31.48,
+   "fin": 32.26,
+   "corte": true
+  },
+  {
+   "texto": "¿Cómo",
+   "inicio": 32.26,
+   "fin": 32.58,
+   "corte": false
+  },
+  {
+   "texto": "pasa",
+   "inicio": 32.59,
+   "fin": 32.91,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 32.91,
+   "fin": 33.23,
+   "corte": false
+  },
+  {
+   "texto": "así?",
+   "inicio": 33.23,
+   "fin": 34.04,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 34.04,
+   "fin": 34.28,
+   "corte": false
+  },
+  {
+   "texto": "economistas",
+   "inicio": 34.28,
+   "fin": 34.92,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 34.92,
+   "fin": 35.11,
+   "corte": false
+  },
+  {
+   "texto": "llaman",
+   "inicio": 35.11,
+   "fin": 35.5,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 35.5,
+   "fin": 35.7,
+   "corte": false
+  },
+  {
+   "texto": "maldición",
+   "inicio": 35.7,
+   "fin": 36.24,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.24,
+   "fin": 36.43,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 36.43,
+   "fin": 36.68,
+   "corte": false
+  },
+  {
+   "texto": "recursos.",
+   "inicio": 36.68,
+   "fin": 37.62,
+   "corte": true
+  },
+  {
+   "texto": "Cuando",
+   "inicio": 37.62,
+   "fin": 37.99,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 37.99,
+   "fin": 38.18,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 38.18,
+   "fin": 38.46,
+   "corte": false
+  },
+  {
+   "texto": "depende",
+   "inicio": 38.46,
+   "fin": 38.89,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 38.89,
+   "fin": 39.17,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 39.17,
+   "fin": 39.45,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.46,
+   "fin": 39.64,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 39.64,
+   "fin": 39.88,
+   "corte": false
+  },
+  {
+   "texto": "cosa,",
+   "inicio": 39.88,
+   "fin": 40.16,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 40.16,
+   "fin": 40.35,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 40.35,
+   "fin": 40.54,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 40.54,
+   "fin": 40.92,
+   "corte": false
+  },
+  {
+   "texto": "cae",
+   "inicio": 40.92,
+   "fin": 41.15,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 41.15,
+   "fin": 41.29,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 41.29,
+   "fin": 41.48,
+   "corte": false
+  },
+  {
+   "texto": "producción",
+   "inicio": 41.48,
+   "fin": 42.05,
+   "corte": false
+  },
+  {
+   "texto": "falla,",
+   "inicio": 42.05,
+   "fin": 42.38,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 42.38,
+   "fin": 42.99,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 42.99,
+   "fin": 43.18,
+   "corte": false
+  },
+  {
+   "texto": "viene",
+   "inicio": 43.18,
+   "fin": 43.51,
+   "corte": false
+  },
+  {
+   "texto": "abajo.",
+   "inicio": 43.51,
+   "fin": 43.84,
+   "corte": true
+  },
+  {
+   "texto": "A",
+   "inicio": 43.84,
+   "fin": 44.46,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 44.46,
+   "fin": 44.71,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 44.71,
+   "fin": 44.9,
+   "corte": false
+  },
+  {
+   "texto": "sumaron",
+   "inicio": 44.9,
+   "fin": 45.34,
+   "corte": false
+  },
+  {
+   "texto": "malas",
+   "inicio": 45.34,
+   "fin": 45.68,
+   "corte": false
+  },
+  {
+   "texto": "decisiones,",
+   "inicio": 45.68,
+   "fin": 46.26,
+   "corte": false
+  },
+  {
+   "texto": "poca",
+   "inicio": 46.26,
+   "fin": 46.55,
+   "corte": false
+  },
+  {
+   "texto": "inversión",
+   "inicio": 46.55,
+   "fin": 47.09,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 47.09,
+   "fin": 47.23,
+   "corte": false
+  },
+  {
+   "texto": "sanciones.",
+   "inicio": 47.23,
+   "fin": 47.77,
+   "corte": true
+  },
+  {
+   "texto": "Tener",
+   "inicio": 47.77,
+   "fin": 48.11,
+   "corte": false
+  },
+  {
+   "texto": "riqueza",
+   "inicio": 48.11,
+   "fin": 48.95,
+   "corte": false
+  },
+  {
+   "texto": "bajo",
+   "inicio": 48.96,
+   "fin": 49.25,
+   "corte": false
+  },
+  {
+   "texto": "tierra",
+   "inicio": 49.25,
+   "fin": 49.63,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 49.64,
+   "fin": 49.83,
+   "corte": false
+  },
+  {
+   "texto": "garantiza",
+   "inicio": 49.83,
+   "fin": 50.36,
+   "corte": false
+  },
+  {
+   "texto": "riqueza",
+   "inicio": 50.36,
+   "fin": 50.8,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 50.8,
+   "fin": 50.99,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 50.99,
+   "fin": 51.19,
+   "corte": false
+  },
+  {
+   "texto": "bolsillo.",
+   "inicio": 51.19,
+   "fin": 51.67,
+   "corte": true
+  },
+  {
+   "texto": "¿Conoces",
+   "inicio": 51.67,
+   "fin": 52.11,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 52.11,
+   "fin": 52.78,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 52.78,
+   "fin": 53.22,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 53.22,
+   "fin": 53.46,
+   "corte": false
+  },
+  {
+   "texto": "haya",
+   "inicio": 53.46,
+   "fin": 53.75,
+   "corte": false
+  },
+  {
+   "texto": "tenido",
+   "inicio": 53.75,
+   "fin": 54.14,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 54.14,
+   "fin": 54.38,
+   "corte": false
+  },
+  {
+   "texto": "irse",
+   "inicio": 54.38,
+   "fin": 54.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 54.68,
+   "fin": 54.87,
+   "corte": false
+  },
+  {
+   "texto": "Venezuela?",
+   "inicio": 54.87,
+   "fin": 55.41,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Venezuela tiene más petróleo que ningún otro país del mundo.",
+   "inicio": 0.0,
+   "fin": 3.4
+  },
+  {
+   "texto": "Sus reservas probadas rondan los 300.000 millones de barriles, más que Arabia Saudita.",
+   "inicio": 3.4,
+   "fin": 9.27
+  },
+  {
+   "texto": "Y aun así vivió una de las peores crisis económicas de la historia moderna.",
+   "inicio": 9.27,
+   "fin": 14.02
+  },
+  {
+   "texto": "En 2013 sacaba casi 3 millones de barriles al día.",
+   "inicio": 14.02,
+   "fin": 18.05
+  },
+  {
+   "texto": "En 2020 cayó a menos de 400.000.",
+   "inicio": 18.05,
+   "fin": 22.06
+  },
+  {
+   "texto": "Su economía se encogió cerca de un 80 %, algo que casi nunca pasa en un país sin guerra.",
+   "inicio": 22.06,
+   "fin": 28.51
+  },
+  {
+   "texto": "Y casi 8 millones de venezolanos se han ido del país.",
+   "inicio": 28.51,
+   "fin": 32.26
+  },
+  {
+   "texto": "¿Cómo pasa algo así?",
+   "inicio": 32.26,
+   "fin": 34.04
+  },
+  {
+   "texto": "Los economistas lo llaman la maldición de los recursos.",
+   "inicio": 34.04,
+   "fin": 37.62
+  },
+  {
+   "texto": "Cuando un país depende casi solo de una cosa, si su precio cae o su producción falla, todo se viene abajo.",
+   "inicio": 37.62,
+   "fin": 43.84
+  },
+  {
+   "texto": "A eso se sumaron malas decisiones, poca inversión y sanciones.",
+   "inicio": 43.84,
+   "fin": 47.77
+  },
+  {
+   "texto": "Tener riqueza bajo tierra no garantiza riqueza en el bolsillo.",
+   "inicio": 47.77,
+   "fin": 51.67
+  },
+  {
+   "texto": "¿Conoces a alguien que haya tenido que irse de Venezuela?",
+   "inicio": 51.67,
+   "fin": 55.41
+  }
+ ],
+ "duracion": 55.41,
+ "voz": "narraciones/p-venezuela.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "El país con MÁS",
+    "petróleo del mundo"
+   ],
+   "resaltar": "MÁS",
+   "img": {
+    "src": "ia/s16/barril.png",
+    "size": 600,
+    "y": 1020
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 1,
+   "antes": "Reservas probadas",
+   "valor": 300,
+   "sufijo": " mil millones",
+   "etiqueta": "de barriles, más que Arabia Saudita",
+   "img": {
+    "src": "ia/s16/barril.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 2,
+   "lineas": [
+    "Y aun así…",
+    "CRISIS"
+   ],
+   "resaltar": "CRISIS",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/billete-desvanece.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "barras",
+   "frase": 3,
+   "titulo": "Barriles al día",
+   "items": [
+    {
+     "etiqueta": "2013",
+     "valor": 2.9,
+     "texto": "~3 millones",
+     "img": "ia/s16/barril.png",
+     "color": "#2ee59d"
+    },
+    {
+     "etiqueta": "2020",
+     "valor": 0.4,
+     "texto": "< 400.000",
+     "img": "ia/s16/barril.png",
+     "color": "#ff4d6d"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "frase": 5,
+   "antes": "Su economía cayó",
+   "valor": 80,
+   "prefijo": "-",
+   "sufijo": " %",
+   "etiqueta": "casi nunca pasa sin guerra",
+   "color": "#ff4d6d",
+   "img": {
+    "src": "ia/s16/desierto.png",
+    "size": 580,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Se han ido",
+   "valor": 8,
+   "sufijo": " millones",
+   "etiqueta": "de venezolanos",
+   "img": {
+    "src": "ia/s16/maleta.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 7,
+   "lineas": [
+    "¿Cómo pasa",
+    "ALGO ASÍ?"
+   ],
+   "resaltar": "ALGO ASÍ?",
+   "img": {
+    "src": "ia/s16/lupa.png",
+    "size": 540,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 8,
+   "cabecera": "LOS ECONOMISTAS LO LLAMAN",
+   "titulo": "La maldición de los recursos",
+   "lineas": [
+    "depender de una sola cosa"
+   ],
+   "img": {
+    "src": "ia/s16/barril.png",
+    "size": 460
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 10,
+   "titulo": "Y además…",
+   "items": [
+    {
+     "texto": "Malas decisiones",
+     "emoji": "📉",
+     "en": 0.0
+    },
+    {
+     "texto": "Poca inversión",
+     "emoji": "🏗️",
+     "en": 0.9
+    },
+    {
+     "texto": "Sanciones",
+     "emoji": "🚫",
+     "color": "#ff4d6d",
+     "en": 1.8
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 11,
+   "img": {
+    "src": "ia/s16/cofre-recibo.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "Riqueza bajo tierra",
+   "sub": "no es riqueza en el bolsillo",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "remate",
+   "frase": 12,
+   "pregunta": "¿Conoces a alguien que haya tenido que irse?"
+  }
+ ]
+}

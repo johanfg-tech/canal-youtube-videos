@@ -1,0 +1,1034 @@
+{
+ "palabras": [
+  {
+   "texto": "En",
+   "inicio": 0.0,
+   "fin": 0.2,
+   "corte": false
+  },
+  {
+   "texto": "2021,",
+   "inicio": 0.21,
+   "fin": 0.82,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 0.82,
+   "fin": 1.02,
+   "corte": false
+  },
+  {
+   "texto": "Salvador",
+   "inicio": 1.02,
+   "fin": 1.54,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 1.54,
+   "fin": 1.79,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 1.79,
+   "fin": 2.0,
+   "corte": false
+  },
+  {
+   "texto": "primer",
+   "inicio": 2.0,
+   "fin": 2.4,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 2.41,
+   "fin": 2.71,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 2.71,
+   "fin": 2.97,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 2.97,
+   "fin": 3.33,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 3.33,
+   "fin": 3.53,
+   "corte": false
+  },
+  {
+   "texto": "hacer",
+   "inicio": 3.53,
+   "fin": 3.89,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 3.89,
+   "fin": 4.14,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin",
+   "inicio": 4.15,
+   "fin": 4.61,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.61,
+   "fin": 4.86,
+   "corte": false
+  },
+  {
+   "texto": "moneda",
+   "inicio": 4.86,
+   "fin": 5.27,
+   "corte": false
+  },
+  {
+   "texto": "oficial.",
+   "inicio": 5.27,
+   "fin": 5.73,
+   "corte": true
+  },
+  {
+   "texto": "Todos",
+   "inicio": 5.73,
+   "fin": 6.63,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 6.63,
+   "fin": 6.88,
+   "corte": false
+  },
+  {
+   "texto": "comercios",
+   "inicio": 6.88,
+   "fin": 7.42,
+   "corte": false
+  },
+  {
+   "texto": "estaban",
+   "inicio": 7.42,
+   "fin": 7.87,
+   "corte": false
+  },
+  {
+   "texto": "obligados",
+   "inicio": 7.87,
+   "fin": 8.41,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 8.41,
+   "fin": 8.56,
+   "corte": false
+  },
+  {
+   "texto": "aceptarlo.",
+   "inicio": 8.56,
+   "fin": 9.1,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 9.1,
+   "fin": 9.79,
+   "corte": false
+  },
+  {
+   "texto": "gobierno",
+   "inicio": 9.79,
+   "fin": 10.26,
+   "corte": false
+  },
+  {
+   "texto": "lanzó",
+   "inicio": 10.26,
+   "fin": 10.59,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 10.59,
+   "fin": 10.78,
+   "corte": false
+  },
+  {
+   "texto": "propia",
+   "inicio": 10.78,
+   "fin": 11.16,
+   "corte": false
+  },
+  {
+   "texto": "billetera,",
+   "inicio": 11.16,
+   "fin": 12.0,
+   "corte": false
+  },
+  {
+   "texto": "Chivo,",
+   "inicio": 12.0,
+   "fin": 12.63,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 12.63,
+   "fin": 12.77,
+   "corte": false
+  },
+  {
+   "texto": "regaló",
+   "inicio": 12.77,
+   "fin": 13.15,
+   "corte": false
+  },
+  {
+   "texto": "30",
+   "inicio": 13.15,
+   "fin": 13.62,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 13.62,
+   "fin": 14.04,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 14.04,
+   "fin": 14.23,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin",
+   "inicio": 14.23,
+   "fin": 14.65,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 14.66,
+   "fin": 14.8,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 14.8,
+   "fin": 15.08,
+   "corte": false
+  },
+  {
+   "texto": "ciudadano",
+   "inicio": 15.08,
+   "fin": 15.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 15.6,
+   "fin": 15.83,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 15.83,
+   "fin": 16.02,
+   "corte": false
+  },
+  {
+   "texto": "descargara.",
+   "inicio": 16.02,
+   "fin": 17.02,
+   "corte": true
+  },
+  {
+   "texto": "También",
+   "inicio": 17.02,
+   "fin": 17.46,
+   "corte": false
+  },
+  {
+   "texto": "empezó",
+   "inicio": 17.46,
+   "fin": 17.85,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 17.85,
+   "fin": 18.0,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 18.0,
+   "fin": 18.44,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin",
+   "inicio": 18.44,
+   "fin": 18.88,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 18.89,
+   "fin": 19.13,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 19.13,
+   "fin": 19.99,
+   "corte": false
+  },
+  {
+   "texto": "público.",
+   "inicio": 19.99,
+   "fin": 20.44,
+   "corte": true
+  },
+  {
+   "texto": "¿Y",
+   "inicio": 20.44,
+   "fin": 20.61,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 20.61,
+   "fin": 21.31,
+   "corte": false
+  },
+  {
+   "texto": "pasó?",
+   "inicio": 21.31,
+   "fin": 21.66,
+   "corte": true
+  },
+  {
+   "texto": "Mucha",
+   "inicio": 21.66,
+   "fin": 22.0,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 22.0,
+   "fin": 22.33,
+   "corte": false
+  },
+  {
+   "texto": "cobró",
+   "inicio": 22.33,
+   "fin": 22.67,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 22.67,
+   "fin": 22.86,
+   "corte": false
+  },
+  {
+   "texto": "regalo",
+   "inicio": 22.86,
+   "fin": 23.25,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 23.25,
+   "fin": 23.39,
+   "corte": false
+  },
+  {
+   "texto": "siguió",
+   "inicio": 23.39,
+   "fin": 23.78,
+   "corte": false
+  },
+  {
+   "texto": "pagando",
+   "inicio": 23.78,
+   "fin": 24.21,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 24.21,
+   "fin": 24.4,
+   "corte": false
+  },
+  {
+   "texto": "efectivo",
+   "inicio": 24.4,
+   "fin": 24.88,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 24.88,
+   "fin": 25.03,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 25.03,
+   "fin": 25.7,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 25.71,
+   "fin": 26.14,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 26.14,
+   "fin": 26.35,
+   "corte": false
+  },
+  {
+   "texto": "2025,",
+   "inicio": 26.35,
+   "fin": 26.98,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 26.98,
+   "fin": 27.3,
+   "corte": false
+  },
+  {
+   "texto": "conseguir",
+   "inicio": 27.3,
+   "fin": 27.88,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 27.88,
+   "fin": 28.09,
+   "corte": false
+  },
+  {
+   "texto": "préstamo",
+   "inicio": 28.09,
+   "fin": 28.62,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.62,
+   "fin": 28.83,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 28.83,
+   "fin": 29.15,
+   "corte": false
+  },
+  {
+   "texto": "1.400",
+   "inicio": 29.15,
+   "fin": 29.78,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 29.78,
+   "fin": 30.31,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.31,
+   "fin": 30.52,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 30.52,
+   "fin": 30.99,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 30.99,
+   "fin": 31.26,
+   "corte": false
+  },
+  {
+   "texto": "Fondo",
+   "inicio": 31.26,
+   "fin": 31.63,
+   "corte": false
+  },
+  {
+   "texto": "Monetario",
+   "inicio": 31.63,
+   "fin": 32.21,
+   "corte": false
+  },
+  {
+   "texto": "Internacional,",
+   "inicio": 32.21,
+   "fin": 33.29,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 33.29,
+   "fin": 33.5,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 33.5,
+   "fin": 33.81,
+   "corte": false
+  },
+  {
+   "texto": "cambió",
+   "inicio": 33.81,
+   "fin": 34.66,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 34.66,
+   "fin": 34.87,
+   "corte": false
+  },
+  {
+   "texto": "ley.",
+   "inicio": 34.87,
+   "fin": 35.13,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 35.13,
+   "fin": 35.33,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin",
+   "inicio": 35.33,
+   "fin": 35.79,
+   "corte": false
+  },
+  {
+   "texto": "dejó",
+   "inicio": 35.79,
+   "fin": 36.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.09,
+   "fin": 36.29,
+   "corte": false
+  },
+  {
+   "texto": "ser",
+   "inicio": 36.29,
+   "fin": 36.55,
+   "corte": false
+  },
+  {
+   "texto": "obligatorio.",
+   "inicio": 36.55,
+   "fin": 37.7,
+   "corte": true
+  },
+  {
+   "texto": "Según",
+   "inicio": 37.7,
+   "fin": 38.09,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.09,
+   "fin": 38.31,
+   "corte": false
+  },
+  {
+   "texto": "FMI,",
+   "inicio": 38.31,
+   "fin": 38.59,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.59,
+   "fin": 38.82,
+   "corte": false
+  },
+  {
+   "texto": "gobierno",
+   "inicio": 38.82,
+   "fin": 39.38,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 39.38,
+   "fin": 39.6,
+   "corte": false
+  },
+  {
+   "texto": "compra",
+   "inicio": 39.6,
+   "fin": 40.05,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin",
+   "inicio": 40.05,
+   "fin": 40.56,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 40.56,
+   "fin": 40.84,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 40.84,
+   "fin": 41.29,
+   "corte": false
+  },
+  {
+   "texto": "público",
+   "inicio": 41.29,
+   "fin": 41.79,
+   "corte": false
+  },
+  {
+   "texto": "desde",
+   "inicio": 41.79,
+   "fin": 42.18,
+   "corte": false
+  },
+  {
+   "texto": "junio",
+   "inicio": 42.18,
+   "fin": 42.58,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.58,
+   "fin": 43.25,
+   "corte": false
+  },
+  {
+   "texto": "2025.",
+   "inicio": 43.25,
+   "fin": 43.92,
+   "corte": true
+  },
+  {
+   "texto": "Aun",
+   "inicio": 43.92,
+   "fin": 44.17,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 44.17,
+   "fin": 44.41,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 44.41,
+   "fin": 44.61,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 44.61,
+   "fin": 44.9,
+   "corte": false
+  },
+  {
+   "texto": "todavía",
+   "inicio": 44.9,
+   "fin": 45.34,
+   "corte": false
+  },
+  {
+   "texto": "guarda",
+   "inicio": 45.34,
+   "fin": 45.73,
+   "corte": false
+  },
+  {
+   "texto": "varios",
+   "inicio": 45.73,
+   "fin": 46.12,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 46.12,
+   "fin": 46.46,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 46.46,
+   "fin": 46.65,
+   "corte": false
+  },
+  {
+   "texto": "bitcoins.",
+   "inicio": 46.65,
+   "fin": 47.49,
+   "corte": true
+  },
+  {
+   "texto": "Fue",
+   "inicio": 47.49,
+   "fin": 47.73,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 47.73,
+   "fin": 47.97,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 47.97,
+   "fin": 48.16,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 48.16,
+   "fin": 48.4,
+   "corte": false
+  },
+  {
+   "texto": "experimentos",
+   "inicio": 48.41,
+   "fin": 49.08,
+   "corte": false
+  },
+  {
+   "texto": "económicos",
+   "inicio": 49.08,
+   "fin": 49.66,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 49.66,
+   "fin": 49.9,
+   "corte": false
+  },
+  {
+   "texto": "polémicos",
+   "inicio": 49.9,
+   "fin": 50.44,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.44,
+   "fin": 50.63,
+   "corte": false
+  },
+  {
+   "texto": "este",
+   "inicio": 50.63,
+   "fin": 50.92,
+   "corte": false
+  },
+  {
+   "texto": "siglo.",
+   "inicio": 50.92,
+   "fin": 51.75,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 51.75,
+   "fin": 51.95,
+   "corte": false
+  },
+  {
+   "texto": "pagarías",
+   "inicio": 51.95,
+   "fin": 52.46,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 52.46,
+   "fin": 52.66,
+   "corte": false
+  },
+  {
+   "texto": "pan",
+   "inicio": 52.66,
+   "fin": 52.92,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 52.92,
+   "fin": 53.17,
+   "corte": false
+  },
+  {
+   "texto": "bitcoin?",
+   "inicio": 53.17,
+   "fin": 53.63,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "En 2021, El Salvador fue el primer país del mundo en hacer del bitcoin una moneda oficial.",
+   "inicio": 0.0,
+   "fin": 5.73
+  },
+  {
+   "texto": "Todos los comercios estaban obligados a aceptarlo.",
+   "inicio": 5.73,
+   "fin": 9.1
+  },
+  {
+   "texto": "El gobierno lanzó su propia billetera, Chivo, y regaló 30 dólares en bitcoin a cada ciudadano que la descargara.",
+   "inicio": 9.1,
+   "fin": 17.02
+  },
+  {
+   "texto": "También empezó a comprar bitcoin con dinero público.",
+   "inicio": 17.02,
+   "fin": 20.44
+  },
+  {
+   "texto": "¿Y qué pasó?",
+   "inicio": 20.44,
+   "fin": 21.66
+  },
+  {
+   "texto": "Mucha gente cobró el regalo y siguió pagando en efectivo y en dólares.",
+   "inicio": 21.66,
+   "fin": 26.14
+  },
+  {
+   "texto": "En 2025, para conseguir un préstamo de unos 1.400 millones de dólares del Fondo Monetario Internacional, el país cambió la ley.",
+   "inicio": 26.14,
+   "fin": 35.13
+  },
+  {
+   "texto": "El bitcoin dejó de ser obligatorio.",
+   "inicio": 35.13,
+   "fin": 37.7
+  },
+  {
+   "texto": "Según el FMI, el gobierno no compra bitcoin con dinero público desde junio de 2025.",
+   "inicio": 37.7,
+   "fin": 43.92
+  },
+  {
+   "texto": "Aun así, el país todavía guarda varios miles de bitcoins.",
+   "inicio": 43.92,
+   "fin": 47.49
+  },
+  {
+   "texto": "Fue uno de los experimentos económicos más polémicos de este siglo.",
+   "inicio": 47.49,
+   "fin": 51.75
+  },
+  {
+   "texto": "¿Tú pagarías el pan con bitcoin?",
+   "inicio": 51.75,
+   "fin": 53.63
+  }
+ ],
+ "duracion": 53.63,
+ "voz": "narraciones/p-salvador-bitcoin.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "Bitcoin, moneda",
+    "OFICIAL"
+   ],
+   "resaltar": "OFICIAL",
+   "sub": "El Salvador, 2021",
+   "img": {
+    "src": "ia/monedas-btc.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 1,
+   "img": {
+    "src": "ia/s16/cajero.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Obligatorio aceptarlo",
+   "sub": "en todos los comercios"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 2,
+   "antes": "Regalo al bajar la app",
+   "valor": 30,
+   "prefijo": "$",
+   "etiqueta": "en bitcoin, billetera Chivo",
+   "color": "#f7931a",
+   "img": {
+    "src": "ia/monedas-btc.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s16/caja-fuerte.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Compró bitcoin",
+   "sub": "con dinero público",
+   "color": "#f7931a"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 4,
+   "lineas": [
+    "¿Y qué",
+    "PASÓ?"
+   ],
+   "resaltar": "PASÓ?",
+   "img": {
+    "src": "ia/s16/lupa.png",
+    "size": 540,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 5,
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Siguieron con efectivo",
+   "sub": "y dólares",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "cifra",
+   "frase": 6,
+   "antes": "Préstamo del FMI",
+   "valor": 1400,
+   "prefijo": "$",
+   "sufijo": " millones",
+   "etiqueta": "a cambio de cambiar la ley",
+   "img": {
+    "src": "ia/s16/banco.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 7,
+   "cabecera": "2025",
+   "titulo": "Ya no es obligatorio",
+   "lineas": [
+    "aceptar bitcoin"
+   ],
+   "img": {
+    "src": "ia/s16/contrato.png",
+    "size": 460
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 8,
+   "img": {
+    "src": "ia/s16/cerdito-cadena.png",
+    "size": 600,
+    "y": 760
+   },
+   "texto": "Sin compras públicas",
+   "sub": "desde junio de 2025, según el FMI",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/monedas-btc.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "Aún guarda miles",
+   "sub": "de bitcoins",
+   "color": "#f7931a"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 10,
+   "lineas": [
+    "Un experimento",
+    "POLÉMICO"
+   ],
+   "resaltar": "POLÉMICO",
+   "img": {
+    "src": "ia/s16/balanza.png",
+    "size": 560,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 11,
+   "pregunta": "¿Tú pagarías el pan con bitcoin?"
+  }
+ ]
+}

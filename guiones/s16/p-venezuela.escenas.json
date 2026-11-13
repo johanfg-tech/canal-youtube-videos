@@ -1,0 +1,18 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["El país con MÁS","petróleo del mundo"],"resaltar":"MÁS","img":{"src":"ia/s16/barril.png","size":600,"y":1020}},
+ {"tipo":"cifra","frase":1,"antes":"Reservas probadas","valor":300,"sufijo":" mil millones","etiqueta":"de barriles, más que Arabia Saudita","img":{"src":"ia/s16/barril.png","size":540,"y":1080}},
+ {"tipo":"titulo","frase":2,"lineas":["Y aun así…","CRISIS"],"resaltar":"CRISIS","color":"#ff4d6d","img":{"src":"ia/billete-desvanece.png","size":600,"y":1040}},
+ {"tipo":"barras","frase":3,"titulo":"Barriles al día","items":[
+   {"etiqueta":"2013","valor":2.9,"texto":"~3 millones","img":"ia/s16/barril.png","color":"#2ee59d"},
+   {"etiqueta":"2020","valor":0.4,"texto":"< 400.000","img":"ia/s16/barril.png","color":"#ff4d6d"}]},
+ {"tipo":"cifra","frase":5,"antes":"Su economía cayó","valor":80,"prefijo":"-","sufijo":" %","etiqueta":"casi nunca pasa sin guerra","color":"#ff4d6d","img":{"src":"ia/s16/desierto.png","size":580,"y":1080}},
+ {"tipo":"cifra","frase":6,"antes":"Se han ido","valor":8,"sufijo":" millones","etiqueta":"de venezolanos","img":{"src":"ia/s16/maleta.png","size":560,"y":1080}},
+ {"tipo":"titulo","frase":7,"lineas":["¿Cómo pasa","ALGO ASÍ?"],"resaltar":"ALGO ASÍ?","img":{"src":"ia/s16/lupa.png","size":540,"y":1040}},
+ {"tipo":"tarjeta","frase":8,"cabecera":"LOS ECONOMISTAS LO LLAMAN","titulo":"La maldición de los recursos","lineas":["depender de una sola cosa"],"img":{"src":"ia/s16/barril.png","size":460}},
+ {"tipo":"lista","frase":10,"titulo":"Y además…","items":[
+   {"texto":"Malas decisiones","emoji":"📉","enFrase":10},
+   {"texto":"Poca inversión","emoji":"🏗️","enFrase":10,"mas":0.9},
+   {"texto":"Sanciones","emoji":"🚫","color":"#ff4d6d","enFrase":10,"mas":1.8}]},
+ {"tipo":"imagen","frase":11,"img":{"src":"ia/s16/cofre-recibo.png","size":640,"y":760},"texto":"Riqueza bajo tierra","sub":"no es riqueza en el bolsillo","color":"#2ee59d"},
+ {"tipo":"remate","frase":12,"pregunta":"¿Conoces a alguien que haya tenido que irse?"}
+]

@@ -1,0 +1,14 @@
+[
+ {"tipo":"titulo","frase":0,"lineas":["¿Quién paga los","ARANCELES?"],"resaltar":"ARANCELES?","img":{"src":"ia/s16/barco.png","size":680,"y":1020}},
+ {"tipo":"imagen","frase":1,"img":{"src":"ia/s16/sello-impuestos.png","size":640,"y":760},"texto":"Un impuesto a lo que entra","sub":"desde otro país"},
+ {"tipo":"tarjeta","frase":3,"cabecera":"OJO","titulo":"Lo paga quien importa","lineas":["en la aduana,","no el país extranjero"],"img":{"src":"ia/s16/contrato.png","size":460}},
+ {"tipo":"imagen","frase":4,"img":{"src":"ia/s16/etiqueta-precio.png","size":620,"y":760},"texto":"Y sube los precios","color":"#ff4d6d"},
+ {"tipo":"titulo","frase":5,"lineas":["2025: aranceles","a CASI TODOS"],"resaltar":"CASI TODOS","sub":"Estados Unidos","img":{"src":"ia/s16/capitolio.png","size":580,"y":1040}},
+ {"tipo":"cifra","frase":6,"antes":"Lo pagó EE. UU.:","valor":94,"sufijo":" %","etiqueta":"empresas y consumidores","color":"#ff4d6d","img":{"src":"ia/s16/carrito.png","size":540,"y":1080}},
+ {"tipo":"donut","frase":7,"titulo":"¿Quién pagó?","centro":"Aranceles","partes":[{"etiqueta":"EE. UU.","valor":94,"color":"#ff4d6d"},{"etiqueta":"Exportadores","valor":6,"color":"#2ee59d"}]},
+ {"tipo":"imagen","frase":8,"img":{"src":"ia/s16/lupa.png","size":600,"y":760},"texto":"Otros estudios","sub":"llegan a lo mismo","color":"#7fd1ff"},
+ {"tipo":"titulo","frase":9,"lineas":["¿Entonces no","SIRVEN?"],"resaltar":"SIRVEN?","img":{"src":"ia/s16/balanza.png","size":580,"y":1040}},
+ {"tipo":"imagen","frase":10,"img":{"src":"ia/s16/fabrica.png","size":680,"y":760},"texto":"Protegen algunas fábricas","sub":"y empleos locales","color":"#2ee59d"},
+ {"tipo":"tarjeta","frase":11,"cabecera":"PERO","titulo":"Casi siempre paga el que compra","lineas":["o sea, tú"],"img":{"src":"ia/s16/carrito.png","size":480}},
+ {"tipo":"remate","frase":12,"pregunta":"¿Tú crees que vale la pena?"}
+]

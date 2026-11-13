@@ -1,0 +1,980 @@
+{
+ "palabras": [
+  {
+   "texto": "Hay",
+   "inicio": 0.0,
+   "fin": 0.25,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 0.25,
+   "fin": 0.44,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 0.44,
+   "fin": 0.84,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 0.84,
+   "fin": 1.08,
+   "corte": false
+  },
+  {
+   "texto": "mueve",
+   "inicio": 1.09,
+   "fin": 1.43,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 1.43,
+   "fin": 1.68,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.68,
+   "fin": 1.92,
+   "corte": false
+  },
+  {
+   "texto": "muchas",
+   "inicio": 1.92,
+   "fin": 2.32,
+   "corte": false
+  },
+  {
+   "texto": "exportaciones:",
+   "inicio": 2.32,
+   "fin": 3.06,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 3.06,
+   "fin": 3.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 3.59,
+   "fin": 3.84,
+   "corte": false
+  },
+  {
+   "texto": "envían",
+   "inicio": 3.84,
+   "fin": 4.23,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 4.23,
+   "fin": 4.48,
+   "corte": false
+  },
+  {
+   "texto": "migrantes",
+   "inicio": 4.48,
+   "fin": 5.02,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 5.02,
+   "fin": 5.17,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 5.17,
+   "fin": 5.41,
+   "corte": false
+  },
+  {
+   "texto": "familias.",
+   "inicio": 5.41,
+   "fin": 6.22,
+   "corte": true
+  },
+  {
+   "texto": "Se",
+   "inicio": 6.22,
+   "fin": 6.45,
+   "corte": false
+  },
+  {
+   "texto": "llaman",
+   "inicio": 6.45,
+   "fin": 6.9,
+   "corte": false
+  },
+  {
+   "texto": "remesas.",
+   "inicio": 6.91,
+   "fin": 7.42,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 7.42,
+   "fin": 8.06,
+   "corte": false
+  },
+  {
+   "texto": "2025",
+   "inicio": 8.06,
+   "fin": 8.78,
+   "corte": false
+  },
+  {
+   "texto": "llegaron",
+   "inicio": 8.78,
+   "fin": 9.39,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 9.39,
+   "fin": 9.57,
+   "corte": false
+  },
+  {
+   "texto": "Latinoamérica",
+   "inicio": 9.57,
+   "fin": 10.48,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 10.48,
+   "fin": 10.66,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 10.67,
+   "fin": 10.91,
+   "corte": false
+  },
+  {
+   "texto": "Caribe",
+   "inicio": 10.91,
+   "fin": 11.39,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 11.39,
+   "fin": 11.76,
+   "corte": false
+  },
+  {
+   "texto": "174.000",
+   "inicio": 11.76,
+   "fin": 12.61,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 12.61,
+   "fin": 13.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.21,
+   "fin": 13.46,
+   "corte": false
+  },
+  {
+   "texto": "dólares,",
+   "inicio": 13.46,
+   "fin": 14.0,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 14.0,
+   "fin": 14.24,
+   "corte": false
+  },
+  {
+   "texto": "récord",
+   "inicio": 14.24,
+   "fin": 15.0,
+   "corte": false
+  },
+  {
+   "texto": "histórico.",
+   "inicio": 15.0,
+   "fin": 15.67,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 15.67,
+   "fin": 15.88,
+   "corte": false
+  },
+  {
+   "texto": "mayoría",
+   "inicio": 15.88,
+   "fin": 16.81,
+   "corte": false
+  },
+  {
+   "texto": "sale",
+   "inicio": 16.81,
+   "fin": 17.12,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.13,
+   "fin": 17.33,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 17.34,
+   "fin": 17.81,
+   "corte": false
+  },
+  {
+   "texto": "Unidos.",
+   "inicio": 17.81,
+   "fin": 18.23,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 18.23,
+   "fin": 18.79,
+   "corte": false
+  },
+  {
+   "texto": "Honduras",
+   "inicio": 18.79,
+   "fin": 19.33,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 19.33,
+   "fin": 19.49,
+   "corte": false
+  },
+  {
+   "texto": "Nicaragua,",
+   "inicio": 19.49,
+   "fin": 20.08,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 20.08,
+   "fin": 20.35,
+   "corte": false
+  },
+  {
+   "texto": "remesas",
+   "inicio": 20.36,
+   "fin": 20.84,
+   "corte": false
+  },
+  {
+   "texto": "equivalen",
+   "inicio": 20.84,
+   "fin": 21.44,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 21.44,
+   "fin": 21.6,
+   "corte": false
+  },
+  {
+   "texto": "cerca",
+   "inicio": 21.6,
+   "fin": 21.98,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 21.98,
+   "fin": 22.25,
+   "corte": false
+  },
+  {
+   "texto": "30",
+   "inicio": 22.25,
+   "fin": 22.79,
+   "corte": false
+  },
+  {
+   "texto": "%",
+   "inicio": 22.79,
+   "fin": 22.89,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.9,
+   "fin": 23.11,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 23.11,
+   "fin": 23.44,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 23.44,
+   "fin": 23.65,
+   "corte": false
+  },
+  {
+   "texto": "economía.",
+   "inicio": 23.65,
+   "fin": 24.19,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 24.19,
+   "fin": 24.8,
+   "corte": false
+  },
+  {
+   "texto": "decir,",
+   "inicio": 24.8,
+   "fin": 25.49,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 25.49,
+   "fin": 25.79,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 25.79,
+   "fin": 26.04,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 26.04,
+   "fin": 26.24,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 26.24,
+   "fin": 26.54,
+   "corte": false
+  },
+  {
+   "texto": "tres",
+   "inicio": 26.54,
+   "fin": 26.83,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 26.84,
+   "fin": 27.28,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 27.29,
+   "fin": 27.53,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 27.54,
+   "fin": 27.83,
+   "corte": false
+  },
+  {
+   "texto": "viene",
+   "inicio": 27.83,
+   "fin": 28.18,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.18,
+   "fin": 28.38,
+   "corte": false
+  },
+  {
+   "texto": "afuera.",
+   "inicio": 28.38,
+   "fin": 29.32,
+   "corte": true
+  },
+  {
+   "texto": "México",
+   "inicio": 29.32,
+   "fin": 29.78,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 29.78,
+   "fin": 30.08,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 30.08,
+   "fin": 30.31,
+   "corte": false
+  },
+  {
+   "texto": "excepción:",
+   "inicio": 30.31,
+   "fin": 31.29,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 31.29,
+   "fin": 31.58,
+   "corte": false
+  },
+  {
+   "texto": "remesas",
+   "inicio": 31.58,
+   "fin": 32.11,
+   "corte": false
+  },
+  {
+   "texto": "bajaron",
+   "inicio": 32.11,
+   "fin": 32.63,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 32.63,
+   "fin": 32.87,
+   "corte": false
+  },
+  {
+   "texto": "2025.",
+   "inicio": 32.87,
+   "fin": 33.95,
+   "corte": true
+  },
+  {
+   "texto": "Aun",
+   "inicio": 33.95,
+   "fin": 34.2,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 34.2,
+   "fin": 34.45,
+   "corte": false
+  },
+  {
+   "texto": "sigue",
+   "inicio": 34.45,
+   "fin": 34.8,
+   "corte": false
+  },
+  {
+   "texto": "siendo",
+   "inicio": 34.81,
+   "fin": 35.21,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.21,
+   "fin": 35.41,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 35.41,
+   "fin": 35.71,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 35.71,
+   "fin": 35.96,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 35.96,
+   "fin": 36.21,
+   "corte": false
+  },
+  {
+   "texto": "recibe",
+   "inicio": 36.21,
+   "fin": 36.61,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.61,
+   "fin": 37.26,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.26,
+   "fin": 37.46,
+   "corte": false
+  },
+  {
+   "texto": "región.",
+   "inicio": 37.46,
+   "fin": 37.86,
+   "corte": true
+  },
+  {
+   "texto": "Para",
+   "inicio": 37.86,
+   "fin": 38.16,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 38.16,
+   "fin": 38.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 38.67,
+   "fin": 38.87,
+   "corte": false
+  },
+  {
+   "texto": "familias,",
+   "inicio": 38.87,
+   "fin": 39.37,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 39.37,
+   "fin": 39.62,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 39.62,
+   "fin": 40.02,
+   "corte": false
+  },
+  {
+   "texto": "paga",
+   "inicio": 40.02,
+   "fin": 40.32,
+   "corte": false
+  },
+  {
+   "texto": "comida,",
+   "inicio": 40.32,
+   "fin": 40.72,
+   "corte": false
+  },
+  {
+   "texto": "escuela",
+   "inicio": 40.72,
+   "fin": 41.18,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 41.18,
+   "fin": 41.33,
+   "corte": false
+  },
+  {
+   "texto": "salud.",
+   "inicio": 41.33,
+   "fin": 42.07,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 42.07,
+   "fin": 42.36,
+   "corte": false
+  },
+  {
+   "texto": "también",
+   "inicio": 42.36,
+   "fin": 42.81,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 42.81,
+   "fin": 43.15,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 43.15,
+   "fin": 43.86,
+   "corte": false
+  },
+  {
+   "texto": "cara:",
+   "inicio": 43.86,
+   "fin": 44.16,
+   "corte": false
+  },
+  {
+   "texto": "muestra",
+   "inicio": 44.16,
+   "fin": 44.6,
+   "corte": false
+  },
+  {
+   "texto": "cuánta",
+   "inicio": 44.6,
+   "fin": 45.0,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 45.0,
+   "fin": 45.34,
+   "corte": false
+  },
+  {
+   "texto": "tuvo",
+   "inicio": 45.34,
+   "fin": 45.64,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 45.64,
+   "fin": 45.89,
+   "corte": false
+  },
+  {
+   "texto": "irse",
+   "inicio": 45.89,
+   "fin": 46.18,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 46.18,
+   "fin": 46.48,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.48,
+   "fin": 46.72,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 46.72,
+   "fin": 46.92,
+   "corte": false
+  },
+  {
+   "texto": "familia",
+   "inicio": 46.92,
+   "fin": 47.36,
+   "corte": false
+  },
+  {
+   "texto": "saliera",
+   "inicio": 47.37,
+   "fin": 47.81,
+   "corte": false
+  },
+  {
+   "texto": "adelante.",
+   "inicio": 47.81,
+   "fin": 48.85,
+   "corte": true
+  },
+  {
+   "texto": "¿En",
+   "inicio": 48.85,
+   "fin": 49.05,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 49.05,
+   "fin": 49.26,
+   "corte": false
+  },
+  {
+   "texto": "familia",
+   "inicio": 49.26,
+   "fin": 49.72,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 49.72,
+   "fin": 50.18,
+   "corte": false
+  },
+  {
+   "texto": "envía",
+   "inicio": 50.18,
+   "fin": 50.54,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 50.54,
+   "fin": 50.69,
+   "corte": false
+  },
+  {
+   "texto": "recibe",
+   "inicio": 50.69,
+   "fin": 51.1,
+   "corte": false
+  },
+  {
+   "texto": "remesas?",
+   "inicio": 51.11,
+   "fin": 51.57,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Hay un dinero que mueve más que muchas exportaciones: el que envían los migrantes a sus familias.",
+   "inicio": 0.0,
+   "fin": 6.22
+  },
+  {
+   "texto": "Se llaman remesas.",
+   "inicio": 6.22,
+   "fin": 7.42
+  },
+  {
+   "texto": "En 2025 llegaron a Latinoamérica y el Caribe unos 174.000 millones de dólares, un récord histórico.",
+   "inicio": 7.42,
+   "fin": 15.67
+  },
+  {
+   "texto": "La mayoría sale de Estados Unidos.",
+   "inicio": 15.67,
+   "fin": 18.23
+  },
+  {
+   "texto": "En Honduras y Nicaragua, las remesas equivalen a cerca del 30 % de toda su economía.",
+   "inicio": 18.23,
+   "fin": 24.19
+  },
+  {
+   "texto": "Es decir, casi uno de cada tres dólares del país viene de afuera.",
+   "inicio": 24.19,
+   "fin": 29.32
+  },
+  {
+   "texto": "México fue la excepción: sus remesas bajaron en 2025.",
+   "inicio": 29.32,
+   "fin": 33.95
+  },
+  {
+   "texto": "Aun así, sigue siendo el país que más recibe de la región.",
+   "inicio": 33.95,
+   "fin": 37.86
+  },
+  {
+   "texto": "Para millones de familias, ese dinero paga comida, escuela y salud.",
+   "inicio": 37.86,
+   "fin": 42.07
+  },
+  {
+   "texto": "Pero también tiene otra cara: muestra cuánta gente tuvo que irse para que su familia saliera adelante.",
+   "inicio": 42.07,
+   "fin": 48.85
+  },
+  {
+   "texto": "¿En tu familia alguien envía o recibe remesas?",
+   "inicio": 48.85,
+   "fin": 51.57
+  }
+ ],
+ "duracion": 51.57,
+ "voz": "narraciones/p-remesas.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "El dinero que",
+    "MUEVE países"
+   ],
+   "resaltar": "MUEVE",
+   "img": {
+    "src": "ia/s16/sobre-dinero.png",
+    "size": 620,
+    "y": 1020
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 1,
+   "lineas": [
+    "Se llaman",
+    "REMESAS"
+   ],
+   "resaltar": "REMESAS",
+   "img": {
+    "src": "ia/s16/sobre-dinero.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 2,
+   "antes": "Llegaron en 2025",
+   "valor": 174000,
+   "prefijo": "$",
+   "sufijo": " millones",
+   "etiqueta": "a Latinoamérica: récord",
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s16/capitolio.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Sobre todo desde EE. UU.",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "donut",
+   "frase": 4,
+   "titulo": "Honduras y Nicaragua",
+   "centro": "Economía",
+   "partes": [
+    {
+     "etiqueta": "Remesas",
+     "valor": 30,
+     "color": "#2ee59d"
+    },
+    {
+     "etiqueta": "Resto",
+     "valor": 70,
+     "color": "#3a4150"
+    }
+   ]
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 5,
+   "cabecera": "ES DECIR",
+   "titulo": "Casi 1 de cada 3 dólares",
+   "lineas": [
+    "viene de afuera"
+   ],
+   "img": {
+    "src": "ia/s16/billete-1.png",
+    "size": 460
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 6,
+   "img": {
+    "src": "ia/s16/monedas.png",
+    "size": 600,
+    "y": 760
+   },
+   "texto": "México: bajaron",
+   "sub": "en 2025",
+   "color": "#ff4d6d"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 7,
+   "img": {
+    "src": "ia/s16/fajo.png",
+    "size": 620,
+    "y": 760
+   },
+   "texto": "Aun así, el n.º 1",
+   "sub": "de la región",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "lista",
+   "frase": 8,
+   "titulo": "¿En qué se usa?",
+   "items": [
+    {
+     "texto": "Comida",
+     "img": "ia/s16/pan.png",
+     "en": 0.0
+    },
+    {
+     "texto": "Escuela",
+     "emoji": "📚",
+     "en": 0.8
+    },
+    {
+     "texto": "Salud",
+     "emoji": "🏥",
+     "en": 1.6
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/s16/maleta.png",
+    "size": 640,
+    "y": 760
+   },
+   "texto": "La otra cara",
+   "sub": "cuánta gente tuvo que irse",
+   "color": "#7fd1ff"
+  },
+  {
+   "tipo": "remate",
+   "frase": 10,
+   "pregunta": "¿En tu familia alguien envía o recibe remesas?"
+  }
+ ]
+}

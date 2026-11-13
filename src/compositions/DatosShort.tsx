@@ -628,6 +628,8 @@ const Barra: React.FC<{
   const valor = useContador(b.valor * dec, 0.3 + i * 0.45, 0.6) / dec;
   const ultima = i === 1;
   const color = ultima ? AMARILLO : theme.accent;
+  const { width, height } = useVideoConfig();
+  const altoMax = width > height ? 330 : 640; // vídeo largo: deja libres los subtítulos
   return (
     <div
       style={{
@@ -640,13 +642,15 @@ const Barra: React.FC<{
       <div style={{ ...estiloTexto(110, color), opacity: Math.min(1, p) }}>
         {dec === 1 ? miles(valor) : valor.toFixed(1).replace(".", ",")}
       </div>
-      <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>
-        {b.texto}
-      </div>
+      {b.texto ? (
+        <div style={{ ...estiloTexto(44, theme.muted, 700), marginTop: -16 }}>
+          {b.texto}
+        </div>
+      ) : null}
       <div
         style={{
           width: 230,
-          height: Math.max(0, (b.valor / max) * 640 * p),
+          height: Math.max(0, (b.valor / max) * altoMax * p),
           borderRadius: 30,
           background: `linear-gradient(180deg, ${color}, ${color}88)`,
           boxShadow: `0 0 50px ${color}66`,

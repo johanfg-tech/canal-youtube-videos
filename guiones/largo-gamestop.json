@@ -1,0 +1,5136 @@
+{
+  "audio": "narraciones/largo-gamestop.mp3",
+  "duracion": 258.5,
+  "aviso": "",
+  "sfx": true,
+  "horizontal": true,
+  "escenas": [
+    {
+      "tipo": "titular",
+      "en": "En enero de",
+      "lineas": [
+        "Gente normal, desde el móvil,",
+        "contra Wall Street"
+      ],
+      "resaltar": [
+        "Wall Street"
+      ],
+      "imagen": "ia/s16/movil-candado.png",
+      "inicio": 0
+    },
+    {
+      "tipo": "titular",
+      "en": "Todo empezó en",
+      "lineas": [
+        "Un foro de internet",
+        "y una tienda de videojuegos"
+      ],
+      "resaltar": [
+        "videojuegos"
+      ],
+      "imagen": "ia/s16/mando.png",
+      "inicio": 11.1
+    },
+    {
+      "tipo": "titular",
+      "en": "Esta es la",
+      "lineas": [
+        "GameStop: la rebelión",
+        "de los pequeños"
+      ],
+      "resaltar": [
+        "rebelión"
+      ],
+      "imagen": "ia/s16/gato-rugiendo.png",
+      "inicio": 16.41
+    },
+    {
+      "tipo": "titular",
+      "en": "Y al final",
+      "lineas": [
+        "Al final:",
+        "¿de qué lado estás?"
+      ],
+      "resaltar": [
+        "lado"
+      ],
+      "imagen": "ia/s16/balanza.png",
+      "inicio": 20.88
+    },
+    {
+      "tipo": "titular",
+      "en": "Primero, la tienda.",
+      "lineas": [
+        "1. La tienda",
+        "que nadie quería"
+      ],
+      "resaltar": [
+        "nadie"
+      ],
+      "inicio": 24.85
+    },
+    {
+      "tipo": "titular",
+      "en": "GameStop vendía videojuegos",
+      "lineas": [
+        "Videojuegos en",
+        "centros comerciales"
+      ],
+      "resaltar": [
+        "centros comerciales"
+      ],
+      "imagen": "ia/s16/mando.png",
+      "inicio": 26.46
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero el mundo",
+      "lineas": [
+        "Descargas digitales",
+        "y tiendas vacías"
+      ],
+      "resaltar": [
+        "vacías"
+      ],
+      "imagen": "ia/s16/portatil-grafico.png",
+      "inicio": 29.62
+    },
+    {
+      "tipo": "titular",
+      "en": "Para muchos expertos,",
+      "lineas": [
+        "Directo a",
+        "la quiebra"
+      ],
+      "resaltar": [
+        "quiebra"
+      ],
+      "imagen": "ia/s16/nube-rayo.png",
+      "inicio": 35.51
+    },
+    {
+      "tipo": "titular",
+      "en": "Y aquí entran",
+      "lineas": [
+        "2. Los grandes fondos",
+        "apuestan en contra"
+      ],
+      "resaltar": [
+        "en contra"
+      ],
+      "inicio": 39.11
+    },
+    {
+      "tipo": "titular",
+      "en": "Se llama venta",
+      "lineas": [
+        "Venta en corto"
+      ],
+      "resaltar": [
+        "corto"
+      ],
+      "imagen": "ia/s16/bolsa.png",
+      "inicio": 45.58
+    },
+    {
+      "tipo": "titular",
+      "en": "Funciona así: pides",
+      "lineas": [
+        "Pides prestado, vendes hoy,",
+        "recompras más barato"
+      ],
+      "resaltar": [
+        "más barato"
+      ],
+      "imagen": "ia/s16/contrato.png",
+      "inicio": 47.45
+    },
+    {
+      "tipo": "titular",
+      "en": "La diferencia es",
+      "lineas": [
+        "La diferencia",
+        "es tu ganancia"
+      ],
+      "resaltar": [
+        "ganancia"
+      ],
+      "imagen": "ia/s16/fajo.png",
+      "inicio": 55.42
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero si la",
+      "lineas": [
+        "Si sube… pérdidas",
+        "sin límite"
+      ],
+      "resaltar": [
+        "sin límite"
+      ],
+      "imagen": "ia/s16/alarma.png",
+      "inicio": 57.43
+    },
+    {
+      "tipo": "contador",
+      "en": "Con GameStop, los",
+      "titulo": "Acciones vendidas en corto",
+      "desde": 1,
+      "hasta": 100,
+      "unidad": "%",
+      "pie": "más de las que existían",
+      "imagen": "ia/s16/bolsa.png",
+      "inicio": 61.93
+    },
+    {
+      "tipo": "titular",
+      "en": "Era una apuesta",
+      "lineas": [
+        "Una apuesta enorme…",
+        "y alguien se dio cuenta"
+      ],
+      "resaltar": [
+        "se dio cuenta"
+      ],
+      "imagen": "ia/s16/lupa.png",
+      "inicio": 71.45
+    },
+    {
+      "tipo": "titular",
+      "en": "En un foro",
+      "lineas": [
+        "3. Roaring Kitty"
+      ],
+      "resaltar": [
+        "Roaring Kitty"
+      ],
+      "imagen": "ia/s16/gato-rugiendo.png",
+      "inicio": 74.88
+    },
+    {
+      "tipo": "titular",
+      "en": "Su nombre real",
+      "lineas": [
+        "Keith Gill",
+        "en Reddit, WallStreetBets"
+      ],
+      "resaltar": [
+        "Keith Gill"
+      ],
+      "imagen": "ia/s16/gato-rugiendo.png",
+      "inicio": 83.85
+    },
+    {
+      "tipo": "contador",
+      "en": "En dos mil diecinueve",
+      "titulo": "Lo que invirtió en 2019",
+      "desde": 1,
+      "hasta": 53000,
+      "unidad": "$",
+      "pie": "y lo mostraba todo",
+      "imagen": "ia/s16/fajo.png",
+      "inicio": 85.91
+    },
+    {
+      "tipo": "titular",
+      "en": "Poco a poco,",
+      "lineas": [
+        "Si muchos compramos",
+        "a la vez, sube"
+      ],
+      "resaltar": [
+        "sube"
+      ],
+      "imagen": "ia/grafico-sube.png",
+      "inicio": 93.61
+    },
+    {
+      "tipo": "titular",
+      "en": "Y si sube,",
+      "lineas": [
+        "Los fondos tienen",
+        "que comprar para cerrar"
+      ],
+      "resaltar": [
+        "comprar"
+      ],
+      "imagen": "ia/s16/bolsa.png",
+      "inicio": 98.69
+    },
+    {
+      "tipo": "titular",
+      "en": "Es lo que",
+      "lineas": [
+        "Apretón",
+        "de cortos"
+      ],
+      "resaltar": [
+        "Apretón"
+      ],
+      "imagen": "ia/s16/cohete.png",
+      "inicio": 107.76
+    },
+    {
+      "tipo": "titular",
+      "en": "Y pasó. A",
+      "lineas": [
+        "4. El cohete"
+      ],
+      "resaltar": [
+        "cohete"
+      ],
+      "inicio": 110.39
+    },
+    {
+      "tipo": "barras",
+      "en": "A principios de",
+      "titulo": "Precio de una acción de GameStop ($)",
+      "barras": [
+        {
+          "etiqueta": "Inicio de enero",
+          "valor": 20,
+          "texto": ""
+        },
+        {
+          "etiqueta": "Máximo",
+          "valor": 483,
+          "texto": ""
+        }
+      ],
+      "inicio": 111.29
+    },
+    {
+      "tipo": "contador",
+      "en": "Se multiplicó por",
+      "titulo": "Se multiplicó por más de",
+      "desde": 1,
+      "hasta": 20,
+      "unidad": "x",
+      "pie": "en pocas semanas",
+      "imagen": "ia/s16/cohete.png",
+      "inicio": 121.02
+    },
+    {
+      "tipo": "titular",
+      "en": "La noticia salió",
+      "lineas": [
+        "Mucha gente compra",
+        "por primera vez"
+      ],
+      "resaltar": [
+        "primera vez"
+      ],
+      "imagen": "ia/s16/movil-cripto.png",
+      "inicio": 123.34
+    },
+    {
+      "tipo": "titular",
+      "en": "Uno de los",
+      "lineas": [
+        "Melvin Capital",
+        "pierde más de la mitad"
+      ],
+      "resaltar": [
+        "Melvin Capital"
+      ],
+      "imagen": "ia/s16/banco-roto.png",
+      "inicio": 130.65
+    },
+    {
+      "tipo": "contador",
+      "en": "Necesitó una inyección",
+      "titulo": "Rescate a Melvin Capital",
+      "desde": 1,
+      "hasta": 2750,
+      "unidad": "millones $",
+      "pie": "y al año siguiente cerró",
+      "imagen": "ia/s16/salvavidas.png",
+      "inicio": 136.95
+    },
+    {
+      "tipo": "titular",
+      "en": "Mientras tanto, la",
+      "lineas": [
+        "La cuenta de Keith Gill:",
+        "decenas de millones"
+      ],
+      "resaltar": [
+        "decenas de millones"
+      ],
+      "imagen": "ia/s16/billetes-montana.png",
+      "inicio": 145.28
+    },
+    {
+      "tipo": "titular",
+      "en": "Y entonces llegó",
+      "lineas": [
+        "5. La polémica"
+      ],
+      "resaltar": [
+        "polémica"
+      ],
+      "inicio": 150.39
+    },
+    {
+      "tipo": "titular",
+      "en": "El veintiocho de",
+      "lineas": [
+        "28 de enero: Robinhood",
+        "bloquea las compras"
+      ],
+      "resaltar": [
+        "bloquea"
+      ],
+      "imagen": "ia/s16/movil-candado.png",
+      "inicio": 153.35
+    },
+    {
+      "tipo": "titular",
+      "en": "Se podía vender,",
+      "lineas": [
+        "Vender sí,",
+        "comprar no"
+      ],
+      "resaltar": [
+        "comprar no"
+      ],
+      "imagen": "ia/s16/movil-candado.png",
+      "inicio": 160.54
+    },
+    {
+      "tipo": "titular",
+      "en": "El precio se",
+      "lineas": [
+        "El precio",
+        "se desploma"
+      ],
+      "resaltar": [
+        "desploma"
+      ],
+      "imagen": "ia/s16/nube-rayo.png",
+      "inicio": 162.91
+    },
+    {
+      "tipo": "titular",
+      "en": "Y la gente",
+      "lineas": [
+        "¿Les cambiaron las reglas",
+        "a los pequeños?"
+      ],
+      "resaltar": [
+        "reglas"
+      ],
+      "imagen": "ia/s16/balanza.png",
+      "inicio": 164.71
+    },
+    {
+      "tipo": "titular",
+      "en": "Robinhood explicó que",
+      "lineas": [
+        "Robinhood: «nos exigieron",
+        "miles de millones en garantías»"
+      ],
+      "resaltar": [
+        "garantías"
+      ],
+      "imagen": "ia/s16/caja-fuerte.png",
+      "inicio": 170.07
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero muchos no",
+      "lineas": [
+        "Muchos",
+        "no le creyeron"
+      ],
+      "resaltar": [
+        "no le creyeron"
+      ],
+      "imagen": "ia/s16/lupa.png",
+      "inicio": 180.7
+    },
+    {
+      "tipo": "titular",
+      "en": "El caso llegó",
+      "lineas": [
+        "El caso llega",
+        "al Congreso de EE. UU."
+      ],
+      "resaltar": [
+        "Congreso"
+      ],
+      "imagen": "ia/s16/capitolio.png",
+      "inicio": 182.47
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Y quién ganó",
+      "lineas": [
+        "6. ¿Quién ganó",
+        "de verdad?"
+      ],
+      "resaltar": [
+        "de verdad"
+      ],
+      "inicio": 190.31
+    },
+    {
+      "tipo": "titular",
+      "en": "Los que compraron",
+      "lineas": [
+        "Los que entraron pronto",
+        "ganaron mucho"
+      ],
+      "resaltar": [
+        "pronto"
+      ],
+      "imagen": "ia/s16/fajo.png",
+      "inicio": 194.63
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero miles de",
+      "lineas": [
+        "Miles compraron",
+        "en lo más alto"
+      ],
+      "resaltar": [
+        "lo más alto"
+      ],
+      "imagen": "ia/s16/cohete.png",
+      "inicio": 198.23
+    },
+    {
+      "tipo": "titular",
+      "en": "Y en pocas",
+      "lineas": [
+        "En semanas, por debajo",
+        "de 50 dólares"
+      ],
+      "resaltar": [
+        "50 dólares"
+      ],
+      "imagen": "ia/billete-desvanece.png",
+      "inicio": 203.26
+    },
+    {
+      "tipo": "titular",
+      "en": "Muchos de esos",
+      "lineas": [
+        "Muchos pequeños",
+        "perdieron mucho"
+      ],
+      "resaltar": [
+        "perdieron"
+      ],
+      "imagen": "ia/billete-desvanece.png",
+      "inicio": 207.43
+    },
+    {
+      "tipo": "titular",
+      "en": "Además, algunos grandes",
+      "lineas": [
+        "Algunos grandes fondos",
+        "también ganaron"
+      ],
+      "resaltar": [
+        "también ganaron"
+      ],
+      "imagen": "ia/s16/bolsa.png",
+      "inicio": 211.51
+    },
+    {
+      "tipo": "titular",
+      "en": "Así que la",
+      "lineas": [
+        "Pequeños contra grandes:",
+        "verdad solo en parte"
+      ],
+      "resaltar": [
+        "solo en parte"
+      ],
+      "imagen": "ia/s16/balanza.png",
+      "inicio": 217.1
+    },
+    {
+      "tipo": "titular",
+      "en": "Entonces, ¿qué nos",
+      "lineas": [
+        "3 lecciones"
+      ],
+      "resaltar": [
+        "3"
+      ],
+      "inicio": 222.17
+    },
+    {
+      "tipo": "titular",
+      "en": "Uno: apostar en",
+      "lineas": [
+        "1. Apostar en corto",
+        "puede salir carísimo"
+      ],
+      "resaltar": [
+        "carísimo"
+      ],
+      "imagen": "ia/s16/alarma.png",
+      "inicio": 225.75
+    },
+    {
+      "tipo": "titular",
+      "en": "Dos: cuando todo",
+      "lineas": [
+        "2. Si todos hablan de ella,",
+        "ya es tarde"
+      ],
+      "resaltar": [
+        "tarde"
+      ],
+      "imagen": "ia/s16/movil-cripto.png",
+      "inicio": 230.94
+    },
+    {
+      "tipo": "titular",
+      "en": "Y tres: el",
+      "lineas": [
+        "3. Las reglas pueden",
+        "cambiar a mitad del juego"
+      ],
+      "resaltar": [
+        "cambiar"
+      ],
+      "imagen": "ia/s16/dados.png",
+      "inicio": 236.74
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora te toca",
+      "lineas": [
+        "¿Revolución justa",
+        "o casino?"
+      ],
+      "resaltar": [
+        "Revolución",
+        "casino"
+      ],
+      "imagen": "ia/s16/ruleta.png",
+      "inicio": 242.39
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Y qué opinas",
+      "lineas": [
+        "¿Hizo bien",
+        "Robinhood?"
+      ],
+      "resaltar": [
+        "Robinhood"
+      ],
+      "imagen": "ia/s16/movil-candado.png",
+      "inicio": 250.32
+    },
+    {
+      "tipo": "titular",
+      "en": "Y si te",
+      "lineas": [
+        "Suscríbete a",
+        "Cuentas Claras"
+      ],
+      "resaltar": [
+        "Cuentas Claras"
+      ],
+      "inicio": 253.75,
+      "final": true
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.18,
+      "corte": false
+    },
+    {
+      "texto": "enero",
+      "inicio": 0.18,
+      "fin": 0.53,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.53,
+      "fin": 0.71,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 0.71,
+      "fin": 0.95,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 0.95,
+      "fin": 1.19,
+      "corte": false
+    },
+    {
+      "texto": "veintiuno,",
+      "inicio": 1.19,
+      "fin": 1.74,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 1.74,
+      "fin": 1.93,
+      "corte": false
+    },
+    {
+      "texto": "grupo",
+      "inicio": 1.93,
+      "fin": 2.27,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 2.27,
+      "fin": 2.46,
+      "corte": false
+    },
+    {
+      "texto": "personas",
+      "inicio": 2.46,
+      "fin": 2.96,
+      "corte": false
+    },
+    {
+      "texto": "normales,",
+      "inicio": 2.96,
+      "fin": 3.46,
+      "corte": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 3.46,
+      "fin": 3.8,
+      "corte": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 3.8,
+      "fin": 4.04,
+      "corte": false
+    },
+    {
+      "texto": "casas",
+      "inicio": 4.04,
+      "fin": 4.38,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 4.38,
+      "fin": 4.52,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 4.52,
+      "fin": 4.75,
+      "corte": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 4.75,
+      "fin": 4.99,
+      "corte": false
+    },
+    {
+      "texto": "móviles,",
+      "inicio": 4.99,
+      "fin": 5.44,
+      "corte": false
+    },
+    {
+      "texto": "hizo",
+      "inicio": 5.44,
+      "fin": 5.73,
+      "corte": false
+    },
+    {
+      "texto": "perder",
+      "inicio": 5.73,
+      "fin": 6.13,
+      "corte": false
+    },
+    {
+      "texto": "miles",
+      "inicio": 6.13,
+      "fin": 6.47,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 6.47,
+      "fin": 6.65,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 6.65,
+      "fin": 7.16,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 7.16,
+      "fin": 7.34,
+      "corte": false
+    },
+    {
+      "texto": "dólares",
+      "inicio": 7.34,
+      "fin": 7.79,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 7.79,
+      "fin": 7.92,
+      "corte": false
+    },
+    {
+      "texto": "algunos",
+      "inicio": 7.92,
+      "fin": 8.37,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 8.37,
+      "fin": 8.56,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 8.56,
+      "fin": 8.79,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 8.79,
+      "fin": 9.19,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 9.19,
+      "fin": 9.43,
+      "corte": false
+    },
+    {
+      "texto": "poderosos",
+      "inicio": 9.43,
+      "fin": 9.98,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.98,
+      "fin": 10.17,
+      "corte": false
+    },
+    {
+      "texto": "Wall",
+      "inicio": 10.17,
+      "fin": 10.46,
+      "corte": false
+    },
+    {
+      "texto": "Street.",
+      "inicio": 10.46,
+      "fin": 10.85,
+      "corte": true
+    },
+    {
+      "texto": "Todo",
+      "inicio": 11.25,
+      "fin": 11.52,
+      "corte": false
+    },
+    {
+      "texto": "empezó",
+      "inicio": 11.52,
+      "fin": 11.9,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 11.9,
+      "fin": 12.07,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 12.07,
+      "fin": 12.25,
+      "corte": false
+    },
+    {
+      "texto": "foro",
+      "inicio": 12.25,
+      "fin": 12.53,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.53,
+      "fin": 12.7,
+      "corte": false
+    },
+    {
+      "texto": "internet",
+      "inicio": 12.7,
+      "fin": 13.18,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 13.18,
+      "fin": 13.3,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 13.3,
+      "fin": 13.53,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 13.53,
+      "fin": 13.75,
+      "corte": false
+    },
+    {
+      "texto": "tienda",
+      "inicio": 13.75,
+      "fin": 14.13,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.13,
+      "fin": 14.3,
+      "corte": false
+    },
+    {
+      "texto": "videojuegos",
+      "inicio": 14.3,
+      "fin": 14.93,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 14.93,
+      "fin": 15.15,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 15.15,
+      "fin": 15.43,
+      "corte": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 15.43,
+      "fin": 15.75,
+      "corte": false
+    },
+    {
+      "texto": "quería.",
+      "inicio": 15.75,
+      "fin": 16.13,
+      "corte": true
+    },
+    {
+      "texto": "Esta",
+      "inicio": 16.56,
+      "fin": 16.84,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 16.84,
+      "fin": 17.01,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.01,
+      "fin": 17.19,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 17.19,
+      "fin": 17.67,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 17.67,
+      "fin": 17.85,
+      "corte": false
+    },
+    {
+      "texto": "GameStop,",
+      "inicio": 17.85,
+      "fin": 18.33,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.62,
+      "fin": 18.8,
+      "corte": false
+    },
+    {
+      "texto": "rebelión",
+      "inicio": 18.8,
+      "fin": 19.27,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.27,
+      "fin": 19.45,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 19.45,
+      "fin": 19.67,
+      "corte": false
+    },
+    {
+      "texto": "pequeños",
+      "inicio": 19.67,
+      "fin": 20.15,
+      "corte": false
+    },
+    {
+      "texto": "inversores.",
+      "inicio": 20.15,
+      "fin": 20.73,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 21.03,
+      "fin": 21.15,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 21.15,
+      "fin": 21.32,
+      "corte": false
+    },
+    {
+      "texto": "final",
+      "inicio": 21.32,
+      "fin": 21.64,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 21.64,
+      "fin": 21.81,
+      "corte": false
+    },
+    {
+      "texto": "voy",
+      "inicio": 21.81,
+      "fin": 22.03,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 22.03,
+      "fin": 22.15,
+      "corte": false
+    },
+    {
+      "texto": "preguntar",
+      "inicio": 22.15,
+      "fin": 22.67,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.67,
+      "fin": 22.84,
+      "corte": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 22.84,
+      "fin": 23.06,
+      "corte": false
+    },
+    {
+      "texto": "lado",
+      "inicio": 23.06,
+      "fin": 23.33,
+      "corte": false
+    },
+    {
+      "texto": "estás.",
+      "inicio": 23.33,
+      "fin": 23.65,
+      "corte": true
+    },
+    {
+      "texto": "Empecemos.",
+      "inicio": 24.02,
+      "fin": 24.65,
+      "corte": true
+    },
+    {
+      "texto": "Primero,",
+      "inicio": 25.0,
+      "fin": 25.55,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 25.55,
+      "fin": 25.77,
+      "corte": false
+    },
+    {
+      "texto": "tienda.",
+      "inicio": 25.77,
+      "fin": 26.26,
+      "corte": true
+    },
+    {
+      "texto": "GameStop",
+      "inicio": 26.61,
+      "fin": 27.12,
+      "corte": false
+    },
+    {
+      "texto": "vendía",
+      "inicio": 27.12,
+      "fin": 27.52,
+      "corte": false
+    },
+    {
+      "texto": "videojuegos",
+      "inicio": 27.52,
+      "fin": 28.18,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 28.18,
+      "fin": 28.37,
+      "corte": false
+    },
+    {
+      "texto": "centros",
+      "inicio": 28.37,
+      "fin": 28.82,
+      "corte": false
+    },
+    {
+      "texto": "comerciales.",
+      "inicio": 28.82,
+      "fin": 29.48,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 29.77,
+      "fin": 30.05,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 30.05,
+      "fin": 30.22,
+      "corte": false
+    },
+    {
+      "texto": "mundo",
+      "inicio": 30.22,
+      "fin": 30.55,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30.55,
+      "fin": 30.72,
+      "corte": false
+    },
+    {
+      "texto": "estaba",
+      "inicio": 30.72,
+      "fin": 31.1,
+      "corte": false
+    },
+    {
+      "texto": "pasando",
+      "inicio": 31.1,
+      "fin": 31.52,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 31.52,
+      "fin": 31.65,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 31.65,
+      "fin": 31.87,
+      "corte": false
+    },
+    {
+      "texto": "descargas",
+      "inicio": 31.87,
+      "fin": 32.4,
+      "corte": false
+    },
+    {
+      "texto": "digitales,",
+      "inicio": 32.4,
+      "fin": 32.92,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 32.92,
+      "fin": 33.04,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 33.04,
+      "fin": 33.27,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 33.27,
+      "fin": 33.44,
+      "corte": false
+    },
+    {
+      "texto": "pandemia",
+      "inicio": 33.44,
+      "fin": 33.92,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 33.92,
+      "fin": 34.14,
+      "corte": false
+    },
+    {
+      "texto": "tiendas",
+      "inicio": 34.14,
+      "fin": 34.57,
+      "corte": false
+    },
+    {
+      "texto": "estaban",
+      "inicio": 34.57,
+      "fin": 34.99,
+      "corte": false
+    },
+    {
+      "texto": "vacías.",
+      "inicio": 34.99,
+      "fin": 35.37,
+      "corte": true
+    },
+    {
+      "texto": "Para",
+      "inicio": 35.66,
+      "fin": 35.96,
+      "corte": false
+    },
+    {
+      "texto": "muchos",
+      "inicio": 35.96,
+      "fin": 36.36,
+      "corte": false
+    },
+    {
+      "texto": "expertos,",
+      "inicio": 36.36,
+      "fin": 36.88,
+      "corte": false
+    },
+    {
+      "texto": "GameStop",
+      "inicio": 36.88,
+      "fin": 37.4,
+      "corte": false
+    },
+    {
+      "texto": "iba",
+      "inicio": 37.4,
+      "fin": 37.65,
+      "corte": false
+    },
+    {
+      "texto": "directo",
+      "inicio": 37.65,
+      "fin": 38.11,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 38.11,
+      "fin": 38.24,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 38.24,
+      "fin": 38.44,
+      "corte": false
+    },
+    {
+      "texto": "quiebra.",
+      "inicio": 38.44,
+      "fin": 38.9,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 39.26,
+      "fin": 39.4,
+      "corte": false
+    },
+    {
+      "texto": "aquí",
+      "inicio": 39.4,
+      "fin": 39.7,
+      "corte": false
+    },
+    {
+      "texto": "entran",
+      "inicio": 39.7,
+      "fin": 40.11,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 40.11,
+      "fin": 40.36,
+      "corte": false
+    },
+    {
+      "texto": "grandes",
+      "inicio": 40.36,
+      "fin": 40.82,
+      "corte": false
+    },
+    {
+      "texto": "fondos.",
+      "inicio": 40.82,
+      "fin": 41.23,
+      "corte": true
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 41.56,
+      "fin": 41.91,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 41.91,
+      "fin": 42.08,
+      "corte": false
+    },
+    {
+      "texto": "fondo",
+      "inicio": 42.08,
+      "fin": 42.39,
+      "corte": false
+    },
+    {
+      "texto": "cree",
+      "inicio": 42.39,
+      "fin": 42.65,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.65,
+      "fin": 42.86,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 42.86,
+      "fin": 43.07,
+      "corte": false
+    },
+    {
+      "texto": "empresa",
+      "inicio": 43.07,
+      "fin": 43.47,
+      "corte": false
+    },
+    {
+      "texto": "va",
+      "inicio": 43.47,
+      "fin": 43.64,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 43.64,
+      "fin": 43.76,
+      "corte": false
+    },
+    {
+      "texto": "caer,",
+      "inicio": 43.76,
+      "fin": 44.02,
+      "corte": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 44.02,
+      "fin": 44.32,
+      "corte": false
+    },
+    {
+      "texto": "apostar",
+      "inicio": 44.32,
+      "fin": 44.73,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 44.73,
+      "fin": 44.89,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 44.89,
+      "fin": 45.06,
+      "corte": false
+    },
+    {
+      "texto": "contra.",
+      "inicio": 45.06,
+      "fin": 45.41,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 45.73,
+      "fin": 45.93,
+      "corte": false
+    },
+    {
+      "texto": "llama",
+      "inicio": 45.93,
+      "fin": 46.3,
+      "corte": false
+    },
+    {
+      "texto": "venta",
+      "inicio": 46.3,
+      "fin": 46.68,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 46.68,
+      "fin": 46.88,
+      "corte": false
+    },
+    {
+      "texto": "corto.",
+      "inicio": 46.88,
+      "fin": 47.26,
+      "corte": true
+    },
+    {
+      "texto": "Funciona",
+      "inicio": 47.6,
+      "fin": 48.03,
+      "corte": false
+    },
+    {
+      "texto": "así:",
+      "inicio": 48.03,
+      "fin": 48.23,
+      "corte": true
+    },
+    {
+      "texto": "pides",
+      "inicio": 48.55,
+      "fin": 48.92,
+      "corte": false
+    },
+    {
+      "texto": "prestadas",
+      "inicio": 48.92,
+      "fin": 49.52,
+      "corte": false
+    },
+    {
+      "texto": "unas",
+      "inicio": 49.52,
+      "fin": 49.83,
+      "corte": false
+    },
+    {
+      "texto": "acciones,",
+      "inicio": 49.83,
+      "fin": 50.38,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 50.38,
+      "fin": 50.63,
+      "corte": false
+    },
+    {
+      "texto": "vendes",
+      "inicio": 50.63,
+      "fin": 51.06,
+      "corte": false
+    },
+    {
+      "texto": "hoy,",
+      "inicio": 51.06,
+      "fin": 51.32,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 51.57,
+      "fin": 51.7,
+      "corte": false
+    },
+    {
+      "texto": "esperas",
+      "inicio": 51.7,
+      "fin": 52.14,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 52.14,
+      "fin": 52.27,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 52.27,
+      "fin": 52.5,
+      "corte": false
+    },
+    {
+      "texto": "bajen",
+      "inicio": 52.5,
+      "fin": 52.84,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 52.84,
+      "fin": 53.12,
+      "corte": false
+    },
+    {
+      "texto": "recomprarlas",
+      "inicio": 53.12,
+      "fin": 53.82,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 53.82,
+      "fin": 54.05,
+      "corte": false
+    },
+    {
+      "texto": "baratas",
+      "inicio": 54.05,
+      "fin": 54.49,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 54.49,
+      "fin": 54.62,
+      "corte": false
+    },
+    {
+      "texto": "devolverlas.",
+      "inicio": 54.62,
+      "fin": 55.27,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 55.57,
+      "fin": 55.75,
+      "corte": false
+    },
+    {
+      "texto": "diferencia",
+      "inicio": 55.75,
+      "fin": 56.35,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 56.35,
+      "fin": 56.54,
+      "corte": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 56.54,
+      "fin": 56.72,
+      "corte": false
+    },
+    {
+      "texto": "ganancia.",
+      "inicio": 56.72,
+      "fin": 57.22,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 57.58,
+      "fin": 57.87,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 57.87,
+      "fin": 58.06,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 58.06,
+      "fin": 58.25,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 58.25,
+      "fin": 58.65,
+      "corte": false
+    },
+    {
+      "texto": "sube",
+      "inicio": 58.65,
+      "fin": 58.94,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 58.94,
+      "fin": 59.13,
+      "corte": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 59.13,
+      "fin": 59.37,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 59.37,
+      "fin": 59.55,
+      "corte": false
+    },
+    {
+      "texto": "bajar,",
+      "inicio": 59.55,
+      "fin": 59.9,
+      "corte": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 59.9,
+      "fin": 60.14,
+      "corte": false
+    },
+    {
+      "texto": "pérdidas",
+      "inicio": 60.14,
+      "fin": 60.65,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 60.65,
+      "fin": 60.83,
+      "corte": false
+    },
+    {
+      "texto": "tienen",
+      "inicio": 60.83,
+      "fin": 61.23,
+      "corte": false
+    },
+    {
+      "texto": "límite.",
+      "inicio": 61.23,
+      "fin": 61.63,
+      "corte": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 62.08,
+      "fin": 62.31,
+      "corte": false
+    },
+    {
+      "texto": "GameStop,",
+      "inicio": 62.31,
+      "fin": 62.78,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 62.78,
+      "fin": 63.0,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 63.0,
+      "fin": 63.38,
+      "corte": false
+    },
+    {
+      "texto": "apostaron",
+      "inicio": 63.38,
+      "fin": 63.9,
+      "corte": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 63.9,
+      "fin": 64.12,
+      "corte": false
+    },
+    {
+      "texto": "fuerte",
+      "inicio": 64.12,
+      "fin": 64.49,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 64.49,
+      "fin": 64.72,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 64.72,
+      "fin": 64.89,
+      "corte": false
+    },
+    {
+      "texto": "habían",
+      "inicio": 64.89,
+      "fin": 65.26,
+      "corte": false
+    },
+    {
+      "texto": "vendido",
+      "inicio": 65.26,
+      "fin": 65.69,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 65.69,
+      "fin": 65.86,
+      "corte": false
+    },
+    {
+      "texto": "corto",
+      "inicio": 65.86,
+      "fin": 66.18,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 66.18,
+      "fin": 66.41,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 66.41,
+      "fin": 66.88,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 66.88,
+      "fin": 67.05,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 67.05,
+      "fin": 67.28,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 67.28,
+      "fin": 67.5,
+      "corte": false
+    },
+    {
+      "texto": "realmente",
+      "inicio": 67.5,
+      "fin": 68.02,
+      "corte": false
+    },
+    {
+      "texto": "circulaban",
+      "inicio": 68.02,
+      "fin": 68.59,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 68.59,
+      "fin": 68.77,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 68.77,
+      "fin": 68.94,
+      "corte": false
+    },
+    {
+      "texto": "mercado.",
+      "inicio": 68.94,
+      "fin": 69.36,
+      "corte": true
+    },
+    {
+      "texto": "Más",
+      "inicio": 69.66,
+      "fin": 69.93,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 69.93,
+      "fin": 70.2,
+      "corte": false
+    },
+    {
+      "texto": "cien",
+      "inicio": 70.2,
+      "fin": 70.53,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 70.53,
+      "fin": 70.8,
+      "corte": false
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 70.8,
+      "fin": 71.25,
+      "corte": true
+    },
+    {
+      "texto": "Era",
+      "inicio": 71.6,
+      "fin": 71.84,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 71.84,
+      "fin": 72.09,
+      "corte": false
+    },
+    {
+      "texto": "apuesta",
+      "inicio": 72.09,
+      "fin": 72.55,
+      "corte": false
+    },
+    {
+      "texto": "enorme.",
+      "inicio": 72.55,
+      "fin": 72.96,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 73.35,
+      "fin": 73.47,
+      "corte": false
+    },
+    {
+      "texto": "alguien",
+      "inicio": 73.47,
+      "fin": 73.89,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 73.89,
+      "fin": 74.06,
+      "corte": false
+    },
+    {
+      "texto": "dio",
+      "inicio": 74.06,
+      "fin": 74.29,
+      "corte": false
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 74.29,
+      "fin": 74.66,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 75.03,
+      "fin": 75.22,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 75.22,
+      "fin": 75.41,
+      "corte": false
+    },
+    {
+      "texto": "foro",
+      "inicio": 75.41,
+      "fin": 75.7,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 75.7,
+      "fin": 75.88,
+      "corte": false
+    },
+    {
+      "texto": "Reddit",
+      "inicio": 75.88,
+      "fin": 76.28,
+      "corte": false
+    },
+    {
+      "texto": "llamado",
+      "inicio": 76.28,
+      "fin": 76.73,
+      "corte": false
+    },
+    {
+      "texto": "WallStreetBets,",
+      "inicio": 76.73,
+      "fin": 77.56,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 77.56,
+      "fin": 77.74,
+      "corte": false
+    },
+    {
+      "texto": "inversor",
+      "inicio": 77.74,
+      "fin": 78.25,
+      "corte": false
+    },
+    {
+      "texto": "conocido",
+      "inicio": 78.25,
+      "fin": 78.75,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 78.75,
+      "fin": 79.04,
+      "corte": false
+    },
+    {
+      "texto": "Roaring",
+      "inicio": 79.04,
+      "fin": 79.5,
+      "corte": false
+    },
+    {
+      "texto": "Kitty",
+      "inicio": 79.5,
+      "fin": 79.84,
+      "corte": false
+    },
+    {
+      "texto": "llevaba",
+      "inicio": 79.84,
+      "fin": 80.29,
+      "corte": false
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 80.29,
+      "fin": 80.69,
+      "corte": false
+    },
+    {
+      "texto": "diciendo",
+      "inicio": 80.69,
+      "fin": 81.2,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 81.2,
+      "fin": 81.43,
+      "corte": false
+    },
+    {
+      "texto": "GameStop",
+      "inicio": 81.43,
+      "fin": 81.94,
+      "corte": false
+    },
+    {
+      "texto": "valía",
+      "inicio": 81.94,
+      "fin": 82.28,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 82.28,
+      "fin": 82.52,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 82.52,
+      "fin": 82.71,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 82.71,
+      "fin": 82.9,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 82.9,
+      "fin": 83.13,
+      "corte": false
+    },
+    {
+      "texto": "pensaban.",
+      "inicio": 83.13,
+      "fin": 83.64,
+      "corte": true
+    },
+    {
+      "texto": "Su",
+      "inicio": 84.0,
+      "fin": 84.19,
+      "corte": false
+    },
+    {
+      "texto": "nombre",
+      "inicio": 84.19,
+      "fin": 84.59,
+      "corte": false
+    },
+    {
+      "texto": "real",
+      "inicio": 84.59,
+      "fin": 84.89,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 84.89,
+      "fin": 85.08,
+      "corte": false
+    },
+    {
+      "texto": "Keith",
+      "inicio": 85.08,
+      "fin": 85.43,
+      "corte": false
+    },
+    {
+      "texto": "Gill.",
+      "inicio": 85.43,
+      "fin": 85.72,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 86.06,
+      "fin": 86.22,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 86.22,
+      "fin": 86.43,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 86.43,
+      "fin": 86.63,
+      "corte": false
+    },
+    {
+      "texto": "diecinueve",
+      "inicio": 86.63,
+      "fin": 87.16,
+      "corte": false
+    },
+    {
+      "texto": "invirtió",
+      "inicio": 87.16,
+      "fin": 87.6,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 87.6,
+      "fin": 87.85,
+      "corte": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 87.85,
+      "fin": 88.33,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 88.33,
+      "fin": 88.45,
+      "corte": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 88.45,
+      "fin": 88.7,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 88.7,
+      "fin": 88.91,
+      "corte": false
+    },
+    {
+      "texto": "dólares",
+      "inicio": 88.91,
+      "fin": 89.3,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 89.3,
+      "fin": 89.46,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 89.46,
+      "fin": 89.62,
+      "corte": false
+    },
+    {
+      "texto": "empresa.",
+      "inicio": 89.62,
+      "fin": 90.01,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 90.38,
+      "fin": 90.49,
+      "corte": false
+    },
+    {
+      "texto": "publicaba",
+      "inicio": 90.49,
+      "fin": 90.98,
+      "corte": false
+    },
+    {
+      "texto": "capturas",
+      "inicio": 90.98,
+      "fin": 91.41,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 91.41,
+      "fin": 91.57,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 91.57,
+      "fin": 91.74,
+      "corte": false
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 91.74,
+      "fin": 92.08,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 92.08,
+      "fin": 92.34,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 92.34,
+      "fin": 92.54,
+      "corte": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 92.54,
+      "fin": 92.84,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 92.84,
+      "fin": 93.0,
+      "corte": false
+    },
+    {
+      "texto": "vieran.",
+      "inicio": 93.0,
+      "fin": 93.35,
+      "corte": true
+    },
+    {
+      "texto": "Poco",
+      "inicio": 93.76,
+      "fin": 94.04,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 94.04,
+      "fin": 94.16,
+      "corte": false
+    },
+    {
+      "texto": "poco,",
+      "inicio": 94.16,
+      "fin": 94.44,
+      "corte": false
+    },
+    {
+      "texto": "miles",
+      "inicio": 94.44,
+      "fin": 94.76,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 94.76,
+      "fin": 94.94,
+      "corte": false
+    },
+    {
+      "texto": "usuarios",
+      "inicio": 94.94,
+      "fin": 95.41,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 95.41,
+      "fin": 95.59,
+      "corte": false
+    },
+    {
+      "texto": "entendieron:",
+      "inicio": 95.59,
+      "fin": 96.21,
+      "corte": true
+    },
+    {
+      "texto": "si",
+      "inicio": 96.61,
+      "fin": 96.77,
+      "corte": false
+    },
+    {
+      "texto": "muchos",
+      "inicio": 96.77,
+      "fin": 97.11,
+      "corte": false
+    },
+    {
+      "texto": "compramos",
+      "inicio": 97.11,
+      "fin": 97.59,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 97.59,
+      "fin": 97.71,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 97.71,
+      "fin": 97.87,
+      "corte": false
+    },
+    {
+      "texto": "vez,",
+      "inicio": 97.87,
+      "fin": 98.08,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 98.08,
+      "fin": 98.24,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 98.24,
+      "fin": 98.58,
+      "corte": false
+    },
+    {
+      "texto": "sube.",
+      "inicio": 98.58,
+      "fin": 98.84,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 98.84,
+      "fin": 98.95,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 98.95,
+      "fin": 99.11,
+      "corte": false
+    },
+    {
+      "texto": "sube,",
+      "inicio": 99.11,
+      "fin": 99.36,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 99.68,
+      "fin": 99.92,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 99.92,
+      "fin": 100.33,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 100.33,
+      "fin": 100.57,
+      "corte": false
+    },
+    {
+      "texto": "apostaron",
+      "inicio": 100.57,
+      "fin": 101.14,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 101.14,
+      "fin": 101.33,
+      "corte": false
+    },
+    {
+      "texto": "contra",
+      "inicio": 101.33,
+      "fin": 101.74,
+      "corte": false
+    },
+    {
+      "texto": "tendrán",
+      "inicio": 101.74,
+      "fin": 102.2,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 102.2,
+      "fin": 102.44,
+      "corte": false
+    },
+    {
+      "texto": "comprar",
+      "inicio": 102.44,
+      "fin": 102.9,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 102.9,
+      "fin": 103.41,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 103.41,
+      "fin": 103.71,
+      "corte": false
+    },
+    {
+      "texto": "cerrar",
+      "inicio": 103.71,
+      "fin": 104.12,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 104.12,
+      "fin": 104.3,
+      "corte": false
+    },
+    {
+      "texto": "apuesta.",
+      "inicio": 104.3,
+      "fin": 104.76,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 105.09,
+      "fin": 105.23,
+      "corte": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 105.23,
+      "fin": 105.47,
+      "corte": false
+    },
+    {
+      "texto": "hará",
+      "inicio": 105.47,
+      "fin": 105.77,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 105.77,
+      "fin": 106.01,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 106.01,
+      "fin": 106.2,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 106.2,
+      "fin": 106.61,
+      "corte": false
+    },
+    {
+      "texto": "suba",
+      "inicio": 106.61,
+      "fin": 106.9,
+      "corte": false
+    },
+    {
+      "texto": "todavía",
+      "inicio": 106.9,
+      "fin": 107.36,
+      "corte": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 107.36,
+      "fin": 107.61,
+      "corte": true
+    },
+    {
+      "texto": "Es",
+      "inicio": 107.91,
+      "fin": 108.09,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 108.09,
+      "fin": 108.27,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 108.27,
+      "fin": 108.51,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 108.51,
+      "fin": 108.69,
+      "corte": false
+    },
+    {
+      "texto": "llama",
+      "inicio": 108.69,
+      "fin": 109.03,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 109.03,
+      "fin": 109.21,
+      "corte": false
+    },
+    {
+      "texto": "apretón",
+      "inicio": 109.21,
+      "fin": 109.66,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 109.66,
+      "fin": 109.84,
+      "corte": false
+    },
+    {
+      "texto": "cortos.",
+      "inicio": 109.84,
+      "fin": 110.23,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 110.54,
+      "fin": 110.7,
+      "corte": false
+    },
+    {
+      "texto": "pasó.",
+      "inicio": 110.7,
+      "fin": 111.03,
+      "corte": true
+    },
+    {
+      "texto": "A",
+      "inicio": 111.44,
+      "fin": 111.57,
+      "corte": false
+    },
+    {
+      "texto": "principios",
+      "inicio": 111.57,
+      "fin": 112.13,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 112.13,
+      "fin": 112.31,
+      "corte": false
+    },
+    {
+      "texto": "enero",
+      "inicio": 112.31,
+      "fin": 112.63,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 112.63,
+      "fin": 112.8,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 112.8,
+      "fin": 113.02,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 113.02,
+      "fin": 113.24,
+      "corte": false
+    },
+    {
+      "texto": "veintiuno,",
+      "inicio": 113.24,
+      "fin": 113.76,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 113.76,
+      "fin": 113.98,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 113.98,
+      "fin": 114.35,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 114.35,
+      "fin": 114.53,
+      "corte": false
+    },
+    {
+      "texto": "GameStop",
+      "inicio": 114.53,
+      "fin": 115.0,
+      "corte": false
+    },
+    {
+      "texto": "costaba",
+      "inicio": 115.0,
+      "fin": 115.42,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 115.42,
+      "fin": 115.69,
+      "corte": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 115.69,
+      "fin": 116.06,
+      "corte": false
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 116.06,
+      "fin": 116.48,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 116.78,
+      "fin": 116.98,
+      "corte": false
+    },
+    {
+      "texto": "pocas",
+      "inicio": 116.98,
+      "fin": 117.35,
+      "corte": false
+    },
+    {
+      "texto": "semanas",
+      "inicio": 117.35,
+      "fin": 117.83,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 117.83,
+      "fin": 118.21,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 118.21,
+      "fin": 118.35,
+      "corte": false
+    },
+    {
+      "texto": "superar",
+      "inicio": 118.35,
+      "fin": 118.83,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 118.83,
+      "fin": 119.09,
+      "corte": false
+    },
+    {
+      "texto": "cuatrocientos",
+      "inicio": 119.09,
+      "fin": 119.91,
+      "corte": false
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 119.91,
+      "fin": 120.4,
+      "corte": false
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 120.4,
+      "fin": 120.88,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 121.17,
+      "fin": 121.36,
+      "corte": false
+    },
+    {
+      "texto": "multiplicó",
+      "inicio": 121.36,
+      "fin": 122.0,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 122.0,
+      "fin": 122.26,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 122.26,
+      "fin": 122.51,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 122.51,
+      "fin": 122.7,
+      "corte": false
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 122.7,
+      "fin": 123.12,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 123.49,
+      "fin": 123.65,
+      "corte": false
+    },
+    {
+      "texto": "noticia",
+      "inicio": 123.65,
+      "fin": 124.05,
+      "corte": false
+    },
+    {
+      "texto": "salió",
+      "inicio": 124.05,
+      "fin": 124.36,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 124.36,
+      "fin": 124.52,
+      "corte": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 124.52,
+      "fin": 124.82,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 124.82,
+      "fin": 125.04,
+      "corte": false
+    },
+    {
+      "texto": "medios",
+      "inicio": 125.04,
+      "fin": 125.39,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 125.39,
+      "fin": 125.6,
+      "corte": false
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 125.6,
+      "fin": 125.9,
+      "corte": true
+    },
+    {
+      "texto": "Mucha",
+      "inicio": 126.24,
+      "fin": 126.56,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 126.56,
+      "fin": 126.88,
+      "corte": false
+    },
+    {
+      "texto": "compró",
+      "inicio": 126.88,
+      "fin": 127.25,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 127.25,
+      "fin": 127.47,
+      "corte": false
+    },
+    {
+      "texto": "primera",
+      "inicio": 127.47,
+      "fin": 127.89,
+      "corte": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 127.89,
+      "fin": 128.12,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 128.12,
+      "fin": 128.29,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 128.29,
+      "fin": 128.46,
+      "corte": false
+    },
+    {
+      "texto": "vida,",
+      "inicio": 128.46,
+      "fin": 128.73,
+      "corte": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 128.73,
+      "fin": 129.05,
+      "corte": false
+    },
+    {
+      "texto": "aplicaciones",
+      "inicio": 129.05,
+      "fin": 129.72,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 129.72,
+      "fin": 129.89,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 129.89,
+      "fin": 130.07,
+      "corte": false
+    },
+    {
+      "texto": "móvil.",
+      "inicio": 130.07,
+      "fin": 130.39,
+      "corte": true
+    },
+    {
+      "texto": "Uno",
+      "inicio": 130.8,
+      "fin": 131.03,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 131.03,
+      "fin": 131.21,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 131.21,
+      "fin": 131.44,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 131.44,
+      "fin": 131.83,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 131.83,
+      "fin": 132.06,
+      "corte": false
+    },
+    {
+      "texto": "golpeados",
+      "inicio": 132.06,
+      "fin": 132.6,
+      "corte": false
+    },
+    {
+      "texto": "fue",
+      "inicio": 132.6,
+      "fin": 132.83,
+      "corte": false
+    },
+    {
+      "texto": "Melvin",
+      "inicio": 132.83,
+      "fin": 133.22,
+      "corte": false
+    },
+    {
+      "texto": "Capital.",
+      "inicio": 133.22,
+      "fin": 133.66,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 133.99,
+      "fin": 134.16,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 134.16,
+      "fin": 134.43,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 134.43,
+      "fin": 134.6,
+      "corte": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 134.6,
+      "fin": 134.82,
+      "corte": false
+    },
+    {
+      "texto": "perdió",
+      "inicio": 134.82,
+      "fin": 135.18,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 135.18,
+      "fin": 135.4,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 135.4,
+      "fin": 135.58,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 135.58,
+      "fin": 135.75,
+      "corte": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 135.75,
+      "fin": 136.06,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 136.06,
+      "fin": 136.24,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 136.24,
+      "fin": 136.41,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 136.41,
+      "fin": 136.77,
+      "corte": true
+    },
+    {
+      "texto": "Necesitó",
+      "inicio": 137.1,
+      "fin": 137.56,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 137.56,
+      "fin": 137.77,
+      "corte": false
+    },
+    {
+      "texto": "inyección",
+      "inicio": 137.77,
+      "fin": 138.27,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 138.27,
+      "fin": 138.43,
+      "corte": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 138.43,
+      "fin": 138.69,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 138.69,
+      "fin": 138.91,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 138.91,
+      "fin": 139.12,
+      "corte": false
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 139.12,
+      "fin": 139.71,
+      "corte": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 139.71,
+      "fin": 140.21,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 140.21,
+      "fin": 140.66,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 140.66,
+      "fin": 140.83,
+      "corte": false
+    },
+    {
+      "texto": "dólares",
+      "inicio": 140.83,
+      "fin": 141.23,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 141.23,
+      "fin": 141.39,
+      "corte": false
+    },
+    {
+      "texto": "otros",
+      "inicio": 141.39,
+      "fin": 141.7,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 141.7,
+      "fin": 142.06,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 142.06,
+      "fin": 142.32,
+      "corte": false
+    },
+    {
+      "texto": "seguir",
+      "inicio": 142.32,
+      "fin": 142.67,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 142.67,
+      "fin": 142.84,
+      "corte": false
+    },
+    {
+      "texto": "pie.",
+      "inicio": 142.84,
+      "fin": 143.05,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 143.42,
+      "fin": 143.57,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 143.57,
+      "fin": 143.78,
+      "corte": false
+    },
+    {
+      "texto": "año",
+      "inicio": 143.78,
+      "fin": 144.04,
+      "corte": false
+    },
+    {
+      "texto": "siguiente,",
+      "inicio": 144.04,
+      "fin": 144.66,
+      "corte": false
+    },
+    {
+      "texto": "cerró.",
+      "inicio": 144.66,
+      "fin": 145.04,
+      "corte": true
+    },
+    {
+      "texto": "Mientras",
+      "inicio": 145.43,
+      "fin": 145.96,
+      "corte": false
+    },
+    {
+      "texto": "tanto,",
+      "inicio": 145.96,
+      "fin": 146.33,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 146.33,
+      "fin": 146.52,
+      "corte": false
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 146.52,
+      "fin": 146.94,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 146.94,
+      "fin": 147.14,
+      "corte": false
+    },
+    {
+      "texto": "Keith",
+      "inicio": 147.14,
+      "fin": 147.5,
+      "corte": false
+    },
+    {
+      "texto": "Gill",
+      "inicio": 147.5,
+      "fin": 147.81,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 147.81,
+      "fin": 148.17,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 148.17,
+      "fin": 148.31,
+      "corte": false
+    },
+    {
+      "texto": "valer",
+      "inicio": 148.31,
+      "fin": 148.67,
+      "corte": false
+    },
+    {
+      "texto": "decenas",
+      "inicio": 148.67,
+      "fin": 149.15,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 149.15,
+      "fin": 149.34,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 149.34,
+      "fin": 149.87,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 149.87,
+      "fin": 150.07,
+      "corte": false
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 150.07,
+      "fin": 150.54,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 150.54,
+      "fin": 150.68,
+      "corte": false
+    },
+    {
+      "texto": "entonces",
+      "inicio": 150.68,
+      "fin": 151.21,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 151.21,
+      "fin": 151.58,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 151.58,
+      "fin": 151.77,
+      "corte": false
+    },
+    {
+      "texto": "momento",
+      "inicio": 151.77,
+      "fin": 152.25,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 152.25,
+      "fin": 152.5,
+      "corte": false
+    },
+    {
+      "texto": "polémico.",
+      "inicio": 152.5,
+      "fin": 153.03,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 153.5,
+      "fin": 153.67,
+      "corte": false
+    },
+    {
+      "texto": "veintiocho",
+      "inicio": 153.67,
+      "fin": 154.26,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 154.26,
+      "fin": 154.44,
+      "corte": false
+    },
+    {
+      "texto": "enero,",
+      "inicio": 154.44,
+      "fin": 154.77,
+      "corte": false
+    },
+    {
+      "texto": "Robinhood,",
+      "inicio": 154.77,
+      "fin": 155.3,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 155.3,
+      "fin": 155.48,
+      "corte": false
+    },
+    {
+      "texto": "aplicación",
+      "inicio": 155.48,
+      "fin": 156.06,
+      "corte": false
+    },
+    {
+      "texto": "favorita",
+      "inicio": 156.06,
+      "fin": 156.54,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 156.54,
+      "fin": 156.72,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 156.72,
+      "fin": 156.95,
+      "corte": false
+    },
+    {
+      "texto": "pequeños",
+      "inicio": 156.95,
+      "fin": 157.43,
+      "corte": false
+    },
+    {
+      "texto": "inversores,",
+      "inicio": 157.43,
+      "fin": 158.02,
+      "corte": false
+    },
+    {
+      "texto": "bloqueó",
+      "inicio": 158.35,
+      "fin": 158.73,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 158.73,
+      "fin": 158.88,
+      "corte": false
+    },
+    {
+      "texto": "compra",
+      "inicio": 158.88,
+      "fin": 159.22,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 159.22,
+      "fin": 159.37,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 159.37,
+      "fin": 159.8,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 159.8,
+      "fin": 159.95,
+      "corte": false
+    },
+    {
+      "texto": "GameStop.",
+      "inicio": 159.95,
+      "fin": 160.38,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 160.69,
+      "fin": 160.88,
+      "corte": false
+    },
+    {
+      "texto": "podía",
+      "inicio": 160.88,
+      "fin": 161.23,
+      "corte": false
+    },
+    {
+      "texto": "vender,",
+      "inicio": 161.23,
+      "fin": 161.64,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 161.64,
+      "fin": 161.95,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 161.95,
+      "fin": 162.14,
+      "corte": false
+    },
+    {
+      "texto": "comprar.",
+      "inicio": 162.14,
+      "fin": 162.6,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 163.06,
+      "fin": 163.26,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 163.26,
+      "fin": 163.7,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 163.7,
+      "fin": 163.9,
+      "corte": false
+    },
+    {
+      "texto": "desplomó.",
+      "inicio": 163.9,
+      "fin": 164.46,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 164.86,
+      "fin": 164.97,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 164.97,
+      "fin": 165.13,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 165.13,
+      "fin": 165.43,
+      "corte": false
+    },
+    {
+      "texto": "estalló:",
+      "inicio": 165.43,
+      "fin": 165.81,
+      "corte": true
+    },
+    {
+      "texto": "¿por",
+      "inicio": 166.21,
+      "fin": 166.44,
+      "corte": false
+    },
+    {
+      "texto": "qué,",
+      "inicio": 166.44,
+      "fin": 166.66,
+      "corte": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 166.66,
+      "fin": 166.99,
+      "corte": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 166.99,
+      "fin": 167.36,
+      "corte": false
+    },
+    {
+      "texto": "ganaban",
+      "inicio": 167.36,
+      "fin": 167.79,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 167.79,
+      "fin": 168.01,
+      "corte": false
+    },
+    {
+      "texto": "pequeños,",
+      "inicio": 168.01,
+      "fin": 168.49,
+      "corte": false
+    },
+    {
+      "texto": "les",
+      "inicio": 168.49,
+      "fin": 168.71,
+      "corte": false
+    },
+    {
+      "texto": "cambiaban",
+      "inicio": 168.71,
+      "fin": 169.24,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 169.24,
+      "fin": 169.46,
+      "corte": false
+    },
+    {
+      "texto": "reglas?",
+      "inicio": 169.46,
+      "fin": 169.83,
+      "corte": true
+    },
+    {
+      "texto": "Robinhood",
+      "inicio": 170.22,
+      "fin": 170.71,
+      "corte": false
+    },
+    {
+      "texto": "explicó",
+      "inicio": 170.71,
+      "fin": 171.1,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 171.1,
+      "fin": 171.31,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 171.31,
+      "fin": 171.47,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 171.47,
+      "fin": 171.63,
+      "corte": false
+    },
+    {
+      "texto": "hizo",
+      "inicio": 171.63,
+      "fin": 171.89,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 171.89,
+      "fin": 172.15,
+      "corte": false
+    },
+    {
+      "texto": "proteger",
+      "inicio": 172.15,
+      "fin": 172.59,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 172.59,
+      "fin": 172.7,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 172.7,
+      "fin": 172.91,
+      "corte": false
+    },
+    {
+      "texto": "fondos,",
+      "inicio": 172.91,
+      "fin": 173.26,
+      "corte": false
+    },
+    {
+      "texto": "sino",
+      "inicio": 173.54,
+      "fin": 173.81,
+      "corte": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 173.81,
+      "fin": 174.17,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 174.17,
+      "fin": 174.34,
+      "corte": false
+    },
+    {
+      "texto": "cámara",
+      "inicio": 174.34,
+      "fin": 174.7,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 174.7,
+      "fin": 174.92,
+      "corte": false
+    },
+    {
+      "texto": "liquida",
+      "inicio": 174.92,
+      "fin": 175.33,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 175.33,
+      "fin": 175.54,
+      "corte": false
+    },
+    {
+      "texto": "operaciones",
+      "inicio": 175.54,
+      "fin": 176.15,
+      "corte": false
+    },
+    {
+      "texto": "le",
+      "inicio": 176.15,
+      "fin": 176.31,
+      "corte": false
+    },
+    {
+      "texto": "exigió",
+      "inicio": 176.31,
+      "fin": 176.68,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 176.68,
+      "fin": 176.84,
+      "corte": false
+    },
+    {
+      "texto": "golpe",
+      "inicio": 176.84,
+      "fin": 177.16,
+      "corte": false
+    },
+    {
+      "texto": "miles",
+      "inicio": 177.16,
+      "fin": 177.47,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 177.47,
+      "fin": 177.64,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 177.64,
+      "fin": 178.1,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 178.1,
+      "fin": 178.27,
+      "corte": false
+    },
+    {
+      "texto": "dólares",
+      "inicio": 178.27,
+      "fin": 178.67,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 178.67,
+      "fin": 178.84,
+      "corte": false
+    },
+    {
+      "texto": "garantías,",
+      "inicio": 178.84,
+      "fin": 179.35,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 179.6,
+      "fin": 179.73,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 179.73,
+      "fin": 179.91,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 179.91,
+      "fin": 180.14,
+      "corte": false
+    },
+    {
+      "texto": "tenía.",
+      "inicio": 180.14,
+      "fin": 180.47,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 180.85,
+      "fin": 181.1,
+      "corte": false
+    },
+    {
+      "texto": "muchos",
+      "inicio": 181.1,
+      "fin": 181.44,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 181.44,
+      "fin": 181.6,
+      "corte": false
+    },
+    {
+      "texto": "le",
+      "inicio": 181.6,
+      "fin": 181.76,
+      "corte": false
+    },
+    {
+      "texto": "creyeron.",
+      "inicio": 181.76,
+      "fin": 182.2,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 182.62,
+      "fin": 182.79,
+      "corte": false
+    },
+    {
+      "texto": "caso",
+      "inicio": 182.79,
+      "fin": 183.05,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 183.05,
+      "fin": 183.36,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 183.36,
+      "fin": 183.53,
+      "corte": false
+    },
+    {
+      "texto": "Congreso",
+      "inicio": 183.53,
+      "fin": 183.98,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 183.98,
+      "fin": 184.15,
+      "corte": false
+    },
+    {
+      "texto": "Estados",
+      "inicio": 184.15,
+      "fin": 184.55,
+      "corte": false
+    },
+    {
+      "texto": "Unidos,",
+      "inicio": 184.55,
+      "fin": 184.91,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 184.91,
+      "fin": 185.03,
+      "corte": false
+    },
+    {
+      "texto": "tanto",
+      "inicio": 185.03,
+      "fin": 185.34,
+      "corte": false
+    },
+    {
+      "texto": "Keith",
+      "inicio": 185.34,
+      "fin": 185.65,
+      "corte": false
+    },
+    {
+      "texto": "Gill",
+      "inicio": 185.65,
+      "fin": 185.91,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 185.91,
+      "fin": 186.17,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 186.17,
+      "fin": 186.39,
+      "corte": false
+    },
+    {
+      "texto": "jefes",
+      "inicio": 186.39,
+      "fin": 186.7,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 186.7,
+      "fin": 186.86,
+      "corte": false
+    },
+    {
+      "texto": "Robinhood",
+      "inicio": 186.86,
+      "fin": 187.36,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 187.36,
+      "fin": 187.48,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 187.48,
+      "fin": 187.65,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 187.65,
+      "fin": 187.86,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 187.86,
+      "fin": 188.22,
+      "corte": false
+    },
+    {
+      "texto": "tuvieron",
+      "inicio": 188.5,
+      "fin": 188.97,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 188.97,
+      "fin": 189.19,
+      "corte": false
+    },
+    {
+      "texto": "dar",
+      "inicio": 189.19,
+      "fin": 189.41,
+      "corte": false
+    },
+    {
+      "texto": "explicaciones.",
+      "inicio": 189.41,
+      "fin": 190.12,
+      "corte": true
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 190.46,
+      "fin": 190.58,
+      "corte": false
+    },
+    {
+      "texto": "quién",
+      "inicio": 190.58,
+      "fin": 190.87,
+      "corte": false
+    },
+    {
+      "texto": "ganó",
+      "inicio": 190.87,
+      "fin": 191.12,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 191.12,
+      "fin": 191.27,
+      "corte": false
+    },
+    {
+      "texto": "final?",
+      "inicio": 191.27,
+      "fin": 191.57,
+      "corte": true
+    },
+    {
+      "texto": "Aquí",
+      "inicio": 191.97,
+      "fin": 192.26,
+      "corte": false
+    },
+    {
+      "texto": "está",
+      "inicio": 192.26,
+      "fin": 192.56,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 192.56,
+      "fin": 192.75,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 192.75,
+      "fin": 193.1,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 193.1,
+      "fin": 193.34,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 193.34,
+      "fin": 193.64,
+      "corte": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 193.64,
+      "fin": 193.98,
+      "corte": false
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 193.98,
+      "fin": 194.39,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 194.78,
+      "fin": 195.02,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 195.02,
+      "fin": 195.25,
+      "corte": false
+    },
+    {
+      "texto": "compraron",
+      "inicio": 195.25,
+      "fin": 195.81,
+      "corte": false
+    },
+    {
+      "texto": "temprano,",
+      "inicio": 195.81,
+      "fin": 196.3,
+      "corte": false
+    },
+    {
+      "texto": "como",
+      "inicio": 196.3,
+      "fin": 196.59,
+      "corte": false
+    },
+    {
+      "texto": "Keith",
+      "inicio": 196.59,
+      "fin": 196.93,
+      "corte": false
+    },
+    {
+      "texto": "Gill,",
+      "inicio": 196.93,
+      "fin": 197.22,
+      "corte": false
+    },
+    {
+      "texto": "ganaron",
+      "inicio": 197.22,
+      "fin": 197.67,
+      "corte": false
+    },
+    {
+      "texto": "mucho.",
+      "inicio": 197.67,
+      "fin": 198.01,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 198.38,
+      "fin": 198.65,
+      "corte": false
+    },
+    {
+      "texto": "miles",
+      "inicio": 198.65,
+      "fin": 198.97,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 198.97,
+      "fin": 199.15,
+      "corte": false
+    },
+    {
+      "texto": "personas",
+      "inicio": 199.15,
+      "fin": 199.62,
+      "corte": false
+    },
+    {
+      "texto": "compraron",
+      "inicio": 199.62,
+      "fin": 200.15,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 200.15,
+      "fin": 200.32,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 200.32,
+      "fin": 200.49,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 200.49,
+      "fin": 200.72,
+      "corte": false
+    },
+    {
+      "texto": "alto,",
+      "inicio": 200.72,
+      "fin": 200.99,
+      "corte": false
+    },
+    {
+      "texto": "cerca",
+      "inicio": 201.26,
+      "fin": 201.58,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 201.58,
+      "fin": 201.75,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 201.75,
+      "fin": 201.98,
+      "corte": false
+    },
+    {
+      "texto": "cuatrocientos",
+      "inicio": 201.98,
+      "fin": 202.69,
+      "corte": false
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 202.69,
+      "fin": 203.11,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 203.41,
+      "fin": 203.53,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 203.53,
+      "fin": 203.7,
+      "corte": false
+    },
+    {
+      "texto": "pocas",
+      "inicio": 203.7,
+      "fin": 204.01,
+      "corte": false
+    },
+    {
+      "texto": "semanas",
+      "inicio": 204.01,
+      "fin": 204.42,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 204.42,
+      "fin": 204.59,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 204.59,
+      "fin": 204.96,
+      "corte": false
+    },
+    {
+      "texto": "volvió",
+      "inicio": 204.96,
+      "fin": 205.32,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 205.32,
+      "fin": 205.44,
+      "corte": false
+    },
+    {
+      "texto": "caer",
+      "inicio": 205.44,
+      "fin": 205.71,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 205.71,
+      "fin": 205.93,
+      "corte": false
+    },
+    {
+      "texto": "debajo",
+      "inicio": 205.93,
+      "fin": 206.29,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 206.29,
+      "fin": 206.46,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 206.46,
+      "fin": 206.68,
+      "corte": false
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 206.68,
+      "fin": 207.19,
+      "corte": true
+    },
+    {
+      "texto": "Muchos",
+      "inicio": 207.58,
+      "fin": 207.92,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 207.92,
+      "fin": 208.08,
+      "corte": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 208.08,
+      "fin": 208.33,
+      "corte": false
+    },
+    {
+      "texto": "pequeños",
+      "inicio": 208.33,
+      "fin": 208.77,
+      "corte": false
+    },
+    {
+      "texto": "inversores",
+      "inicio": 208.77,
+      "fin": 209.29,
+      "corte": false
+    },
+    {
+      "texto": "perdieron",
+      "inicio": 209.29,
+      "fin": 209.77,
+      "corte": false
+    },
+    {
+      "texto": "gran",
+      "inicio": 209.77,
+      "fin": 210.02,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 210.02,
+      "fin": 210.32,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 210.32,
+      "fin": 210.48,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 210.48,
+      "fin": 210.64,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 210.64,
+      "fin": 210.84,
+      "corte": false
+    },
+    {
+      "texto": "pusieron.",
+      "inicio": 210.84,
+      "fin": 211.28,
+      "corte": true
+    },
+    {
+      "texto": "Además,",
+      "inicio": 211.66,
+      "fin": 212.05,
+      "corte": false
+    },
+    {
+      "texto": "algunos",
+      "inicio": 212.05,
+      "fin": 212.49,
+      "corte": false
+    },
+    {
+      "texto": "grandes",
+      "inicio": 212.49,
+      "fin": 212.94,
+      "corte": false
+    },
+    {
+      "texto": "fondos",
+      "inicio": 212.94,
+      "fin": 213.33,
+      "corte": false
+    },
+    {
+      "texto": "también",
+      "inicio": 213.33,
+      "fin": 213.77,
+      "corte": false
+    },
+    {
+      "texto": "ganaron",
+      "inicio": 213.77,
+      "fin": 214.21,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 214.21,
+      "fin": 214.45,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 214.45,
+      "fin": 214.63,
+      "corte": false
+    },
+    {
+      "texto": "subida,",
+      "inicio": 214.63,
+      "fin": 215.02,
+      "corte": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 215.02,
+      "fin": 215.41,
+      "corte": false
+    },
+    {
+      "texto": "supieron",
+      "inicio": 215.41,
+      "fin": 215.91,
+      "corte": false
+    },
+    {
+      "texto": "moverse",
+      "inicio": 215.91,
+      "fin": 216.35,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 216.35,
+      "fin": 216.48,
+      "corte": false
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 216.48,
+      "fin": 216.88,
+      "corte": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 217.25,
+      "fin": 217.45,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 217.45,
+      "fin": 217.65,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 217.65,
+      "fin": 217.81,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 217.81,
+      "fin": 218.23,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 218.23,
+      "fin": 218.39,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 218.39,
+      "fin": 218.59,
+      "corte": false
+    },
+    {
+      "texto": "pequeños",
+      "inicio": 218.59,
+      "fin": 219.02,
+      "corte": false
+    },
+    {
+      "texto": "contra",
+      "inicio": 219.02,
+      "fin": 219.35,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 219.35,
+      "fin": 219.55,
+      "corte": false
+    },
+    {
+      "texto": "grandes",
+      "inicio": 219.55,
+      "fin": 219.93,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 219.93,
+      "fin": 220.09,
+      "corte": false
+    },
+    {
+      "texto": "verdad,",
+      "inicio": 220.09,
+      "fin": 220.43,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 220.79,
+      "fin": 221.08,
+      "corte": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 221.08,
+      "fin": 221.36,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 221.36,
+      "fin": 221.54,
+      "corte": false
+    },
+    {
+      "texto": "parte.",
+      "inicio": 221.54,
+      "fin": 221.87,
+      "corte": true
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 222.32,
+      "fin": 222.92,
+      "corte": false
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 223.18,
+      "fin": 223.4,
+      "corte": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 223.4,
+      "fin": 223.62,
+      "corte": false
+    },
+    {
+      "texto": "enseña",
+      "inicio": 223.62,
+      "fin": 223.98,
+      "corte": false
+    },
+    {
+      "texto": "GameStop?",
+      "inicio": 223.98,
+      "fin": 224.44,
+      "corte": true
+    },
+    {
+      "texto": "Tres",
+      "inicio": 224.85,
+      "fin": 225.18,
+      "corte": false
+    },
+    {
+      "texto": "cosas.",
+      "inicio": 225.18,
+      "fin": 225.56,
+      "corte": true
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 225.9,
+      "fin": 226.15,
+      "corte": true
+    },
+    {
+      "texto": "apostar",
+      "inicio": 226.54,
+      "fin": 227.03,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 227.03,
+      "fin": 227.23,
+      "corte": false
+    },
+    {
+      "texto": "corto",
+      "inicio": 227.23,
+      "fin": 227.6,
+      "corte": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 227.6,
+      "fin": 227.98,
+      "corte": false
+    },
+    {
+      "texto": "salir",
+      "inicio": 227.98,
+      "fin": 228.35,
+      "corte": false
+    },
+    {
+      "texto": "muy",
+      "inicio": 228.35,
+      "fin": 228.61,
+      "corte": false
+    },
+    {
+      "texto": "caro,",
+      "inicio": 228.61,
+      "fin": 228.92,
+      "corte": false
+    },
+    {
+      "texto": "incluso",
+      "inicio": 229.22,
+      "fin": 229.69,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 229.69,
+      "fin": 230.0,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 230.0,
+      "fin": 230.25,
+      "corte": false
+    },
+    {
+      "texto": "expertos.",
+      "inicio": 230.25,
+      "fin": 230.77,
+      "corte": true
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 231.09,
+      "fin": 231.5,
+      "corte": true
+    },
+    {
+      "texto": "cuando",
+      "inicio": 231.82,
+      "fin": 232.19,
+      "corte": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 232.19,
+      "fin": 232.46,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 232.46,
+      "fin": 232.64,
+      "corte": false
+    },
+    {
+      "texto": "mundo",
+      "inicio": 232.64,
+      "fin": 232.96,
+      "corte": false
+    },
+    {
+      "texto": "habla",
+      "inicio": 232.96,
+      "fin": 233.28,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 233.28,
+      "fin": 233.45,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 233.45,
+      "fin": 233.67,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 233.67,
+      "fin": 234.05,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 234.05,
+      "fin": 234.22,
+      "corte": false
+    },
+    {
+      "texto": "redes,",
+      "inicio": 234.22,
+      "fin": 234.54,
+      "corte": false
+    },
+    {
+      "texto": "normalmente",
+      "inicio": 234.54,
+      "fin": 235.16,
+      "corte": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 235.16,
+      "fin": 235.33,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 235.33,
+      "fin": 235.51,
+      "corte": false
+    },
+    {
+      "texto": "tarde",
+      "inicio": 235.51,
+      "fin": 235.83,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 235.83,
+      "fin": 236.1,
+      "corte": false
+    },
+    {
+      "texto": "entrar.",
+      "inicio": 236.1,
+      "fin": 236.47,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 236.89,
+      "fin": 237.05,
+      "corte": false
+    },
+    {
+      "texto": "tres:",
+      "inicio": 237.05,
+      "fin": 237.38,
+      "corte": true
+    },
+    {
+      "texto": "el",
+      "inicio": 237.66,
+      "fin": 237.85,
+      "corte": false
+    },
+    {
+      "texto": "mercado",
+      "inicio": 237.85,
+      "fin": 238.29,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 238.29,
+      "fin": 238.47,
+      "corte": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 238.47,
+      "fin": 238.91,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 238.91,
+      "fin": 239.09,
+      "corte": false
+    },
+    {
+      "texto": "justo,",
+      "inicio": 239.09,
+      "fin": 239.43,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 239.43,
+      "fin": 239.56,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 239.56,
+      "fin": 239.79,
+      "corte": false
+    },
+    {
+      "texto": "reglas",
+      "inicio": 239.79,
+      "fin": 240.18,
+      "corte": false
+    },
+    {
+      "texto": "pueden",
+      "inicio": 240.18,
+      "fin": 240.57,
+      "corte": false
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 240.57,
+      "fin": 241.01,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 241.01,
+      "fin": 241.14,
+      "corte": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 241.14,
+      "fin": 241.47,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 241.47,
+      "fin": 241.71,
+      "corte": false
+    },
+    {
+      "texto": "juego.",
+      "inicio": 241.71,
+      "fin": 242.04,
+      "corte": true
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 242.54,
+      "fin": 242.84,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 242.84,
+      "fin": 243.0,
+      "corte": false
+    },
+    {
+      "texto": "toca",
+      "inicio": 243.0,
+      "fin": 243.25,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 243.25,
+      "fin": 243.36,
+      "corte": false
+    },
+    {
+      "texto": "ti.",
+      "inicio": 243.36,
+      "fin": 243.52,
+      "corte": true
+    },
+    {
+      "texto": "¿Fue",
+      "inicio": 243.89,
+      "fin": 244.11,
+      "corte": false
+    },
+    {
+      "texto": "GameStop",
+      "inicio": 244.11,
+      "fin": 244.58,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 244.58,
+      "fin": 244.8,
+      "corte": false
+    },
+    {
+      "texto": "revolución",
+      "inicio": 244.8,
+      "fin": 245.36,
+      "corte": false
+    },
+    {
+      "texto": "justa",
+      "inicio": 245.36,
+      "fin": 245.68,
+      "corte": false
+    },
+    {
+      "texto": "contra",
+      "inicio": 245.68,
+      "fin": 246.04,
+      "corte": false
+    },
+    {
+      "texto": "Wall",
+      "inicio": 246.04,
+      "fin": 246.31,
+      "corte": false
+    },
+    {
+      "texto": "Street,",
+      "inicio": 246.31,
+      "fin": 246.68,
+      "corte": false
+    },
+    {
+      "texto": "o",
+      "inicio": 246.68,
+      "fin": 246.8,
+      "corte": false
+    },
+    {
+      "texto": "simplemente",
+      "inicio": 246.8,
+      "fin": 247.41,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 247.41,
+      "fin": 247.58,
+      "corte": false
+    },
+    {
+      "texto": "casino",
+      "inicio": 247.58,
+      "fin": 247.95,
+      "corte": false
+    },
+    {
+      "texto": "donde",
+      "inicio": 247.95,
+      "fin": 248.26,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 248.26,
+      "fin": 248.44,
+      "corte": false
+    },
+    {
+      "texto": "final",
+      "inicio": 248.44,
+      "fin": 248.75,
+      "corte": false
+    },
+    {
+      "texto": "perdieron",
+      "inicio": 248.75,
+      "fin": 249.27,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 249.27,
+      "fin": 249.49,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 249.49,
+      "fin": 249.66,
+      "corte": false
+    },
+    {
+      "texto": "siempre?",
+      "inicio": 249.66,
+      "fin": 250.07,
+      "corte": true
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 250.47,
+      "fin": 250.56,
+      "corte": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 250.56,
+      "fin": 250.73,
+      "corte": false
+    },
+    {
+      "texto": "opinas",
+      "inicio": 250.73,
+      "fin": 251.01,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 251.01,
+      "fin": 251.14,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 251.14,
+      "fin": 251.28,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 251.28,
+      "fin": 251.44,
+      "corte": false
+    },
+    {
+      "texto": "hizo",
+      "inicio": 251.44,
+      "fin": 251.65,
+      "corte": false
+    },
+    {
+      "texto": "Robinhood?",
+      "inicio": 251.65,
+      "fin": 252.05,
+      "corte": true
+    },
+    {
+      "texto": "Te",
+      "inicio": 252.43,
+      "fin": 252.57,
+      "corte": false
+    },
+    {
+      "texto": "leo",
+      "inicio": 252.57,
+      "fin": 252.76,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 252.76,
+      "fin": 252.91,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 252.91,
+      "fin": 253.1,
+      "corte": false
+    },
+    {
+      "texto": "comentarios.",
+      "inicio": 253.1,
+      "fin": 253.63,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 253.9,
+      "fin": 254.04,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 254.04,
+      "fin": 254.22,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 254.22,
+      "fin": 254.4,
+      "corte": false
+    },
+    {
+      "texto": "gustó,",
+      "inicio": 254.4,
+      "fin": 254.75,
+      "corte": false
+    },
+    {
+      "texto": "suscríbete",
+      "inicio": 254.75,
+      "fin": 255.35,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 255.35,
+      "fin": 255.48,
+      "corte": false
+    },
+    {
+      "texto": "Cuentas",
+      "inicio": 255.48,
+      "fin": 255.93,
+      "corte": false
+    },
+    {
+      "texto": "Claras",
+      "inicio": 255.93,
+      "fin": 256.33,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 256.33,
+      "fin": 256.62,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 256.62,
+      "fin": 256.85,
+      "corte": false
+    },
+    {
+      "texto": "historias",
+      "inicio": 256.85,
+      "fin": 257.41,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 257.41,
+      "fin": 257.64,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 257.64,
+      "fin": 258.04,
+      "corte": true
+    }
+  ]
+}

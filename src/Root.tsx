@@ -40,6 +40,12 @@ import inflacion from "../guiones/inflacion.json";
 import largo7reglas from "../guiones/largo-7reglas.json";
 import largoInteresCompuesto from "../guiones/largo-interes-compuesto.json";
 import largoDinero from "../guiones/largo-de-donde-sale-el-dinero.json";
+import largoMadoff from "../guiones/largo-madoff.json";
+import largoArgentina from "../guiones/largo-argentina.json";
+import largoNewton from "../guiones/largo-newton.json";
+import largoCrisis2008 from "../guiones/largo-crisis2008.json";
+import largoGamestop from "../guiones/largo-gamestop.json";
+import largoCorea from "../guiones/largo-corea.json";
 import regla503020 from "../guiones/regla503020.json";
 import descuentosV2 from "../guiones/descuentos-v2.json";
 import descuentosV3 from "../guiones/descuentos-v3.json";
@@ -492,6 +498,126 @@ export const RemotionRoot: React.FC = () => {
             imgs: ["ia/s16/moneda-lidia.png", "ia/s16/billete-chino.png", "ia/s16/lingotes.png", "ia/s16/banco.png", "ia/s16/monitor-billetes.png", "ia/s16/billetes-montana.png", "ia/s16/cofre-recibo.png", "ia/s16/trueque.png"],
           },
           video: datosShortSchema.parse(largoDinero),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoMadoff"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["La MAYOR estafa", "de la historia"],
+            resaltar: "MAYOR",
+            sub: "Bernie Madoff y los 65.000 millones que no existían",
+            imgs: ["ia/s16/piramide.png", "ia/s16/bolsa.png", "ia/s16/esposas.png", "ia/s16/mazo.png", "ia/s16/fajo.png", "ia/s16/extracto.png", "ia/s16/billetes-montana.png", "ia/s16/rejas.png"],
+          },
+          video: datosShortSchema.parse(largoMadoff),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoArgentina"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["De país RICO", "a crisis eterna"],
+            resaltar: "RICO",
+            sub: "Argentina: 13 ceros, 9 impagos y un ciclo que no termina",
+            imgs: ["ia/s16/bandera-arg.png", "ia/s16/vaca-trigo.png", "ia/s16/prensa-monedas.png", "ia/s16/cacerola.png", "ia/billete-desvanece.png", "ia/s16/locomotora.png", "ia/s16/carretilla.png", "ia/s16/cajero.png"],
+          },
+          video: datosShortSchema.parse(largoArgentina),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoNewton"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["El GENIO que", "lo perdió todo"],
+            resaltar: "GENIO",
+            sub: "Isaac Newton y la burbuja de los Mares del Sur",
+            imgs: ["ia/s16/manzana-pluma.png", "ia/s16/burbuja-oro.png", "ia/s16/velero.png", "ia/s16/pergamino.png", "ia/grafico-sube.png", "ia/s16/lingotes.png", "ia/s16/rejas.png", "ia/s16/monedas.png"],
+          },
+          video: datosShortSchema.parse(largoNewton),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoCrisis2008"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["¿Salvar a los BANCOS", "con tu dinero?"],
+            resaltar: "BANCOS",
+            sub: "La crisis de 2008 y el rescate más polémico",
+            imgs: ["ia/s16/banco-roto.png", "ia/s16/salvavidas.png", "ia/s16/paquete-casas.png", "ia/s16/islandia.png", "ia/s16/casa-huracan.png", "ia/s16/rejas.png", "ia/s16/capitolio.png", "ia/s16/fajo.png"],
+          },
+          video: datosShortSchema.parse(largoCrisis2008),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoGamestop"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["Pequeños contra", "WALL STREET"],
+            resaltar: "WALL STREET",
+            sub: "GameStop: la rebelión que hizo temblar a los grandes fondos",
+            imgs: ["ia/s16/gato-rugiendo.png", "ia/s16/cohete.png", "ia/s16/mando.png", "ia/s16/movil-candado.png", "ia/s16/bolsa.png", "ia/s16/billetes-montana.png", "ia/s16/banco-roto.png", "ia/s16/ruleta.png"],
+          },
+          video: datosShortSchema.parse(largoGamestop),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
+        })}
+      />
+      <Composition
+        id="LargoCorea"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["De POBRE a potencia", "en una generación"],
+            resaltar: "POBRE",
+            sub: "Corea del Sur frente a América Latina: la receta y su precio",
+            imgs: ["ia/s16/bandera-corea.png", "ia/s16/chip.png", "ia/s16/birrete.png", "ia/s16/joyas-oro.png", "ia/s16/barco.png", "ia/s16/fabrica.png", "ia/s16/coche.png", "ia/s16/barril.png"],
+          },
+          video: datosShortSchema.parse(largoCorea),
         }}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),

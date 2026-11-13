@@ -8,6 +8,7 @@ import { Avatar } from "./compositions/Avatar";
 import { Miniatura } from "./compositions/Miniatura";
 import { Banner } from "./compositions/Banner";
 import { DatosShort, datosShortSchema } from "./compositions/DatosShort";
+import { LargoConIntro, INTRO_SEG } from "./compositions/IntroLargo";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
 import { BigMacShort, duracionBigMac } from "./compositions/BigMacShort";
 import { PizzasBitcoinShort, duracionPizzas } from "./compositions/PizzasBitcoinShort";
@@ -473,6 +474,26 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={datosShortSchema.parse(largoDinero)}
         calculateMetadata={({ props }) => ({
           durationInFrames: Math.ceil(FPS * props.duracion),
+        })}
+      />
+      <Composition
+        id="LargoDeDondeSaleElDineroIntro"
+        component={LargoConIntro}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 10}
+        defaultProps={{
+          intro: {
+            lineas: ["¿De dónde sale", "el DINERO?"],
+            resaltar: "DINERO",
+            sub: "De las primeras monedas a tu cuenta del banco",
+            imgs: ["ia/s16/moneda-lidia.png", "ia/s16/billete-chino.png", "ia/s16/lingotes.png", "ia/s16/banco.png", "ia/s16/monitor-billetes.png", "ia/s16/billetes-montana.png", "ia/s16/cofre-recibo.png", "ia/s16/trueque.png"],
+          },
+          video: datosShortSchema.parse(largoDinero),
+        }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil(FPS * (INTRO_SEG + props.video.duracion)),
         })}
       />
       <Composition

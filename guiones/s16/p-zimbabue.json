@@ -991,10 +991,10 @@
   {
    "tipo": "cifra",
    "frase": 6,
-   "antes": "Inflación al mes",
+   "antes": "Inflación mensual:",
    "valor": 79600,
-   "sufijo": " millones %",
-   "etiqueta": "noviembre de 2008",
+   "sufijo": " millones",
+   "etiqueta": "por ciento al mes · nov. 2008",
    "color": "#ff4d6d",
    "img": {
     "src": "ia/s16/etiqueta-precio.png",

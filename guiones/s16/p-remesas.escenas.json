@@ -1,16 +1,150 @@
 [
- {"tipo":"titulo","frase":0,"lineas":["El dinero que","MUEVE países"],"resaltar":"MUEVE","img":{"src":"ia/s16/sobre-dinero.png","size":620,"y":1020}},
- {"tipo":"titulo","frase":1,"lineas":["Se llaman","REMESAS"],"resaltar":"REMESAS","img":{"src":"ia/s16/sobre-dinero.png","size":600,"y":1040}},
- {"tipo":"cifra","frase":2,"antes":"Llegaron en 2025","valor":174000,"prefijo":"$","sufijo":" millones","etiqueta":"a Latinoamérica: récord","img":{"src":"ia/s16/fajo.png","size":540,"y":1080}},
- {"tipo":"imagen","frase":3,"img":{"src":"ia/s16/capitolio.png","size":620,"y":760},"texto":"Sobre todo desde EE. UU.","color":"#7fd1ff"},
- {"tipo":"donut","frase":4,"titulo":"Honduras y Nicaragua","centro":"Economía","partes":[{"etiqueta":"Remesas","valor":30,"color":"#2ee59d"},{"etiqueta":"Resto","valor":70,"color":"#3a4150"}]},
- {"tipo":"tarjeta","frase":5,"cabecera":"ES DECIR","titulo":"Casi 1 de cada 3 dólares","lineas":["viene de afuera"],"img":{"src":"ia/s16/billete-1.png","size":460}},
- {"tipo":"imagen","frase":6,"img":{"src":"ia/s16/monedas.png","size":600,"y":760},"texto":"México: bajaron","sub":"en 2025","color":"#ff4d6d"},
- {"tipo":"imagen","frase":7,"img":{"src":"ia/s16/fajo.png","size":620,"y":760},"texto":"Aun así, el n.º 1","sub":"de la región","color":"#2ee59d"},
- {"tipo":"lista","frase":8,"titulo":"¿En qué se usa?","items":[
-   {"texto":"Comida","img":"ia/s16/pan.png","enFrase":8},
-   {"texto":"Escuela","emoji":"📚","enFrase":8,"mas":0.8},
-   {"texto":"Salud","emoji":"🏥","enFrase":8,"mas":1.6}]},
- {"tipo":"imagen","frase":9,"img":{"src":"ia/s16/maleta.png","size":640,"y":760},"texto":"La otra cara","sub":"cuánta gente tuvo que irse","color":"#7fd1ff"},
- {"tipo":"remate","frase":10,"pregunta":"¿En tu familia alguien envía o recibe remesas?"}
+{
+"tipo": "titulo",
+"frase": 0,
+"lineas": [
+"El dinero que",
+"MUEVE países"
+],
+"resaltar": "MUEVE",
+"img": {
+"src": "ia/s16/sobre-dinero.png",
+"size": 620,
+"y": 1020
+}
+},
+{
+"tipo": "titulo",
+"frase": 1,
+"lineas": [
+"Se llaman",
+"REMESAS"
+],
+"resaltar": "REMESAS",
+"img": {
+"src": "ia/s16/sobre-dinero.png",
+"size": 600,
+"y": 1040
+}
+},
+{
+"tipo": "cifra",
+"frase": 2,
+"antes": "Dólares en 2025:",
+"valor": 174,
+"sufijo": " mil millones",
+"etiqueta": "a Latinoamérica: récord",
+"img": {
+"src": "ia/s16/fajo.png",
+"size": 540,
+"y": 1080
+}
+},
+{
+"tipo": "imagen",
+"frase": 3,
+"img": {
+"src": "ia/s16/capitolio.png",
+"size": 620,
+"y": 760
+},
+"texto": "Sobre todo desde EE. UU.",
+"color": "#7fd1ff"
+},
+{
+"tipo": "donut",
+"frase": 4,
+"titulo": "Honduras y Nicaragua",
+"centro": "Economía",
+"partes": [
+{
+"etiqueta": "Remesas",
+"valor": 30,
+"color": "#2ee59d"
+},
+{
+"etiqueta": "Resto",
+"valor": 70,
+"color": "#3a4150"
+}
+]
+},
+{
+"tipo": "tarjeta",
+"frase": 5,
+"cabecera": "ES DECIR",
+"titulo": "Casi 1 de cada 3 dólares",
+"lineas": [
+"viene de afuera"
+],
+"img": {
+"src": "ia/s16/billete-1.png",
+"size": 460
+}
+},
+{
+"tipo": "imagen",
+"frase": 6,
+"img": {
+"src": "ia/s16/monedas.png",
+"size": 600,
+"y": 760
+},
+"texto": "México: bajaron",
+"sub": "en 2025",
+"color": "#ff4d6d"
+},
+{
+"tipo": "imagen",
+"frase": 7,
+"img": {
+"src": "ia/s16/fajo.png",
+"size": 620,
+"y": 760
+},
+"texto": "Aun así, el n.º 1",
+"sub": "de la región",
+"color": "#2ee59d"
+},
+{
+"tipo": "lista",
+"frase": 8,
+"titulo": "¿En qué se usa?",
+"items": [
+{
+"texto": "Comida",
+"img": "ia/s16/pan.png",
+"enFrase": 8
+},
+{
+"texto": "Escuela",
+"emoji": "📚",
+"enFrase": 8,
+"mas": 0.8
+},
+{
+"texto": "Salud",
+"emoji": "🏥",
+"enFrase": 8,
+"mas": 1.6
+}
+]
+},
+{
+"tipo": "imagen",
+"frase": 9,
+"img": {
+"src": "ia/s16/maleta.png",
+"size": 640,
+"y": 760
+},
+"texto": "La otra cara",
+"sub": "cuánta gente tuvo que irse",
+"color": "#7fd1ff"
+},
+{
+"tipo": "remate",
+"frase": 10,
+"pregunta": "¿En tu familia alguien envía o recibe remesas?"
+}
 ]

@@ -860,10 +860,9 @@
   {
    "tipo": "cifra",
    "frase": 2,
-   "antes": "Llegaron en 2025",
-   "valor": 174000,
-   "prefijo": "$",
-   "sufijo": " millones",
+   "antes": "Dólares en 2025:",
+   "valor": 174,
+   "sufijo": " mil millones",
    "etiqueta": "a Latinoamérica: récord",
    "img": {
     "src": "ia/s16/fajo.png",

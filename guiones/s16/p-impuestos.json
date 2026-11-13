@@ -1172,16 +1172,15 @@
     "etiqueta": "Pocos impuestos",
     "img": "ia/s16/fajo.png",
     "altura": 0.5,
-    "valor": "menos servicios",
     "color": "#2ee59d"
    },
    "b": {
     "etiqueta": "Muchos impuestos",
     "img": "ia/s16/sello-impuestos.png",
     "altura": 1,
-    "valor": "menos en tu bolsillo",
     "color": "#ff4d6d"
-   }
+   },
+   "pie": "Menos servicios o menos dinero en tu bolsillo"
   },
   {
    "tipo": "remate",

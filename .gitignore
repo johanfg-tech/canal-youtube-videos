@@ -14,5 +14,4 @@ public/remate
 public/piloto
 public/coca
 public/pizzas
-public/flow-pizzas
-public/flow-coca
+public/flow-*

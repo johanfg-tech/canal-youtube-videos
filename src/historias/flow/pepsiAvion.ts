@@ -1,0 +1,53 @@
+import { HistoriaFlow } from "../../compositions/FlowHistoria";
+import guion from "../../../guiones/flow/pepsi-avion.json";
+
+export const pepsiAvion: HistoriaFlow = {
+  id: "pepsi-avion",
+  carpeta: "flow-pepsi-avion",
+  guion,
+  planos: [
+    { frase: 0, src: "v01.mp4", video: true },
+    { frase: 1, src: "i03.jpg" },
+    { frase: 2, src: "i14.jpg" },
+    { frase: 3, src: "i02.jpg" },
+    { frase: 4, src: "i09.jpg" },
+    { frase: 5, src: "i15.jpg" },
+    { frase: 5, parte: 0.5, src: "i04.jpg" },
+    { frase: 6, src: "i19.jpg" },
+    { frase: 6, parte: 0.5, src: "i05.jpg" },
+    { frase: 7, src: "i12.jpg" },
+    { frase: 7, parte: 0.55, src: "i13.jpg" },
+    { frase: 10, src: "i17.jpg" },
+    { frase: 10, parte: 0.55, src: "i10.jpg" },
+    { frase: 11, src: "i16.jpg" },
+    { frase: 12, src: "i08.jpg" },
+    { frase: 13, src: "i01.jpg" },
+    { frase: 14, src: "i07.jpg" },
+    { frase: 15, src: "i18.jpg" },
+    { frase: 16, src: "i11.jpg" },
+  ],
+  etiquetas: [
+    { frase: 1, texto: "1996", size: 130 },
+    { frase: 3, texto: "75 PUNTOS" },
+    { frase: 4, texto: "175 PUNTOS" },
+    { frase: 5, texto: "7.000.000 PUNTOS", color: "ROJO", size: 84, parte: 0.5 },
+    { frase: 7, texto: "1 PUNTO = 10 ¢", color: "VERDE" },
+    { frase: 10, texto: "CHEQUE: 700.008 $", color: "VERDE", size: 84, parte: 0.5 },
+    { frase: 11, texto: "«ERA UN CHISTE»", color: "NARANJA" },
+    { frase: 13, texto: "1999" },
+    { frase: 15, texto: "700.000.000 PUNTOS", color: "ROJO", size: 80, parte: 0.4 },
+  ],
+  grafico: {
+    desde: 8,
+    hasta: 9,
+    fondo: "i15.jpg",
+    titulo: "Lo que pagaba… y lo que valía el avión",
+    tipo: "barras",
+    puntos: [
+      { etiqueta: "7 M de puntos", v: 7e5, texto: "700.000 $" },
+      { etiqueta: "Avión Harrier", v: 3.3e7, texto: "33 M $" },
+    ],
+    colorFinal: "ROJO",
+  },
+  remate: { frase: 16, pregunta: "¿Tú habrías intentado cobrar el avión?", fondo: "i11.jpg" },
+};

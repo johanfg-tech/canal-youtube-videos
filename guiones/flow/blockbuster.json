@@ -1,0 +1,839 @@
+{
+ "palabras": [
+  {
+   "texto": "Blockbuster",
+   "inicio": 0.0,
+   "fin": 0.65,
+   "corte": false
+  },
+  {
+   "texto": "pudo",
+   "inicio": 0.65,
+   "fin": 0.96,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 0.96,
+   "fin": 1.41,
+   "corte": false
+  },
+  {
+   "texto": "Netflix",
+   "inicio": 1.41,
+   "fin": 1.86,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 1.86,
+   "fin": 2.11,
+   "corte": false
+  },
+  {
+   "texto": "50",
+   "inicio": 2.11,
+   "fin": 2.61,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 2.62,
+   "fin": 3.12,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.12,
+   "fin": 3.32,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 3.32,
+   "fin": 3.77,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 3.77,
+   "fin": 3.96,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 3.96,
+   "fin": 4.2,
+   "corte": false
+  },
+  {
+   "texto": "rio.",
+   "inicio": 4.21,
+   "fin": 4.87,
+   "corte": true
+  },
+  {
+   "texto": "Año",
+   "inicio": 4.87,
+   "fin": 5.13,
+   "corte": false
+  },
+  {
+   "texto": "2000.",
+   "inicio": 5.14,
+   "fin": 6.37,
+   "corte": true
+  },
+  {
+   "texto": "Blockbuster",
+   "inicio": 6.37,
+   "fin": 7.42,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 7.42,
+   "fin": 7.61,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 7.61,
+   "fin": 7.81,
+   "corte": false
+  },
+  {
+   "texto": "rey",
+   "inicio": 7.81,
+   "fin": 8.05,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 8.05,
+   "fin": 8.29,
+   "corte": false
+  },
+  {
+   "texto": "alquiler",
+   "inicio": 8.29,
+   "fin": 8.78,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.78,
+   "fin": 8.97,
+   "corte": false
+  },
+  {
+   "texto": "películas:",
+   "inicio": 8.97,
+   "fin": 9.51,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 9.51,
+   "fin": 9.75,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.05,
+   "fin": 10.24,
+   "corte": false
+  },
+  {
+   "texto": "9.000",
+   "inicio": 10.24,
+   "fin": 10.82,
+   "corte": false
+  },
+  {
+   "texto": "tiendas",
+   "inicio": 10.82,
+   "fin": 11.26,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 11.26,
+   "fin": 11.45,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 11.46,
+   "fin": 11.65,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 11.65,
+   "fin": 11.99,
+   "corte": true
+  },
+  {
+   "texto": "Netflix",
+   "inicio": 11.99,
+   "fin": 12.85,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 12.85,
+   "fin": 13.04,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 13.04,
+   "fin": 13.29,
+   "corte": false
+  },
+  {
+   "texto": "pequeña",
+   "inicio": 13.29,
+   "fin": 13.73,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 13.73,
+   "fin": 14.17,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 14.17,
+   "fin": 14.41,
+   "corte": false
+  },
+  {
+   "texto": "envía",
+   "inicio": 14.42,
+   "fin": 14.76,
+   "corte": false
+  },
+  {
+   "texto": "DVD",
+   "inicio": 14.76,
+   "fin": 15.0,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 15.0,
+   "fin": 15.25,
+   "corte": false
+  },
+  {
+   "texto": "correo",
+   "inicio": 15.25,
+   "fin": 15.64,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 15.64,
+   "fin": 15.79,
+   "corte": false
+  },
+  {
+   "texto": "pierde",
+   "inicio": 15.79,
+   "fin": 16.18,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 16.18,
+   "fin": 16.57,
+   "corte": true
+  },
+  {
+   "texto": "Sus",
+   "inicio": 16.57,
+   "fin": 16.81,
+   "corte": false
+  },
+  {
+   "texto": "fundadores,",
+   "inicio": 16.82,
+   "fin": 17.84,
+   "corte": false
+  },
+  {
+   "texto": "Reed",
+   "inicio": 17.84,
+   "fin": 18.13,
+   "corte": false
+  },
+  {
+   "texto": "Hastings",
+   "inicio": 18.13,
+   "fin": 18.62,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 18.62,
+   "fin": 18.76,
+   "corte": false
+  },
+  {
+   "texto": "Marc",
+   "inicio": 18.76,
+   "fin": 19.05,
+   "corte": false
+  },
+  {
+   "texto": "Randolph,",
+   "inicio": 19.05,
+   "fin": 19.54,
+   "corte": false
+  },
+  {
+   "texto": "viajan",
+   "inicio": 19.54,
+   "fin": 19.93,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.93,
+   "fin": 20.07,
+   "corte": false
+  },
+  {
+   "texto": "Dallas",
+   "inicio": 20.07,
+   "fin": 20.46,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 20.46,
+   "fin": 20.6,
+   "corte": false
+  },
+  {
+   "texto": "reunirse",
+   "inicio": 20.61,
+   "fin": 21.09,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 21.09,
+   "fin": 21.33,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.33,
+   "fin": 21.53,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 21.53,
+   "fin": 21.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.82,
+   "fin": 22.01,
+   "corte": false
+  },
+  {
+   "texto": "Blockbuster.",
+   "inicio": 22.01,
+   "fin": 22.64,
+   "corte": true
+  },
+  {
+   "texto": "Le",
+   "inicio": 22.64,
+   "fin": 23.2,
+   "corte": false
+  },
+  {
+   "texto": "proponen",
+   "inicio": 23.2,
+   "fin": 23.69,
+   "corte": false
+  },
+  {
+   "texto": "algo:",
+   "inicio": 23.69,
+   "fin": 24.36,
+   "corte": false
+  },
+  {
+   "texto": "compren",
+   "inicio": 24.36,
+   "fin": 24.8,
+   "corte": false
+  },
+  {
+   "texto": "Netflix",
+   "inicio": 24.81,
+   "fin": 25.25,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 25.25,
+   "fin": 25.49,
+   "corte": false
+  },
+  {
+   "texto": "50",
+   "inicio": 25.49,
+   "fin": 25.98,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 25.98,
+   "fin": 26.47,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 26.47,
+   "fin": 26.62,
+   "corte": false
+  },
+  {
+   "texto": "nosotros",
+   "inicio": 26.62,
+   "fin": 27.11,
+   "corte": false
+  },
+  {
+   "texto": "manejamos",
+   "inicio": 27.11,
+   "fin": 27.65,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 27.65,
+   "fin": 27.85,
+   "corte": false
+  },
+  {
+   "texto": "negocio",
+   "inicio": 27.85,
+   "fin": 28.29,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 28.29,
+   "fin": 28.48,
+   "corte": false
+  },
+  {
+   "texto": "internet.",
+   "inicio": 28.49,
+   "fin": 29.36,
+   "corte": true
+  },
+  {
+   "texto": "Según",
+   "inicio": 29.36,
+   "fin": 29.71,
+   "corte": false
+  },
+  {
+   "texto": "ellos,",
+   "inicio": 29.71,
+   "fin": 30.05,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 30.05,
+   "fin": 30.25,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 30.25,
+   "fin": 30.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.55,
+   "fin": 30.74,
+   "corte": false
+  },
+  {
+   "texto": "Blockbuster",
+   "inicio": 30.74,
+   "fin": 31.38,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 31.38,
+   "fin": 31.68,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 31.68,
+   "fin": 31.87,
+   "corte": false
+  },
+  {
+   "texto": "pudo",
+   "inicio": 31.87,
+   "fin": 32.17,
+   "corte": false
+  },
+  {
+   "texto": "aguantar",
+   "inicio": 32.17,
+   "fin": 32.66,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 32.66,
+   "fin": 32.86,
+   "corte": false
+  },
+  {
+   "texto": "risa.",
+   "inicio": 32.86,
+   "fin": 33.53,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 33.53,
+   "fin": 33.75,
+   "corte": false
+  },
+  {
+   "texto": "respuesta",
+   "inicio": 33.75,
+   "fin": 34.35,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 34.35,
+   "fin": 34.62,
+   "corte": false
+  },
+  {
+   "texto": "no.",
+   "inicio": 34.62,
+   "fin": 34.84,
+   "corte": true
+  },
+  {
+   "texto": "Diez",
+   "inicio": 34.84,
+   "fin": 35.61,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 35.61,
+   "fin": 35.93,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 35.93,
+   "fin": 36.41,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 36.41,
+   "fin": 36.62,
+   "corte": false
+  },
+  {
+   "texto": "2010,",
+   "inicio": 36.62,
+   "fin": 37.26,
+   "corte": false
+  },
+  {
+   "texto": "Blockbuster",
+   "inicio": 37.26,
+   "fin": 37.96,
+   "corte": false
+  },
+  {
+   "texto": "quebró.",
+   "inicio": 37.96,
+   "fin": 38.38,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 38.38,
+   "fin": 38.63,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 38.63,
+   "fin": 39.39,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 39.4,
+   "fin": 39.64,
+   "corte": false
+  },
+  {
+   "texto": "sola",
+   "inicio": 39.65,
+   "fin": 39.94,
+   "corte": false
+  },
+  {
+   "texto": "tienda",
+   "inicio": 39.94,
+   "fin": 40.34,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.34,
+   "fin": 40.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 40.54,
+   "fin": 40.74,
+   "corte": false
+  },
+  {
+   "texto": "mundo,",
+   "inicio": 40.74,
+   "fin": 41.09,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 41.09,
+   "fin": 41.56,
+   "corte": false
+  },
+  {
+   "texto": "Oregón.",
+   "inicio": 41.57,
+   "fin": 41.96,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 41.96,
+   "fin": 42.47,
+   "corte": false
+  },
+  {
+   "texto": "Netflix",
+   "inicio": 42.47,
+   "fin": 42.92,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 42.92,
+   "fin": 43.22,
+   "corte": false
+  },
+  {
+   "texto": "cientos",
+   "inicio": 43.22,
+   "fin": 43.66,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 43.66,
+   "fin": 43.86,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 43.86,
+   "fin": 44.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.21,
+   "fin": 44.41,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 44.41,
+   "fin": 44.91,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.91,
+   "fin": 45.1,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 45.11,
+   "fin": 45.55,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 45.55,
+   "fin": 45.76,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 45.76,
+   "fin": 46.63,
+   "corte": false
+  },
+  {
+   "texto": "comprado",
+   "inicio": 46.63,
+   "fin": 47.16,
+   "corte": false
+  },
+  {
+   "texto": "Netflix?",
+   "inicio": 47.16,
+   "fin": 47.64,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 47.64,
+   "fin": 48.46,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 48.46,
+   "fin": 48.77,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 48.77,
+   "fin": 49.03,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 49.03,
+   "fin": 49.59,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 49.59,
+   "fin": 49.8,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 49.8,
+   "fin": 50.21,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Blockbuster pudo comprar Netflix por 50 millones de dólares.",
+   "inicio": 0.0,
+   "fin": 3.77
+  },
+  {
+   "texto": "Y se rio.",
+   "inicio": 3.77,
+   "fin": 4.87
+  },
+  {
+   "texto": "Año 2000.",
+   "inicio": 4.87,
+   "fin": 6.37
+  },
+  {
+   "texto": "Blockbuster es el rey del alquiler de películas: más de 9.000 tiendas en el mundo.",
+   "inicio": 6.37,
+   "fin": 11.99
+  },
+  {
+   "texto": "Netflix es una pequeña empresa que envía DVD por correo y pierde dinero.",
+   "inicio": 11.99,
+   "fin": 16.57
+  },
+  {
+   "texto": "Sus fundadores, Reed Hastings y Marc Randolph, viajan a Dallas a reunirse con el jefe de Blockbuster.",
+   "inicio": 16.57,
+   "fin": 22.64
+  },
+  {
+   "texto": "Le proponen algo: compren Netflix por 50 millones y nosotros manejamos su negocio en internet.",
+   "inicio": 22.64,
+   "fin": 29.36
+  },
+  {
+   "texto": "Según ellos, el jefe de Blockbuster casi no pudo aguantar la risa.",
+   "inicio": 29.36,
+   "fin": 33.53
+  },
+  {
+   "texto": "La respuesta fue no.",
+   "inicio": 33.53,
+   "fin": 34.84
+  },
+  {
+   "texto": "Diez años después, en 2010, Blockbuster quebró.",
+   "inicio": 34.84,
+   "fin": 38.38
+  },
+  {
+   "texto": "Hoy queda una sola tienda en el mundo, en Oregón.",
+   "inicio": 38.38,
+   "fin": 41.96
+  },
+  {
+   "texto": "Y Netflix vale cientos de miles de millones de dólares.",
+   "inicio": 41.96,
+   "fin": 45.55
+  },
+  {
+   "texto": "¿Tú habrías comprado Netflix?",
+   "inicio": 45.55,
+   "fin": 47.64
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 47.64,
+   "fin": 50.21
+  }
+ ],
+ "duracion": 50.21
+}

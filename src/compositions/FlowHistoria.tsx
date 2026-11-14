@@ -32,7 +32,7 @@ export type PlanoCfg = {
   foco?: [number, number, number, number];
 };
 
-export type EtiquetaCfg = { frase: number; texto: string; color?: Color; size?: number; parte?: number; hasta?: number };
+export type EtiquetaCfg = { frase: number; texto: string; color?: Color; size?: number; parte?: number; hasta?: number; dura?: number };
 
 export type GraficoCfg = {
   desde: number; // frase inicial
@@ -284,7 +284,8 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
 
       {h.etiquetas.map((e, i) => {
         const ini = inicioDe(h, e.frase, e.parte ?? 0) + (e.parte ? 0 : 0.3);
-        const fin = h.guion.frases[e.hasta ?? e.frase].fin;
+        const fin0 = h.guion.frases[e.hasta ?? e.frase].fin;
+        const fin = e.dura ? Math.min(fin0, ini + e.dura) : fin0;
         return (
           <Sequence key={`e${i}`} from={f(ini)} durationInFrames={Math.max(1, f(fin) - f(ini))}>
             <Etiqueta dur={fin - ini} color={COLORES[e.color ?? "AMARILLO"]} size={e.size ?? 96}>

@@ -1,0 +1,997 @@
+{
+ "palabras": [
+  {
+   "texto": "Un",
+   "inicio": 0.0,
+   "fin": 0.19,
+   "corte": false
+  },
+  {
+   "texto": "estudiante",
+   "inicio": 0.2,
+   "fin": 0.78,
+   "corte": false
+  },
+  {
+   "texto": "intentó",
+   "inicio": 0.78,
+   "fin": 1.22,
+   "corte": false
+  },
+  {
+   "texto": "cobrarle",
+   "inicio": 1.22,
+   "fin": 1.7,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 1.7,
+   "fin": 1.85,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 1.85,
+   "fin": 2.19,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 2.19,
+   "fin": 2.38,
+   "corte": false
+  },
+  {
+   "texto": "avión",
+   "inicio": 2.38,
+   "fin": 2.72,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.72,
+   "fin": 2.92,
+   "corte": false
+  },
+  {
+   "texto": "combate.",
+   "inicio": 2.92,
+   "fin": 3.35,
+   "corte": true
+  },
+  {
+   "texto": "1996.",
+   "inicio": 3.36,
+   "fin": 5.73,
+   "corte": true
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 5.73,
+   "fin": 6.55,
+   "corte": false
+  },
+  {
+   "texto": "lanza",
+   "inicio": 6.55,
+   "fin": 6.88,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 6.89,
+   "fin": 7.12,
+   "corte": false
+  },
+  {
+   "texto": "promoción:",
+   "inicio": 7.13,
+   "fin": 8.03,
+   "corte": false
+  },
+  {
+   "texto": "compras",
+   "inicio": 8.03,
+   "fin": 8.46,
+   "corte": false
+  },
+  {
+   "texto": "refrescos,",
+   "inicio": 8.46,
+   "fin": 8.99,
+   "corte": false
+  },
+  {
+   "texto": "juntas",
+   "inicio": 8.99,
+   "fin": 9.37,
+   "corte": false
+  },
+  {
+   "texto": "puntos",
+   "inicio": 9.37,
+   "fin": 9.75,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 9.76,
+   "fin": 9.9,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 9.9,
+   "fin": 10.14,
+   "corte": false
+  },
+  {
+   "texto": "cambias",
+   "inicio": 10.14,
+   "fin": 10.57,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 10.57,
+   "fin": 10.81,
+   "corte": false
+  },
+  {
+   "texto": "premios.",
+   "inicio": 10.81,
+   "fin": 11.24,
+   "corte": true
+  },
+  {
+   "texto": "Una",
+   "inicio": 11.24,
+   "fin": 11.94,
+   "corte": false
+  },
+  {
+   "texto": "camiseta,",
+   "inicio": 11.94,
+   "fin": 12.58,
+   "corte": false
+  },
+  {
+   "texto": "75",
+   "inicio": 12.59,
+   "fin": 13.23,
+   "corte": false
+  },
+  {
+   "texto": "puntos.",
+   "inicio": 13.23,
+   "fin": 13.74,
+   "corte": true
+  },
+  {
+   "texto": "Unas",
+   "inicio": 13.74,
+   "fin": 14.18,
+   "corte": false
+  },
+  {
+   "texto": "gafas",
+   "inicio": 14.18,
+   "fin": 14.7,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.7,
+   "fin": 14.99,
+   "corte": false
+  },
+  {
+   "texto": "sol,",
+   "inicio": 14.99,
+   "fin": 15.36,
+   "corte": false
+  },
+  {
+   "texto": "175.",
+   "inicio": 15.36,
+   "fin": 16.17,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 16.17,
+   "fin": 16.31,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 16.31,
+   "fin": 16.84,
+   "corte": false
+  },
+  {
+   "texto": "final",
+   "inicio": 16.84,
+   "fin": 17.17,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 17.17,
+   "fin": 17.4,
+   "corte": false
+  },
+  {
+   "texto": "anuncio,",
+   "inicio": 17.4,
+   "fin": 17.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.82,
+   "fin": 18.01,
+   "corte": false
+  },
+  {
+   "texto": "broma,",
+   "inicio": 18.01,
+   "fin": 18.33,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 18.34,
+   "fin": 18.52,
+   "corte": false
+  },
+  {
+   "texto": "avión",
+   "inicio": 18.52,
+   "fin": 18.85,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.85,
+   "fin": 19.03,
+   "corte": false
+  },
+  {
+   "texto": "combate",
+   "inicio": 19.04,
+   "fin": 19.46,
+   "corte": false
+  },
+  {
+   "texto": "Harrier:",
+   "inicio": 19.46,
+   "fin": 19.88,
+   "corte": false
+  },
+  {
+   "texto": "7",
+   "inicio": 19.88,
+   "fin": 20.56,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 20.56,
+   "fin": 21.03,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.03,
+   "fin": 21.22,
+   "corte": false
+  },
+  {
+   "texto": "puntos.",
+   "inicio": 21.22,
+   "fin": 21.59,
+   "corte": true
+  },
+  {
+   "texto": "John",
+   "inicio": 21.59,
+   "fin": 21.88,
+   "corte": false
+  },
+  {
+   "texto": "Leonard,",
+   "inicio": 21.88,
+   "fin": 22.8,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.8,
+   "fin": 23.0,
+   "corte": false
+  },
+  {
+   "texto": "21",
+   "inicio": 23.0,
+   "fin": 23.48,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 23.49,
+   "fin": 23.78,
+   "corte": false
+  },
+  {
+   "texto": "lee",
+   "inicio": 23.78,
+   "fin": 24.02,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 24.02,
+   "fin": 24.22,
+   "corte": false
+  },
+  {
+   "texto": "letra",
+   "inicio": 24.22,
+   "fin": 24.56,
+   "corte": false
+  },
+  {
+   "texto": "pequeña.",
+   "inicio": 24.56,
+   "fin": 25.0,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 25.0,
+   "fin": 25.23,
+   "corte": false
+  },
+  {
+   "texto": "puntos",
+   "inicio": 25.23,
+   "fin": 25.6,
+   "corte": false
+  },
+  {
+   "texto": "también",
+   "inicio": 25.6,
+   "fin": 26.43,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 26.44,
+   "fin": 26.62,
+   "corte": false
+  },
+  {
+   "texto": "podían",
+   "inicio": 26.62,
+   "fin": 26.99,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 26.99,
+   "fin": 27.4,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 27.4,
+   "fin": 27.54,
+   "corte": false
+  },
+  {
+   "texto": "10",
+   "inicio": 27.54,
+   "fin": 28.0,
+   "corte": false
+  },
+  {
+   "texto": "centavos",
+   "inicio": 28.0,
+   "fin": 28.45,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 28.46,
+   "fin": 28.73,
+   "corte": false
+  },
+  {
+   "texto": "uno.",
+   "inicio": 28.73,
+   "fin": 28.96,
+   "corte": true
+  },
+  {
+   "texto": "7",
+   "inicio": 28.96,
+   "fin": 29.42,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 29.42,
+   "fin": 30.25,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.25,
+   "fin": 30.46,
+   "corte": false
+  },
+  {
+   "texto": "puntos",
+   "inicio": 30.46,
+   "fin": 30.86,
+   "corte": false
+  },
+  {
+   "texto": "eran",
+   "inicio": 30.86,
+   "fin": 31.17,
+   "corte": false
+  },
+  {
+   "texto": "700.000",
+   "inicio": 31.17,
+   "fin": 31.88,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 31.88,
+   "fin": 32.33,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 32.33,
+   "fin": 32.51,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 32.51,
+   "fin": 32.73,
+   "corte": false
+  },
+  {
+   "texto": "avión",
+   "inicio": 32.74,
+   "fin": 33.14,
+   "corte": false
+  },
+  {
+   "texto": "valía",
+   "inicio": 33.14,
+   "fin": 33.84,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 33.84,
+   "fin": 34.19,
+   "corte": false
+  },
+  {
+   "texto": "33",
+   "inicio": 34.19,
+   "fin": 34.76,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 34.76,
+   "fin": 35.34,
+   "corte": true
+  },
+  {
+   "texto": "Leonard",
+   "inicio": 35.34,
+   "fin": 35.8,
+   "corte": false
+  },
+  {
+   "texto": "convence",
+   "inicio": 35.8,
+   "fin": 36.31,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 36.31,
+   "fin": 36.88,
+   "corte": false
+  },
+  {
+   "texto": "cinco",
+   "inicio": 36.88,
+   "fin": 37.24,
+   "corte": false
+  },
+  {
+   "texto": "inversores,",
+   "inicio": 37.24,
+   "fin": 37.85,
+   "corte": false
+  },
+  {
+   "texto": "junta",
+   "inicio": 37.85,
+   "fin": 38.21,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.21,
+   "fin": 38.41,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 38.41,
+   "fin": 39.11,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 39.11,
+   "fin": 39.26,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 39.26,
+   "fin": 39.47,
+   "corte": false
+  },
+  {
+   "texto": "envía",
+   "inicio": 39.47,
+   "fin": 39.83,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 39.83,
+   "fin": 39.98,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 39.98,
+   "fin": 40.34,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 40.34,
+   "fin": 40.54,
+   "corte": false
+  },
+  {
+   "texto": "cheque",
+   "inicio": 40.54,
+   "fin": 40.95,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 40.95,
+   "fin": 41.15,
+   "corte": false
+  },
+  {
+   "texto": "700.008",
+   "inicio": 41.15,
+   "fin": 41.87,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 41.87,
+   "fin": 42.33,
+   "corte": true
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 42.33,
+   "fin": 42.69,
+   "corte": false
+  },
+  {
+   "texto": "dice",
+   "inicio": 42.69,
+   "fin": 42.99,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 42.99,
+   "fin": 43.25,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 43.25,
+   "fin": 43.88,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 43.89,
+   "fin": 44.09,
+   "corte": false
+  },
+  {
+   "texto": "chiste.",
+   "inicio": 44.09,
+   "fin": 44.5,
+   "corte": true
+  },
+  {
+   "texto": "Leonard",
+   "inicio": 44.5,
+   "fin": 44.99,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 44.99,
+   "fin": 45.55,
+   "corte": false
+  },
+  {
+   "texto": "demanda.",
+   "inicio": 45.55,
+   "fin": 46.04,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 46.04,
+   "fin": 46.28,
+   "corte": false
+  },
+  {
+   "texto": "1999,",
+   "inicio": 46.28,
+   "fin": 47.42,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 47.42,
+   "fin": 47.71,
+   "corte": false
+  },
+  {
+   "texto": "jueza",
+   "inicio": 47.71,
+   "fin": 48.12,
+   "corte": false
+  },
+  {
+   "texto": "decide",
+   "inicio": 48.12,
+   "fin": 48.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 48.59,
+   "fin": 48.88,
+   "corte": false
+  },
+  {
+   "texto": "ninguna",
+   "inicio": 48.88,
+   "fin": 49.41,
+   "corte": false
+  },
+  {
+   "texto": "persona",
+   "inicio": 49.41,
+   "fin": 49.93,
+   "corte": false
+  },
+  {
+   "texto": "razonable",
+   "inicio": 49.93,
+   "fin": 50.58,
+   "corte": false
+  },
+  {
+   "texto": "creería",
+   "inicio": 50.58,
+   "fin": 51.11,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 51.11,
+   "fin": 51.4,
+   "corte": false
+  },
+  {
+   "texto": "regalaban",
+   "inicio": 51.4,
+   "fin": 52.04,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 52.04,
+   "fin": 52.28,
+   "corte": false
+  },
+  {
+   "texto": "avión.",
+   "inicio": 52.28,
+   "fin": 52.69,
+   "corte": true
+  },
+  {
+   "texto": "Leonard",
+   "inicio": 52.69,
+   "fin": 53.59,
+   "corte": false
+  },
+  {
+   "texto": "pierde.",
+   "inicio": 53.59,
+   "fin": 54.04,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 54.05,
+   "fin": 54.34,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 54.34,
+   "fin": 55.07,
+   "corte": false
+  },
+  {
+   "texto": "cambió",
+   "inicio": 55.07,
+   "fin": 55.46,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 55.46,
+   "fin": 55.66,
+   "corte": false
+  },
+  {
+   "texto": "anuncio:",
+   "inicio": 55.66,
+   "fin": 56.1,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 56.1,
+   "fin": 56.59,
+   "corte": false
+  },
+  {
+   "texto": "avión",
+   "inicio": 56.6,
+   "fin": 56.94,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 56.94,
+   "fin": 57.23,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 57.23,
+   "fin": 57.38,
+   "corte": false
+  },
+  {
+   "texto": "costar",
+   "inicio": 57.38,
+   "fin": 57.77,
+   "corte": false
+  },
+  {
+   "texto": "700",
+   "inicio": 57.77,
+   "fin": 58.3,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 58.31,
+   "fin": 58.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 58.79,
+   "fin": 58.99,
+   "corte": false
+  },
+  {
+   "texto": "puntos.",
+   "inicio": 58.99,
+   "fin": 59.38,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 59.38,
+   "fin": 59.59,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 59.59,
+   "fin": 60.21,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 60.21,
+   "fin": 60.68,
+   "corte": false
+  },
+  {
+   "texto": "intentado?",
+   "inicio": 60.68,
+   "fin": 61.63,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 61.63,
+   "fin": 62.08,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 62.08,
+   "fin": 62.38,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 62.38,
+   "fin": 62.63,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 62.63,
+   "fin": 63.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 63.19,
+   "fin": 63.39,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 63.39,
+   "fin": 63.79,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Un estudiante intentó cobrarle a Pepsi un avión de combate.",
+   "inicio": 0.0,
+   "fin": 3.35
+  },
+  {
+   "texto": "1996.",
+   "inicio": 3.36,
+   "fin": 5.73
+  },
+  {
+   "texto": "Pepsi lanza una promoción: compras refrescos, juntas puntos y los cambias por premios.",
+   "inicio": 5.73,
+   "fin": 11.24
+  },
+  {
+   "texto": "Una camiseta, 75 puntos.",
+   "inicio": 11.24,
+   "fin": 13.74
+  },
+  {
+   "texto": "Unas gafas de sol, 175.",
+   "inicio": 13.74,
+   "fin": 16.17
+  },
+  {
+   "texto": "Y al final del anuncio, de broma, un avión de combate Harrier: 7 millones de puntos.",
+   "inicio": 16.17,
+   "fin": 21.59
+  },
+  {
+   "texto": "John Leonard, de 21 años, lee la letra pequeña.",
+   "inicio": 21.59,
+   "fin": 25.0
+  },
+  {
+   "texto": "Los puntos también se podían comprar a 10 centavos cada uno.",
+   "inicio": 25.0,
+   "fin": 28.96
+  },
+  {
+   "texto": "7 millones de puntos eran 700.000 dólares.",
+   "inicio": 28.96,
+   "fin": 32.33
+  },
+  {
+   "texto": "Y el avión valía unos 33 millones.",
+   "inicio": 32.33,
+   "fin": 35.34
+  },
+  {
+   "texto": "Leonard convence a cinco inversores, junta el dinero y le envía a Pepsi un cheque de 700.008 dólares.",
+   "inicio": 35.34,
+   "fin": 42.33
+  },
+  {
+   "texto": "Pepsi dice que era un chiste.",
+   "inicio": 42.33,
+   "fin": 44.5
+  },
+  {
+   "texto": "Leonard la demanda.",
+   "inicio": 44.5,
+   "fin": 46.04
+  },
+  {
+   "texto": "En 1999, una jueza decide que ninguna persona razonable creería que regalaban un avión.",
+   "inicio": 46.04,
+   "fin": 52.69
+  },
+  {
+   "texto": "Leonard pierde.",
+   "inicio": 52.69,
+   "fin": 54.04
+  },
+  {
+   "texto": "Pero Pepsi cambió el anuncio: el avión pasó a costar 700 millones de puntos.",
+   "inicio": 54.05,
+   "fin": 59.38
+  },
+  {
+   "texto": "¿Tú lo habrías intentado?",
+   "inicio": 59.38,
+   "fin": 61.63
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 61.63,
+   "fin": 63.79
+  }
+ ],
+ "duracion": 63.79
+}

@@ -1,0 +1,43 @@
+import { HistoriaFlow } from "../../compositions/FlowHistoria";
+import guion from "../../../guiones/flow/torre-eiffel.json";
+
+export const torre: HistoriaFlow = {
+  id: "torre",
+  carpeta: "flow-torre",
+  guion,
+  planos: [
+    { frase: 0, src: "v01.mp4", video: true },
+    { frase: 1, src: "i17.jpg" },
+    { frase: 2, src: "i10.jpg" },
+    { frase: 3, src: "i14.jpg" },
+    { frase: 3, parte: 0.55, src: "i03.jpg" },
+    { frase: 4, src: "i11.jpg" },
+    { frase: 5, src: "i09.jpg" },
+    { frase: 6, src: "i15.jpg" },
+    { frase: 7, src: "i08.jpg" },
+    { frase: 7, parte: 0.55, src: "i20.jpg" },
+    { frase: 8, src: "i12.jpg" },
+    { frase: 9, src: "i07.jpg" },
+    { frase: 10, src: "i02.jpg" },
+    { frase: 10, parte: 0.5, src: "i19.jpg" },
+    { frase: 11, src: "i04.jpg" },
+    { frase: 12, src: "i18.jpg" },
+    { frase: 13, src: "i13.jpg" },
+    { frase: 13, parte: 0.5, src: "i06.jpg" },
+    { frase: 14, src: "i05.jpg" },
+    { frase: 14, parte: 0.5, src: "i16.jpg" },
+    { frase: 15, src: "i21.jpg" },
+  ],
+  etiquetas: [
+    { frase: 1, texto: "×2", color: "ROJO", size: 130 },
+    { frase: 2, texto: "PARÍS · 1925" },
+    { frase: 5, texto: "FALSO FUNCIONARIO", color: "NARANJA", size: 84 },
+    { frase: 6, texto: "5 EMPRESARIOS" },
+    { frase: 7, texto: "7.000 T DE HIERRO", color: "NARANJA", size: 84, parte: 0.55 },
+    { frase: 9, texto: "+ SOBORNO", color: "VERDE" },
+    { frase: 10, texto: "VIENA" },
+    { frase: 12, texto: "OTRA VEZ", color: "ROJO" },
+    { frase: 14, texto: "ALCATRAZ", color: "ROJO" },
+  ],
+  remate: { frase: 15, pregunta: "¿Tú habrías comprado la Torre Eiffel?", fondo: "i21.jpg" },
+};

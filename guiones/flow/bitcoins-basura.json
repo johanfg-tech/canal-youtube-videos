@@ -1,0 +1,915 @@
+{
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.29,
+   "corte": false
+  },
+  {
+   "texto": "hombre",
+   "inicio": 0.29,
+   "fin": 0.68,
+   "corte": false
+  },
+  {
+   "texto": "tiró",
+   "inicio": 0.68,
+   "fin": 0.97,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 0.97,
+   "fin": 1.12,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 1.12,
+   "fin": 1.31,
+   "corte": false
+  },
+  {
+   "texto": "basura",
+   "inicio": 1.32,
+   "fin": 1.7,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 1.71,
+   "fin": 2.0,
+   "corte": false
+  },
+  {
+   "texto": "600",
+   "inicio": 2.0,
+   "fin": 2.53,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 2.53,
+   "fin": 3.02,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.02,
+   "fin": 3.21,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 3.21,
+   "fin": 3.65,
+   "corte": true
+  },
+  {
+   "texto": "Gales,",
+   "inicio": 3.65,
+   "fin": 4.51,
+   "corte": false
+  },
+  {
+   "texto": "2009.",
+   "inicio": 4.51,
+   "fin": 5.3,
+   "corte": true
+  },
+  {
+   "texto": "James",
+   "inicio": 5.3,
+   "fin": 5.63,
+   "corte": false
+  },
+  {
+   "texto": "Howells",
+   "inicio": 5.63,
+   "fin": 6.04,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 6.04,
+   "fin": 6.69,
+   "corte": false
+  },
+  {
+   "texto": "ingeniero",
+   "inicio": 6.7,
+   "fin": 7.2,
+   "corte": false
+  },
+  {
+   "texto": "informático",
+   "inicio": 7.21,
+   "fin": 7.81,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 7.81,
+   "fin": 7.95,
+   "corte": false
+  },
+  {
+   "texto": "empieza",
+   "inicio": 7.95,
+   "fin": 8.37,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 8.37,
+   "fin": 8.5,
+   "corte": false
+  },
+  {
+   "texto": "minar",
+   "inicio": 8.51,
+   "fin": 8.83,
+   "corte": false
+  },
+  {
+   "texto": "bitcoins",
+   "inicio": 8.83,
+   "fin": 9.29,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 9.29,
+   "fin": 9.48,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 9.48,
+   "fin": 9.66,
+   "corte": false
+  },
+  {
+   "texto": "ordenador,",
+   "inicio": 9.67,
+   "fin": 10.18,
+   "corte": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 10.18,
+   "fin": 10.55,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 10.55,
+   "fin": 10.83,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 10.83,
+   "fin": 11.49,
+   "corte": false
+  },
+  {
+   "texto": "sabía",
+   "inicio": 11.49,
+   "fin": 11.82,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 11.82,
+   "fin": 12.05,
+   "corte": false
+  },
+  {
+   "texto": "eran.",
+   "inicio": 12.05,
+   "fin": 12.33,
+   "corte": true
+  },
+  {
+   "texto": "Junta",
+   "inicio": 12.33,
+   "fin": 12.69,
+   "corte": false
+  },
+  {
+   "texto": "8.000.",
+   "inicio": 12.69,
+   "fin": 13.64,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 13.64,
+   "fin": 13.84,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 13.84,
+   "fin": 14.08,
+   "corte": false
+  },
+  {
+   "texto": "momento",
+   "inicio": 14.08,
+   "fin": 14.52,
+   "corte": false
+  },
+  {
+   "texto": "valen",
+   "inicio": 14.52,
+   "fin": 15.22,
+   "corte": false
+  },
+  {
+   "texto": "prácticamente",
+   "inicio": 15.22,
+   "fin": 15.96,
+   "corte": false
+  },
+  {
+   "texto": "nada.",
+   "inicio": 15.96,
+   "fin": 16.25,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 16.25,
+   "fin": 16.45,
+   "corte": false
+  },
+  {
+   "texto": "2013,",
+   "inicio": 16.45,
+   "fin": 17.05,
+   "corte": false
+  },
+  {
+   "texto": "ordenando",
+   "inicio": 17.05,
+   "fin": 17.99,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 17.99,
+   "fin": 18.19,
+   "corte": false
+  },
+  {
+   "texto": "casa,",
+   "inicio": 18.19,
+   "fin": 18.49,
+   "corte": false
+  },
+  {
+   "texto": "tira",
+   "inicio": 18.49,
+   "fin": 18.78,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 18.79,
+   "fin": 18.98,
+   "corte": false
+  },
+  {
+   "texto": "disco",
+   "inicio": 18.98,
+   "fin": 19.33,
+   "corte": false
+  },
+  {
+   "texto": "duro",
+   "inicio": 19.33,
+   "fin": 19.63,
+   "corte": false
+  },
+  {
+   "texto": "viejo",
+   "inicio": 19.63,
+   "fin": 19.98,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.98,
+   "fin": 20.13,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 20.13,
+   "fin": 20.33,
+   "corte": false
+  },
+  {
+   "texto": "basura.",
+   "inicio": 20.33,
+   "fin": 20.72,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 20.73,
+   "fin": 20.91,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 20.91,
+   "fin": 21.15,
+   "corte": false
+  },
+  {
+   "texto": "disco",
+   "inicio": 21.15,
+   "fin": 21.84,
+   "corte": false
+  },
+  {
+   "texto": "estaban",
+   "inicio": 21.84,
+   "fin": 22.26,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 22.26,
+   "fin": 22.49,
+   "corte": false
+  },
+  {
+   "texto": "claves",
+   "inicio": 22.5,
+   "fin": 22.87,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.87,
+   "fin": 23.06,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 23.06,
+   "fin": 23.29,
+   "corte": false
+  },
+  {
+   "texto": "8.000",
+   "inicio": 23.29,
+   "fin": 23.85,
+   "corte": false
+  },
+  {
+   "texto": "bitcoins.",
+   "inicio": 23.86,
+   "fin": 24.32,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 24.32,
+   "fin": 24.51,
+   "corte": false
+  },
+  {
+   "texto": "disco",
+   "inicio": 24.51,
+   "fin": 24.84,
+   "corte": false
+  },
+  {
+   "texto": "termina",
+   "inicio": 24.84,
+   "fin": 25.59,
+   "corte": false
+  },
+  {
+   "texto": "enterrado",
+   "inicio": 25.59,
+   "fin": 26.11,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 26.11,
+   "fin": 26.3,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 26.3,
+   "fin": 26.48,
+   "corte": false
+  },
+  {
+   "texto": "vertedero,",
+   "inicio": 26.49,
+   "fin": 27.0,
+   "corte": false
+  },
+  {
+   "texto": "bajo",
+   "inicio": 27.0,
+   "fin": 27.28,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 27.29,
+   "fin": 27.61,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 27.61,
+   "fin": 27.8,
+   "corte": false
+  },
+  {
+   "texto": "toneladas",
+   "inicio": 27.8,
+   "fin": 28.32,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.32,
+   "fin": 28.51,
+   "corte": false
+  },
+  {
+   "texto": "basura.",
+   "inicio": 28.51,
+   "fin": 28.88,
+   "corte": true
+  },
+  {
+   "texto": "Cuando",
+   "inicio": 28.89,
+   "fin": 29.27,
+   "corte": false
+  },
+  {
+   "texto": "Howells",
+   "inicio": 29.27,
+   "fin": 29.71,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 29.71,
+   "fin": 30.29,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 30.29,
+   "fin": 30.48,
+   "corte": false
+  },
+  {
+   "texto": "cuenta,",
+   "inicio": 30.48,
+   "fin": 30.87,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 30.87,
+   "fin": 31.07,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 31.07,
+   "fin": 31.26,
+   "corte": false
+  },
+  {
+   "texto": "tarde.",
+   "inicio": 31.26,
+   "fin": 31.6,
+   "corte": true
+  },
+  {
+   "texto": "Le",
+   "inicio": 31.6,
+   "fin": 31.8,
+   "corte": false
+  },
+  {
+   "texto": "pide",
+   "inicio": 31.8,
+   "fin": 32.09,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 32.09,
+   "fin": 32.28,
+   "corte": false
+  },
+  {
+   "texto": "ayuntamiento",
+   "inicio": 32.28,
+   "fin": 33.25,
+   "corte": false
+  },
+  {
+   "texto": "permiso",
+   "inicio": 33.25,
+   "fin": 33.69,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 33.69,
+   "fin": 33.98,
+   "corte": false
+  },
+  {
+   "texto": "excavar.",
+   "inicio": 33.98,
+   "fin": 34.42,
+   "corte": true
+  },
+  {
+   "texto": "Ofrece",
+   "inicio": 34.42,
+   "fin": 35.14,
+   "corte": false
+  },
+  {
+   "texto": "pagar",
+   "inicio": 35.14,
+   "fin": 35.47,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 35.48,
+   "fin": 35.66,
+   "corte": false
+  },
+  {
+   "texto": "búsqueda",
+   "inicio": 35.67,
+   "fin": 36.14,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 36.14,
+   "fin": 36.28,
+   "corte": false
+  },
+  {
+   "texto": "compartir",
+   "inicio": 36.28,
+   "fin": 36.8,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 36.81,
+   "fin": 36.99,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 37.0,
+   "fin": 37.37,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 37.38,
+   "fin": 37.61,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.61,
+   "fin": 37.8,
+   "corte": false
+  },
+  {
+   "texto": "ciudad.",
+   "inicio": 37.8,
+   "fin": 38.18,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 38.18,
+   "fin": 38.69,
+   "corte": false
+  },
+  {
+   "texto": "respuesta",
+   "inicio": 38.69,
+   "fin": 39.22,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 39.22,
+   "fin": 39.41,
+   "corte": false
+  },
+  {
+   "texto": "siempre",
+   "inicio": 39.41,
+   "fin": 39.84,
+   "corte": false
+  },
+  {
+   "texto": "no:",
+   "inicio": 39.85,
+   "fin": 40.04,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 40.04,
+   "fin": 40.28,
+   "corte": false
+  },
+  {
+   "texto": "riesgos",
+   "inicio": 40.28,
+   "fin": 41.07,
+   "corte": false
+  },
+  {
+   "texto": "ambientales.",
+   "inicio": 41.07,
+   "fin": 41.69,
+   "corte": true
+  },
+  {
+   "texto": "Llevó",
+   "inicio": 41.69,
+   "fin": 42.38,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 42.38,
+   "fin": 42.59,
+   "corte": false
+  },
+  {
+   "texto": "caso",
+   "inicio": 42.59,
+   "fin": 42.9,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 42.9,
+   "fin": 43.06,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 43.06,
+   "fin": 43.32,
+   "corte": false
+  },
+  {
+   "texto": "tribunales,",
+   "inicio": 43.32,
+   "fin": 43.95,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 43.95,
+   "fin": 44.11,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 44.11,
+   "fin": 44.32,
+   "corte": false
+  },
+  {
+   "texto": "2025",
+   "inicio": 44.32,
+   "fin": 44.95,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 44.95,
+   "fin": 45.16,
+   "corte": false
+  },
+  {
+   "texto": "juez",
+   "inicio": 45.16,
+   "fin": 45.48,
+   "corte": false
+  },
+  {
+   "texto": "rechazó",
+   "inicio": 45.48,
+   "fin": 45.95,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 45.95,
+   "fin": 46.16,
+   "corte": false
+  },
+  {
+   "texto": "demanda.",
+   "inicio": 46.16,
+   "fin": 46.63,
+   "corte": true
+  },
+  {
+   "texto": "Sus",
+   "inicio": 46.64,
+   "fin": 47.24,
+   "corte": false
+  },
+  {
+   "texto": "bitcoins",
+   "inicio": 47.24,
+   "fin": 47.75,
+   "corte": false
+  },
+  {
+   "texto": "siguen",
+   "inicio": 47.75,
+   "fin": 48.15,
+   "corte": false
+  },
+  {
+   "texto": "ahí",
+   "inicio": 48.15,
+   "fin": 48.4,
+   "corte": false
+  },
+  {
+   "texto": "abajo.",
+   "inicio": 48.4,
+   "fin": 48.75,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 48.75,
+   "fin": 49.37,
+   "corte": false
+  },
+  {
+   "texto": "seguirías",
+   "inicio": 49.37,
+   "fin": 49.95,
+   "corte": false
+  },
+  {
+   "texto": "buscando?",
+   "inicio": 49.95,
+   "fin": 50.88,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 50.88,
+   "fin": 51.32,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.33,
+   "fin": 51.62,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 51.62,
+   "fin": 51.87,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 51.87,
+   "fin": 52.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 52.41,
+   "fin": 52.61,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 52.61,
+   "fin": 53.0,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Este hombre tiró a la basura unos 600 millones de dólares.",
+   "inicio": 0.0,
+   "fin": 3.65
+  },
+  {
+   "texto": "Gales, 2009.",
+   "inicio": 3.65,
+   "fin": 5.3
+  },
+  {
+   "texto": "James Howells es ingeniero informático y empieza a minar bitcoins en su ordenador, cuando casi nadie sabía qué eran.",
+   "inicio": 5.3,
+   "fin": 12.33
+  },
+  {
+   "texto": "Junta 8.000.",
+   "inicio": 12.33,
+   "fin": 13.64
+  },
+  {
+   "texto": "En ese momento valen prácticamente nada.",
+   "inicio": 13.64,
+   "fin": 16.25
+  },
+  {
+   "texto": "En 2013, ordenando su casa, tira un disco duro viejo a la basura.",
+   "inicio": 16.25,
+   "fin": 20.72
+  },
+  {
+   "texto": "En ese disco estaban las claves de sus 8.000 bitcoins.",
+   "inicio": 20.73,
+   "fin": 24.32
+  },
+  {
+   "texto": "El disco termina enterrado en un vertedero, bajo miles de toneladas de basura.",
+   "inicio": 24.32,
+   "fin": 28.88
+  },
+  {
+   "texto": "Cuando Howells se da cuenta, ya es tarde.",
+   "inicio": 28.89,
+   "fin": 31.6
+  },
+  {
+   "texto": "Le pide al ayuntamiento permiso para excavar.",
+   "inicio": 31.6,
+   "fin": 34.42
+  },
+  {
+   "texto": "Ofrece pagar la búsqueda y compartir el dinero con la ciudad.",
+   "inicio": 34.42,
+   "fin": 38.18
+  },
+  {
+   "texto": "La respuesta es siempre no: por riesgos ambientales.",
+   "inicio": 38.18,
+   "fin": 41.69
+  },
+  {
+   "texto": "Llevó el caso a los tribunales, y en 2025 un juez rechazó su demanda.",
+   "inicio": 41.69,
+   "fin": 46.63
+  },
+  {
+   "texto": "Sus bitcoins siguen ahí abajo.",
+   "inicio": 46.64,
+   "fin": 48.75
+  },
+  {
+   "texto": "¿Tú seguirías buscando?",
+   "inicio": 48.75,
+   "fin": 50.88
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 50.88,
+   "fin": 53.0
+  }
+ ],
+ "duracion": 53.0
+}

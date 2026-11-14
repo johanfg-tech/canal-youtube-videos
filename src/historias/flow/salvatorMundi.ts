@@ -1,0 +1,51 @@
+import { HistoriaFlow } from "../../compositions/FlowHistoria";
+import guion from "../../../guiones/flow/salvator-mundi.json";
+
+export const salvatorMundi: HistoriaFlow = {
+  id: "salvator-mundi",
+  carpeta: "flow-salvator-mundi",
+  guion,
+  planos: [
+    { frase: 0, src: "v01.mp4", video: true },
+    { frase: 1, src: "i01.jpg" },
+    { frase: 2, src: "i16.jpg" },
+    { frase: 3, src: "i05.jpg" },
+    { frase: 4, src: "i17.jpg" },
+    { frase: 5, src: "i07.jpg" },
+    { frase: 5, parte: 0.5, src: "i18.jpg" },
+    { frase: 6, src: "i08.jpg" },
+    { frase: 6, parte: 0.55, src: "i15.jpg" },
+    { frase: 7, src: "i11.jpg" },
+    { frase: 8, src: "i09.jpg" },
+    { frase: 9, src: "i03.jpg" },
+    { frase: 10, src: "i14.jpg" },
+    { frase: 10, parte: 0.5, src: "i13.jpg" },
+    { frase: 12, src: "i12.jpg" },
+    { frase: 13, src: "i10.jpg" },
+    { frase: 14, src: "i06.jpg" },
+  ],
+  etiquetas: [
+    { frase: 0, texto: "1.175 $ → 450 M $", size: 100 },
+    { frase: 1, texto: "2005", size: 130 },
+    { frase: 4, texto: "1.175 $", color: "VERDE", size: 120 },
+    { frase: 8, texto: "SALVATOR MUNDI", size: 90 },
+    { frase: 9, texto: "127 M $", parte: 0.5 },
+    { frase: 10, texto: "450 M $", color: "VERDE", size: 120, parte: 0.6 },
+    { frase: 12, texto: "¿LEONARDO?", color: "NARANJA" },
+  ],
+  grafico: {
+    desde: 11,
+    hasta: 11,
+    fondo: "i02.jpg",
+    titulo: "Precio del mismo cuadro",
+    tipo: "barras",
+    log: true,
+    puntos: [
+      { etiqueta: "2005", v: 1175, texto: "1.175 $" },
+      { etiqueta: "2013", v: 1.27e8, texto: "127 M $" },
+      { etiqueta: "2017", v: 4.5e8, texto: "450 M $" },
+    ],
+    colorFinal: "VERDE",
+  },
+  remate: { frase: 14, pregunta: "¿Tú habrías pagado tanto?", fondo: "i06.jpg" },
+};

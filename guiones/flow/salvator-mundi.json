@@ -1,0 +1,999 @@
+{
+ "palabras": [
+  {
+   "texto": "Lo",
+   "inicio": 0.0,
+   "fin": 0.27,
+   "corte": false
+  },
+  {
+   "texto": "compraron",
+   "inicio": 0.27,
+   "fin": 0.99,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 1.0,
+   "fin": 1.33,
+   "corte": false
+  },
+  {
+   "texto": "1.175",
+   "inicio": 1.33,
+   "fin": 2.12,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 2.12,
+   "fin": 2.72,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 2.72,
+   "fin": 2.92,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 2.92,
+   "fin": 3.18,
+   "corte": false
+  },
+  {
+   "texto": "vendieron",
+   "inicio": 3.18,
+   "fin": 3.91,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 3.91,
+   "fin": 4.24,
+   "corte": false
+  },
+  {
+   "texto": "450",
+   "inicio": 4.24,
+   "fin": 4.97,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 4.97,
+   "fin": 5.64,
+   "corte": true
+  },
+  {
+   "texto": "2005.",
+   "inicio": 5.64,
+   "fin": 6.97,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 6.97,
+   "fin": 7.16,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 7.16,
+   "fin": 7.39,
+   "corte": false
+  },
+  {
+   "texto": "pequeña",
+   "inicio": 7.39,
+   "fin": 8.34,
+   "corte": false
+  },
+  {
+   "texto": "subasta",
+   "inicio": 8.34,
+   "fin": 8.76,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.76,
+   "fin": 8.95,
+   "corte": false
+  },
+  {
+   "texto": "Nueva",
+   "inicio": 8.95,
+   "fin": 9.27,
+   "corte": false
+  },
+  {
+   "texto": "Orleans,",
+   "inicio": 9.28,
+   "fin": 9.7,
+   "corte": false
+  },
+  {
+   "texto": "dos",
+   "inicio": 9.7,
+   "fin": 9.93,
+   "corte": false
+  },
+  {
+   "texto": "marchantes",
+   "inicio": 9.93,
+   "fin": 10.49,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.49,
+   "fin": 10.68,
+   "corte": false
+  },
+  {
+   "texto": "arte",
+   "inicio": 10.68,
+   "fin": 10.96,
+   "corte": false
+  },
+  {
+   "texto": "ven",
+   "inicio": 10.96,
+   "fin": 11.19,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 11.2,
+   "fin": 11.38,
+   "corte": false
+  },
+  {
+   "texto": "cuadro",
+   "inicio": 11.38,
+   "fin": 11.76,
+   "corte": false
+  },
+  {
+   "texto": "viejo",
+   "inicio": 11.76,
+   "fin": 12.08,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 12.09,
+   "fin": 12.22,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 12.23,
+   "fin": 12.46,
+   "corte": false
+  },
+  {
+   "texto": "dañado.",
+   "inicio": 12.46,
+   "fin": 12.83,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 12.83,
+   "fin": 13.03,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 13.03,
+   "fin": 13.22,
+   "corte": false
+  },
+  {
+   "texto": "Cristo",
+   "inicio": 13.22,
+   "fin": 14.08,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 14.08,
+   "fin": 14.32,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 14.32,
+   "fin": 14.56,
+   "corte": false
+  },
+  {
+   "texto": "esfera",
+   "inicio": 14.56,
+   "fin": 14.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.94,
+   "fin": 15.13,
+   "corte": false
+  },
+  {
+   "texto": "cristal",
+   "inicio": 15.13,
+   "fin": 15.57,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 15.57,
+   "fin": 15.76,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 15.76,
+   "fin": 15.95,
+   "corte": false
+  },
+  {
+   "texto": "mano.",
+   "inicio": 15.95,
+   "fin": 16.24,
+   "corte": true
+  },
+  {
+   "texto": "Pagan",
+   "inicio": 16.24,
+   "fin": 17.29,
+   "corte": false
+  },
+  {
+   "texto": "1.175",
+   "inicio": 17.29,
+   "fin": 18.3,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 18.3,
+   "fin": 19.06,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 19.06,
+   "fin": 19.64,
+   "corte": false
+  },
+  {
+   "texto": "llevan",
+   "inicio": 19.64,
+   "fin": 20.03,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 20.03,
+   "fin": 20.18,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 20.18,
+   "fin": 20.42,
+   "corte": false
+  },
+  {
+   "texto": "restauradora",
+   "inicio": 20.42,
+   "fin": 21.11,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.11,
+   "fin": 21.3,
+   "corte": false
+  },
+  {
+   "texto": "Nueva",
+   "inicio": 21.3,
+   "fin": 22.0,
+   "corte": false
+  },
+  {
+   "texto": "York.",
+   "inicio": 22.0,
+   "fin": 22.29,
+   "corte": true
+  },
+  {
+   "texto": "Al",
+   "inicio": 22.29,
+   "fin": 22.48,
+   "corte": false
+  },
+  {
+   "texto": "quitar",
+   "inicio": 22.48,
+   "fin": 22.86,
+   "corte": false
+  },
+  {
+   "texto": "capas",
+   "inicio": 22.86,
+   "fin": 23.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 23.19,
+   "fin": 23.38,
+   "corte": false
+  },
+  {
+   "texto": "pintura",
+   "inicio": 23.38,
+   "fin": 23.8,
+   "corte": false
+  },
+  {
+   "texto": "aparece",
+   "inicio": 23.81,
+   "fin": 24.23,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 24.23,
+   "fin": 24.51,
+   "corte": false
+  },
+  {
+   "texto": "increíble:",
+   "inicio": 24.51,
+   "fin": 25.49,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 25.49,
+   "fin": 25.68,
+   "corte": false
+  },
+  {
+   "texto": "mano",
+   "inicio": 25.68,
+   "fin": 25.97,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 25.97,
+   "fin": 26.15,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 26.16,
+   "fin": 26.34,
+   "corte": false
+  },
+  {
+   "texto": "gran",
+   "inicio": 26.34,
+   "fin": 26.63,
+   "corte": false
+  },
+  {
+   "texto": "maestro.",
+   "inicio": 26.63,
+   "fin": 27.05,
+   "corte": true
+  },
+  {
+   "texto": "Varios",
+   "inicio": 27.05,
+   "fin": 27.91,
+   "corte": false
+  },
+  {
+   "texto": "expertos",
+   "inicio": 27.91,
+   "fin": 28.38,
+   "corte": false
+  },
+  {
+   "texto": "dicen",
+   "inicio": 28.39,
+   "fin": 28.72,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 28.72,
+   "fin": 28.95,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 28.95,
+   "fin": 29.14,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.14,
+   "fin": 29.33,
+   "corte": false
+  },
+  {
+   "texto": "Leonardo",
+   "inicio": 29.33,
+   "fin": 29.81,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 29.81,
+   "fin": 30.0,
+   "corte": false
+  },
+  {
+   "texto": "Vinci,",
+   "inicio": 30.0,
+   "fin": 30.33,
+   "corte": false
+  },
+  {
+   "texto": "perdido",
+   "inicio": 30.33,
+   "fin": 31.04,
+   "corte": false
+  },
+  {
+   "texto": "desde",
+   "inicio": 31.04,
+   "fin": 31.37,
+   "corte": false
+  },
+  {
+   "texto": "hacía",
+   "inicio": 31.37,
+   "fin": 31.71,
+   "corte": false
+  },
+  {
+   "texto": "siglos.",
+   "inicio": 31.71,
+   "fin": 32.08,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 32.09,
+   "fin": 32.28,
+   "corte": false
+  },
+  {
+   "texto": "llaman",
+   "inicio": 32.28,
+   "fin": 33.02,
+   "corte": false
+  },
+  {
+   "texto": "Salvator",
+   "inicio": 33.02,
+   "fin": 33.5,
+   "corte": false
+  },
+  {
+   "texto": "Mundi,",
+   "inicio": 33.5,
+   "fin": 33.84,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 33.85,
+   "fin": 34.04,
+   "corte": false
+  },
+  {
+   "texto": "Salvador",
+   "inicio": 34.04,
+   "fin": 34.53,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 34.53,
+   "fin": 35.11,
+   "corte": false
+  },
+  {
+   "texto": "Mundo.",
+   "inicio": 35.11,
+   "fin": 35.45,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 35.45,
+   "fin": 35.67,
+   "corte": false
+  },
+  {
+   "texto": "2013,",
+   "inicio": 35.67,
+   "fin": 36.83,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 36.83,
+   "fin": 37.06,
+   "corte": false
+  },
+  {
+   "texto": "multimillonario",
+   "inicio": 37.06,
+   "fin": 38.01,
+   "corte": false
+  },
+  {
+   "texto": "ruso",
+   "inicio": 38.01,
+   "fin": 38.35,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 38.35,
+   "fin": 38.57,
+   "corte": false
+  },
+  {
+   "texto": "compra",
+   "inicio": 38.57,
+   "fin": 39.02,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 39.02,
+   "fin": 39.3,
+   "corte": false
+  },
+  {
+   "texto": "127",
+   "inicio": 39.3,
+   "fin": 39.92,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 39.92,
+   "fin": 40.48,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 40.48,
+   "fin": 40.65,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.65,
+   "fin": 40.89,
+   "corte": false
+  },
+  {
+   "texto": "2017,",
+   "inicio": 40.89,
+   "fin": 41.89,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 41.89,
+   "fin": 42.13,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 42.13,
+   "fin": 42.42,
+   "corte": false
+  },
+  {
+   "texto": "subasta",
+   "inicio": 42.42,
+   "fin": 42.94,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 42.94,
+   "fin": 43.17,
+   "corte": false
+  },
+  {
+   "texto": "Nueva",
+   "inicio": 43.17,
+   "fin": 43.58,
+   "corte": false
+  },
+  {
+   "texto": "York,",
+   "inicio": 43.58,
+   "fin": 43.93,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 43.93,
+   "fin": 44.71,
+   "corte": false
+  },
+  {
+   "texto": "paga",
+   "inicio": 44.71,
+   "fin": 45.06,
+   "corte": false
+  },
+  {
+   "texto": "450",
+   "inicio": 45.06,
+   "fin": 45.7,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 45.7,
+   "fin": 46.28,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 46.28,
+   "fin": 46.51,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 46.51,
+   "fin": 47.03,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 47.04,
+   "fin": 47.23,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 47.23,
+   "fin": 47.43,
+   "corte": false
+  },
+  {
+   "texto": "cuadro",
+   "inicio": 47.43,
+   "fin": 47.82,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 47.82,
+   "fin": 48.38,
+   "corte": false
+  },
+  {
+   "texto": "caro",
+   "inicio": 48.38,
+   "fin": 48.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 48.68,
+   "fin": 48.87,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 48.88,
+   "fin": 49.07,
+   "corte": false
+  },
+  {
+   "texto": "historia.",
+   "inicio": 49.07,
+   "fin": 49.56,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 49.56,
+   "fin": 49.85,
+   "corte": false
+  },
+  {
+   "texto": "muchos",
+   "inicio": 49.85,
+   "fin": 50.24,
+   "corte": false
+  },
+  {
+   "texto": "expertos",
+   "inicio": 50.24,
+   "fin": 51.07,
+   "corte": false
+  },
+  {
+   "texto": "dudan",
+   "inicio": 51.07,
+   "fin": 51.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 51.41,
+   "fin": 51.6,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 51.6,
+   "fin": 51.84,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 51.85,
+   "fin": 52.04,
+   "corte": false
+  },
+  {
+   "texto": "pintara",
+   "inicio": 52.04,
+   "fin": 52.47,
+   "corte": false
+  },
+  {
+   "texto": "Leonardo.",
+   "inicio": 52.47,
+   "fin": 52.96,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 52.96,
+   "fin": 53.1,
+   "corte": false
+  },
+  {
+   "texto": "desde",
+   "inicio": 53.1,
+   "fin": 53.43,
+   "corte": false
+  },
+  {
+   "texto": "aquel",
+   "inicio": 53.43,
+   "fin": 54.1,
+   "corte": false
+  },
+  {
+   "texto": "día,",
+   "inicio": 54.1,
+   "fin": 54.34,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 54.34,
+   "fin": 54.53,
+   "corte": false
+  },
+  {
+   "texto": "cuadro",
+   "inicio": 54.53,
+   "fin": 54.91,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 54.91,
+   "fin": 55.19,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 55.19,
+   "fin": 55.38,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 55.38,
+   "fin": 55.57,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 55.57,
+   "fin": 55.76,
+   "corte": false
+  },
+  {
+   "texto": "vuelto",
+   "inicio": 55.77,
+   "fin": 56.15,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 56.15,
+   "fin": 56.29,
+   "corte": false
+  },
+  {
+   "texto": "ver.",
+   "inicio": 56.29,
+   "fin": 56.53,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 56.53,
+   "fin": 56.73,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 56.73,
+   "fin": 57.68,
+   "corte": false
+  },
+  {
+   "texto": "pagado",
+   "inicio": 57.68,
+   "fin": 58.1,
+   "corte": false
+  },
+  {
+   "texto": "tanto?",
+   "inicio": 58.1,
+   "fin": 58.46,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 58.46,
+   "fin": 59.34,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 59.34,
+   "fin": 59.64,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 59.64,
+   "fin": 59.89,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 59.89,
+   "fin": 60.44,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 60.44,
+   "fin": 60.63,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 60.63,
+   "fin": 61.03,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Lo compraron por 1.175 dólares y lo vendieron por 450 millones.",
+   "inicio": 0.0,
+   "fin": 5.64
+  },
+  {
+   "texto": "2005.",
+   "inicio": 5.64,
+   "fin": 6.97
+  },
+  {
+   "texto": "En una pequeña subasta de Nueva Orleans, dos marchantes de arte ven un cuadro viejo y muy dañado.",
+   "inicio": 6.97,
+   "fin": 12.83
+  },
+  {
+   "texto": "Es un Cristo con una esfera de cristal en la mano.",
+   "inicio": 12.83,
+   "fin": 16.24
+  },
+  {
+   "texto": "Pagan 1.175 dólares.",
+   "inicio": 16.24,
+   "fin": 19.06
+  },
+  {
+   "texto": "Lo llevan a una restauradora de Nueva York.",
+   "inicio": 19.06,
+   "fin": 22.29
+  },
+  {
+   "texto": "Al quitar capas de pintura aparece algo increíble: la mano de un gran maestro.",
+   "inicio": 22.29,
+   "fin": 27.05
+  },
+  {
+   "texto": "Varios expertos dicen que es de Leonardo da Vinci, perdido desde hacía siglos.",
+   "inicio": 27.05,
+   "fin": 32.08
+  },
+  {
+   "texto": "Lo llaman Salvator Mundi, el Salvador del Mundo.",
+   "inicio": 32.09,
+   "fin": 35.45
+  },
+  {
+   "texto": "En 2013, un multimillonario ruso lo compra por 127 millones.",
+   "inicio": 35.45,
+   "fin": 40.48
+  },
+  {
+   "texto": "Y en 2017, en una subasta en Nueva York, alguien paga 450 millones de dólares.",
+   "inicio": 40.48,
+   "fin": 47.03
+  },
+  {
+   "texto": "Es el cuadro más caro de la historia.",
+   "inicio": 47.04,
+   "fin": 49.56
+  },
+  {
+   "texto": "Pero muchos expertos dudan de que lo pintara Leonardo.",
+   "inicio": 49.56,
+   "fin": 52.96
+  },
+  {
+   "texto": "Y desde aquel día, el cuadro casi no se ha vuelto a ver.",
+   "inicio": 52.96,
+   "fin": 56.53
+  },
+  {
+   "texto": "¿Tú habrías pagado tanto?",
+   "inicio": 56.53,
+   "fin": 58.46
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 58.46,
+   "fin": 61.03
+  }
+ ],
+ "duracion": 61.31
+}

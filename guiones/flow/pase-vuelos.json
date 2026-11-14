@@ -1,0 +1,922 @@
+{
+ "palabras": [
+  {
+   "texto": "Pagó",
+   "inicio": 0.0,
+   "fin": 0.35,
+   "corte": false
+  },
+  {
+   "texto": "250.000",
+   "inicio": 0.35,
+   "fin": 1.16,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 1.16,
+   "fin": 1.68,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 1.68,
+   "fin": 1.97,
+   "corte": false
+  },
+  {
+   "texto": "volar",
+   "inicio": 1.97,
+   "fin": 2.38,
+   "corte": false
+  },
+  {
+   "texto": "gratis",
+   "inicio": 2.38,
+   "fin": 2.84,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 2.84,
+   "fin": 3.19,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 3.19,
+   "fin": 3.42,
+   "corte": false
+  },
+  {
+   "texto": "vida.",
+   "inicio": 3.42,
+   "fin": 3.77,
+   "corte": true
+  },
+  {
+   "texto": "1981.",
+   "inicio": 3.77,
+   "fin": 6.61,
+   "corte": true
+  },
+  {
+   "texto": "American",
+   "inicio": 6.62,
+   "fin": 7.08,
+   "corte": false
+  },
+  {
+   "texto": "Airlines",
+   "inicio": 7.08,
+   "fin": 7.55,
+   "corte": false
+  },
+  {
+   "texto": "necesita",
+   "inicio": 7.55,
+   "fin": 8.01,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 8.02,
+   "fin": 8.39,
+   "corte": false
+  },
+  {
+   "texto": "rápido",
+   "inicio": 8.39,
+   "fin": 8.76,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 8.76,
+   "fin": 8.9,
+   "corte": false
+  },
+  {
+   "texto": "lanza",
+   "inicio": 8.9,
+   "fin": 9.23,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 9.23,
+   "fin": 9.41,
+   "corte": false
+  },
+  {
+   "texto": "AAirpass:",
+   "inicio": 9.42,
+   "fin": 9.88,
+   "corte": false
+  },
+  {
+   "texto": "primera",
+   "inicio": 9.88,
+   "fin": 10.3,
+   "corte": false
+  },
+  {
+   "texto": "clase,",
+   "inicio": 10.3,
+   "fin": 10.96,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 10.96,
+   "fin": 11.19,
+   "corte": false
+  },
+  {
+   "texto": "límite,",
+   "inicio": 11.19,
+   "fin": 11.56,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 11.56,
+   "fin": 11.84,
+   "corte": false
+  },
+  {
+   "texto": "siempre.",
+   "inicio": 11.84,
+   "fin": 12.26,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 12.26,
+   "fin": 12.51,
+   "corte": false
+  },
+  {
+   "texto": "1987,",
+   "inicio": 12.51,
+   "fin": 13.26,
+   "corte": false
+  },
+  {
+   "texto": "Steven",
+   "inicio": 13.26,
+   "fin": 14.18,
+   "corte": false
+  },
+  {
+   "texto": "Rothstein,",
+   "inicio": 14.18,
+   "fin": 14.86,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 14.86,
+   "fin": 15.11,
+   "corte": false
+  },
+  {
+   "texto": "hombre",
+   "inicio": 15.12,
+   "fin": 15.61,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.62,
+   "fin": 15.86,
+   "corte": false
+  },
+  {
+   "texto": "negocios",
+   "inicio": 15.87,
+   "fin": 16.49,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 16.49,
+   "fin": 16.74,
+   "corte": false
+  },
+  {
+   "texto": "Chicago,",
+   "inicio": 16.74,
+   "fin": 17.3,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 17.3,
+   "fin": 17.55,
+   "corte": false
+  },
+  {
+   "texto": "compra",
+   "inicio": 17.55,
+   "fin": 18.05,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 18.05,
+   "fin": 18.37,
+   "corte": false
+  },
+  {
+   "texto": "250.000",
+   "inicio": 18.37,
+   "fin": 19.24,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 19.24,
+   "fin": 19.8,
+   "corte": true
+  },
+  {
+   "texto": "Dos",
+   "inicio": 19.81,
+   "fin": 20.07,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 20.07,
+   "fin": 20.39,
+   "corte": false
+  },
+  {
+   "texto": "después",
+   "inicio": 20.39,
+   "fin": 20.86,
+   "corte": false
+  },
+  {
+   "texto": "paga",
+   "inicio": 20.86,
+   "fin": 21.52,
+   "corte": false
+  },
+  {
+   "texto": "150.000",
+   "inicio": 21.52,
+   "fin": 22.26,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 22.26,
+   "fin": 22.52,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 22.52,
+   "fin": 22.79,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 22.79,
+   "fin": 23.0,
+   "corte": false
+  },
+  {
+   "texto": "pase",
+   "inicio": 23.0,
+   "fin": 23.32,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 23.32,
+   "fin": 23.64,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 23.64,
+   "fin": 23.85,
+   "corte": false
+  },
+  {
+   "texto": "acompañante.",
+   "inicio": 23.85,
+   "fin": 24.54,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 24.54,
+   "fin": 24.7,
+   "corte": false
+  },
+  {
+   "texto": "empieza",
+   "inicio": 24.7,
+   "fin": 25.18,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 25.18,
+   "fin": 25.34,
+   "corte": false
+  },
+  {
+   "texto": "volar.",
+   "inicio": 25.34,
+   "fin": 25.71,
+   "corte": true
+  },
+  {
+   "texto": "A",
+   "inicio": 25.71,
+   "fin": 26.22,
+   "corte": false
+  },
+  {
+   "texto": "Londres,",
+   "inicio": 26.22,
+   "fin": 26.66,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 26.66,
+   "fin": 26.95,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 26.95,
+   "fin": 27.25,
+   "corte": false
+  },
+  {
+   "texto": "almorzar",
+   "inicio": 27.25,
+   "fin": 28.1,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 28.1,
+   "fin": 28.35,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 28.35,
+   "fin": 28.54,
+   "corte": false
+  },
+  {
+   "texto": "amigo.",
+   "inicio": 28.54,
+   "fin": 28.88,
+   "corte": true
+  },
+  {
+   "texto": "A",
+   "inicio": 28.89,
+   "fin": 29.03,
+   "corte": false
+  },
+  {
+   "texto": "París,",
+   "inicio": 29.03,
+   "fin": 29.38,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 29.38,
+   "fin": 29.53,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.53,
+   "fin": 29.72,
+   "corte": false
+  },
+  {
+   "texto": "vuelta",
+   "inicio": 29.73,
+   "fin": 30.46,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 30.46,
+   "fin": 30.66,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 30.66,
+   "fin": 31.0,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 31.0,
+   "fin": 31.25,
+   "corte": true
+  },
+  {
+   "texto": "Regala",
+   "inicio": 31.25,
+   "fin": 31.63,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 31.63,
+   "fin": 31.82,
+   "corte": false
+  },
+  {
+   "texto": "asiento",
+   "inicio": 31.82,
+   "fin": 32.25,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.25,
+   "fin": 32.45,
+   "corte": false
+  },
+  {
+   "texto": "acompañante",
+   "inicio": 32.45,
+   "fin": 33.37,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 33.37,
+   "fin": 33.51,
+   "corte": false
+  },
+  {
+   "texto": "desconocidos",
+   "inicio": 33.51,
+   "fin": 34.18,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 34.18,
+   "fin": 34.42,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 34.42,
+   "fin": 34.61,
+   "corte": false
+  },
+  {
+   "texto": "necesitan.",
+   "inicio": 34.61,
+   "fin": 35.14,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 35.14,
+   "fin": 35.32,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 35.32,
+   "fin": 35.59,
+   "corte": false
+  },
+  {
+   "texto": "20",
+   "inicio": 35.59,
+   "fin": 36.41,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 36.41,
+   "fin": 36.68,
+   "corte": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 36.68,
+   "fin": 36.95,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 36.95,
+   "fin": 37.18,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.18,
+   "fin": 37.36,
+   "corte": false
+  },
+  {
+   "texto": "10.000",
+   "inicio": 37.36,
+   "fin": 37.95,
+   "corte": false
+  },
+  {
+   "texto": "vuelos.",
+   "inicio": 37.95,
+   "fin": 38.31,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 38.31,
+   "fin": 38.5,
+   "corte": false
+  },
+  {
+   "texto": "aerolínea",
+   "inicio": 38.5,
+   "fin": 39.02,
+   "corte": false
+  },
+  {
+   "texto": "calcula",
+   "inicio": 39.02,
+   "fin": 39.71,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 39.71,
+   "fin": 39.95,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 39.95,
+   "fin": 40.14,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 40.14,
+   "fin": 40.52,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 40.52,
+   "fin": 40.71,
+   "corte": false
+  },
+  {
+   "texto": "millón",
+   "inicio": 40.72,
+   "fin": 41.1,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 41.1,
+   "fin": 41.29,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 41.29,
+   "fin": 41.71,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 41.72,
+   "fin": 41.91,
+   "corte": false
+  },
+  {
+   "texto": "año.",
+   "inicio": 41.91,
+   "fin": 42.14,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 42.14,
+   "fin": 42.34,
+   "corte": false
+  },
+  {
+   "texto": "2008,",
+   "inicio": 42.34,
+   "fin": 43.31,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 43.31,
+   "fin": 43.45,
+   "corte": false
+  },
+  {
+   "texto": "punto",
+   "inicio": 43.45,
+   "fin": 43.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 43.79,
+   "fin": 43.99,
+   "corte": false
+  },
+  {
+   "texto": "subir",
+   "inicio": 43.99,
+   "fin": 44.33,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 44.33,
+   "fin": 44.47,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 44.47,
+   "fin": 44.67,
+   "corte": false
+  },
+  {
+   "texto": "avión,",
+   "inicio": 44.67,
+   "fin": 45.01,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 45.01,
+   "fin": 45.2,
+   "corte": false
+  },
+  {
+   "texto": "entregan",
+   "inicio": 45.2,
+   "fin": 45.69,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 45.69,
+   "fin": 45.93,
+   "corte": false
+  },
+  {
+   "texto": "carta:",
+   "inicio": 45.93,
+   "fin": 46.27,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 46.27,
+   "fin": 46.46,
+   "corte": false
+  },
+  {
+   "texto": "pase",
+   "inicio": 46.46,
+   "fin": 47.13,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 47.13,
+   "fin": 47.47,
+   "corte": false
+  },
+  {
+   "texto": "cancelado.",
+   "inicio": 47.47,
+   "fin": 48.0,
+   "corte": true
+  },
+  {
+   "texto": "Él",
+   "inicio": 48.0,
+   "fin": 48.2,
+   "corte": false
+  },
+  {
+   "texto": "demanda",
+   "inicio": 48.2,
+   "fin": 49.01,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 49.02,
+   "fin": 49.16,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 49.16,
+   "fin": 49.35,
+   "corte": false
+  },
+  {
+   "texto": "aerolínea,",
+   "inicio": 49.35,
+   "fin": 49.88,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 49.88,
+   "fin": 50.17,
+   "corte": false
+  },
+  {
+   "texto": "nunca",
+   "inicio": 50.17,
+   "fin": 50.51,
+   "corte": false
+  },
+  {
+   "texto": "recupera",
+   "inicio": 50.51,
+   "fin": 50.99,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 50.99,
+   "fin": 51.18,
+   "corte": false
+  },
+  {
+   "texto": "pase.",
+   "inicio": 51.18,
+   "fin": 51.47,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 51.47,
+   "fin": 51.68,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 51.68,
+   "fin": 51.89,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 51.89,
+   "fin": 52.85,
+   "corte": false
+  },
+  {
+   "texto": "comprado?",
+   "inicio": 52.85,
+   "fin": 53.82,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 53.82,
+   "fin": 54.26,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 54.27,
+   "fin": 54.56,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 54.56,
+   "fin": 54.81,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 54.81,
+   "fin": 55.36,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 55.36,
+   "fin": 55.56,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 55.56,
+   "fin": 55.95,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Pagó 250.000 dólares por volar gratis toda la vida.",
+   "inicio": 0.0,
+   "fin": 3.77
+  },
+  {
+   "texto": "1981.",
+   "inicio": 3.77,
+   "fin": 6.61
+  },
+  {
+   "texto": "American Airlines necesita dinero rápido y lanza el AAirpass: primera clase, sin límite, para siempre.",
+   "inicio": 6.62,
+   "fin": 12.26
+  },
+  {
+   "texto": "En 1987, Steven Rothstein, un hombre de negocios de Chicago, lo compra por 250.000 dólares.",
+   "inicio": 12.26,
+   "fin": 19.8
+  },
+  {
+   "texto": "Dos años después paga 150.000 más por un pase para un acompañante.",
+   "inicio": 19.81,
+   "fin": 24.54
+  },
+  {
+   "texto": "Y empieza a volar.",
+   "inicio": 24.54,
+   "fin": 25.71
+  },
+  {
+   "texto": "A Londres, solo para almorzar con un amigo.",
+   "inicio": 25.71,
+   "fin": 28.88
+  },
+  {
+   "texto": "A París, y de vuelta el mismo día.",
+   "inicio": 28.89,
+   "fin": 31.25
+  },
+  {
+   "texto": "Regala el asiento de acompañante a desconocidos que lo necesitan.",
+   "inicio": 31.25,
+   "fin": 35.14
+  },
+  {
+   "texto": "En unos 20 años hace más de 10.000 vuelos.",
+   "inicio": 35.14,
+   "fin": 38.31
+  },
+  {
+   "texto": "La aerolínea calcula que le cuesta un millón de dólares al año.",
+   "inicio": 38.31,
+   "fin": 42.14
+  },
+  {
+   "texto": "En 2008, a punto de subir a un avión, le entregan una carta: su pase queda cancelado.",
+   "inicio": 42.14,
+   "fin": 48.0
+  },
+  {
+   "texto": "Él demanda a la aerolínea, pero nunca recupera el pase.",
+   "inicio": 48.0,
+   "fin": 51.47
+  },
+  {
+   "texto": "¿Tú lo habrías comprado?",
+   "inicio": 51.47,
+   "fin": 53.82
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 53.82,
+   "fin": 55.95
+  }
+ ],
+ "duracion": 55.95
+}

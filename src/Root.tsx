@@ -13,6 +13,7 @@ import { LargoConIntro, INTRO_SEG } from "./compositions/IntroLargo";
 import { IntroVideo, introVideoSchema } from "./compositions/IntroVideo";
 import { BigMacShort, duracionBigMac } from "./compositions/BigMacShort";
 import { PizzasBitcoinShort, duracionPizzas } from "./compositions/PizzasBitcoinShort";
+import { PizzasFlowShort, duracionPizzasFlow } from "./compositions/PizzasFlowShort";
 import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
 import remates from "../guiones/remates.json";
 import regla72 from "../guiones/regla-72.json";
@@ -695,6 +696,14 @@ export const RemotionRoot: React.FC = () => {
         id="PizzasBitcoin"
         component={PizzasBitcoinShort}
         durationInFrames={duracionPizzas}
+        fps={FPS}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PizzasFlow"
+        component={PizzasFlowShort}
+        durationInFrames={duracionPizzasFlow}
         fps={FPS}
         width={1080}
         height={1920}

@@ -9,53 +9,64 @@
       "tipo": "titular",
       "en": "En enero de",
       "lineas": [
-        "Gente normal, desde el móvil,",
+        "Gente normal",
         "contra Wall Street"
       ],
       "resaltar": [
         "Wall Street"
       ],
-      "imagen": "ia/s16/movil-candado.png",
-      "inicio": 0
+      "inicio": 0,
+      "imagenes": [
+        "ia/s16/g-chico-movil.png",
+        "ia/s16/g-wall-street.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Todo empezó en",
       "lineas": [
-        "Un foro de internet",
-        "y una tienda de videojuegos"
+        "Un foro",
+        "y una tienda de juegos"
       ],
       "resaltar": [
-        "videojuegos"
+        "tienda de juegos"
       ],
-      "imagen": "ia/s16/mando.png",
-      "inicio": 11.1
+      "inicio": 11.1,
+      "imagenes": [
+        "ia/s16/g-foro-pantalla.png",
+        "ia/s16/g-tienda-juegos.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Esta es la",
       "lineas": [
-        "GameStop: la rebelión",
+        "La rebelión",
         "de los pequeños"
       ],
       "resaltar": [
-        "rebelión"
+        "pequeños"
       ],
-      "imagen": "ia/s16/gato-rugiendo.png",
-      "inicio": 16.41
+      "inicio": 16.41,
+      "imagenes": [
+        "ia/s16/g-david-goliat.png",
+        "ia/s16/g-multitud-moviles.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y al final",
       "lineas": [
-        "Al final:",
-        "¿de qué lado estás?"
+        "¿De qué lado",
+        "estás?"
       ],
       "resaltar": [
         "lado"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 20.88
+      "inicio": 20.88,
+      "imagenes": [
+        "ia/s16/g-balanza-dos.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -65,9 +76,13 @@
         "que nadie quería"
       ],
       "resaltar": [
-        "nadie"
+        "nadie quería"
       ],
-      "inicio": 24.85
+      "inicio": 24.85,
+      "imagenes": [
+        "ia/s16/g-tienda-vacia.png",
+        "ia/s16/g-cajas-juegos.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -79,34 +94,43 @@
       "resaltar": [
         "centros comerciales"
       ],
-      "imagen": "ia/s16/mando.png",
-      "inicio": 26.46
+      "inicio": 26.46,
+      "imagenes": [
+        "ia/s16/g-mando-consola.png",
+        "ia/s16/g-centro-comercial.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Pero el mundo",
       "lineas": [
-        "Descargas digitales",
-        "y tiendas vacías"
+        "Descargas digitales,",
+        "tiendas vacías"
       ],
       "resaltar": [
         "vacías"
       ],
-      "imagen": "ia/s16/portatil-grafico.png",
-      "inicio": 29.62
+      "inicio": 29.62,
+      "imagenes": [
+        "ia/s16/g-nube-descarga.png",
+        "ia/s16/g-mascarilla-cerrado.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Para muchos expertos,",
       "lineas": [
-        "Directo a",
-        "la quiebra"
+        "Directo",
+        "a la quiebra"
       ],
       "resaltar": [
         "quiebra"
       ],
-      "imagen": "ia/s16/nube-rayo.png",
-      "inicio": 35.51
+      "inicio": 35.51,
+      "imagenes": [
+        "ia/s16/g-expertos-pulgar.png",
+        "ia/s16/g-tienda-hunde.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -118,58 +142,75 @@
       "resaltar": [
         "en contra"
       ],
-      "inicio": 39.11
+      "inicio": 39.11,
+      "imagenes": [
+        "ia/s16/g-fondo-ejecutivos.png",
+        "ia/s16/g-ficha-apuesta.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Se llama venta",
       "lineas": [
-        "Venta en corto"
+        "Venta",
+        "en corto"
       ],
       "resaltar": [
-        "corto"
+        "en corto"
       ],
-      "imagen": "ia/s16/bolsa.png",
-      "inicio": 45.58
+      "inicio": 45.58,
+      "imagenes": [
+        "ia/s16/g-flecha-abajo-oro.png",
+        "ia/s16/g-ejecutivo-apuesta.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Funciona así: pides",
       "lineas": [
-        "Pides prestado, vendes hoy,",
-        "recompras más barato"
+        "Pides, vendes,",
+        "recompras barato"
       ],
       "resaltar": [
-        "más barato"
+        "recompras"
       ],
-      "imagen": "ia/s16/contrato.png",
-      "inicio": 47.45
+      "inicio": 47.45,
+      "imagenes": [
+        "ia/s16/g-mano-presta.png",
+        "ia/s16/g-vende-caro.png",
+        "ia/s16/g-recompra-barato.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "La diferencia es",
       "lineas": [
-        "La diferencia",
-        "es tu ganancia"
+        "La diferencia,",
+        "tu ganancia"
       ],
       "resaltar": [
         "ganancia"
       ],
-      "imagen": "ia/s16/fajo.png",
-      "inicio": 55.42
+      "inicio": 55.42,
+      "imagenes": [
+        "ia/s16/g-ejecutivo-feliz.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Pero si la",
       "lineas": [
-        "Si sube… pérdidas",
-        "sin límite"
+        "Si sube…",
+        "pérdidas sin límite"
       ],
       "resaltar": [
         "sin límite"
       ],
-      "imagen": "ia/s16/alarma.png",
-      "inicio": 57.43
+      "inicio": 57.43,
+      "imagenes": [
+        "ia/s16/g-cohete-sube.png",
+        "ia/s16/g-ejecutivo-sudando.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -179,21 +220,25 @@
       "hasta": 100,
       "unidad": "%",
       "pie": "más de las que existían",
-      "imagen": "ia/s16/bolsa.png",
-      "inicio": 61.93
+      "inicio": 61.93,
+      "imagenes": [
+        "ia/s16/g-montana-papeles.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Era una apuesta",
       "lineas": [
-        "Una apuesta enorme…",
-        "y alguien se dio cuenta"
+        "Apuesta enorme…",
+        "alguien se dio cuenta"
       ],
       "resaltar": [
         "se dio cuenta"
       ],
-      "imagen": "ia/s16/lupa.png",
-      "inicio": 71.45
+      "inicio": 71.45,
+      "imagenes": [
+        "ia/s16/g-lupa-descubre.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -204,21 +249,26 @@
       "resaltar": [
         "Roaring Kitty"
       ],
-      "imagen": "ia/s16/gato-rugiendo.png",
-      "inicio": 74.88
+      "inicio": 74.88,
+      "imagenes": [
+        "ia/s16/g-gato-rugiendo.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Su nombre real",
       "lineas": [
         "Keith Gill",
-        "en Reddit, WallStreetBets"
+        "en Reddit"
       ],
       "resaltar": [
-        "Keith Gill"
+        "Reddit"
       ],
-      "imagen": "ia/s16/gato-rugiendo.png",
-      "inicio": 83.85
+      "inicio": 83.85,
+      "imagenes": [
+        "ia/s16/g-hombre-cinta.png",
+        "ia/s16/g-cohetes-luna.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -228,34 +278,41 @@
       "hasta": 53000,
       "unidad": "$",
       "pie": "y lo mostraba todo",
-      "imagen": "ia/s16/fajo.png",
-      "inicio": 85.91
+      "inicio": 85.91,
+      "imagenes": [
+        "ia/s16/g-hucha-mesa.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Poco a poco,",
       "lineas": [
         "Si muchos compramos",
-        "a la vez, sube"
+        "sube"
       ],
       "resaltar": [
         "sube"
       ],
-      "imagen": "ia/grafico-sube.png",
-      "inicio": 93.61
+      "inicio": 93.61,
+      "imagenes": [
+        "ia/s16/g-dedos-boton.png",
+        "ia/s16/g-ola-gente.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y si sube,",
       "lineas": [
         "Los fondos tienen",
-        "que comprar para cerrar"
+        "que comprar"
       ],
       "resaltar": [
-        "comprar"
+        "que comprar"
       ],
-      "imagen": "ia/s16/bolsa.png",
-      "inicio": 98.69
+      "inicio": 98.69,
+      "imagenes": [
+        "ia/s16/g-ejecutivo-corre.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -267,8 +324,11 @@
       "resaltar": [
         "Apretón"
       ],
-      "imagen": "ia/s16/cohete.png",
-      "inicio": 107.76
+      "inicio": 107.76,
+      "imagenes": [
+        "ia/s16/g-prensa-ejecutivo.png",
+        "ia/s16/g-muelle-salta.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -279,7 +339,11 @@
       "resaltar": [
         "cohete"
       ],
-      "inicio": 110.39
+      "inicio": 110.39,
+      "imagenes": [
+        "ia/s16/g-cohete-gamestop.png",
+        "ia/s16/g-gente-celebra.png"
+      ]
     },
     {
       "tipo": "barras",
@@ -297,7 +361,10 @@
           "texto": ""
         }
       ],
-      "inicio": 111.29
+      "inicio": 111.29,
+      "imagenes": [
+        "ia/s16/g-grafico-vertical.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -307,34 +374,43 @@
       "hasta": 20,
       "unidad": "x",
       "pie": "en pocas semanas",
-      "imagen": "ia/s16/cohete.png",
-      "inicio": 121.02
+      "inicio": 121.02,
+      "imagenes": [
+        "ia/s16/g-monedas-explotan.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "La noticia salió",
       "lineas": [
-        "Mucha gente compra",
+        "Muchos compran",
         "por primera vez"
       ],
       "resaltar": [
         "primera vez"
       ],
-      "imagen": "ia/s16/movil-cripto.png",
-      "inicio": 123.34
+      "inicio": 123.34,
+      "imagenes": [
+        "ia/s16/g-abuela-movil.png",
+        "ia/s16/g-estudiante-compra.png",
+        "ia/s16/g-noticias-tv.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Uno de los",
       "lineas": [
-        "Melvin Capital",
-        "pierde más de la mitad"
+        "Melvin Capital pierde",
+        "más de la mitad"
       ],
       "resaltar": [
-        "Melvin Capital"
+        "la mitad"
       ],
-      "imagen": "ia/s16/banco-roto.png",
-      "inicio": 130.65
+      "inicio": 130.65,
+      "imagenes": [
+        "ia/s16/g-gestor-hundido.png",
+        "ia/s16/g-hucha-rota.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -344,21 +420,26 @@
       "hasta": 2750,
       "unidad": "millones $",
       "pie": "y al año siguiente cerró",
-      "imagen": "ia/s16/salvavidas.png",
-      "inicio": 136.95
+      "inicio": 136.95,
+      "imagenes": [
+        "ia/s16/g-salvavidas-fondo.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Mientras tanto, la",
       "lineas": [
-        "La cuenta de Keith Gill:",
+        "Keith Gill:",
         "decenas de millones"
       ],
       "resaltar": [
-        "decenas de millones"
+        "millones"
       ],
-      "imagen": "ia/s16/billetes-montana.png",
-      "inicio": 145.28
+      "inicio": 145.28,
+      "imagenes": [
+        "ia/s16/g-gato-dinero.png",
+        "ia/s16/g-hombre-celebra.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -369,20 +450,26 @@
       "resaltar": [
         "polémica"
       ],
-      "inicio": 150.39
+      "inicio": 150.39,
+      "imagenes": [
+        "ia/s16/g-alarma-roja.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "El veintiocho de",
       "lineas": [
-        "28 de enero: Robinhood",
-        "bloquea las compras"
+        "Robinhood bloquea",
+        "las compras"
       ],
       "resaltar": [
         "bloquea"
       ],
-      "imagen": "ia/s16/movil-candado.png",
-      "inicio": 153.35
+      "inicio": 153.35,
+      "imagenes": [
+        "ia/s16/g-movil-candado.png",
+        "ia/s16/g-pluma-verde.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -394,8 +481,11 @@
       "resaltar": [
         "comprar no"
       ],
-      "imagen": "ia/s16/movil-candado.png",
-      "inicio": 160.54
+      "inicio": 160.54,
+      "imagenes": [
+        "ia/s16/g-boton-rojo-verde.png",
+        "ia/s16/g-joven-frustrado.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -407,34 +497,43 @@
       "resaltar": [
         "desploma"
       ],
-      "imagen": "ia/s16/nube-rayo.png",
-      "inicio": 162.91
+      "inicio": 162.91,
+      "imagenes": [
+        "ia/s16/g-cohete-cae.png",
+        "ia/s16/g-flecha-roja-rompe.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y la gente",
       "lineas": [
-        "¿Les cambiaron las reglas",
-        "a los pequeños?"
+        "¿Les cambiaron",
+        "las reglas?"
       ],
       "resaltar": [
-        "reglas"
+        "las reglas?"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 164.71
+      "inicio": 164.71,
+      "imagenes": [
+        "ia/s16/g-gente-furiosa.png",
+        "ia/s16/g-arbitro-trampa.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Robinhood explicó que",
       "lineas": [
-        "Robinhood: «nos exigieron",
-        "miles de millones en garantías»"
+        "«Nos exigieron",
+        "miles de millones»"
       ],
       "resaltar": [
-        "garantías"
+        "miles de millones"
       ],
-      "imagen": "ia/s16/caja-fuerte.png",
-      "inicio": 170.07
+      "inicio": 170.07,
+      "imagenes": [
+        "ia/s16/g-ceo-explica.png",
+        "ia/s16/g-caja-fuerte-vacia.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -446,21 +545,27 @@
       "resaltar": [
         "no le creyeron"
       ],
-      "imagen": "ia/s16/lupa.png",
-      "inicio": 180.7
+      "inicio": 180.7,
+      "imagenes": [
+        "ia/s16/g-gente-desconfia.png",
+        "ia/s16/g-hombre-enfadado.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "El caso llegó",
       "lineas": [
-        "El caso llega",
-        "al Congreso de EE. UU."
+        "Llega",
+        "al Congreso"
       ],
       "resaltar": [
         "Congreso"
       ],
-      "imagen": "ia/s16/capitolio.png",
-      "inicio": 182.47
+      "inicio": 182.47,
+      "imagenes": [
+        "ia/s16/g-capitolio.png",
+        "ia/s16/g-audiencia.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -470,9 +575,12 @@
         "de verdad?"
       ],
       "resaltar": [
-        "de verdad"
+        "de verdad?"
       ],
-      "inicio": 190.31
+      "inicio": 190.31,
+      "imagenes": [
+        "ia/s16/g-trofeo-duda.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -482,10 +590,12 @@
         "ganaron mucho"
       ],
       "resaltar": [
-        "pronto"
+        "ganaron"
       ],
-      "imagen": "ia/s16/fajo.png",
-      "inicio": 194.63
+      "inicio": 194.63,
+      "imagenes": [
+        "ia/s16/g-joven-rico.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -495,10 +605,13 @@
         "en lo más alto"
       ],
       "resaltar": [
-        "lo más alto"
+        "más alto"
       ],
-      "imagen": "ia/s16/cohete.png",
-      "inicio": 198.23
+      "inicio": 198.23,
+      "imagenes": [
+        "ia/s16/g-escalador-cima.png",
+        "ia/s16/g-cola-compra.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -510,8 +623,11 @@
       "resaltar": [
         "50 dólares"
       ],
-      "imagen": "ia/billete-desvanece.png",
-      "inicio": 203.26
+      "inicio": 203.26,
+      "imagenes": [
+        "ia/s16/g-tobogan.png",
+        "ia/s16/g-hombre-aterrado.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -523,34 +639,41 @@
       "resaltar": [
         "perdieron"
       ],
-      "imagen": "ia/billete-desvanece.png",
-      "inicio": 207.43
+      "inicio": 207.43,
+      "imagenes": [
+        "ia/s16/g-joven-llora.png",
+        "ia/s16/g-cartera-vacia.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Además, algunos grandes",
       "lineas": [
-        "Algunos grandes fondos",
+        "Algunos grandes",
         "también ganaron"
       ],
       "resaltar": [
         "también ganaron"
       ],
-      "imagen": "ia/s16/bolsa.png",
-      "inicio": 211.51
+      "inicio": 211.51,
+      "imagenes": [
+        "ia/s16/g-ejecutivo-guina.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Así que la",
       "lineas": [
         "Pequeños contra grandes:",
-        "verdad solo en parte"
+        "verdad a medias"
       ],
       "resaltar": [
-        "solo en parte"
+        "a medias"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 217.1
+      "inicio": 217.1,
+      "imagenes": [
+        "ia/s16/g-moneda-dos-caras.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -559,48 +682,57 @@
         "3 lecciones"
       ],
       "resaltar": [
-        "3"
+        "lecciones"
       ],
-      "inicio": 222.17
+      "inicio": 222.17,
+      "imagenes": [
+        "ia/s16/g-libro-luz.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Uno: apostar en",
       "lineas": [
-        "1. Apostar en corto",
-        "puede salir carísimo"
+        "1. En corto",
+        "sale carísimo"
       ],
       "resaltar": [
         "carísimo"
       ],
-      "imagen": "ia/s16/alarma.png",
-      "inicio": 225.75
+      "inicio": 225.75,
+      "imagenes": [
+        "ia/s16/g-boomerang.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Dos: cuando todo",
       "lineas": [
-        "2. Si todos hablan de ella,",
+        "2. Si todos hablan,",
         "ya es tarde"
       ],
       "resaltar": [
-        "tarde"
+        "ya es tarde"
       ],
-      "imagen": "ia/s16/movil-cripto.png",
-      "inicio": 230.94
+      "inicio": 230.94,
+      "imagenes": [
+        "ia/s16/g-tren-se-va.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y tres: el",
       "lineas": [
-        "3. Las reglas pueden",
-        "cambiar a mitad del juego"
+        "3. Las reglas",
+        "pueden cambiar"
       ],
       "resaltar": [
         "cambiar"
       ],
-      "imagen": "ia/s16/dados.png",
-      "inicio": 236.74
+      "inicio": 236.74,
+      "imagenes": [
+        "ia/s16/g-tablero-gira.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -610,11 +742,13 @@
         "o casino?"
       ],
       "resaltar": [
-        "Revolución",
-        "casino"
+        "o casino?"
       ],
-      "imagen": "ia/s16/ruleta.png",
-      "inicio": 242.39
+      "inicio": 242.39,
+      "imagenes": [
+        "ia/s16/g-ruleta.png",
+        "ia/s16/g-puno-alto.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -624,10 +758,12 @@
         "Robinhood?"
       ],
       "resaltar": [
-        "Robinhood"
+        "Robinhood?"
       ],
-      "imagen": "ia/s16/movil-candado.png",
-      "inicio": 250.32
+      "inicio": 250.32,
+      "imagenes": [
+        "ia/s16/g-joven-comenta.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -640,7 +776,10 @@
         "Cuentas Claras"
       ],
       "inicio": 253.75,
-      "final": true
+      "final": true,
+      "imagenes": [
+        "ia/s16/g-campana-sub.png"
+      ]
     }
   ],
   "palabras": [

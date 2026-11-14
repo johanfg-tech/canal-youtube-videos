@@ -15,61 +15,75 @@
       "resaltar": [
         "derrumba"
       ],
-      "imagen": "ia/s16/banco-roto.png",
-      "inicio": 0
+      "inicio": 0,
+      "imagenes": [
+        "ia/s16/c-rascacielos-grietas.png",
+        "ia/s16/c-persona-alarmada.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Bancos centenarios desaparecieron",
       "lineas": [
         "Bancos centenarios",
-        "desaparecieron en días"
+        "caen en días"
       ],
       "resaltar": [
-        "días"
+        "en días"
       ],
-      "imagen": "ia/s16/banco-roto.png",
-      "inicio": 4.67
+      "inicio": 4.67,
+      "imagenes": [
+        "ia/s16/c-banco-antiguo.png",
+        "ia/s16/c-reloj-rapido.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Millones de personas",
       "lineas": [
-        "Millones perdieron",
+        "Millones sin",
         "casa y trabajo"
       ],
       "resaltar": [
-        "casa",
-        "trabajo"
+        "casa y trabajo"
       ],
-      "imagen": "ia/s16/casa-huracan.png",
-      "inicio": 7.4
+      "inicio": 7.4,
+      "imagenes": [
+        "ia/s16/c-familia-cajas.png",
+        "ia/s16/c-oficinista-caja.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y entonces los",
       "lineas": [
-        "Y se salvó a los bancos",
-        "con el dinero de todos"
+        "Rescate con",
+        "el dinero de todos"
       ],
       "resaltar": [
-        "dinero de todos"
+        "de todos"
       ],
-      "imagen": "ia/s16/salvavidas.png",
-      "inicio": 10.56
+      "inicio": 10.56,
+      "imagenes": [
+        "ia/s16/c-salvavidas-banco.png",
+        "ia/s16/c-gente-monedas.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "¿Fue lo correcto",
       "lineas": [
-        "¿Lo correcto",
-        "o una injusticia?"
+        "¿Justo",
+        "o injusto?"
       ],
       "resaltar": [
-        "injusticia"
+        "injusto?"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 19.79
+      "inicio": 19.79,
+      "imagenes": [
+        "ia/s16/c-balanza-duda.png",
+        "ia/s16/c-hombre-dudando.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -81,7 +95,10 @@
       "resaltar": [
         "casas"
       ],
-      "inicio": 26.41
+      "inicio": 26.41,
+      "imagenes": [
+        "ia/s16/c-barrio-casas.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -93,21 +110,27 @@
       "resaltar": [
         "subir"
       ],
-      "imagen": "ia/grafico-sube.png",
-      "inicio": 28.24
+      "inicio": 28.24,
+      "imagenes": [
+        "ia/s16/c-casa-cohete.png",
+        "ia/s16/c-cartel-precio.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y los bancos",
       "lineas": [
-        "Si las casas siempre suben…",
+        "Si siempre suben…",
         "¿qué riesgo hay?"
       ],
       "resaltar": [
-        "riesgo"
+        "¿qué riesgo"
       ],
-      "imagen": "ia/s16/casa.png",
-      "inicio": 33.91
+      "inicio": 33.91,
+      "imagenes": [
+        "ia/s16/c-banquero-sonrie.png",
+        "ia/s16/c-flecha-verde.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -119,47 +142,59 @@
       "resaltar": [
         "cualquiera"
       ],
-      "imagen": "ia/s16/contrato.png",
-      "inicio": 39.36
+      "inicio": 39.36,
+      "imagenes": [
+        "ia/s16/c-llaves-regalo.png",
+        "ia/s16/c-firma-rapida.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "A muchas de",
       "lineas": [
-        "Hipotecas subprime:",
+        "Subprime:",
         "poca capacidad de pago"
       ],
       "resaltar": [
-        "subprime"
+        "poca capacidad"
       ],
-      "imagen": "ia/s16/casitas.png",
-      "inicio": 42.55
+      "inicio": 42.55,
+      "imagenes": [
+        "ia/s16/c-cartera-vacia.png",
+        "ia/s16/c-hombre-deudas.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Había quien las",
       "lineas": [
-        "Préstamos NINJA:",
-        "sin ingresos, sin empleo, sin bienes"
+        "Préstamos NINJA",
+        "sin ingresos ni empleo"
       ],
       "resaltar": [
         "NINJA"
       ],
-      "imagen": "ia/s16/lupa.png",
-      "inicio": 52.15
+      "inicio": 52.15,
+      "imagenes": [
+        "ia/s16/c-ninja-casa.png",
+        "ia/s16/c-formulario-vacio.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Al principio pagabas",
       "lineas": [
-        "Al principio, poco…",
-        "luego la cuota se dispara"
+        "Al principio poco…",
+        "luego se dispara"
       ],
       "resaltar": [
         "se dispara"
       ],
-      "imagen": "ia/s16/alarma.png",
-      "inicio": 57.49
+      "inicio": 57.49,
+      "imagenes": [
+        "ia/s16/c-cuota-sube.png",
+        "ia/s16/c-pareja-asustada.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -170,20 +205,27 @@
       "resaltar": [
         "truco"
       ],
-      "inicio": 62.63
+      "inicio": 62.63,
+      "imagenes": [
+        "ia/s16/c-mago-chistera.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Las juntaban por",
       "lineas": [
         "Miles de hipotecas",
-        "empaquetadas y vendidas"
+        "empaquetadas"
       ],
       "resaltar": [
         "empaquetadas"
       ],
-      "imagen": "ia/s16/paquete-casas.png",
-      "inicio": 66.95
+      "inicio": 66.95,
+      "imagenes": [
+        "ia/s16/c-paquete-casas.png",
+        "ia/s16/c-cinta-transportadora.png",
+        "ia/s16/c-inversores-mundo.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -195,8 +237,11 @@
       "resaltar": [
         "más alta"
       ],
-      "imagen": "ia/s16/sello-impuestos.png",
-      "inicio": 73.43
+      "inicio": 73.43,
+      "imagenes": [
+        "ia/s16/c-sello-aaa.png",
+        "ia/s16/c-medalla-oro.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -206,10 +251,13 @@
         "qué había dentro"
       ],
       "resaltar": [
-        "dentro"
+        "Nadie sabía"
       ],
-      "imagen": "ia/s16/paquete-casas.png",
-      "inicio": 80.49
+      "inicio": 80.49,
+      "imagenes": [
+        "ia/s16/c-caja-misterio.png",
+        "ia/s16/c-lupa-paquete.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -221,33 +269,43 @@
       "resaltar": [
         "dejan de subir"
       ],
-      "inicio": 83.03
+      "inicio": 83.03,
+      "imagenes": [
+        "ia/s16/c-casa-flecha-baja.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Las cuotas aumentaron,",
       "lineas": [
-        "Lo que parecía oro",
-        "pasó a valer casi nada"
+        "Del oro",
+        "a casi nada"
       ],
       "resaltar": [
         "casi nada"
       ],
-      "imagen": "ia/billete-desvanece.png",
-      "inicio": 85.43
+      "inicio": 85.43,
+      "imagenes": [
+        "ia/s16/c-oro-polvo.png",
+        "ia/s16/c-familia-no-paga.png",
+        "ia/s16/c-ejecutivo-impactado.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y como estaban",
       "lineas": [
-        "Nadie sabía qué banco",
-        "estaba enfermo"
+        "¿Qué banco",
+        "estaba enfermo?"
       ],
       "resaltar": [
-        "enfermo"
+        "enfermo?"
       ],
-      "imagen": "ia/s16/banco.png",
-      "inicio": 93.6
+      "inicio": 93.6,
+      "imagenes": [
+        "ia/s16/c-banco-termometro.png",
+        "ia/s16/c-banqueros-sospechan.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -257,10 +315,13 @@
         "de prestarse"
       ],
       "resaltar": [
-        "prestarse"
+        "de prestarse"
       ],
-      "imagen": "ia/s16/caja-fuerte.png",
-      "inicio": 98.86
+      "inicio": 98.86,
+      "imagenes": [
+        "ia/s16/c-candado-dinero.png",
+        "ia/s16/c-hielo-billetes.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -272,8 +333,11 @@
       "resaltar": [
         "2008"
       ],
-      "imagen": "ia/s16/nube-rayo.png",
-      "inicio": 103.5
+      "inicio": 103.5,
+      "imagenes": [
+        "ia/s16/c-calendario-sept.png",
+        "ia/s16/c-rayo-ciudad.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -283,8 +347,11 @@
       "hasta": 158,
       "unidad": "años",
       "pie": "y quiebra en un día",
-      "imagen": "ia/s16/banco-roto.png",
-      "inicio": 107.59
+      "inicio": 107.59,
+      "imagenes": [
+        "ia/s16/c-edificio-lehman.png",
+        "ia/s16/c-empleados-cajas.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -294,8 +361,11 @@
       "hasta": 600,
       "unidad": "mil millones $",
       "pie": "la mayor quiebra de EE. UU.",
-      "imagen": "ia/s16/banco-roto.png",
-      "inicio": 113.57
+      "inicio": 113.57,
+      "imagenes": [
+        "ia/s16/c-montana-dolares.png",
+        "ia/s16/c-banquero-llora.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -307,8 +377,12 @@
       "resaltar": [
         "pánico"
       ],
-      "imagen": "ia/s16/alarma.png",
-      "inicio": 120.47
+      "inicio": 120.47,
+      "imagenes": [
+        "ia/s16/c-bolsa-panico.png",
+        "ia/s16/c-mujer-grita.png",
+        "ia/s16/c-flecha-roja-cae.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -318,8 +392,10 @@
       "hasta": 180,
       "unidad": "mil millones $",
       "pie": "con dinero público",
-      "imagen": "ia/s16/salvavidas.png",
-      "inicio": 125.51
+      "inicio": 125.51,
+      "imagenes": [
+        "ia/s16/c-salvavidas-aig.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -329,8 +405,10 @@
       "hasta": 700,
       "unidad": "mil millones $",
       "pie": "aprobado por el Congreso",
-      "imagen": "ia/s16/capitolio.png",
-      "inicio": 134.38
+      "inicio": 134.38,
+      "imagenes": [
+        "ia/s16/c-capitolio.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -340,10 +418,13 @@
         "para quebrar»"
       ],
       "resaltar": [
-        "quebrar"
+        "grandes"
       ],
-      "imagen": "ia/s16/banco.png",
-      "inicio": 142.24
+      "inicio": 142.24,
+      "imagenes": [
+        "ia/s16/c-banco-gigante.png",
+        "ia/s16/c-domino.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -352,9 +433,12 @@
         "4. ¿Y la gente?"
       ],
       "resaltar": [
-        "gente"
+        "gente?"
       ],
-      "inicio": 149.11
+      "inicio": 149.11,
+      "imagenes": [
+        "ia/s16/c-gente-calle.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -364,8 +448,10 @@
       "hasta": 9,
       "unidad": "millones",
       "pie": "casi nueve millones",
-      "imagen": "ia/s16/maleta.png",
-      "inicio": 150.59
+      "inicio": 150.59,
+      "imagenes": [
+        "ia/s16/c-fila-empleo.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -375,8 +461,10 @@
       "hasta": 10,
       "unidad": "%",
       "pie": "en Estados Unidos",
-      "imagen": "ia/s16/maleta.png",
-      "inicio": 154.28
+      "inicio": 154.28,
+      "imagenes": [
+        "ia/s16/c-hombre-banco-parque.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -388,21 +476,27 @@
       "resaltar": [
         "sin casa"
       ],
-      "imagen": "ia/s16/grua-casa.png",
-      "inicio": 156.97
+      "inicio": 156.97,
+      "imagenes": [
+        "ia/s16/c-casa-embargo.png",
+        "ia/s16/c-nina-peluche.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y la crisis",
       "lineas": [
-        "Europa en recesión:",
-        "España, Irlanda, Grecia"
+        "Europa",
+        "en recesión"
       ],
       "resaltar": [
         "recesión"
       ],
-      "imagen": "ia/s16/nube-rayo.png",
-      "inicio": 159.59
+      "inicio": 159.59,
+      "imagenes": [
+        "ia/s16/c-mapa-europa.png",
+        "ia/s16/c-protesta-europa.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -413,7 +507,10 @@
       "resaltar": [
         "polémica"
       ],
-      "inicio": 170.07
+      "inicio": 170.07,
+      "imagenes": [
+        "ia/s16/c-debate-acalorado.png"
+      ]
     },
     {
       "tipo": "contador",
@@ -423,8 +520,11 @@
       "hasta": 165,
       "unidad": "millones $",
       "pie": "para sus ejecutivos",
-      "imagen": "ia/s16/fajo.png",
-      "inicio": 171.91
+      "inicio": 171.91,
+      "imagenes": [
+        "ia/s16/c-ejecutivos-champan.png",
+        "ia/s16/c-gente-indignada.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -436,21 +536,27 @@
       "resaltar": [
         "cárcel"
       ],
-      "imagen": "ia/s16/rejas.png",
-      "inicio": 184.75
+      "inicio": 184.75,
+      "imagenes": [
+        "ia/s16/c-celda-vacia.png",
+        "ia/s16/c-banquero-silba.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "En Estados Unidos, solo",
       "lineas": [
-        "Solo UN alto ejecutivo",
-        "terminó en prisión"
+        "Solo UN",
+        "alto ejecutivo"
       ],
       "resaltar": [
         "UN"
       ],
-      "imagen": "ia/s16/esposas.png",
-      "inicio": 187.83
+      "inicio": 187.83,
+      "imagenes": [
+        "ia/s16/c-mazo-juez.png",
+        "ia/s16/c-un-preso.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -462,8 +568,11 @@
       "resaltar": [
         "pérdidas de todos"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 192.63
+      "inicio": 192.63,
+      "imagenes": [
+        "ia/s16/c-banquero-sacos.png",
+        "ia/s16/c-familia-factura.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -475,8 +584,11 @@
       "resaltar": [
         "indignados"
       ],
-      "imagen": "ia/s16/cacerola.png",
-      "inicio": 200.36
+      "inicio": 200.36,
+      "imagenes": [
+        "ia/s16/c-acampada.png",
+        "ia/s16/c-megafono.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -487,33 +599,43 @@
       "resaltar": [
         "otra cara"
       ],
-      "inicio": 206.86
+      "inicio": 206.86,
+      "imagenes": [
+        "ia/s16/c-moneda-gira.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Los defensores del",
       "lineas": [
-        "Sin rescate, quizás",
-        "otra Gran Depresión"
+        "Sin rescate…",
+        "¿otra Gran Depresión?"
       ],
       "resaltar": [
-        "Gran Depresión"
+        "Gran Depresión?"
       ],
-      "imagen": "ia/s16/cajero.png",
-      "inicio": 208.31
+      "inicio": 208.31,
+      "imagenes": [
+        "ia/s16/c-cajero-apagado.png",
+        "ia/s16/c-fabrica-cerrada.png",
+        "ia/s16/c-hombre-alivio.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y según el",
       "lineas": [
-        "El dinero prestado a los bancos",
-        "se devolvió con intereses"
-      ],
-      "resaltar": [
+        "Se devolvió",
         "con intereses"
       ],
-      "imagen": "ia/s16/cofre-recibo.png",
-      "inicio": 219.92
+      "resaltar": [
+        "intereses"
+      ],
+      "inicio": 219.92,
+      "imagenes": [
+        "ia/s16/c-billetes-vuelven.png",
+        "ia/s16/c-hucha-crece.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -523,49 +645,60 @@
         "lo contrario"
       ],
       "resaltar": [
-        "lo contrario"
+        "Islandia"
       ],
-      "imagen": "ia/s16/islandia.png",
-      "inicio": 226.49
+      "inicio": 226.49,
+      "imagenes": [
+        "ia/s16/c-islandia.png",
+        "ia/s16/c-flechas-opuestas.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Sus tres grandes",
       "lineas": [
         "Dejó caer a sus bancos",
-        "y protegió a la gente"
+        "protegió a la gente"
       ],
       "resaltar": [
-        "protegió"
+        "protegió a la gente"
       ],
-      "imagen": "ia/s16/islandia.png",
-      "inicio": 229.6
+      "inicio": 229.6,
+      "imagenes": [
+        "ia/s16/c-paraguas-gente.png",
+        "ia/s16/c-banco-cae-islandia.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Protegió los depósitos",
       "lineas": [
-        "Decenas de banqueros",
+        "Banqueros",
         "a juicio"
       ],
       "resaltar": [
         "a juicio"
       ],
-      "imagen": "ia/s16/mazo.png",
-      "inicio": 235.1
+      "inicio": 235.1,
+      "imagenes": [
+        "ia/s16/c-tribunal.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Islandia sufrió mucho",
       "lineas": [
-        "Sufrió al principio…",
+        "Sufrió…",
         "y volvió a crecer"
       ],
       "resaltar": [
         "volvió a crecer"
       ],
-      "imagen": "ia/grafico-sube.png",
-      "inicio": 241.81
+      "inicio": 241.81,
+      "imagenes": [
+        "ia/s16/c-planta-crece.png",
+        "ia/s16/c-pueblo-feliz.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -574,22 +707,27 @@
         "3 lecciones"
       ],
       "resaltar": [
-        "3"
+        "lecciones"
       ],
-      "inicio": 246.43
+      "inicio": 246.43,
+      "imagenes": [
+        "ia/s16/c-libro-abierto.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Uno: cuando un",
       "lineas": [
-        "1. Demasiado grande",
+        "1. Más grande",
         "= más riesgo"
       ],
       "resaltar": [
         "más riesgo"
       ],
-      "imagen": "ia/s16/banco.png",
-      "inicio": 249.38
+      "inicio": 249.38,
+      "imagenes": [
+        "ia/s16/c-torre-bloques.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -601,35 +739,41 @@
       "resaltar": [
         "bomba"
       ],
-      "imagen": "ia/s16/paquete-casas.png",
-      "inicio": 255.66
+      "inicio": 255.66,
+      "imagenes": [
+        "ia/s16/c-bomba-dibujos.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Y tres: las",
       "lineas": [
-        "3. Las crisis las paga",
-        "quien no las provoca"
+        "3. La paga quien",
+        "no la provoca"
       ],
       "resaltar": [
-        "no las provoca"
+        "no la provoca"
       ],
-      "imagen": "ia/s16/balanza.png",
-      "inicio": 260.42
+      "inicio": 260.42,
+      "imagenes": [
+        "ia/s16/c-trabajador-carga.png"
+      ]
     },
     {
       "tipo": "titular",
       "en": "Ahora te toca",
       "lineas": [
-        "¿Rescatar a los bancos",
-        "o dejarlos quebrar?"
+        "¿Rescatar",
+        "o dejar quebrar?"
       ],
       "resaltar": [
-        "Rescatar",
-        "quebrar"
+        "dejar quebrar?"
       ],
-      "imagen": "ia/s16/salvavidas.png",
-      "inicio": 266.06
+      "inicio": 266.06,
+      "imagenes": [
+        "ia/s16/c-dos-caminos.png",
+        "ia/s16/c-joven-comenta.png"
+      ]
     },
     {
       "tipo": "titular",
@@ -642,7 +786,10 @@
         "Cuentas Claras"
       ],
       "inicio": 274.9,
-      "final": true
+      "final": true,
+      "imagenes": [
+        "ia/s16/c-campana-sub.png"
+      ]
     }
   ],
   "palabras": [

@@ -8,7 +8,7 @@ import { DatosShort, datosShortSchema } from "./DatosShort";
 // Intro animada (16:9) para vídeos largos: imágenes del tema que entran en órbita,
 // título con palabra resaltada, subtítulo y marca del canal. Luego sigue el vídeo.
 
-export const INTRO_SEG = 6;
+export const INTRO_SEG = 3.5;
 
 export type IntroDatos = { lineas: string[]; resaltar: string; sub: string; imgs: string[] };
 
@@ -16,7 +16,7 @@ const Orbita: React.FC<{ src: string; i: number; n: number }> = ({ src, i, n }) 
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const ang = (i / n) * Math.PI * 2 - Math.PI / 2 + frame * 0.004;
-  const e = spring({ frame: frame - 4 - i * 3, fps, config: { damping: 13, mass: 0.7 } });
+  const e = spring({ frame: frame - 2 - i * 2, fps, config: { damping: 13, mass: 0.7 } });
   const R = 560 * e + 900 * (1 - e);
   const rx = R * 1.38, ry = R * 0.68;
   const x = 960 + Math.cos(ang) * rx;
@@ -39,10 +39,10 @@ export const IntroLargo: React.FC<IntroDatos> = ({ lineas, resaltar, sub, imgs }
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const total = f(INTRO_SEG);
-  const tit = spring({ frame: frame - f(0.9), fps, config: { damping: 12, mass: 0.8 } });
-  const caja = interpolate(frame, [f(1.5), f(1.9)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
-  const subO = interpolate(frame, [f(2.4), f(2.9)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  const marca = spring({ frame: frame - f(3.4), fps, config: { damping: 14 } });
+  const tit = spring({ frame: frame - f(0.3), fps, config: { damping: 12, mass: 0.8 } });
+  const caja = interpolate(frame, [f(0.8), f(1.1)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+  const subO = interpolate(frame, [f(1.2), f(1.6)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const marca = spring({ frame: frame - f(1.7), fps, config: { damping: 14 } });
   const salida = interpolate(frame, [total - 18, total], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.in(Easing.cubic) });
   const brillo = interpolate(frame, [0, 40], [0.4, 1], { extrapolateRight: "clamp" });
   return (
@@ -77,7 +77,9 @@ export const IntroLargo: React.FC<IntroDatos> = ({ lineas, resaltar, sub, imgs }
         </AbsoluteFill>
       </AbsoluteFill>
       <Audio src={staticFile("sfx/whoosh.wav")} volume={0.35} />
-      <Sequence from={f(1.5)}><Audio src={staticFile("sfx/ding.wav")} volume={0.3} /></Sequence>
+      <Sequence from={f(0.8)}><Audio src={staticFile("sfx/ding.wav")} volume={0.3} /></Sequence>
+      <Sequence from={f(1.7)}><Audio src={staticFile("sfx/pop.wav")} volume={0.3} /></Sequence>
+      <Sequence from={f(2.3)}><Audio src={staticFile("sfx/whoosh.wav")} volume={0.18} /></Sequence>
       <Sequence from={total - 18}><Audio src={staticFile("sfx/whoosh.wav")} volume={0.3} /></Sequence>
     </AbsoluteFill>
   );

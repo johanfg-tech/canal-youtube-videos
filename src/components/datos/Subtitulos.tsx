@@ -57,7 +57,7 @@ export const Subtitulos: React.FC<{
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "center",
-        gap: "0 22px",
+        gap: `0 ${Math.round(tamano * 0.24)}px`,
         scale: String(0.7 + 0.3 * entrada),
       }}
     >
@@ -78,10 +78,12 @@ export const Subtitulos: React.FC<{
               textTransform: "uppercase",
               color: activa ? theme.bg : theme.text,
               background: activa ? "#ffd60a" : "transparent",
-              borderRadius: 18,
-              padding: "0 14px",
-              WebkitTextStroke: activa ? "0px" : `3px ${theme.bg}`,
-              textShadow: activa ? "none" : "0 8px 0 rgba(0,0,0,0.45)",
+              borderRadius: Math.round(tamano * 0.2),
+              padding: `0 ${Math.round(tamano * 0.15)}px`,
+              WebkitTextStroke: activa ? "0px" : `${tamano > 60 ? 3 : 2}px ${theme.bg}`,
+              textShadow: activa
+                ? "none"
+                : `0 ${Math.round(tamano * 0.08)}px 0 rgba(0,0,0,0.45)`,
               scale: activa ? String(1 + 0.12 * salto) : "1",
               rotate: activa ? `${(i % 2 ? 1 : -1) * 2}deg` : "0deg",
               display: "inline-block",

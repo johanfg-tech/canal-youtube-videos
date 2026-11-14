@@ -43,6 +43,7 @@ const titularSchema = z.object({
   tipo: z.literal("titular"),
   inicio: z.number(),
   imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
+  imagenes: z.array(z.string()).optional(), // más PNG que se suceden tras `imagen` durante la escena
   mascota: mascotaSchema,
   lineas: z.array(z.string()),
   resaltar: z.array(z.string()).optional(),
@@ -152,6 +153,7 @@ const contadorSchema = z.object({
   tipo: z.literal("contador"),
   inicio: z.number(),
   imagen: z.string().optional(), // PNG de public/ia/ que aparece animado bajo el contenido
+  imagenes: z.array(z.string()).optional(),
   mascota: mascotaSchema,
   titulo: z.string(),
   desde: z.number(),
@@ -892,7 +894,7 @@ const EscenaContenido = ({
 
 
 // Imagen generada (ChatGPT/Gemini) que entra con rebote y flota bajo el contenido de la escena.
-const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
+const ImagenFlotante: React.FC<{ src: string; alto?: number }> = ({ src, alto }) => {
   const frame = useCurrentFrame();
   const { fps, width, height } = useVideoConfig();
   const ancho = width > height; // vídeo largo: deja libres los subtítulos de abajo
@@ -905,8 +907,8 @@ const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
         position: "absolute",
         left: 0,
         right: 0,
-        bottom: ancho ? 235 : 10,
-        height: ancho ? 400 : 470,
+        bottom: ancho ? 110 : 10,
+        height: ancho ? (alto ?? 640) : 470,
         display: "flex",
         justifyContent: "center",
         alignItems: "flex-end",
@@ -917,17 +919,57 @@ const ImagenFlotante: React.FC<{ src: string }> = ({ src }) => {
         filter: "drop-shadow(0 24px 40px rgba(0,0,0,0.55))",
       }}
     >
-      <Img src={staticFile(src)} style={{ height: "100%", objectFit: "contain" }} />
+      <Img src={staticFile(fotogramaActual(src, frame))} style={{ height: "100%", objectFit: "contain" }} />
     </div>
   );
 };
 
-const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
-  escena,
-  presentador,
+// Animación por fotogramas (tipo dibujo animado): "a.png|b.png|c.png" va y vuelve en bucle;
+// con prefijo "1:" se reproduce una sola vez y se queda en el último fotograma.
+const PASO_FOTOGRAMA = 7;
+const fotogramaActual = (src: string, frame: number): string => {
+  if (!src.includes("|")) return src;
+  const unaVez = src.startsWith("1:");
+  const lista = (unaVez ? src.slice(2) : src).split("|");
+  const paso = Math.floor(frame / PASO_FOTOGRAMA);
+  if (unaVez) return lista[Math.min(lista.length - 1, Math.max(0, Math.floor((frame - 18) / 6) + 1))];
+  const ciclo = lista.length > 2 ? [...lista, ...lista.slice(1, -1).reverse()] : lista;
+  return ciclo[paso % ciclo.length];
+};
+
+// Varias imágenes seguidas: reparte la escena en tramos iguales, una imagen por tramo.
+const ImagenesSeguidas: React.FC<{ srcs: string[]; frames: number; alto?: number }> = ({
+  srcs,
+  frames,
+  alto,
 }) => {
+  if (srcs.length === 1) return <ImagenFlotante src={srcs[0]} alto={alto} />;
+  const tramo = Math.max(1, Math.floor(frames / srcs.length));
+  return (
+    <>
+      {srcs.map((src, i) => (
+        <Sequence
+          key={i}
+          from={i * tramo}
+          durationInFrames={i === srcs.length - 1 ? frames - i * tramo : tramo}
+          layout="none"
+        >
+          <ImagenFlotante src={src} alto={alto} />
+        </Sequence>
+      ))}
+    </>
+  );
+};
+
+const EscenaVista: React.FC<{
+  escena: Escena;
+  presentador?: boolean;
+  frames?: number;
+}> = ({ escena, presentador, frames = 150 }) => {
   const contenido = EscenaContenido({ escena, presentador });
-  if (!escena.imagen) return contenido;
+  const extra = "imagenes" in escena && escena.imagenes ? escena.imagenes : [];
+  const srcs = [...(escena.imagen ? [escena.imagen] : []), ...extra];
+  if (!srcs.length) return contenido;
   return (
     <AbsoluteFill>
       <div
@@ -940,7 +982,7 @@ const EscenaVista: React.FC<{ escena: Escena; presentador?: boolean }> = ({
       >
         {contenido}
       </div>
-      <ImagenFlotante src={escena.imagen} />
+      <ImagenesSeguidas srcs={srcs} frames={frames} alto={escena.tipo === "contador" ? 470 : undefined} />
     </AbsoluteFill>
   );
 };
@@ -1097,7 +1139,7 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
               }
             >
               <Transicion frames={dur}>
-                <EscenaVista escena={e} />
+                <EscenaVista escena={e} frames={dur} />
               </Transicion>
             </div>
             )}
@@ -1131,9 +1173,9 @@ export const DatosShort: React.FC<z.infer<typeof datosShortSchema>> = ({
       {palabras ? (
         <Subtitulos
           palabras={palabras}
-          top={presentador ? PANTALLA.subtitulos : horizontal ? 868 : 1440}
+          top={presentador ? PANTALLA.subtitulos : horizontal ? 970 : 1440}
           derecha={presentador ? 60 : mascota ? 330 : 60}
-          tamano={presentador ? 70 : undefined}
+          tamano={presentador ? 70 : horizontal ? 52 : undefined}
         />
       ) : null}
       <div

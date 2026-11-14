@@ -1,4902 +1,5053 @@
 {
- "audio": "narraciones/largo-newton.mp3",
- "duracion": 271.8,
- "aviso": "",
- "sfx": true,
- "horizontal": true,
- "escenas": [
-  {
-   "tipo": "titular",
-   "en": "Isaac Newton fue",
-   "lineas": [
-    "Isaac Newton,",
-    "uno de los mayores genios"
-   ],
-   "resaltar": [
-    "genios"
-   ],
-   "imagen": "ia/s16/manzana-pluma.png",
-   "inicio": 0
-  },
-  {
-   "tipo": "titular",
-   "en": "Descubrió la ley",
-   "lineas": [
-    "La gravedad, los planetas,",
-    "las matemáticas modernas"
-   ],
-   "resaltar": [
-    "gravedad"
-   ],
-   "imagen": "ia/s16/manzana-pluma.png",
-   "inicio": 3.74
-  },
-  {
-   "tipo": "titular",
-   "en": "Pero en mil setecientos veinte,",
-   "lineas": [
-    "En 1720 perdió",
-    "una fortuna en la bolsa"
-   ],
-   "resaltar": [
-    "fortuna"
-   ],
-   "imagen": "ia/s16/burbuja-oro.png",
-   "inicio": 10.95
-  },
-  {
-   "tipo": "titular",
-   "en": "Fue por lo",
-   "lineas": [
-    "Se dejó llevar",
-    "por la multitud"
-   ],
-   "resaltar": [
-    "multitud"
-   ],
-   "imagen": "ia/s16/alarma.png",
-   "inicio": 17.29
-  },
-  {
-   "tipo": "titular",
-   "en": "Esta es la",
-   "lineas": [
-    "La burbuja de",
-    "los Mares del Sur"
-   ],
-   "resaltar": [
-    "Mares del Sur"
-   ],
-   "imagen": "ia/s16/velero.png",
-   "inicio": 23.03
-  },
-  {
-   "tipo": "titular",
-   "en": "Primero, el contexto.",
-   "lineas": [
-    "1. Un país",
-    "lleno de deudas"
-   ],
-   "resaltar": [
-    "deudas"
-   ],
-   "inicio": 27.24
-  },
-  {
-   "tipo": "titular",
-   "en": "Y en mil setecientos once",
-   "lineas": [
-    "1711: nace la Compañía",
-    "de los Mares del Sur"
-   ],
-   "resaltar": [
-    "Mares del Sur"
-   ],
-   "imagen": "ia/s16/pergamino.png",
-   "inicio": 35.95
-  },
-  {
-   "tipo": "titular",
-   "en": "La idea era",
-   "lineas": [
-    "Se queda con la deuda…",
-    "y gana el monopolio"
-   ],
-   "resaltar": [
-    "monopolio"
-   ],
-   "imagen": "ia/s16/contrato.png",
-   "inicio": 40.23
-  },
-  {
-   "tipo": "titular",
-   "en": "Sobre el papel",
-   "lineas": [
-    "Oro, plata y riquezas",
-    "del Nuevo Mundo"
-   ],
-   "resaltar": [
-    "Nuevo Mundo"
-   ],
-   "imagen": "ia/s16/lingotes.png",
-   "inicio": 49.74
-  },
-  {
-   "tipo": "titular",
-   "en": "El problema es",
-   "lineas": [
-    "Pero España casi",
-    "no dejaba comerciar"
-   ],
-   "resaltar": [
-    "no dejaba"
-   ],
-   "imagen": "ia/s16/velero.png",
-   "inicio": 55.19
-  },
-  {
-   "tipo": "titular",
-   "en": "Pero eso daba",
-   "lineas": [
-    "Lo que importaba:",
-    "la historia que contaba"
-   ],
-   "resaltar": [
-    "historia"
-   ],
-   "imagen": "ia/s16/lupa.png",
-   "inicio": 63.19
-  },
-  {
-   "tipo": "titular",
-   "en": "En mil setecientos veinte,",
-   "lineas": [
-    "2. El gran plan:",
-    "toda la deuda del país"
-   ],
-   "resaltar": [
-    "toda la deuda"
-   ],
-   "inicio": 67.43
-  },
-  {
-   "tipo": "titular",
-   "en": "Los dueños de",
-   "lineas": [
-    "Bonos del gobierno",
-    "→ acciones de la compañía"
-   ],
-   "resaltar": [
-    "acciones"
-   ],
-   "imagen": "ia/s16/pergamino.png",
-   "inicio": 75.23
-  },
-  {
-   "tipo": "titular",
-   "en": "Y para que",
-   "lineas": [
-    "Había que hacer",
-    "subir la acción"
-   ],
-   "resaltar": [
-    "subir"
-   ],
-   "imagen": "ia/grafico-sube.png",
-   "inicio": 79.6
-  },
-  {
-   "tipo": "barras",
-   "en": "Y subió.",
-   "titulo": "Precio de la acción en 1720 (libras)",
-   "barras": [
+  "audio": "narraciones/largo-newton.mp3",
+  "duracion": 271.8,
+  "aviso": "",
+  "sfx": true,
+  "horizontal": true,
+  "escenas": [
     {
-     "etiqueta": "Enero",
-     "valor": 130,
-     "texto": ""
+      "tipo": "titular",
+      "en": "Isaac Newton fue",
+      "lineas": [
+        "Isaac Newton",
+        "un genio"
+      ],
+      "resaltar": [
+        "genio"
+      ],
+      "inicio": 0,
+      "imagenes": [
+        "ia/s16/n-newton.png",
+        "ia/s16/n-libros.png"
+      ]
     },
     {
-     "etiqueta": "Junio",
-     "valor": 1000,
-     "texto": ""
+      "tipo": "titular",
+      "en": "Descubrió la ley",
+      "lineas": [
+        "Gravedad, planetas",
+        "y matemáticas"
+      ],
+      "resaltar": [
+        "matemáticas"
+      ],
+      "inicio": 3.74,
+      "imagenes": [
+        "ia/s16/n-manzana-cae.png",
+        "ia/s16/n-planetas.png",
+        "ia/s16/n-newton-escribe.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero en mil setecientos veinte,",
+      "lineas": [
+        "1720: perdió",
+        "una fortuna"
+      ],
+      "resaltar": [
+        "fortuna"
+      ],
+      "inicio": 10.95,
+      "imagenes": [
+        "ia/s16/n-anim-asust1.png|ia/s16/n-anim-asust2.png|ia/s16/n-anim-asust3.png",
+        "ia/s16/n-monedas-caen.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Fue por lo",
+      "lineas": [
+        "Siguió",
+        "a la multitud"
+      ],
+      "resaltar": [
+        "multitud"
+      ],
+      "inicio": 17.29,
+      "imagenes": [
+        "ia/s16/n-multitud-1720.png",
+        "ia/s16/n-ovejas.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Esta es la",
+      "lineas": [
+        "La burbuja",
+        "de los Mares del Sur"
+      ],
+      "resaltar": [
+        "Mares del Sur"
+      ],
+      "inicio": 23.03,
+      "imagenes": [
+        "ia/s16/n-burbuja-barco.png",
+        "ia/s16/n-mar-sur.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Primero, el contexto.",
+      "lineas": [
+        "1. Un país",
+        "lleno de deudas"
+      ],
+      "resaltar": [
+        "deudas"
+      ],
+      "inicio": 27.24,
+      "imagenes": [
+        "ia/s16/n-londres-1700.png",
+        "ia/s16/n-cañones.png",
+        "ia/s16/n-rey-deudas.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y en mil setecientos once",
+      "lineas": [
+        "1711: nace",
+        "la Compañía"
+      ],
+      "resaltar": [
+        "Compañía"
+      ],
+      "inicio": 35.95,
+      "imagenes": [
+        "ia/s16/n-edificio-compania.png",
+        "ia/s16/n-accionistas.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La idea era",
+      "lineas": [
+        "Se queda la deuda",
+        "a cambio del monopolio"
+      ],
+      "resaltar": [
+        "monopolio"
+      ],
+      "inicio": 40.23,
+      "imagenes": [
+        "ia/s16/n-apreton-rey.png",
+        "ia/s16/n-pergamino-sello.png",
+        "ia/s16/n-mapa-sudamerica.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Sobre el papel",
+      "lineas": [
+        "Oro, plata y riquezas",
+        "del Nuevo Mundo"
+      ],
+      "resaltar": [
+        "Nuevo Mundo"
+      ],
+      "inicio": 49.74,
+      "imagenes": [
+        "ia/s16/n-cofre-tesoro.png",
+        "ia/s16/n-lingotes-plata.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "El problema es",
+      "lineas": [
+        "España casi",
+        "no dejaba comerciar"
+      ],
+      "resaltar": [
+        "no dejaba"
+      ],
+      "inicio": 55.19,
+      "imagenes": [
+        "ia/s16/n-galeon-espanol.png",
+        "ia/s16/n-puerto-cerrado.png",
+        "ia/s16/n-comerciante-triste.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero eso daba",
+      "lineas": [
+        "Lo importante:",
+        "la historia que contaba"
+      ],
+      "resaltar": [
+        "la historia"
+      ],
+      "inicio": 63.19,
+      "imagenes": [
+        "ia/s16/n-cuentacuentos.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "En mil setecientos veinte,",
+      "lineas": [
+        "2. El gran plan:",
+        "toda la deuda"
+      ],
+      "resaltar": [
+        "toda la deuda"
+      ],
+      "inicio": 67.43,
+      "imagenes": [
+        "ia/s16/n-montana-deuda.png",
+        "ia/s16/n-directores.png",
+        "ia/s16/n-grafico-antiguo.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Los dueños de",
+      "lineas": [
+        "Bonos",
+        "por acciones"
+      ],
+      "resaltar": [
+        "acciones"
+      ],
+      "inicio": 75.23,
+      "imagenes": [
+        "ia/s16/n-intercambio.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y para que",
+      "lineas": [
+        "Había que",
+        "subir la acción"
+      ],
+      "resaltar": [
+        "subir"
+      ],
+      "inicio": 79.6,
+      "imagenes": [
+        "ia/s16/n-hombre-empuja-flecha.png",
+        "ia/s16/n-pregonero.png"
+      ]
+    },
+    {
+      "tipo": "barras",
+      "en": "Y subió.",
+      "titulo": "Precio de la acción en 1720 (libras)",
+      "barras": [
+        {
+          "etiqueta": "Enero",
+          "valor": 130,
+          "texto": ""
+        },
+        {
+          "etiqueta": "Junio",
+          "valor": 1000,
+          "texto": ""
+        }
+      ],
+      "inicio": 85.68,
+      "imagenes": [
+        "ia/s16/n-cafe-londres.png",
+        "ia/s16/n-cohete-antiguo.png"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "Se multiplicó por",
+      "titulo": "Se multiplicó por",
+      "desde": 1,
+      "hasta": 8,
+      "unidad": "x",
+      "pie": "en menos de 6 meses",
+      "inicio": 94.26,
+      "imagenes": [
+        "ia/s16/n-dinero-multiplica.png",
+        "ia/s16/n-ocho-sacos.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Todo Londres hablaba",
+      "lineas": [
+        "Todos",
+        "querían su parte"
+      ],
+      "resaltar": [
+        "todos"
+      ],
+      "inicio": 97.74,
+      "imagenes": [
+        "ia/s16/n-noble.png",
+        "ia/s16/n-criado.png",
+        "ia/s16/n-politico.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La fiebre fue",
+      "lineas": [
+        "Cientos",
+        "de empresas nuevas"
+      ],
+      "resaltar": [
+        "Cientos"
+      ],
+      "inicio": 105.11,
+      "imagenes": [
+        "ia/s16/n-calle-carteles.png",
+        "ia/s16/n-cola-compradores.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Una quería sacar",
+      "lineas": [
+        "Aceite de rábanos",
+        "movimiento perpetuo"
+      ],
+      "resaltar": [
+        "rábanos"
+      ],
+      "inicio": 110.39,
+      "imagenes": [
+        "ia/s16/n-rabanos.png",
+        "ia/s16/n-rueda-perpetua.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y se cuenta",
+      "lineas": [
+        "Una empresa",
+        "que nadie sabía cuál"
+      ],
+      "resaltar": [
+        "nadie sabía"
+      ],
+      "inicio": 115.9,
+      "imagenes": [
+        "ia/s16/n-caja-secreta.png",
+        "ia/s16/n-estafador-sonrie.png",
+        "ia/s16/n-gente-paga.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "A estas empresas",
+      "lineas": [
+        "Así nació",
+        "la palabra burbuja"
+      ],
+      "resaltar": [
+        "burbuja"
+      ],
+      "inicio": 123.43,
+      "imagenes": [
+        "ia/s16/n-burbujas-jabon.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "¿Y Newton? Aquí",
+      "lineas": [
+        "3. ¿Y Newton?"
+      ],
+      "resaltar": [
+        "Newton?"
+      ],
+      "inicio": 126.87,
+      "imagenes": [
+        "ia/s16/n-newton-lupa.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Newton compró acciones",
+      "lineas": [
+        "Compró, vendió",
+        "y ganó"
+      ],
+      "resaltar": [
+        "ganó"
+      ],
+      "inicio": 129.52,
+      "imagenes": [
+        "ia/s16/n-newton-feliz.png",
+        "ia/s16/n-anim-moneda1.png|ia/s16/n-anim-moneda2.png|ia/s16/n-anim-moneda3.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero después vio",
+      "lineas": [
+        "Pero la acción",
+        "seguía subiendo"
+      ],
+      "resaltar": [
+        "seguía subiendo"
+      ],
+      "inicio": 136.09,
+      "imagenes": [
+        "ia/s16/n-amigos-ricos.png",
+        "ia/s16/n-newton-envidia.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y no pudo",
+      "lineas": [
+        "Volvió a comprar",
+        "mucho más caro"
+      ],
+      "resaltar": [
+        "más caro"
+      ],
+      "inicio": 141.17,
+      "imagenes": [
+        "ia/s16/n-newton-compra.png",
+        "ia/s16/n-newton-ansioso.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Entonces llegó la",
+      "lineas": [
+        "4. La caída"
+      ],
+      "resaltar": [
+        "caída"
+      ],
+      "inicio": 147.98,
+      "imagenes": [
+        "1:ia/s16/n-anim-burbuja1.png|ia/s16/n-anim-burbuja2.png|ia/s16/n-anim-burbuja3.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "En septiembre, el",
+      "lineas": [
+        "Pánico:",
+        "todos quieren vender"
+      ],
+      "resaltar": [
+        "vender"
+      ],
+      "inicio": 152.87,
+      "imagenes": [
+        "ia/s16/n-panico-calle.png",
+        "ia/s16/n-señora-grita.png",
+        "ia/s16/n-hombres-corren.png"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "Para diciembre, la",
+      "titulo": "Diciembre de 1720: la acción vale",
+      "desde": 1000,
+      "hasta": 125,
+      "unidad": "libras",
+      "pie": "casi lo mismo que en enero",
+      "inicio": 159.38,
+      "imagenes": [
+        "ia/s16/n-papel-volando.png",
+        "ia/s16/n-flecha-cae.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Miles de personas",
+      "lineas": [
+        "Miles",
+        "de arruinados"
+      ],
+      "resaltar": [
+        "arruinados"
+      ],
+      "inicio": 165.68,
+      "imagenes": [
+        "ia/s16/n-banco-quiebra.png",
+        "ia/s16/n-familia-ruina.png"
+      ]
+    },
+    {
+      "tipo": "contador",
+      "en": "Según varias fuentes,",
+      "titulo": "Lo que perdió Newton",
+      "desde": 1,
+      "hasta": 20000,
+      "unidad": "libras",
+      "pie": "hoy, varios millones de dólares",
+      "inicio": 170.46,
+      "imagenes": [
+        "ia/s16/n-newton-cabeza.png",
+        "ia/s16/n-bolsa-vacia.png",
+        "ia/s16/n-billetes-hoy.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Se le atribuye",
+      "lineas": [
+        "«Puedo calcular los astros,",
+        "pero no la locura de la gente»"
+      ],
+      "resaltar": [
+        "locura"
+      ],
+      "inicio": 177.17,
+      "imagenes": [
+        "ia/s16/n-telescopio.png",
+        "ia/s16/n-estrellas.png",
+        "ia/s16/n-locura.png",
+        "ia/s16/n-newton-pensativo.png",
+        "ia/s16/n-newton-enfadado.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y aquí viene",
+      "lineas": [
+        "5. La parte",
+        "polémica"
+      ],
+      "resaltar": [
+        "polémica"
+      ],
+      "inicio": 193.05,
+      "imagenes": [
+        "ia/s16/n-balanza-justicia.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La investigación del",
+      "lineas": [
+        "Acciones regaladas",
+        "a políticos"
+      ],
+      "resaltar": [
+        "políticos"
+      ],
+      "inicio": 195.21,
+      "imagenes": [
+        "ia/s16/n-soborno.png",
+        "ia/s16/n-parlamento.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "El ministro de",
+      "lineas": [
+        "El ministro",
+        "a la Torre de Londres"
+      ],
+      "resaltar": [
+        "Torre de Londres"
+      ],
+      "inicio": 202.57,
+      "imagenes": [
+        "ia/s16/n-ministro.png",
+        "ia/s16/n-torre-londres.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Pero muchos de",
+      "lineas": [
+        "Muchos beneficiados",
+        "nunca devolvieron nada"
+      ],
+      "resaltar": [
+        "nada"
+      ],
+      "inicio": 208.89,
+      "imagenes": [
+        "ia/s16/n-escapan-dinero.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Lo más curioso",
+      "lineas": [
+        "Francia:",
+        "burbuja del Misisipi"
+      ],
+      "resaltar": [
+        "Misisipi"
+      ],
+      "inicio": 212.66,
+      "imagenes": [
+        "ia/s16/n-paris-1720.png",
+        "ia/s16/n-rio-misisipi.png",
+        "ia/s16/n-burbuja-francia.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y desde entonces",
+      "lineas": [
+        "Puntocom, hipotecas,",
+        "cripto…"
+      ],
+      "resaltar": [
+        "cripto…"
+      ],
+      "inicio": 219.78,
+      "imagenes": [
+        "ia/s16/n-ordenador-2000.png",
+        "ia/s16/n-casa-venta.png",
+        "ia/s16/n-bitcoin.png",
+        "ia/s16/n-burbujas-modernas.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Cambian los nombres,",
+      "lineas": [
+        "Cambian los nombres,",
+        "la historia es la misma"
+      ],
+      "resaltar": [
+        "la misma"
+      ],
+      "inicio": 230.03,
+      "imagenes": [
+        "ia/s16/n-reloj-ciclo.png",
+        "ia/s16/n-historia-repite.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Entonces, ¿qué nos",
+      "lineas": [
+        "Las 3 lecciones",
+        "de Newton"
+      ],
+      "resaltar": [
+        "3 lecciones"
+      ],
+      "inicio": 233.34,
+      "imagenes": [
+        "ia/s16/n-newton-maestro.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La primera: si",
+      "lineas": [
+        "1. Si todos compran,",
+        "cuidado"
+      ],
+      "resaltar": [
+        "cuidado"
+      ],
+      "inicio": 237.22,
+      "imagenes": [
+        "ia/s16/n-gente-moderna.png",
+        "ia/s16/n-señal-alto.png",
+        "ia/s16/n-hombre-duda.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "La segunda: una",
+      "lineas": [
+        "2. Buena historia",
+        "≠ buen negocio"
+      ],
+      "resaltar": [
+        "≠"
+      ],
+      "inicio": 244.6,
+      "imagenes": [
+        "ia/s16/n-libro-cuento.png",
+        "ia/s16/n-caja-vacia.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y la tercera:",
+      "lineas": [
+        "3. Ser listo",
+        "no te protege"
+      ],
+      "resaltar": [
+        "no te protege"
+      ],
+      "inicio": 249.35,
+      "imagenes": [
+        "ia/s16/n-cerebro.png",
+        "ia/s16/n-fomo.png",
+        "ia/s16/n-trampa.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Ahora dime tú:",
+      "lineas": [
+        "¿Estamos hoy",
+        "en una burbuja?"
+      ],
+      "resaltar": [
+        "burbuja"
+      ],
+      "inicio": 257.2,
+      "imagenes": [
+        "ia/s16/n-burbuja-pregunta.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "¿La inteligencia artificial,",
+      "lineas": [
+        "¿IA, cripto,",
+        "vivienda?"
+      ],
+      "resaltar": [
+        "vivienda?"
+      ],
+      "inicio": 261.05,
+      "imagenes": [
+        "ia/s16/n-robot.png",
+        "ia/s16/n-moneda-cripto.png",
+        "ia/s16/n-edificios.png"
+      ]
+    },
+    {
+      "tipo": "titular",
+      "en": "Y si te",
+      "lineas": [
+        "Suscríbete a",
+        "Cuentas Claras"
+      ],
+      "resaltar": [
+        "Cuentas Claras"
+      ],
+      "inicio": 267.07,
+      "final": true,
+      "imagenes": [
+        "ia/s16/n-comentando.png",
+        "ia/s16/n-campana-sub.png"
+      ]
     }
-   ],
-   "inicio": 85.68
-  },
-  {
-   "tipo": "contador",
-   "en": "Se multiplicó por",
-   "titulo": "Se multiplicó por",
-   "desde": 1,
-   "hasta": 8,
-   "unidad": "x",
-   "pie": "en menos de 6 meses",
-   "imagen": "ia/grafico-sube.png",
-   "inicio": 94.26
-  },
-  {
-   "tipo": "titular",
-   "en": "Todo Londres hablaba",
-   "lineas": [
-    "Nobles, criados, políticos:",
-    "todos querían su parte"
-   ],
-   "resaltar": [
-    "todos"
-   ],
-   "imagen": "ia/s16/monedas.png",
-   "inicio": 97.74
-  },
-  {
-   "tipo": "titular",
-   "en": "La fiebre fue",
-   "lineas": [
-    "Cientos de empresas",
-    "que prometían de todo"
-   ],
-   "resaltar": [
-    "de todo"
-   ],
-   "imagen": "ia/s16/burbuja-oro.png",
-   "inicio": 105.11
-  },
-  {
-   "tipo": "titular",
-   "en": "Una quería sacar",
-   "lineas": [
-    "Aceite de rábanos,",
-    "movimiento perpetuo…"
-   ],
-   "resaltar": [
-    "rábanos"
-   ],
-   "imagen": "ia/s16/bulbo.png",
-   "inicio": 110.39
-  },
-  {
-   "tipo": "titular",
-   "en": "Y se cuenta",
-   "lineas": [
-    "Un negocio de gran beneficio…",
-    "que nadie sabía cuál era"
-   ],
-   "resaltar": [
-    "nadie sabía"
-   ],
-   "imagen": "ia/s16/cofre-recibo.png",
-   "inicio": 115.9
-  },
-  {
-   "tipo": "titular",
-   "en": "A estas empresas",
-   "lineas": [
-    "Así nació",
-    "la palabra burbuja"
-   ],
-   "resaltar": [
-    "burbuja"
-   ],
-   "imagen": "ia/s16/burbuja-oro.png",
-   "inicio": 123.43
-  },
-  {
-   "tipo": "titular",
-   "en": "¿Y Newton? Aquí",
-   "lineas": [
-    "3. ¿Y Newton?"
-   ],
-   "resaltar": [
-    "Newton"
-   ],
-   "inicio": 126.87
-  },
-  {
-   "tipo": "titular",
-   "en": "Newton compró acciones",
-   "lineas": [
-    "Compró pronto y vendió",
-    "con ganancia"
-   ],
-   "resaltar": [
-    "ganancia"
-   ],
-   "imagen": "ia/s16/sobre-dinero.png",
-   "inicio": 129.52
-  },
-  {
-   "tipo": "titular",
-   "en": "Pero después vio",
-   "lineas": [
-    "Pero la acción",
-    "seguía subiendo"
-   ],
-   "resaltar": [
-    "subiendo"
-   ],
-   "imagen": "ia/grafico-sube.png",
-   "inicio": 136.09
-  },
-  {
-   "tipo": "titular",
-   "en": "Y no pudo",
-   "lineas": [
-    "Volvió a comprar…",
-    "mucho más caro"
-   ],
-   "resaltar": [
-    "más caro"
-   ],
-   "imagen": "ia/s16/fajo.png",
-   "inicio": 141.17
-  },
-  {
-   "tipo": "titular",
-   "en": "Entonces llegó la",
-   "lineas": [
-    "4. La caída"
-   ],
-   "resaltar": [
-    "caída"
-   ],
-   "inicio": 147.98
-  },
-  {
-   "tipo": "titular",
-   "en": "En septiembre, el",
-   "lineas": [
-    "Pánico en Londres:",
-    "todos quieren vender"
-   ],
-   "resaltar": [
-    "vender"
-   ],
-   "imagen": "ia/s16/nube-rayo.png",
-   "inicio": 152.87
-  },
-  {
-   "tipo": "contador",
-   "en": "Para diciembre, la",
-   "titulo": "Diciembre de 1720: la acción vale",
-   "desde": 1000,
-   "hasta": 125,
-   "unidad": "libras",
-   "pie": "casi lo mismo que en enero",
-   "imagen": "ia/s16/burbuja-oro.png",
-   "inicio": 159.38
-  },
-  {
-   "tipo": "titular",
-   "en": "Miles de personas",
-   "lineas": [
-    "Miles de arruinados",
-    "y bancos quebrados"
-   ],
-   "resaltar": [
-    "arruinados"
-   ],
-   "imagen": "ia/billete-desvanece.png",
-   "inicio": 165.68
-  },
-  {
-   "tipo": "contador",
-   "en": "Según varias fuentes,",
-   "titulo": "Lo que perdió Newton",
-   "desde": 1,
-   "hasta": 20000,
-   "unidad": "libras",
-   "pie": "hoy, varios millones de dólares",
-   "imagen": "ia/s16/manzana-pluma.png",
-   "inicio": 170.46
-  },
-  {
-   "tipo": "titular",
-   "en": "Se le atribuye",
-   "lineas": [
-    "«Puedo calcular los astros,",
-    "pero no la locura de la gente»"
-   ],
-   "resaltar": [
-    "locura"
-   ],
-   "imagen": "ia/s16/manzana-pluma.png",
-   "inicio": 177.17
-  },
-  {
-   "tipo": "titular",
-   "en": "Y aquí viene",
-   "lineas": [
-    "5. La parte",
-    "polémica"
-   ],
-   "resaltar": [
-    "polémica"
-   ],
-   "inicio": 193.05
-  },
-  {
-   "tipo": "titular",
-   "en": "La investigación del",
-   "lineas": [
-    "Acciones regaladas",
-    "a ministros y políticos"
-   ],
-   "resaltar": [
-    "regaladas"
-   ],
-   "imagen": "ia/s16/sobre-dinero.png",
-   "inicio": 195.21
-  },
-  {
-   "tipo": "titular",
-   "en": "El ministro de",
-   "lineas": [
-    "El ministro de Hacienda,",
-    "a la Torre de Londres"
-   ],
-   "resaltar": [
-    "Torre de Londres"
-   ],
-   "imagen": "ia/s16/rejas.png",
-   "inicio": 202.57
-  },
-  {
-   "tipo": "titular",
-   "en": "Pero muchos de",
-   "lineas": [
-    "Muchos beneficiados",
-    "nunca devolvieron nada"
-   ],
-   "resaltar": [
-    "nada"
-   ],
-   "imagen": "ia/s16/balanza.png",
-   "inicio": 208.89
-  },
-  {
-   "tipo": "titular",
-   "en": "Lo más curioso",
-   "lineas": [
-    "Francia, el mismo año:",
-    "la burbuja del Misisipi"
-   ],
-   "resaltar": [
-    "Misisipi"
-   ],
-   "imagen": "ia/s16/velero.png",
-   "inicio": 212.66
-  },
-  {
-   "tipo": "titular",
-   "en": "Y desde entonces",
-   "lineas": [
-    "Puntocom, hipotecas,",
-    "criptomonedas…"
-   ],
-   "resaltar": [
-    "criptomonedas"
-   ],
-   "imagen": "ia/s16/movil-cripto.png",
-   "inicio": 219.78
-  },
-  {
-   "tipo": "titular",
-   "en": "Cambian los nombres,",
-   "lineas": [
-    "Cambian los nombres,",
-    "la historia es la misma"
-   ],
-   "resaltar": [
-    "la misma"
-   ],
-   "imagen": "ia/s16/tulipan.png",
-   "inicio": 230.03
-  },
-  {
-   "tipo": "titular",
-   "en": "Entonces, ¿qué nos",
-   "lineas": [
-    "Las 3 lecciones",
-    "de Newton"
-   ],
-   "resaltar": [
-    "3 lecciones"
-   ],
-   "inicio": 233.34
-  },
-  {
-   "tipo": "titular",
-   "en": "La primera: si",
-   "lineas": [
-    "1. Si todos compran,",
-    "ten cuidado"
-   ],
-   "resaltar": [
-    "cuidado"
-   ],
-   "imagen": "ia/s16/alarma.png",
-   "inicio": 237.22
-  },
-  {
-   "tipo": "titular",
-   "en": "La segunda: una",
-   "lineas": [
-    "2. Buena historia ≠",
-    "buen negocio"
-   ],
-   "resaltar": [
-    "≠"
-   ],
-   "imagen": "ia/s16/pergamino.png",
-   "inicio": 244.6
-  },
-  {
-   "tipo": "titular",
-   "en": "Y la tercera:",
-   "lineas": [
-    "3. Ser inteligente",
-    "no te protege"
-   ],
-   "resaltar": [
-    "no te protege"
-   ],
-   "imagen": "ia/s16/manzana-pluma.png",
-   "inicio": 249.35
-  },
-  {
-   "tipo": "titular",
-   "en": "Ahora dime tú:",
-   "lineas": [
-    "¿Estamos hoy",
-    "en una burbuja?"
-   ],
-   "resaltar": [
-    "burbuja"
-   ],
-   "imagen": "ia/s16/burbuja-oro.png",
-   "inicio": 257.2
-  },
-  {
-   "tipo": "titular",
-   "en": "¿La inteligencia artificial,",
-   "lineas": [
-    "¿IA, cripto,",
-    "vivienda?"
-   ],
-   "resaltar": [
-    "IA",
-    "vivienda"
-   ],
-   "imagen": "ia/s16/portatil-grafico.png",
-   "inicio": 261.05
-  },
-  {
-   "tipo": "titular",
-   "en": "Y si te",
-   "lineas": [
-    "Suscríbete a",
-    "Cuentas Claras"
-   ],
-   "resaltar": [
-    "Cuentas Claras"
-   ],
-   "inicio": 267.07,
-   "final": true
-  }
- ],
- "palabras": [
-  {
-   "texto": "Isaac",
-   "inicio": 0.0,
-   "fin": 0.33,
-   "corte": false
-  },
-  {
-   "texto": "Newton",
-   "inicio": 0.33,
-   "fin": 0.71,
-   "corte": false
-  },
-  {
-   "texto": "fue",
-   "inicio": 0.71,
-   "fin": 0.94,
-   "corte": false
-  },
-  {
-   "texto": "uno",
-   "inicio": 0.94,
-   "fin": 1.17,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 1.17,
-   "fin": 1.35,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 1.35,
-   "fin": 1.58,
-   "corte": false
-  },
-  {
-   "texto": "genios",
-   "inicio": 1.58,
-   "fin": 1.96,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 1.96,
-   "fin": 2.19,
-   "corte": false
-  },
-  {
-   "texto": "grandes",
-   "inicio": 2.19,
-   "fin": 2.62,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 2.62,
-   "fin": 2.8,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 2.8,
-   "fin": 2.97,
-   "corte": false
-  },
-  {
-   "texto": "historia.",
-   "inicio": 2.97,
-   "fin": 3.46,
-   "corte": true
-  },
-  {
-   "texto": "Descubrió",
-   "inicio": 3.89,
-   "fin": 4.37,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 4.37,
-   "fin": 4.52,
-   "corte": false
-  },
-  {
-   "texto": "ley",
-   "inicio": 4.52,
-   "fin": 4.73,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 4.73,
-   "fin": 4.89,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 4.89,
-   "fin": 5.04,
-   "corte": false
-  },
-  {
-   "texto": "gravedad,",
-   "inicio": 5.04,
-   "fin": 5.47,
-   "corte": false
-  },
-  {
-   "texto": "explicó",
-   "inicio": 5.74,
-   "fin": 6.2,
-   "corte": false
-  },
-  {
-   "texto": "cómo",
-   "inicio": 6.2,
-   "fin": 6.51,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 6.51,
-   "fin": 6.7,
-   "corte": false
-  },
-  {
-   "texto": "mueven",
-   "inicio": 6.7,
-   "fin": 7.11,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 7.11,
-   "fin": 7.36,
-   "corte": false
-  },
-  {
-   "texto": "planetas",
-   "inicio": 7.36,
-   "fin": 7.88,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 7.88,
-   "fin": 8.01,
-   "corte": false
-  },
-  {
-   "texto": "creó",
-   "inicio": 8.01,
-   "fin": 8.32,
-   "corte": false
-  },
-  {
-   "texto": "buena",
-   "inicio": 8.32,
-   "fin": 8.67,
-   "corte": false
-  },
-  {
-   "texto": "parte",
-   "inicio": 8.67,
-   "fin": 9.03,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 9.03,
-   "fin": 9.22,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 9.22,
-   "fin": 9.47,
-   "corte": false
-  },
-  {
-   "texto": "matemáticas",
-   "inicio": 9.47,
-   "fin": 10.15,
-   "corte": false
-  },
-  {
-   "texto": "modernas.",
-   "inicio": 10.15,
-   "fin": 10.67,
-   "corte": true
-  },
-  {
-   "texto": "Pero",
-   "inicio": 11.1,
-   "fin": 11.39,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 11.39,
-   "fin": 11.58,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 11.58,
-   "fin": 11.82,
-   "corte": false
-  },
-  {
-   "texto": "setecientos",
-   "inicio": 11.82,
-   "fin": 12.48,
-   "corte": false
-  },
-  {
-   "texto": "veinte,",
-   "inicio": 12.48,
-   "fin": 12.88,
-   "corte": false
-  },
-  {
-   "texto": "este",
-   "inicio": 12.88,
-   "fin": 13.17,
-   "corte": false
-  },
-  {
-   "texto": "genio",
-   "inicio": 13.17,
-   "fin": 13.52,
-   "corte": false
-  },
-  {
-   "texto": "perdió",
-   "inicio": 13.52,
-   "fin": 13.92,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 13.92,
-   "fin": 14.16,
-   "corte": false
-  },
-  {
-   "texto": "fortuna",
-   "inicio": 14.16,
-   "fin": 14.61,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 14.61,
-   "fin": 14.79,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 14.79,
-   "fin": 14.98,
-   "corte": false
-  },
-  {
-   "texto": "bolsa.",
-   "inicio": 14.98,
-   "fin": 15.33,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 15.74,
-   "fin": 15.86,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 15.86,
-   "fin": 16.03,
-   "corte": false
-  },
-  {
-   "texto": "fue",
-   "inicio": 16.03,
-   "fin": 16.24,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 16.24,
-   "fin": 16.46,
-   "corte": false
-  },
-  {
-   "texto": "mala",
-   "inicio": 16.46,
-   "fin": 16.73,
-   "corte": false
-  },
-  {
-   "texto": "suerte.",
-   "inicio": 16.73,
-   "fin": 17.09,
-   "corte": true
-  },
-  {
-   "texto": "Fue",
-   "inicio": 17.44,
-   "fin": 17.67,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 17.67,
-   "fin": 17.89,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 17.89,
-   "fin": 18.07,
-   "corte": false
-  },
-  {
-   "texto": "mismo",
-   "inicio": 18.07,
-   "fin": 18.39,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 18.39,
-   "fin": 18.61,
-   "corte": false
-  },
-  {
-   "texto": "nos",
-   "inicio": 18.61,
-   "fin": 18.84,
-   "corte": false
-  },
-  {
-   "texto": "hace",
-   "inicio": 18.84,
-   "fin": 19.11,
-   "corte": false
-  },
-  {
-   "texto": "perder",
-   "inicio": 19.11,
-   "fin": 19.49,
-   "corte": false
-  },
-  {
-   "texto": "dinero",
-   "inicio": 19.49,
-   "fin": 19.86,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 19.86,
-   "fin": 19.99,
-   "corte": false
-  },
-  {
-   "texto": "todos:",
-   "inicio": 19.99,
-   "fin": 20.31,
-   "corte": true
-  },
-  {
-   "texto": "dejarse",
-   "inicio": 20.67,
-   "fin": 21.16,
-   "corte": false
-  },
-  {
-   "texto": "llevar",
-   "inicio": 21.16,
-   "fin": 21.59,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 21.59,
-   "fin": 21.85,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 21.85,
-   "fin": 22.05,
-   "corte": false
-  },
-  {
-   "texto": "multitud.",
-   "inicio": 22.05,
-   "fin": 22.6,
-   "corte": true
-  },
-  {
-   "texto": "Esta",
-   "inicio": 23.18,
-   "fin": 23.43,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 23.43,
-   "fin": 23.59,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 23.59,
-   "fin": 23.74,
-   "corte": false
-  },
-  {
-   "texto": "historia",
-   "inicio": 23.74,
-   "fin": 24.17,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 24.17,
-   "fin": 24.32,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 24.32,
-   "fin": 24.48,
-   "corte": false
-  },
-  {
-   "texto": "burbuja",
-   "inicio": 24.48,
-   "fin": 24.86,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 24.86,
-   "fin": 25.01,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 25.01,
-   "fin": 25.21,
-   "corte": false
-  },
-  {
-   "texto": "Mares",
-   "inicio": 25.21,
-   "fin": 25.5,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 25.5,
-   "fin": 25.71,
-   "corte": false
-  },
-  {
-   "texto": "Sur.",
-   "inicio": 25.71,
-   "fin": 25.91,
-   "corte": true
-  },
-  {
-   "texto": "Empecemos.",
-   "inicio": 26.38,
-   "fin": 26.98,
-   "corte": true
-  },
-  {
-   "texto": "Primero,",
-   "inicio": 27.39,
-   "fin": 27.88,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 27.88,
-   "fin": 28.09,
-   "corte": false
-  },
-  {
-   "texto": "contexto.",
-   "inicio": 28.09,
-   "fin": 28.64,
-   "corte": true
-  },
-  {
-   "texto": "A",
-   "inicio": 29.12,
-   "fin": 29.24,
-   "corte": false
-  },
-  {
-   "texto": "principios",
-   "inicio": 29.24,
-   "fin": 29.81,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 29.81,
-   "fin": 30.03,
-   "corte": false
-  },
-  {
-   "texto": "siglo",
-   "inicio": 30.03,
-   "fin": 30.35,
-   "corte": false
-  },
-  {
-   "texto": "dieciocho,",
-   "inicio": 30.35,
-   "fin": 30.86,
-   "corte": false
-  },
-  {
-   "texto": "Inglaterra",
-   "inicio": 30.86,
-   "fin": 31.43,
-   "corte": false
-  },
-  {
-   "texto": "estaba",
-   "inicio": 31.43,
-   "fin": 31.79,
-   "corte": false
-  },
-  {
-   "texto": "llena",
-   "inicio": 31.79,
-   "fin": 32.11,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 32.11,
-   "fin": 32.28,
-   "corte": false
-  },
-  {
-   "texto": "deudas",
-   "inicio": 32.28,
-   "fin": 32.65,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 32.65,
-   "fin": 32.87,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 32.87,
-   "fin": 33.09,
-   "corte": false
-  },
-  {
-   "texto": "guerras.",
-   "inicio": 33.09,
-   "fin": 33.51,
-   "corte": true
-  },
-  {
-   "texto": "El",
-   "inicio": 33.9,
-   "fin": 34.07,
-   "corte": false
-  },
-  {
-   "texto": "gobierno",
-   "inicio": 34.07,
-   "fin": 34.54,
-   "corte": false
-  },
-  {
-   "texto": "necesitaba",
-   "inicio": 34.54,
-   "fin": 35.1,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 35.1,
-   "fin": 35.32,
-   "corte": false
-  },
-  {
-   "texto": "solución.",
-   "inicio": 35.32,
-   "fin": 35.78,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 36.1,
-   "fin": 36.23,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 36.23,
-   "fin": 36.42,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 36.42,
-   "fin": 36.66,
-   "corte": false
-  },
-  {
-   "texto": "setecientos",
-   "inicio": 36.66,
-   "fin": 37.33,
-   "corte": false
-  },
-  {
-   "texto": "once",
-   "inicio": 37.33,
-   "fin": 37.62,
-   "corte": false
-  },
-  {
-   "texto": "nació",
-   "inicio": 37.62,
-   "fin": 37.97,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 37.97,
-   "fin": 38.16,
-   "corte": false
-  },
-  {
-   "texto": "Compañía",
-   "inicio": 38.16,
-   "fin": 38.67,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 38.67,
-   "fin": 38.85,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 38.85,
-   "fin": 39.09,
-   "corte": false
-  },
-  {
-   "texto": "Mares",
-   "inicio": 39.09,
-   "fin": 39.44,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 39.44,
-   "fin": 39.68,
-   "corte": false
-  },
-  {
-   "texto": "Sur.",
-   "inicio": 39.68,
-   "fin": 39.92,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 40.38,
-   "fin": 40.54,
-   "corte": false
-  },
-  {
-   "texto": "idea",
-   "inicio": 40.54,
-   "fin": 40.79,
-   "corte": false
-  },
-  {
-   "texto": "era",
-   "inicio": 40.79,
-   "fin": 41.0,
-   "corte": false
-  },
-  {
-   "texto": "sencilla:",
-   "inicio": 41.0,
-   "fin": 41.44,
-   "corte": true
-  },
-  {
-   "texto": "la",
-   "inicio": 41.82,
-   "fin": 41.99,
-   "corte": false
-  },
-  {
-   "texto": "compañía",
-   "inicio": 41.99,
-   "fin": 42.45,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 42.45,
-   "fin": 42.62,
-   "corte": false
-  },
-  {
-   "texto": "quedaba",
-   "inicio": 42.62,
-   "fin": 43.04,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 43.04,
-   "fin": 43.26,
-   "corte": false
-  },
-  {
-   "texto": "parte",
-   "inicio": 43.26,
-   "fin": 43.57,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 43.57,
-   "fin": 43.74,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 43.74,
-   "fin": 43.91,
-   "corte": false
-  },
-  {
-   "texto": "deuda",
-   "inicio": 43.91,
-   "fin": 44.23,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 44.23,
-   "fin": 44.45,
-   "corte": false
-  },
-  {
-   "texto": "gobierno,",
-   "inicio": 44.45,
-   "fin": 44.91,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 44.91,
-   "fin": 45.03,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 45.03,
-   "fin": 45.15,
-   "corte": false
-  },
-  {
-   "texto": "cambio",
-   "inicio": 45.15,
-   "fin": 45.52,
-   "corte": false
-  },
-  {
-   "texto": "recibía",
-   "inicio": 45.52,
-   "fin": 45.93,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 45.93,
-   "fin": 46.1,
-   "corte": false
-  },
-  {
-   "texto": "monopolio",
-   "inicio": 46.1,
-   "fin": 46.61,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 46.61,
-   "fin": 46.83,
-   "corte": false
-  },
-  {
-   "texto": "comercio",
-   "inicio": 46.83,
-   "fin": 47.3,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 47.3,
-   "fin": 47.52,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 47.52,
-   "fin": 47.73,
-   "corte": false
-  },
-  {
-   "texto": "colonias",
-   "inicio": 47.73,
-   "fin": 48.2,
-   "corte": false
-  },
-  {
-   "texto": "españolas",
-   "inicio": 48.2,
-   "fin": 48.71,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 48.71,
-   "fin": 48.88,
-   "corte": false
-  },
-  {
-   "texto": "Sudamérica.",
-   "inicio": 48.88,
-   "fin": 49.44,
-   "corte": true
-  },
-  {
-   "texto": "Sobre",
-   "inicio": 49.89,
-   "fin": 50.22,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 50.22,
-   "fin": 50.4,
-   "corte": false
-  },
-  {
-   "texto": "papel",
-   "inicio": 50.4,
-   "fin": 50.72,
-   "corte": false
-  },
-  {
-   "texto": "sonaba",
-   "inicio": 50.72,
-   "fin": 51.1,
-   "corte": false
-  },
-  {
-   "texto": "increíble.",
-   "inicio": 51.1,
-   "fin": 51.63,
-   "corte": true
-  },
-  {
-   "texto": "Oro,",
-   "inicio": 52.06,
-   "fin": 52.38,
-   "corte": false
-  },
-  {
-   "texto": "plata",
-   "inicio": 52.38,
-   "fin": 52.82,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 52.82,
-   "fin": 53.0,
-   "corte": false
-  },
-  {
-   "texto": "riquezas",
-   "inicio": 53.0,
-   "fin": 53.65,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 53.65,
-   "fin": 53.96,
-   "corte": false
-  },
-  {
-   "texto": "Nuevo",
-   "inicio": 53.96,
-   "fin": 54.41,
-   "corte": false
-  },
-  {
-   "texto": "Mundo.",
-   "inicio": 54.41,
-   "fin": 54.86,
-   "corte": true
-  },
-  {
-   "texto": "El",
-   "inicio": 55.34,
-   "fin": 55.54,
-   "corte": false
-  },
-  {
-   "texto": "problema",
-   "inicio": 55.54,
-   "fin": 56.06,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 56.06,
-   "fin": 56.26,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 56.26,
-   "fin": 56.51,
-   "corte": false
-  },
-  {
-   "texto": "España",
-   "inicio": 56.51,
-   "fin": 56.93,
-   "corte": false
-  },
-  {
-   "texto": "controlaba",
-   "inicio": 56.93,
-   "fin": 57.57,
-   "corte": false
-  },
-  {
-   "texto": "esas",
-   "inicio": 57.57,
-   "fin": 57.87,
-   "corte": false
-  },
-  {
-   "texto": "colonias",
-   "inicio": 57.87,
-   "fin": 58.4,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 58.4,
-   "fin": 58.54,
-   "corte": false
-  },
-  {
-   "texto": "casi",
-   "inicio": 58.54,
-   "fin": 58.85,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 58.85,
-   "fin": 59.04,
-   "corte": false
-  },
-  {
-   "texto": "dejaba",
-   "inicio": 59.04,
-   "fin": 59.46,
-   "corte": false
-  },
-  {
-   "texto": "comerciar.",
-   "inicio": 59.46,
-   "fin": 60.04,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 60.47,
-   "fin": 60.68,
-   "corte": false
-  },
-  {
-   "texto": "compañía",
-   "inicio": 60.68,
-   "fin": 61.23,
-   "corte": false
-  },
-  {
-   "texto": "apenas",
-   "inicio": 61.23,
-   "fin": 61.67,
-   "corte": false
-  },
-  {
-   "texto": "hizo",
-   "inicio": 61.67,
-   "fin": 62.0,
-   "corte": false
-  },
-  {
-   "texto": "negocios",
-   "inicio": 62.0,
-   "fin": 62.55,
-   "corte": false
-  },
-  {
-   "texto": "reales.",
-   "inicio": 62.55,
-   "fin": 62.99,
-   "corte": true
-  },
-  {
-   "texto": "Pero",
-   "inicio": 63.34,
-   "fin": 63.56,
-   "corte": false
-  },
-  {
-   "texto": "eso",
-   "inicio": 63.56,
-   "fin": 63.74,
-   "corte": false
-  },
-  {
-   "texto": "daba",
-   "inicio": 63.74,
-   "fin": 63.97,
-   "corte": false
-  },
-  {
-   "texto": "igual.",
-   "inicio": 63.97,
-   "fin": 64.23,
-   "corte": true
-  },
-  {
-   "texto": "Lo",
-   "inicio": 64.61,
-   "fin": 64.79,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 64.79,
-   "fin": 65.02,
-   "corte": false
-  },
-  {
-   "texto": "importaba",
-   "inicio": 65.02,
-   "fin": 65.56,
-   "corte": false
-  },
-  {
-   "texto": "era",
-   "inicio": 65.56,
-   "fin": 65.79,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 65.79,
-   "fin": 65.96,
-   "corte": false
-  },
-  {
-   "texto": "historia",
-   "inicio": 65.96,
-   "fin": 66.45,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 66.45,
-   "fin": 66.68,
-   "corte": false
-  },
-  {
-   "texto": "contaba.",
-   "inicio": 66.68,
-   "fin": 67.11,
-   "corte": true
-  },
-  {
-   "texto": "En",
-   "inicio": 67.58,
-   "fin": 67.77,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 67.77,
-   "fin": 68.01,
-   "corte": false
-  },
-  {
-   "texto": "setecientos",
-   "inicio": 68.01,
-   "fin": 68.68,
-   "corte": false
-  },
-  {
-   "texto": "veinte,",
-   "inicio": 68.68,
-   "fin": 69.08,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 69.08,
-   "fin": 69.27,
-   "corte": false
-  },
-  {
-   "texto": "compañía",
-   "inicio": 69.27,
-   "fin": 69.78,
-   "corte": false
-  },
-  {
-   "texto": "propuso",
-   "inicio": 69.78,
-   "fin": 70.24,
-   "corte": false
-  },
-  {
-   "texto": "algo",
-   "inicio": 70.24,
-   "fin": 70.53,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 70.53,
-   "fin": 70.77,
-   "corte": false
-  },
-  {
-   "texto": "ambicioso:",
-   "inicio": 70.77,
-   "fin": 71.34,
-   "corte": true
-  },
-  {
-   "texto": "quedarse",
-   "inicio": 71.8,
-   "fin": 72.37,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 72.37,
-   "fin": 72.64,
-   "corte": false
-  },
-  {
-   "texto": "casi",
-   "inicio": 72.64,
-   "fin": 72.97,
-   "corte": false
-  },
-  {
-   "texto": "toda",
-   "inicio": 72.97,
-   "fin": 73.3,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 73.3,
-   "fin": 73.5,
-   "corte": false
-  },
-  {
-   "texto": "deuda",
-   "inicio": 73.5,
-   "fin": 73.89,
-   "corte": false
-  },
-  {
-   "texto": "pública",
-   "inicio": 73.89,
-   "fin": 74.4,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 74.4,
-   "fin": 74.67,
-   "corte": false
-  },
-  {
-   "texto": "país.",
-   "inicio": 74.67,
-   "fin": 75.0,
-   "corte": true
-  },
-  {
-   "texto": "Los",
-   "inicio": 75.38,
-   "fin": 75.58,
-   "corte": false
-  },
-  {
-   "texto": "dueños",
-   "inicio": 75.58,
-   "fin": 75.93,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 75.93,
-   "fin": 76.09,
-   "corte": false
-  },
-  {
-   "texto": "bonos",
-   "inicio": 76.09,
-   "fin": 76.39,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 76.39,
-   "fin": 76.6,
-   "corte": false
-  },
-  {
-   "texto": "gobierno",
-   "inicio": 76.6,
-   "fin": 77.03,
-   "corte": false
-  },
-  {
-   "texto": "podían",
-   "inicio": 77.03,
-   "fin": 77.38,
-   "corte": false
-  },
-  {
-   "texto": "cambiarlos",
-   "inicio": 77.38,
-   "fin": 77.91,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 77.91,
-   "fin": 78.12,
-   "corte": false
-  },
-  {
-   "texto": "acciones",
-   "inicio": 78.12,
-   "fin": 78.55,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 78.55,
-   "fin": 78.71,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 78.71,
-   "fin": 78.87,
-   "corte": false
-  },
-  {
-   "texto": "compañía.",
-   "inicio": 78.87,
-   "fin": 79.31,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 79.75,
-   "fin": 79.87,
-   "corte": false
-  },
-  {
-   "texto": "para",
-   "inicio": 79.87,
-   "fin": 80.13,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 80.13,
-   "fin": 80.35,
-   "corte": false
-  },
-  {
-   "texto": "todos",
-   "inicio": 80.35,
-   "fin": 80.66,
-   "corte": false
-  },
-  {
-   "texto": "quisieran",
-   "inicio": 80.66,
-   "fin": 81.17,
-   "corte": false
-  },
-  {
-   "texto": "hacerlo,",
-   "inicio": 81.17,
-   "fin": 81.58,
-   "corte": false
-  },
-  {
-   "texto": "había",
-   "inicio": 81.58,
-   "fin": 81.89,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 81.89,
-   "fin": 82.11,
-   "corte": false
-  },
-  {
-   "texto": "conseguir",
-   "inicio": 82.11,
-   "fin": 82.61,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 82.61,
-   "fin": 82.83,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 82.83,
-   "fin": 83.0,
-   "corte": false
-  },
-  {
-   "texto": "precio",
-   "inicio": 83.0,
-   "fin": 83.36,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 83.36,
-   "fin": 83.53,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 83.53,
-   "fin": 83.7,
-   "corte": false
-  },
-  {
-   "texto": "acción",
-   "inicio": 83.7,
-   "fin": 84.06,
-   "corte": false
-  },
-  {
-   "texto": "subiera.",
-   "inicio": 84.06,
-   "fin": 84.47,
-   "corte": true
-  },
-  {
-   "texto": "Mucho.",
-   "inicio": 84.85,
-   "fin": 85.34,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 85.83,
-   "fin": 85.97,
-   "corte": false
-  },
-  {
-   "texto": "subió.",
-   "inicio": 85.97,
-   "fin": 86.34,
-   "corte": true
-  },
-  {
-   "texto": "En",
-   "inicio": 86.78,
-   "fin": 86.97,
-   "corte": false
-  },
-  {
-   "texto": "enero",
-   "inicio": 86.97,
-   "fin": 87.31,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 87.31,
-   "fin": 87.5,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 87.5,
-   "fin": 87.74,
-   "corte": false
-  },
-  {
-   "texto": "setecientos",
-   "inicio": 87.74,
-   "fin": 88.4,
-   "corte": false
-  },
-  {
-   "texto": "veinte,",
-   "inicio": 88.4,
-   "fin": 88.8,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 88.8,
-   "fin": 89.04,
-   "corte": false
-  },
-  {
-   "texto": "acción",
-   "inicio": 89.04,
-   "fin": 89.44,
-   "corte": false
-  },
-  {
-   "texto": "costaba",
-   "inicio": 89.44,
-   "fin": 89.89,
-   "corte": false
-  },
-  {
-   "texto": "unas",
-   "inicio": 89.89,
-   "fin": 90.18,
-   "corte": false
-  },
-  {
-   "texto": "ciento",
-   "inicio": 90.18,
-   "fin": 90.58,
-   "corte": false
-  },
-  {
-   "texto": "treinta",
-   "inicio": 90.58,
-   "fin": 91.03,
-   "corte": false
-  },
-  {
-   "texto": "libras.",
-   "inicio": 91.03,
-   "fin": 91.43,
-   "corte": true
-  },
-  {
-   "texto": "En",
-   "inicio": 91.74,
-   "fin": 91.97,
-   "corte": false
-  },
-  {
-   "texto": "junio,",
-   "inicio": 91.97,
-   "fin": 92.4,
-   "corte": false
-  },
-  {
-   "texto": "superaba",
-   "inicio": 92.4,
-   "fin": 93.03,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 93.03,
-   "fin": 93.32,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 93.32,
-   "fin": 93.62,
-   "corte": false
-  },
-  {
-   "texto": "libras.",
-   "inicio": 93.62,
-   "fin": 94.12,
-   "corte": true
-  },
-  {
-   "texto": "Se",
-   "inicio": 94.41,
-   "fin": 94.62,
-   "corte": false
-  },
-  {
-   "texto": "multiplicó",
-   "inicio": 94.62,
-   "fin": 95.32,
-   "corte": false
-  },
-  {
-   "texto": "por",
-   "inicio": 95.32,
-   "fin": 95.6,
-   "corte": false
-  },
-  {
-   "texto": "ocho",
-   "inicio": 95.6,
-   "fin": 95.93,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 95.93,
-   "fin": 96.15,
-   "corte": false
-  },
-  {
-   "texto": "menos",
-   "inicio": 96.15,
-   "fin": 96.54,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 96.54,
-   "fin": 96.76,
-   "corte": false
-  },
-  {
-   "texto": "seis",
-   "inicio": 96.76,
-   "fin": 97.09,
-   "corte": false
-  },
-  {
-   "texto": "meses.",
-   "inicio": 97.09,
-   "fin": 97.49,
-   "corte": true
-  },
-  {
-   "texto": "Todo",
-   "inicio": 97.89,
-   "fin": 98.15,
-   "corte": false
-  },
-  {
-   "texto": "Londres",
-   "inicio": 98.15,
-   "fin": 98.54,
-   "corte": false
-  },
-  {
-   "texto": "hablaba",
-   "inicio": 98.54,
-   "fin": 98.93,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 98.93,
-   "fin": 99.1,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 99.1,
-   "fin": 99.26,
-   "corte": false
-  },
-  {
-   "texto": "mismo.",
-   "inicio": 99.26,
-   "fin": 99.56,
-   "corte": true
-  },
-  {
-   "texto": "Nobles,",
-   "inicio": 99.97,
-   "fin": 100.59,
-   "corte": false
-  },
-  {
-   "texto": "comerciantes,",
-   "inicio": 100.59,
-   "fin": 101.72,
-   "corte": false
-  },
-  {
-   "texto": "políticos,",
-   "inicio": 101.72,
-   "fin": 102.59,
-   "corte": false
-  },
-  {
-   "texto": "criados.",
-   "inicio": 102.59,
-   "fin": 103.3,
-   "corte": true
-  },
-  {
-   "texto": "Todos",
-   "inicio": 103.62,
-   "fin": 103.93,
-   "corte": false
-  },
-  {
-   "texto": "querían",
-   "inicio": 103.93,
-   "fin": 104.33,
-   "corte": false
-  },
-  {
-   "texto": "su",
-   "inicio": 104.33,
-   "fin": 104.5,
-   "corte": false
-  },
-  {
-   "texto": "parte.",
-   "inicio": 104.5,
-   "fin": 104.81,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 105.26,
-   "fin": 105.43,
-   "corte": false
-  },
-  {
-   "texto": "fiebre",
-   "inicio": 105.43,
-   "fin": 105.8,
-   "corte": false
-  },
-  {
-   "texto": "fue",
-   "inicio": 105.8,
-   "fin": 106.02,
-   "corte": false
-  },
-  {
-   "texto": "tan",
-   "inicio": 106.02,
-   "fin": 106.25,
-   "corte": false
-  },
-  {
-   "texto": "grande",
-   "inicio": 106.25,
-   "fin": 106.62,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 106.62,
-   "fin": 106.84,
-   "corte": false
-  },
-  {
-   "texto": "aparecieron",
-   "inicio": 106.84,
-   "fin": 107.46,
-   "corte": false
-  },
-  {
-   "texto": "cientos",
-   "inicio": 107.46,
-   "fin": 107.88,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 107.88,
-   "fin": 108.05,
-   "corte": false
-  },
-  {
-   "texto": "compañías",
-   "inicio": 108.05,
-   "fin": 108.57,
-   "corte": false
-  },
-  {
-   "texto": "nuevas",
-   "inicio": 108.57,
-   "fin": 108.94,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 108.94,
-   "fin": 109.16,
-   "corte": false
-  },
-  {
-   "texto": "prometían",
-   "inicio": 109.16,
-   "fin": 109.68,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 109.68,
-   "fin": 109.86,
-   "corte": false
-  },
-  {
-   "texto": "todo.",
-   "inicio": 109.86,
-   "fin": 110.13,
-   "corte": true
-  },
-  {
-   "texto": "Una",
-   "inicio": 110.54,
-   "fin": 110.76,
-   "corte": false
-  },
-  {
-   "texto": "quería",
-   "inicio": 110.76,
-   "fin": 111.13,
-   "corte": false
-  },
-  {
-   "texto": "sacar",
-   "inicio": 111.13,
-   "fin": 111.45,
-   "corte": false
-  },
-  {
-   "texto": "aceite",
-   "inicio": 111.45,
-   "fin": 111.81,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 111.81,
-   "fin": 111.99,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 111.99,
-   "fin": 112.21,
-   "corte": false
-  },
-  {
-   "texto": "rábanos.",
-   "inicio": 112.21,
-   "fin": 112.63,
-   "corte": true
-  },
-  {
-   "texto": "Otra,",
-   "inicio": 112.95,
-   "fin": 113.24,
-   "corte": false
-  },
-  {
-   "texto": "construir",
-   "inicio": 113.24,
-   "fin": 113.79,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 113.79,
-   "fin": 114.02,
-   "corte": false
-  },
-  {
-   "texto": "rueda",
-   "inicio": 114.02,
-   "fin": 114.37,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 114.37,
-   "fin": 114.55,
-   "corte": false
-  },
-  {
-   "texto": "movimiento",
-   "inicio": 114.55,
-   "fin": 115.15,
-   "corte": false
-  },
-  {
-   "texto": "perpetuo.",
-   "inicio": 115.15,
-   "fin": 115.65,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 116.05,
-   "fin": 116.18,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 116.18,
-   "fin": 116.36,
-   "corte": false
-  },
-  {
-   "texto": "cuenta",
-   "inicio": 116.36,
-   "fin": 116.74,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 116.74,
-   "fin": 116.97,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 116.97,
-   "fin": 117.2,
-   "corte": false
-  },
-  {
-   "texto": "pedía",
-   "inicio": 117.2,
-   "fin": 117.54,
-   "corte": false
-  },
-  {
-   "texto": "dinero",
-   "inicio": 117.54,
-   "fin": 117.92,
-   "corte": false
-  },
-  {
-   "texto": "para",
-   "inicio": 117.92,
-   "fin": 118.2,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 118.2,
-   "fin": 118.43,
-   "corte": false
-  },
-  {
-   "texto": "empresa",
-   "inicio": 118.43,
-   "fin": 118.87,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 118.87,
-   "fin": 119.05,
-   "corte": false
-  },
-  {
-   "texto": "gran",
-   "inicio": 119.05,
-   "fin": 119.33,
-   "corte": false
-  },
-  {
-   "texto": "beneficio,",
-   "inicio": 119.33,
-   "fin": 119.86,
-   "corte": false
-  },
-  {
-   "texto": "pero",
-   "inicio": 119.86,
-   "fin": 120.14,
-   "corte": false
-  },
-  {
-   "texto": "sin",
-   "inicio": 120.14,
-   "fin": 120.38,
-   "corte": false
-  },
-  {
-   "texto": "decir",
-   "inicio": 120.38,
-   "fin": 120.71,
-   "corte": false
-  },
-  {
-   "texto": "cuál",
-   "inicio": 120.71,
-   "fin": 120.99,
-   "corte": false
-  },
-  {
-   "texto": "era.",
-   "inicio": 120.99,
-   "fin": 121.22,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 121.66,
-   "fin": 121.85,
-   "corte": false
-  },
-  {
-   "texto": "gente",
-   "inicio": 121.85,
-   "fin": 122.19,
-   "corte": false
-  },
-  {
-   "texto": "compraba",
-   "inicio": 122.19,
-   "fin": 122.7,
-   "corte": false
-  },
-  {
-   "texto": "igual.",
-   "inicio": 122.7,
-   "fin": 123.04,
-   "corte": true
-  },
-  {
-   "texto": "A",
-   "inicio": 123.58,
-   "fin": 123.72,
-   "corte": false
-  },
-  {
-   "texto": "estas",
-   "inicio": 123.72,
-   "fin": 124.08,
-   "corte": false
-  },
-  {
-   "texto": "empresas",
-   "inicio": 124.08,
-   "fin": 124.62,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 124.62,
-   "fin": 124.81,
-   "corte": false
-  },
-  {
-   "texto": "les",
-   "inicio": 124.81,
-   "fin": 125.07,
-   "corte": false
-  },
-  {
-   "texto": "empezó",
-   "inicio": 125.07,
-   "fin": 125.49,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 125.49,
-   "fin": 125.63,
-   "corte": false
-  },
-  {
-   "texto": "llamar",
-   "inicio": 125.63,
-   "fin": 126.05,
-   "corte": false
-  },
-  {
-   "texto": "burbujas.",
-   "inicio": 126.05,
-   "fin": 126.59,
-   "corte": true
-  },
-  {
-   "texto": "¿Y",
-   "inicio": 127.02,
-   "fin": 127.15,
-   "corte": false
-  },
-  {
-   "texto": "Newton?",
-   "inicio": 127.15,
-   "fin": 127.54,
-   "corte": true
-  },
-  {
-   "texto": "Aquí",
-   "inicio": 127.98,
-   "fin": 128.24,
-   "corte": false
-  },
-  {
-   "texto": "viene",
-   "inicio": 128.24,
-   "fin": 128.54,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 128.54,
-   "fin": 128.7,
-   "corte": false
-  },
-  {
-   "texto": "interesante.",
-   "inicio": 128.7,
-   "fin": 129.27,
-   "corte": true
-  },
-  {
-   "texto": "Newton",
-   "inicio": 129.67,
-   "fin": 130.05,
-   "corte": false
-  },
-  {
-   "texto": "compró",
-   "inicio": 130.05,
-   "fin": 130.43,
-   "corte": false
-  },
-  {
-   "texto": "acciones",
-   "inicio": 130.43,
-   "fin": 130.9,
-   "corte": false
-  },
-  {
-   "texto": "al",
-   "inicio": 130.9,
-   "fin": 131.08,
-   "corte": false
-  },
-  {
-   "texto": "principio",
-   "inicio": 131.08,
-   "fin": 131.61,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 131.61,
-   "fin": 131.74,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 131.74,
-   "fin": 131.96,
-   "corte": false
-  },
-  {
-   "texto": "vendió",
-   "inicio": 131.96,
-   "fin": 132.34,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 132.34,
-   "fin": 132.52,
-   "corte": false
-  },
-  {
-   "texto": "primavera,",
-   "inicio": 132.52,
-   "fin": 133.05,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 133.05,
-   "fin": 133.27,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 133.27,
-   "fin": 133.5,
-   "corte": false
-  },
-  {
-   "texto": "buena",
-   "inicio": 133.5,
-   "fin": 133.83,
-   "corte": false
-  },
-  {
-   "texto": "ganancia.",
-   "inicio": 133.83,
-   "fin": 134.31,
-   "corte": true
-  },
-  {
-   "texto": "Una",
-   "inicio": 134.66,
-   "fin": 134.87,
-   "corte": false
-  },
-  {
-   "texto": "jugada",
-   "inicio": 134.87,
-   "fin": 135.24,
-   "corte": false
-  },
-  {
-   "texto": "inteligente.",
-   "inicio": 135.24,
-   "fin": 135.84,
-   "corte": true
-  },
-  {
-   "texto": "Pero",
-   "inicio": 136.24,
-   "fin": 136.53,
-   "corte": false
-  },
-  {
-   "texto": "después",
-   "inicio": 136.53,
-   "fin": 136.97,
-   "corte": false
-  },
-  {
-   "texto": "vio",
-   "inicio": 136.97,
-   "fin": 137.2,
-   "corte": false
-  },
-  {
-   "texto": "cómo",
-   "inicio": 137.2,
-   "fin": 137.49,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 137.49,
-   "fin": 137.67,
-   "corte": false
-  },
-  {
-   "texto": "acción",
-   "inicio": 137.67,
-   "fin": 138.07,
-   "corte": false
-  },
-  {
-   "texto": "seguía",
-   "inicio": 138.07,
-   "fin": 138.46,
-   "corte": false
-  },
-  {
-   "texto": "subiendo.",
-   "inicio": 138.46,
-   "fin": 138.95,
-   "corte": true
-  },
-  {
-   "texto": "Sus",
-   "inicio": 139.34,
-   "fin": 139.59,
-   "corte": false
-  },
-  {
-   "texto": "amigos",
-   "inicio": 139.59,
-   "fin": 140.01,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 140.01,
-   "fin": 140.2,
-   "corte": false
-  },
-  {
-   "texto": "hacían",
-   "inicio": 140.2,
-   "fin": 140.62,
-   "corte": false
-  },
-  {
-   "texto": "ricos.",
-   "inicio": 140.62,
-   "fin": 140.98,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 141.32,
-   "fin": 141.48,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 141.48,
-   "fin": 141.7,
-   "corte": false
-  },
-  {
-   "texto": "pudo",
-   "inicio": 141.7,
-   "fin": 142.05,
-   "corte": false
-  },
-  {
-   "texto": "resistirlo.",
-   "inicio": 142.05,
-   "fin": 142.77,
-   "corte": true
-  },
-  {
-   "texto": "Volvió",
-   "inicio": 143.18,
-   "fin": 143.58,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 143.58,
-   "fin": 143.72,
-   "corte": false
-  },
-  {
-   "texto": "comprar,",
-   "inicio": 143.72,
-   "fin": 144.18,
-   "corte": false
-  },
-  {
-   "texto": "esta",
-   "inicio": 144.55,
-   "fin": 144.88,
-   "corte": false
-  },
-  {
-   "texto": "vez",
-   "inicio": 144.88,
-   "fin": 145.14,
-   "corte": false
-  },
-  {
-   "texto": "mucho",
-   "inicio": 145.14,
-   "fin": 145.52,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 145.52,
-   "fin": 145.79,
-   "corte": false
-  },
-  {
-   "texto": "caro,",
-   "inicio": 145.79,
-   "fin": 146.11,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 146.11,
-   "fin": 146.26,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 146.26,
-   "fin": 146.53,
-   "corte": false
-  },
-  {
-   "texto": "mucho",
-   "inicio": 146.53,
-   "fin": 146.91,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 146.91,
-   "fin": 147.18,
-   "corte": false
-  },
-  {
-   "texto": "dinero.",
-   "inicio": 147.18,
-   "fin": 147.62,
-   "corte": true
-  },
-  {
-   "texto": "Entonces",
-   "inicio": 148.13,
-   "fin": 148.81,
-   "corte": false
-  },
-  {
-   "texto": "llegó",
-   "inicio": 148.81,
-   "fin": 149.28,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 149.28,
-   "fin": 149.53,
-   "corte": false
-  },
-  {
-   "texto": "caída.",
-   "inicio": 149.53,
-   "fin": 149.99,
-   "corte": true
-  },
-  {
-   "texto": "En",
-   "inicio": 150.47,
-   "fin": 150.66,
-   "corte": false
-  },
-  {
-   "texto": "agosto,",
-   "inicio": 150.66,
-   "fin": 151.07,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 151.07,
-   "fin": 151.27,
-   "corte": false
-  },
-  {
-   "texto": "precio",
-   "inicio": 151.27,
-   "fin": 151.68,
-   "corte": false
-  },
-  {
-   "texto": "empezó",
-   "inicio": 151.68,
-   "fin": 152.1,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 152.1,
-   "fin": 152.24,
-   "corte": false
-  },
-  {
-   "texto": "bajar.",
-   "inicio": 152.24,
-   "fin": 152.6,
-   "corte": true
-  },
-  {
-   "texto": "En",
-   "inicio": 153.02,
-   "fin": 153.23,
-   "corte": false
-  },
-  {
-   "texto": "septiembre,",
-   "inicio": 153.23,
-   "fin": 153.9,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 153.9,
-   "fin": 154.1,
-   "corte": false
-  },
-  {
-   "texto": "pánico",
-   "inicio": 154.1,
-   "fin": 154.54,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 154.54,
-   "fin": 154.75,
-   "corte": false
-  },
-  {
-   "texto": "apoderó",
-   "inicio": 154.75,
-   "fin": 155.24,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 155.24,
-   "fin": 155.45,
-   "corte": false
-  },
-  {
-   "texto": "Londres.",
-   "inicio": 155.45,
-   "fin": 155.95,
-   "corte": true
-  },
-  {
-   "texto": "Todos",
-   "inicio": 156.28,
-   "fin": 156.59,
-   "corte": false
-  },
-  {
-   "texto": "querían",
-   "inicio": 156.59,
-   "fin": 157.0,
-   "corte": false
-  },
-  {
-   "texto": "vender",
-   "inicio": 157.0,
-   "fin": 157.36,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 157.36,
-   "fin": 157.49,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 157.49,
-   "fin": 157.65,
-   "corte": false
-  },
-  {
-   "texto": "vez,",
-   "inicio": 157.65,
-   "fin": 157.87,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 158.18,
-   "fin": 158.31,
-   "corte": false
-  },
-  {
-   "texto": "nadie",
-   "inicio": 158.31,
-   "fin": 158.66,
-   "corte": false
-  },
-  {
-   "texto": "quería",
-   "inicio": 158.66,
-   "fin": 159.07,
-   "corte": false
-  },
-  {
-   "texto": "comprar.",
-   "inicio": 159.07,
-   "fin": 159.53,
-   "corte": true
-  },
-  {
-   "texto": "Para",
-   "inicio": 159.53,
-   "fin": 159.83,
-   "corte": false
-  },
-  {
-   "texto": "diciembre,",
-   "inicio": 159.83,
-   "fin": 160.4,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 160.4,
-   "fin": 160.59,
-   "corte": false
-  },
-  {
-   "texto": "acción",
-   "inicio": 160.59,
-   "fin": 160.99,
-   "corte": false
-  },
-  {
-   "texto": "había",
-   "inicio": 160.99,
-   "fin": 161.34,
-   "corte": false
-  },
-  {
-   "texto": "vuelto",
-   "inicio": 161.34,
-   "fin": 161.75,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 161.75,
-   "fin": 161.88,
-   "corte": false
-  },
-  {
-   "texto": "unas",
-   "inicio": 161.88,
-   "fin": 162.18,
-   "corte": false
-  },
-  {
-   "texto": "ciento",
-   "inicio": 162.18,
-   "fin": 162.59,
-   "corte": false
-  },
-  {
-   "texto": "veinticinco",
-   "inicio": 162.59,
-   "fin": 163.27,
-   "corte": false
-  },
-  {
-   "texto": "libras.",
-   "inicio": 163.27,
-   "fin": 163.67,
-   "corte": true
-  },
-  {
-   "texto": "Casi",
-   "inicio": 164.05,
-   "fin": 164.29,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 164.29,
-   "fin": 164.44,
-   "corte": false
-  },
-  {
-   "texto": "mismo",
-   "inicio": 164.44,
-   "fin": 164.73,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 164.73,
-   "fin": 164.93,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 164.93,
-   "fin": 165.08,
-   "corte": false
-  },
-  {
-   "texto": "enero.",
-   "inicio": 165.08,
-   "fin": 165.37,
-   "corte": true
-  },
-  {
-   "texto": "Miles",
-   "inicio": 165.83,
-   "fin": 166.15,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 166.15,
-   "fin": 166.33,
-   "corte": false
-  },
-  {
-   "texto": "personas",
-   "inicio": 166.33,
-   "fin": 166.8,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 166.8,
-   "fin": 166.97,
-   "corte": false
-  },
-  {
-   "texto": "arruinaron.",
-   "inicio": 166.97,
-   "fin": 167.54,
-   "corte": true
-  },
-  {
-   "texto": "Hubo",
-   "inicio": 167.97,
-   "fin": 168.3,
-   "corte": false
-  },
-  {
-   "texto": "bancos",
-   "inicio": 168.3,
-   "fin": 168.74,
-   "corte": false
-  },
-  {
-   "texto": "quebrados",
-   "inicio": 168.74,
-   "fin": 169.36,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 169.36,
-   "fin": 169.51,
-   "corte": false
-  },
-  {
-   "texto": "suicidios.",
-   "inicio": 169.51,
-   "fin": 170.13,
-   "corte": true
-  },
-  {
-   "texto": "Según",
-   "inicio": 170.61,
-   "fin": 170.98,
-   "corte": false
-  },
-  {
-   "texto": "varias",
-   "inicio": 170.98,
-   "fin": 171.41,
-   "corte": false
-  },
-  {
-   "texto": "fuentes,",
-   "inicio": 171.41,
-   "fin": 171.89,
-   "corte": false
-  },
-  {
-   "texto": "Newton",
-   "inicio": 171.89,
-   "fin": 172.32,
-   "corte": false
-  },
-  {
-   "texto": "perdió",
-   "inicio": 172.32,
-   "fin": 172.75,
-   "corte": false
-  },
-  {
-   "texto": "unas",
-   "inicio": 172.75,
-   "fin": 173.06,
-   "corte": false
-  },
-  {
-   "texto": "veinte",
-   "inicio": 173.06,
-   "fin": 173.48,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 173.48,
-   "fin": 173.74,
-   "corte": false
-  },
-  {
-   "texto": "libras.",
-   "inicio": 173.74,
-   "fin": 174.17,
-   "corte": true
-  },
-  {
-   "texto": "Hoy",
-   "inicio": 174.54,
-   "fin": 174.8,
-   "corte": false
-  },
-  {
-   "texto": "serían",
-   "inicio": 174.8,
-   "fin": 175.23,
-   "corte": false
-  },
-  {
-   "texto": "varios",
-   "inicio": 175.23,
-   "fin": 175.67,
-   "corte": false
-  },
-  {
-   "texto": "millones",
-   "inicio": 175.67,
-   "fin": 176.22,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 176.22,
-   "fin": 176.42,
-   "corte": false
-  },
-  {
-   "texto": "dólares.",
-   "inicio": 176.42,
-   "fin": 176.91,
-   "corte": true
-  },
-  {
-   "texto": "Se",
-   "inicio": 177.32,
-   "fin": 177.48,
-   "corte": false
-  },
-  {
-   "texto": "le",
-   "inicio": 177.48,
-   "fin": 177.64,
-   "corte": false
-  },
-  {
-   "texto": "atribuye",
-   "inicio": 177.64,
-   "fin": 178.07,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 178.07,
-   "fin": 178.27,
-   "corte": false
-  },
-  {
-   "texto": "frase",
-   "inicio": 178.27,
-   "fin": 178.56,
-   "corte": false
-  },
-  {
-   "texto": "famosa:",
-   "inicio": 178.56,
-   "fin": 178.9,
-   "corte": true
-  },
-  {
-   "texto": "puedo",
-   "inicio": 179.44,
-   "fin": 179.75,
-   "corte": false
-  },
-  {
-   "texto": "calcular",
-   "inicio": 179.75,
-   "fin": 180.21,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 180.21,
-   "fin": 180.37,
-   "corte": false
-  },
-  {
-   "texto": "movimiento",
-   "inicio": 180.37,
-   "fin": 180.92,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 180.92,
-   "fin": 181.09,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 181.09,
-   "fin": 181.3,
-   "corte": false
-  },
-  {
-   "texto": "astros,",
-   "inicio": 181.3,
-   "fin": 181.66,
-   "corte": false
-  },
-  {
-   "texto": "pero",
-   "inicio": 181.99,
-   "fin": 182.25,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 182.25,
-   "fin": 182.42,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 182.42,
-   "fin": 182.59,
-   "corte": false
-  },
-  {
-   "texto": "locura",
-   "inicio": 182.59,
-   "fin": 182.96,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 182.96,
-   "fin": 183.13,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 183.13,
-   "fin": 183.29,
-   "corte": false
-  },
-  {
-   "texto": "gente.",
-   "inicio": 183.29,
-   "fin": 183.61,
-   "corte": true
-  },
-  {
-   "texto": "No",
-   "inicio": 184.07,
-   "fin": 184.22,
-   "corte": false
-  },
-  {
-   "texto": "está",
-   "inicio": 184.22,
-   "fin": 184.45,
-   "corte": false
-  },
-  {
-   "texto": "claro",
-   "inicio": 184.45,
-   "fin": 184.72,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 184.72,
-   "fin": 184.91,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 184.91,
-   "fin": 185.05,
-   "corte": false
-  },
-  {
-   "texto": "dijera,",
-   "inicio": 185.05,
-   "fin": 185.36,
-   "corte": false
-  },
-  {
-   "texto": "pero",
-   "inicio": 185.71,
-   "fin": 185.97,
-   "corte": false
-  },
-  {
-   "texto": "resume",
-   "inicio": 185.97,
-   "fin": 186.33,
-   "corte": false
-  },
-  {
-   "texto": "muy",
-   "inicio": 186.33,
-   "fin": 186.54,
-   "corte": false
-  },
-  {
-   "texto": "bien",
-   "inicio": 186.54,
-   "fin": 186.81,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 186.81,
-   "fin": 186.97,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 186.97,
-   "fin": 187.19,
-   "corte": false
-  },
-  {
-   "texto": "pasó.",
-   "inicio": 187.19,
-   "fin": 187.45,
-   "corte": true
-  },
-  {
-   "texto": "Dicen",
-   "inicio": 187.96,
-   "fin": 188.3,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 188.3,
-   "fin": 188.53,
-   "corte": false
-  },
-  {
-   "texto": "después",
-   "inicio": 188.53,
-   "fin": 188.96,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 188.96,
-   "fin": 189.14,
-   "corte": false
-  },
-  {
-   "texto": "soportaba",
-   "inicio": 189.14,
-   "fin": 189.68,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 189.68,
-   "fin": 189.91,
-   "corte": false
-  },
-  {
-   "texto": "nadie",
-   "inicio": 189.91,
-   "fin": 190.24,
-   "corte": false
-  },
-  {
-   "texto": "mencionara",
-   "inicio": 190.24,
-   "fin": 190.83,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 190.83,
-   "fin": 191.06,
-   "corte": false
-  },
-  {
-   "texto": "Mares",
-   "inicio": 191.06,
-   "fin": 191.4,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 191.4,
-   "fin": 191.63,
-   "corte": false
-  },
-  {
-   "texto": "Sur",
-   "inicio": 191.63,
-   "fin": 191.86,
-   "corte": false
-  },
-  {
-   "texto": "delante",
-   "inicio": 191.86,
-   "fin": 192.29,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 192.29,
-   "fin": 192.47,
-   "corte": false
-  },
-  {
-   "texto": "él.",
-   "inicio": 192.47,
-   "fin": 192.65,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 193.2,
-   "fin": 193.32,
-   "corte": false
-  },
-  {
-   "texto": "aquí",
-   "inicio": 193.32,
-   "fin": 193.59,
-   "corte": false
-  },
-  {
-   "texto": "viene",
-   "inicio": 193.59,
-   "fin": 193.91,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 193.91,
-   "fin": 194.08,
-   "corte": false
-  },
-  {
-   "texto": "parte",
-   "inicio": 194.08,
-   "fin": 194.4,
-   "corte": false
-  },
-  {
-   "texto": "polémica.",
-   "inicio": 194.4,
-   "fin": 194.87,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 195.36,
-   "fin": 195.53,
-   "corte": false
-  },
-  {
-   "texto": "investigación",
-   "inicio": 195.53,
-   "fin": 196.23,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 196.23,
-   "fin": 196.45,
-   "corte": false
-  },
-  {
-   "texto": "Parlamento",
-   "inicio": 196.45,
-   "fin": 197.0,
-   "corte": false
-  },
-  {
-   "texto": "descubrió",
-   "inicio": 197.0,
-   "fin": 197.51,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 197.51,
-   "fin": 197.73,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 197.73,
-   "fin": 197.9,
-   "corte": false
-  },
-  {
-   "texto": "compañía",
-   "inicio": 197.9,
-   "fin": 198.36,
-   "corte": false
-  },
-  {
-   "texto": "había",
-   "inicio": 198.36,
-   "fin": 198.67,
-   "corte": false
-  },
-  {
-   "texto": "regalado",
-   "inicio": 198.67,
-   "fin": 199.13,
-   "corte": false
-  },
-  {
-   "texto": "acciones",
-   "inicio": 199.13,
-   "fin": 199.59,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 199.59,
-   "fin": 199.71,
-   "corte": false
-  },
-  {
-   "texto": "ministros",
-   "inicio": 199.71,
-   "fin": 200.21,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 200.21,
-   "fin": 200.33,
-   "corte": false
-  },
-  {
-   "texto": "políticos",
-   "inicio": 200.33,
-   "fin": 200.84,
-   "corte": false
-  },
-  {
-   "texto": "para",
-   "inicio": 200.84,
-   "fin": 201.11,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 201.11,
-   "fin": 201.32,
-   "corte": false
-  },
-  {
-   "texto": "apoyaran",
-   "inicio": 201.32,
-   "fin": 201.78,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 201.78,
-   "fin": 201.95,
-   "corte": false
-  },
-  {
-   "texto": "plan.",
-   "inicio": 201.95,
-   "fin": 202.22,
-   "corte": true
-  },
-  {
-   "texto": "El",
-   "inicio": 202.72,
-   "fin": 202.88,
-   "corte": false
-  },
-  {
-   "texto": "ministro",
-   "inicio": 202.88,
-   "fin": 203.32,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 203.32,
-   "fin": 203.48,
-   "corte": false
-  },
-  {
-   "texto": "Hacienda",
-   "inicio": 203.48,
-   "fin": 203.91,
-   "corte": false
-  },
-  {
-   "texto": "terminó",
-   "inicio": 203.91,
-   "fin": 204.29,
-   "corte": false
-  },
-  {
-   "texto": "encarcelado",
-   "inicio": 204.29,
-   "fin": 204.86,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 204.86,
-   "fin": 205.02,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 205.02,
-   "fin": 205.18,
-   "corte": false
-  },
-  {
-   "texto": "Torre",
-   "inicio": 205.18,
-   "fin": 205.48,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 205.48,
-   "fin": 205.64,
-   "corte": false
-  },
-  {
-   "texto": "Londres.",
-   "inicio": 205.64,
-   "fin": 206.02,
-   "corte": true
-  },
-  {
-   "texto": "Varios",
-   "inicio": 206.38,
-   "fin": 206.77,
-   "corte": false
-  },
-  {
-   "texto": "directores",
-   "inicio": 206.77,
-   "fin": 207.38,
-   "corte": false
-  },
-  {
-   "texto": "perdieron",
-   "inicio": 207.38,
-   "fin": 207.94,
-   "corte": false
-  },
-  {
-   "texto": "sus",
-   "inicio": 207.94,
-   "fin": 208.17,
-   "corte": false
-  },
-  {
-   "texto": "fortunas.",
-   "inicio": 208.17,
-   "fin": 208.68,
-   "corte": true
-  },
-  {
-   "texto": "Pero",
-   "inicio": 209.04,
-   "fin": 209.31,
-   "corte": false
-  },
-  {
-   "texto": "muchos",
-   "inicio": 209.31,
-   "fin": 209.68,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 209.68,
-   "fin": 209.86,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 209.86,
-   "fin": 210.08,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 210.08,
-   "fin": 210.31,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 210.31,
-   "fin": 210.48,
-   "corte": false
-  },
-  {
-   "texto": "beneficiaron",
-   "inicio": 210.48,
-   "fin": 211.15,
-   "corte": false
-  },
-  {
-   "texto": "nunca",
-   "inicio": 211.15,
-   "fin": 211.48,
-   "corte": false
-  },
-  {
-   "texto": "devolvieron",
-   "inicio": 211.48,
-   "fin": 212.1,
-   "corte": false
-  },
-  {
-   "texto": "nada.",
-   "inicio": 212.1,
-   "fin": 212.37,
-   "corte": true
-  },
-  {
-   "texto": "Lo",
-   "inicio": 212.81,
-   "fin": 212.98,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 212.98,
-   "fin": 213.21,
-   "corte": false
-  },
-  {
-   "texto": "curioso",
-   "inicio": 213.21,
-   "fin": 213.63,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 213.63,
-   "fin": 213.81,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 213.81,
-   "fin": 214.03,
-   "corte": false
-  },
-  {
-   "texto": "esto",
-   "inicio": 214.03,
-   "fin": 214.3,
-   "corte": false
-  },
-  {
-   "texto": "pasó",
-   "inicio": 214.3,
-   "fin": 214.58,
-   "corte": false
-  },
-  {
-   "texto": "al",
-   "inicio": 214.58,
-   "fin": 214.75,
-   "corte": false
-  },
-  {
-   "texto": "mismo",
-   "inicio": 214.75,
-   "fin": 215.08,
-   "corte": false
-  },
-  {
-   "texto": "tiempo",
-   "inicio": 215.08,
-   "fin": 215.45,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 215.45,
-   "fin": 215.63,
-   "corte": false
-  },
-  {
-   "texto": "Francia,",
-   "inicio": 215.63,
-   "fin": 216.05,
-   "corte": false
-  },
-  {
-   "texto": "con",
-   "inicio": 216.31,
-   "fin": 216.58,
-   "corte": false
-  },
-  {
-   "texto": "otra",
-   "inicio": 216.58,
-   "fin": 216.91,
-   "corte": false
-  },
-  {
-   "texto": "burbuja",
-   "inicio": 216.91,
-   "fin": 217.42,
-   "corte": false
-  },
-  {
-   "texto": "casi",
-   "inicio": 217.42,
-   "fin": 217.75,
-   "corte": false
-  },
-  {
-   "texto": "idéntica:",
-   "inicio": 217.75,
-   "fin": 218.32,
-   "corte": true
-  },
-  {
-   "texto": "la",
-   "inicio": 218.65,
-   "fin": 218.81,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 218.81,
-   "fin": 219.02,
-   "corte": false
-  },
-  {
-   "texto": "Misisipi.",
-   "inicio": 219.02,
-   "fin": 219.47,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 219.93,
-   "fin": 220.08,
-   "corte": false
-  },
-  {
-   "texto": "desde",
-   "inicio": 220.08,
-   "fin": 220.5,
-   "corte": false
-  },
-  {
-   "texto": "entonces",
-   "inicio": 220.5,
-   "fin": 221.1,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 221.1,
-   "fin": 221.32,
-   "corte": false
-  },
-  {
-   "texto": "ha",
-   "inicio": 221.32,
-   "fin": 221.54,
-   "corte": false
-  },
-  {
-   "texto": "repetido",
-   "inicio": 221.54,
-   "fin": 222.15,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 222.15,
-   "fin": 222.43,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 222.43,
-   "fin": 222.59,
-   "corte": false
-  },
-  {
-   "texto": "otra",
-   "inicio": 222.59,
-   "fin": 222.94,
-   "corte": false
-  },
-  {
-   "texto": "vez.",
-   "inicio": 222.94,
-   "fin": 223.22,
-   "corte": true
-  },
-  {
-   "texto": "Las",
-   "inicio": 223.65,
-   "fin": 223.85,
-   "corte": false
-  },
-  {
-   "texto": "puntocom",
-   "inicio": 223.85,
-   "fin": 224.29,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 224.29,
-   "fin": 224.44,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 224.44,
-   "fin": 224.6,
-   "corte": false
-  },
-  {
-   "texto": "año",
-   "inicio": 224.6,
-   "fin": 224.81,
-   "corte": false
-  },
-  {
-   "texto": "dos",
-   "inicio": 224.81,
-   "fin": 225.01,
-   "corte": false
-  },
-  {
-   "texto": "mil.",
-   "inicio": 225.01,
-   "fin": 225.22,
-   "corte": true
-  },
-  {
-   "texto": "Las",
-   "inicio": 225.65,
-   "fin": 225.86,
-   "corte": false
-  },
-  {
-   "texto": "hipotecas",
-   "inicio": 225.86,
-   "fin": 226.32,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 226.32,
-   "fin": 226.48,
-   "corte": false
-  },
-  {
-   "texto": "dos",
-   "inicio": 226.48,
-   "fin": 226.68,
-   "corte": false
-  },
-  {
-   "texto": "mil",
-   "inicio": 226.68,
-   "fin": 226.88,
-   "corte": false
-  },
-  {
-   "texto": "ocho.",
-   "inicio": 226.88,
-   "fin": 227.13,
-   "corte": true
-  },
-  {
-   "texto": "Algunas",
-   "inicio": 227.58,
-   "fin": 228.0,
-   "corte": false
-  },
-  {
-   "texto": "criptomonedas",
-   "inicio": 228.0,
-   "fin": 228.71,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 228.71,
-   "fin": 228.89,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 228.89,
-   "fin": 229.11,
-   "corte": false
-  },
-  {
-   "texto": "últimos",
-   "inicio": 229.11,
-   "fin": 229.53,
-   "corte": false
-  },
-  {
-   "texto": "años.",
-   "inicio": 229.53,
-   "fin": 229.8,
-   "corte": true
-  },
-  {
-   "texto": "Cambian",
-   "inicio": 230.18,
-   "fin": 230.54,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 230.54,
-   "fin": 230.73,
-   "corte": false
-  },
-  {
-   "texto": "nombres,",
-   "inicio": 230.73,
-   "fin": 231.09,
-   "corte": false
-  },
-  {
-   "texto": "pero",
-   "inicio": 231.37,
-   "fin": 231.64,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 231.64,
-   "fin": 231.82,
-   "corte": false
-  },
-  {
-   "texto": "historia",
-   "inicio": 231.82,
-   "fin": 232.29,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 232.29,
-   "fin": 232.47,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 232.47,
-   "fin": 232.65,
-   "corte": false
-  },
-  {
-   "texto": "misma.",
-   "inicio": 232.65,
-   "fin": 232.97,
-   "corte": true
-  },
-  {
-   "texto": "Entonces,",
-   "inicio": 233.49,
-   "fin": 234.14,
-   "corte": false
-  },
-  {
-   "texto": "¿qué",
-   "inicio": 234.42,
-   "fin": 234.62,
-   "corte": false
-  },
-  {
-   "texto": "nos",
-   "inicio": 234.62,
-   "fin": 234.82,
-   "corte": false
-  },
-  {
-   "texto": "enseña",
-   "inicio": 234.82,
-   "fin": 235.15,
-   "corte": false
-  },
-  {
-   "texto": "Newton?",
-   "inicio": 235.15,
-   "fin": 235.48,
-   "corte": true
-  },
-  {
-   "texto": "Tres",
-   "inicio": 236.12,
-   "fin": 236.41,
-   "corte": false
-  },
-  {
-   "texto": "lecciones.",
-   "inicio": 236.41,
-   "fin": 236.95,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 237.37,
-   "fin": 237.52,
-   "corte": false
-  },
-  {
-   "texto": "primera:",
-   "inicio": 237.52,
-   "fin": 237.9,
-   "corte": true
-  },
-  {
-   "texto": "si",
-   "inicio": 238.3,
-   "fin": 238.46,
-   "corte": false
-  },
-  {
-   "texto": "todo",
-   "inicio": 238.46,
-   "fin": 238.72,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 238.72,
-   "fin": 238.88,
-   "corte": false
-  },
-  {
-   "texto": "mundo",
-   "inicio": 238.88,
-   "fin": 239.19,
-   "corte": false
-  },
-  {
-   "texto": "habla",
-   "inicio": 239.19,
-   "fin": 239.49,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 239.49,
-   "fin": 239.66,
-   "corte": false
-  },
-  {
-   "texto": "una",
-   "inicio": 239.66,
-   "fin": 239.87,
-   "corte": false
-  },
-  {
-   "texto": "inversión",
-   "inicio": 239.87,
-   "fin": 240.36,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 240.61,
-   "fin": 240.73,
-   "corte": false
-  },
-  {
-   "texto": "tú",
-   "inicio": 240.73,
-   "fin": 240.9,
-   "corte": false
-  },
-  {
-   "texto": "compras",
-   "inicio": 240.9,
-   "fin": 241.31,
-   "corte": false
-  },
-  {
-   "texto": "porque",
-   "inicio": 241.31,
-   "fin": 241.67,
-   "corte": false
-  },
-  {
-   "texto": "otros",
-   "inicio": 241.67,
-   "fin": 241.99,
-   "corte": false
-  },
-  {
-   "texto": "se",
-   "inicio": 241.99,
-   "fin": 242.16,
-   "corte": false
-  },
-  {
-   "texto": "están",
-   "inicio": 242.16,
-   "fin": 242.47,
-   "corte": false
-  },
-  {
-   "texto": "haciendo",
-   "inicio": 242.47,
-   "fin": 242.93,
-   "corte": false
-  },
-  {
-   "texto": "ricos,",
-   "inicio": 242.93,
-   "fin": 243.25,
-   "corte": false
-  },
-  {
-   "texto": "ten",
-   "inicio": 243.62,
-   "fin": 243.84,
-   "corte": false
-  },
-  {
-   "texto": "cuidado.",
-   "inicio": 243.84,
-   "fin": 244.25,
-   "corte": true
-  },
-  {
-   "texto": "La",
-   "inicio": 244.75,
-   "fin": 244.92,
-   "corte": false
-  },
-  {
-   "texto": "segunda:",
-   "inicio": 244.92,
-   "fin": 245.34,
-   "corte": true
-  },
-  {
-   "texto": "una",
-   "inicio": 245.76,
-   "fin": 246.0,
-   "corte": false
-  },
-  {
-   "texto": "buena",
-   "inicio": 246.0,
-   "fin": 246.36,
-   "corte": false
-  },
-  {
-   "texto": "historia",
-   "inicio": 246.36,
-   "fin": 246.87,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 246.87,
-   "fin": 247.06,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 247.06,
-   "fin": 247.25,
-   "corte": false
-  },
-  {
-   "texto": "lo",
-   "inicio": 247.25,
-   "fin": 247.44,
-   "corte": false
-  },
-  {
-   "texto": "mismo",
-   "inicio": 247.44,
-   "fin": 247.79,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 247.79,
-   "fin": 248.04,
-   "corte": false
-  },
-  {
-   "texto": "un",
-   "inicio": 248.04,
-   "fin": 248.23,
-   "corte": false
-  },
-  {
-   "texto": "buen",
-   "inicio": 248.23,
-   "fin": 248.52,
-   "corte": false
-  },
-  {
-   "texto": "negocio.",
-   "inicio": 248.52,
-   "fin": 248.98,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 249.5,
-   "fin": 249.62,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 249.62,
-   "fin": 249.77,
-   "corte": false
-  },
-  {
-   "texto": "tercera:",
-   "inicio": 249.77,
-   "fin": 250.15,
-   "corte": true
-  },
-  {
-   "texto": "ser",
-   "inicio": 250.57,
-   "fin": 250.87,
-   "corte": false
-  },
-  {
-   "texto": "inteligente",
-   "inicio": 250.87,
-   "fin": 251.7,
-   "corte": false
-  },
-  {
-   "texto": "no",
-   "inicio": 251.7,
-   "fin": 251.93,
-   "corte": false
-  },
-  {
-   "texto": "te",
-   "inicio": 251.93,
-   "fin": 252.16,
-   "corte": false
-  },
-  {
-   "texto": "protege.",
-   "inicio": 252.16,
-   "fin": 252.73,
-   "corte": true
-  },
-  {
-   "texto": "El",
-   "inicio": 253.18,
-   "fin": 253.37,
-   "corte": false
-  },
-  {
-   "texto": "miedo",
-   "inicio": 253.37,
-   "fin": 253.71,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 253.71,
-   "fin": 253.85,
-   "corte": false
-  },
-  {
-   "texto": "quedarte",
-   "inicio": 253.85,
-   "fin": 254.35,
-   "corte": false
-  },
-  {
-   "texto": "fuera",
-   "inicio": 254.35,
-   "fin": 254.7,
-   "corte": false
-  },
-  {
-   "texto": "es",
-   "inicio": 254.7,
-   "fin": 254.89,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 254.89,
-   "fin": 255.13,
-   "corte": false
-  },
-  {
-   "texto": "fuerte",
-   "inicio": 255.13,
-   "fin": 255.53,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 255.53,
-   "fin": 255.77,
-   "corte": false
-  },
-  {
-   "texto": "cualquier",
-   "inicio": 255.77,
-   "fin": 256.33,
-   "corte": false
-  },
-  {
-   "texto": "cálculo.",
-   "inicio": 256.33,
-   "fin": 256.78,
-   "corte": true
-  },
-  {
-   "texto": "Ahora",
-   "inicio": 257.35,
-   "fin": 257.65,
-   "corte": false
-  },
-  {
-   "texto": "dime",
-   "inicio": 257.65,
-   "fin": 257.9,
-   "corte": false
-  },
-  {
-   "texto": "tú:",
-   "inicio": 257.9,
-   "fin": 258.06,
-   "corte": true
-  },
-  {
-   "texto": "¿crees",
-   "inicio": 258.49,
-   "fin": 258.79,
-   "corte": false
-  },
-  {
-   "texto": "que",
-   "inicio": 258.79,
-   "fin": 259.0,
-   "corte": false
-  },
-  {
-   "texto": "hoy",
-   "inicio": 259.0,
-   "fin": 259.2,
-   "corte": false
-  },
-  {
-   "texto": "estamos",
-   "inicio": 259.2,
-   "fin": 259.59,
-   "corte": false
-  },
-  {
-   "texto": "viviendo",
-   "inicio": 259.59,
-   "fin": 260.03,
-   "corte": false
-  },
-  {
-   "texto": "alguna",
-   "inicio": 260.03,
-   "fin": 260.38,
-   "corte": false
-  },
-  {
-   "texto": "burbuja?",
-   "inicio": 260.38,
-   "fin": 260.77,
-   "corte": true
-  },
-  {
-   "texto": "¿La",
-   "inicio": 261.2,
-   "fin": 261.39,
-   "corte": false
-  },
-  {
-   "texto": "inteligencia",
-   "inicio": 261.39,
-   "fin": 262.11,
-   "corte": false
-  },
-  {
-   "texto": "artificial,",
-   "inicio": 262.11,
-   "fin": 262.73,
-   "corte": false
-  },
-  {
-   "texto": "las",
-   "inicio": 262.73,
-   "fin": 262.97,
-   "corte": false
-  },
-  {
-   "texto": "criptomonedas,",
-   "inicio": 262.97,
-   "fin": 263.75,
-   "corte": false
-  },
-  {
-   "texto": "el",
-   "inicio": 263.75,
-   "fin": 263.94,
-   "corte": false
-  },
-  {
-   "texto": "precio",
-   "inicio": 263.94,
-   "fin": 264.34,
-   "corte": false
-  },
-  {
-   "texto": "de",
-   "inicio": 264.34,
-   "fin": 264.53,
-   "corte": false
-  },
-  {
-   "texto": "la",
-   "inicio": 264.53,
-   "fin": 264.71,
-   "corte": false
-  },
-  {
-   "texto": "vivienda?",
-   "inicio": 264.71,
-   "fin": 265.22,
-   "corte": true
-  },
-  {
-   "texto": "Te",
-   "inicio": 265.67,
-   "fin": 265.81,
-   "corte": false
-  },
-  {
-   "texto": "leo",
-   "inicio": 265.81,
-   "fin": 266.0,
-   "corte": false
-  },
-  {
-   "texto": "en",
-   "inicio": 266.0,
-   "fin": 266.15,
-   "corte": false
-  },
-  {
-   "texto": "los",
-   "inicio": 266.15,
-   "fin": 266.34,
-   "corte": false
-  },
-  {
-   "texto": "comentarios.",
-   "inicio": 266.34,
-   "fin": 266.87,
-   "corte": true
-  },
-  {
-   "texto": "Y",
-   "inicio": 267.22,
-   "fin": 267.35,
-   "corte": false
-  },
-  {
-   "texto": "si",
-   "inicio": 267.35,
-   "fin": 267.53,
-   "corte": false
-  },
-  {
-   "texto": "te",
-   "inicio": 267.53,
-   "fin": 267.71,
-   "corte": false
-  },
-  {
-   "texto": "gustó,",
-   "inicio": 267.71,
-   "fin": 268.05,
-   "corte": false
-  },
-  {
-   "texto": "suscríbete",
-   "inicio": 268.05,
-   "fin": 268.65,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 268.65,
-   "fin": 268.78,
-   "corte": false
-  },
-  {
-   "texto": "Cuentas",
-   "inicio": 268.78,
-   "fin": 269.22,
-   "corte": false
-  },
-  {
-   "texto": "Claras",
-   "inicio": 269.22,
-   "fin": 269.61,
-   "corte": false
-  },
-  {
-   "texto": "para",
-   "inicio": 269.61,
-   "fin": 269.9,
-   "corte": false
-  },
-  {
-   "texto": "más",
-   "inicio": 269.9,
-   "fin": 270.14,
-   "corte": false
-  },
-  {
-   "texto": "historias",
-   "inicio": 270.14,
-   "fin": 270.68,
-   "corte": false
-  },
-  {
-   "texto": "del",
-   "inicio": 270.68,
-   "fin": 270.92,
-   "corte": false
-  },
-  {
-   "texto": "dinero.",
-   "inicio": 270.92,
-   "fin": 271.31,
-   "corte": true
-  }
- ]
+  ],
+  "palabras": [
+    {
+      "texto": "Isaac",
+      "inicio": 0.0,
+      "fin": 0.33,
+      "corte": false
+    },
+    {
+      "texto": "Newton",
+      "inicio": 0.33,
+      "fin": 0.71,
+      "corte": false
+    },
+    {
+      "texto": "fue",
+      "inicio": 0.71,
+      "fin": 0.94,
+      "corte": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 0.94,
+      "fin": 1.17,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.17,
+      "fin": 1.35,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 1.35,
+      "fin": 1.58,
+      "corte": false
+    },
+    {
+      "texto": "genios",
+      "inicio": 1.58,
+      "fin": 1.96,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 1.96,
+      "fin": 2.19,
+      "corte": false
+    },
+    {
+      "texto": "grandes",
+      "inicio": 2.19,
+      "fin": 2.62,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 2.62,
+      "fin": 2.8,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.8,
+      "fin": 2.97,
+      "corte": false
+    },
+    {
+      "texto": "historia.",
+      "inicio": 2.97,
+      "fin": 3.46,
+      "corte": true
+    },
+    {
+      "texto": "Descubrió",
+      "inicio": 3.89,
+      "fin": 4.37,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 4.37,
+      "fin": 4.52,
+      "corte": false
+    },
+    {
+      "texto": "ley",
+      "inicio": 4.52,
+      "fin": 4.73,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.73,
+      "fin": 4.89,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 4.89,
+      "fin": 5.04,
+      "corte": false
+    },
+    {
+      "texto": "gravedad,",
+      "inicio": 5.04,
+      "fin": 5.47,
+      "corte": false
+    },
+    {
+      "texto": "explicó",
+      "inicio": 5.74,
+      "fin": 6.2,
+      "corte": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 6.2,
+      "fin": 6.51,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 6.51,
+      "fin": 6.7,
+      "corte": false
+    },
+    {
+      "texto": "mueven",
+      "inicio": 6.7,
+      "fin": 7.11,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 7.11,
+      "fin": 7.36,
+      "corte": false
+    },
+    {
+      "texto": "planetas",
+      "inicio": 7.36,
+      "fin": 7.88,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 7.88,
+      "fin": 8.01,
+      "corte": false
+    },
+    {
+      "texto": "creó",
+      "inicio": 8.01,
+      "fin": 8.32,
+      "corte": false
+    },
+    {
+      "texto": "buena",
+      "inicio": 8.32,
+      "fin": 8.67,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 8.67,
+      "fin": 9.03,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.03,
+      "fin": 9.22,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 9.22,
+      "fin": 9.47,
+      "corte": false
+    },
+    {
+      "texto": "matemáticas",
+      "inicio": 9.47,
+      "fin": 10.15,
+      "corte": false
+    },
+    {
+      "texto": "modernas.",
+      "inicio": 10.15,
+      "fin": 10.67,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.1,
+      "fin": 11.39,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 11.39,
+      "fin": 11.58,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.58,
+      "fin": 11.82,
+      "corte": false
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 11.82,
+      "fin": 12.48,
+      "corte": false
+    },
+    {
+      "texto": "veinte,",
+      "inicio": 12.48,
+      "fin": 12.88,
+      "corte": false
+    },
+    {
+      "texto": "este",
+      "inicio": 12.88,
+      "fin": 13.17,
+      "corte": false
+    },
+    {
+      "texto": "genio",
+      "inicio": 13.17,
+      "fin": 13.52,
+      "corte": false
+    },
+    {
+      "texto": "perdió",
+      "inicio": 13.52,
+      "fin": 13.92,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 13.92,
+      "fin": 14.16,
+      "corte": false
+    },
+    {
+      "texto": "fortuna",
+      "inicio": 14.16,
+      "fin": 14.61,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.61,
+      "fin": 14.79,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.79,
+      "fin": 14.98,
+      "corte": false
+    },
+    {
+      "texto": "bolsa.",
+      "inicio": 14.98,
+      "fin": 15.33,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.74,
+      "fin": 15.86,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 15.86,
+      "fin": 16.03,
+      "corte": false
+    },
+    {
+      "texto": "fue",
+      "inicio": 16.03,
+      "fin": 16.24,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 16.24,
+      "fin": 16.46,
+      "corte": false
+    },
+    {
+      "texto": "mala",
+      "inicio": 16.46,
+      "fin": 16.73,
+      "corte": false
+    },
+    {
+      "texto": "suerte.",
+      "inicio": 16.73,
+      "fin": 17.09,
+      "corte": true
+    },
+    {
+      "texto": "Fue",
+      "inicio": 17.44,
+      "fin": 17.67,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 17.67,
+      "fin": 17.89,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.89,
+      "fin": 18.07,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 18.07,
+      "fin": 18.39,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 18.39,
+      "fin": 18.61,
+      "corte": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 18.61,
+      "fin": 18.84,
+      "corte": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 18.84,
+      "fin": 19.11,
+      "corte": false
+    },
+    {
+      "texto": "perder",
+      "inicio": 19.11,
+      "fin": 19.49,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 19.49,
+      "fin": 19.86,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 19.86,
+      "fin": 19.99,
+      "corte": false
+    },
+    {
+      "texto": "todos:",
+      "inicio": 19.99,
+      "fin": 20.31,
+      "corte": true
+    },
+    {
+      "texto": "dejarse",
+      "inicio": 20.67,
+      "fin": 21.16,
+      "corte": false
+    },
+    {
+      "texto": "llevar",
+      "inicio": 21.16,
+      "fin": 21.59,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 21.59,
+      "fin": 21.85,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 21.85,
+      "fin": 22.05,
+      "corte": false
+    },
+    {
+      "texto": "multitud.",
+      "inicio": 22.05,
+      "fin": 22.6,
+      "corte": true
+    },
+    {
+      "texto": "Esta",
+      "inicio": 23.18,
+      "fin": 23.43,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 23.43,
+      "fin": 23.59,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 23.59,
+      "fin": 23.74,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 23.74,
+      "fin": 24.17,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.17,
+      "fin": 24.32,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 24.32,
+      "fin": 24.48,
+      "corte": false
+    },
+    {
+      "texto": "burbuja",
+      "inicio": 24.48,
+      "fin": 24.86,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.86,
+      "fin": 25.01,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 25.01,
+      "fin": 25.21,
+      "corte": false
+    },
+    {
+      "texto": "Mares",
+      "inicio": 25.21,
+      "fin": 25.5,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 25.5,
+      "fin": 25.71,
+      "corte": false
+    },
+    {
+      "texto": "Sur.",
+      "inicio": 25.71,
+      "fin": 25.91,
+      "corte": true
+    },
+    {
+      "texto": "Empecemos.",
+      "inicio": 26.38,
+      "fin": 26.98,
+      "corte": true
+    },
+    {
+      "texto": "Primero,",
+      "inicio": 27.39,
+      "fin": 27.88,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.88,
+      "fin": 28.09,
+      "corte": false
+    },
+    {
+      "texto": "contexto.",
+      "inicio": 28.09,
+      "fin": 28.64,
+      "corte": true
+    },
+    {
+      "texto": "A",
+      "inicio": 29.12,
+      "fin": 29.24,
+      "corte": false
+    },
+    {
+      "texto": "principios",
+      "inicio": 29.24,
+      "fin": 29.81,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 29.81,
+      "fin": 30.03,
+      "corte": false
+    },
+    {
+      "texto": "siglo",
+      "inicio": 30.03,
+      "fin": 30.35,
+      "corte": false
+    },
+    {
+      "texto": "dieciocho,",
+      "inicio": 30.35,
+      "fin": 30.86,
+      "corte": false
+    },
+    {
+      "texto": "Inglaterra",
+      "inicio": 30.86,
+      "fin": 31.43,
+      "corte": false
+    },
+    {
+      "texto": "estaba",
+      "inicio": 31.43,
+      "fin": 31.79,
+      "corte": false
+    },
+    {
+      "texto": "llena",
+      "inicio": 31.79,
+      "fin": 32.11,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 32.11,
+      "fin": 32.28,
+      "corte": false
+    },
+    {
+      "texto": "deudas",
+      "inicio": 32.28,
+      "fin": 32.65,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 32.65,
+      "fin": 32.87,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 32.87,
+      "fin": 33.09,
+      "corte": false
+    },
+    {
+      "texto": "guerras.",
+      "inicio": 33.09,
+      "fin": 33.51,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 33.9,
+      "fin": 34.07,
+      "corte": false
+    },
+    {
+      "texto": "gobierno",
+      "inicio": 34.07,
+      "fin": 34.54,
+      "corte": false
+    },
+    {
+      "texto": "necesitaba",
+      "inicio": 34.54,
+      "fin": 35.1,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 35.1,
+      "fin": 35.32,
+      "corte": false
+    },
+    {
+      "texto": "solución.",
+      "inicio": 35.32,
+      "fin": 35.78,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 36.1,
+      "fin": 36.23,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 36.23,
+      "fin": 36.42,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 36.42,
+      "fin": 36.66,
+      "corte": false
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 36.66,
+      "fin": 37.33,
+      "corte": false
+    },
+    {
+      "texto": "once",
+      "inicio": 37.33,
+      "fin": 37.62,
+      "corte": false
+    },
+    {
+      "texto": "nació",
+      "inicio": 37.62,
+      "fin": 37.97,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 37.97,
+      "fin": 38.16,
+      "corte": false
+    },
+    {
+      "texto": "Compañía",
+      "inicio": 38.16,
+      "fin": 38.67,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 38.67,
+      "fin": 38.85,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 38.85,
+      "fin": 39.09,
+      "corte": false
+    },
+    {
+      "texto": "Mares",
+      "inicio": 39.09,
+      "fin": 39.44,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 39.44,
+      "fin": 39.68,
+      "corte": false
+    },
+    {
+      "texto": "Sur.",
+      "inicio": 39.68,
+      "fin": 39.92,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 40.38,
+      "fin": 40.54,
+      "corte": false
+    },
+    {
+      "texto": "idea",
+      "inicio": 40.54,
+      "fin": 40.79,
+      "corte": false
+    },
+    {
+      "texto": "era",
+      "inicio": 40.79,
+      "fin": 41.0,
+      "corte": false
+    },
+    {
+      "texto": "sencilla:",
+      "inicio": 41.0,
+      "fin": 41.44,
+      "corte": true
+    },
+    {
+      "texto": "la",
+      "inicio": 41.82,
+      "fin": 41.99,
+      "corte": false
+    },
+    {
+      "texto": "compañía",
+      "inicio": 41.99,
+      "fin": 42.45,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 42.45,
+      "fin": 42.62,
+      "corte": false
+    },
+    {
+      "texto": "quedaba",
+      "inicio": 42.62,
+      "fin": 43.04,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 43.04,
+      "fin": 43.26,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 43.26,
+      "fin": 43.57,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.57,
+      "fin": 43.74,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.74,
+      "fin": 43.91,
+      "corte": false
+    },
+    {
+      "texto": "deuda",
+      "inicio": 43.91,
+      "fin": 44.23,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 44.23,
+      "fin": 44.45,
+      "corte": false
+    },
+    {
+      "texto": "gobierno,",
+      "inicio": 44.45,
+      "fin": 44.91,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 44.91,
+      "fin": 45.03,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 45.03,
+      "fin": 45.15,
+      "corte": false
+    },
+    {
+      "texto": "cambio",
+      "inicio": 45.15,
+      "fin": 45.52,
+      "corte": false
+    },
+    {
+      "texto": "recibía",
+      "inicio": 45.52,
+      "fin": 45.93,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 45.93,
+      "fin": 46.1,
+      "corte": false
+    },
+    {
+      "texto": "monopolio",
+      "inicio": 46.1,
+      "fin": 46.61,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 46.61,
+      "fin": 46.83,
+      "corte": false
+    },
+    {
+      "texto": "comercio",
+      "inicio": 46.83,
+      "fin": 47.3,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 47.3,
+      "fin": 47.52,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 47.52,
+      "fin": 47.73,
+      "corte": false
+    },
+    {
+      "texto": "colonias",
+      "inicio": 47.73,
+      "fin": 48.2,
+      "corte": false
+    },
+    {
+      "texto": "españolas",
+      "inicio": 48.2,
+      "fin": 48.71,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 48.71,
+      "fin": 48.88,
+      "corte": false
+    },
+    {
+      "texto": "Sudamérica.",
+      "inicio": 48.88,
+      "fin": 49.44,
+      "corte": true
+    },
+    {
+      "texto": "Sobre",
+      "inicio": 49.89,
+      "fin": 50.22,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 50.22,
+      "fin": 50.4,
+      "corte": false
+    },
+    {
+      "texto": "papel",
+      "inicio": 50.4,
+      "fin": 50.72,
+      "corte": false
+    },
+    {
+      "texto": "sonaba",
+      "inicio": 50.72,
+      "fin": 51.1,
+      "corte": false
+    },
+    {
+      "texto": "increíble.",
+      "inicio": 51.1,
+      "fin": 51.63,
+      "corte": true
+    },
+    {
+      "texto": "Oro,",
+      "inicio": 52.06,
+      "fin": 52.38,
+      "corte": false
+    },
+    {
+      "texto": "plata",
+      "inicio": 52.38,
+      "fin": 52.82,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 52.82,
+      "fin": 53.0,
+      "corte": false
+    },
+    {
+      "texto": "riquezas",
+      "inicio": 53.0,
+      "fin": 53.65,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 53.65,
+      "fin": 53.96,
+      "corte": false
+    },
+    {
+      "texto": "Nuevo",
+      "inicio": 53.96,
+      "fin": 54.41,
+      "corte": false
+    },
+    {
+      "texto": "Mundo.",
+      "inicio": 54.41,
+      "fin": 54.86,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 55.34,
+      "fin": 55.54,
+      "corte": false
+    },
+    {
+      "texto": "problema",
+      "inicio": 55.54,
+      "fin": 56.06,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 56.06,
+      "fin": 56.26,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 56.26,
+      "fin": 56.51,
+      "corte": false
+    },
+    {
+      "texto": "España",
+      "inicio": 56.51,
+      "fin": 56.93,
+      "corte": false
+    },
+    {
+      "texto": "controlaba",
+      "inicio": 56.93,
+      "fin": 57.57,
+      "corte": false
+    },
+    {
+      "texto": "esas",
+      "inicio": 57.57,
+      "fin": 57.87,
+      "corte": false
+    },
+    {
+      "texto": "colonias",
+      "inicio": 57.87,
+      "fin": 58.4,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 58.4,
+      "fin": 58.54,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 58.54,
+      "fin": 58.85,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 58.85,
+      "fin": 59.04,
+      "corte": false
+    },
+    {
+      "texto": "dejaba",
+      "inicio": 59.04,
+      "fin": 59.46,
+      "corte": false
+    },
+    {
+      "texto": "comerciar.",
+      "inicio": 59.46,
+      "fin": 60.04,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 60.47,
+      "fin": 60.68,
+      "corte": false
+    },
+    {
+      "texto": "compañía",
+      "inicio": 60.68,
+      "fin": 61.23,
+      "corte": false
+    },
+    {
+      "texto": "apenas",
+      "inicio": 61.23,
+      "fin": 61.67,
+      "corte": false
+    },
+    {
+      "texto": "hizo",
+      "inicio": 61.67,
+      "fin": 62.0,
+      "corte": false
+    },
+    {
+      "texto": "negocios",
+      "inicio": 62.0,
+      "fin": 62.55,
+      "corte": false
+    },
+    {
+      "texto": "reales.",
+      "inicio": 62.55,
+      "fin": 62.99,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 63.34,
+      "fin": 63.56,
+      "corte": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 63.56,
+      "fin": 63.74,
+      "corte": false
+    },
+    {
+      "texto": "daba",
+      "inicio": 63.74,
+      "fin": 63.97,
+      "corte": false
+    },
+    {
+      "texto": "igual.",
+      "inicio": 63.97,
+      "fin": 64.23,
+      "corte": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 64.61,
+      "fin": 64.79,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 64.79,
+      "fin": 65.02,
+      "corte": false
+    },
+    {
+      "texto": "importaba",
+      "inicio": 65.02,
+      "fin": 65.56,
+      "corte": false
+    },
+    {
+      "texto": "era",
+      "inicio": 65.56,
+      "fin": 65.79,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 65.79,
+      "fin": 65.96,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 65.96,
+      "fin": 66.45,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 66.45,
+      "fin": 66.68,
+      "corte": false
+    },
+    {
+      "texto": "contaba.",
+      "inicio": 66.68,
+      "fin": 67.11,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 67.58,
+      "fin": 67.77,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 67.77,
+      "fin": 68.01,
+      "corte": false
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 68.01,
+      "fin": 68.68,
+      "corte": false
+    },
+    {
+      "texto": "veinte,",
+      "inicio": 68.68,
+      "fin": 69.08,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 69.08,
+      "fin": 69.27,
+      "corte": false
+    },
+    {
+      "texto": "compañía",
+      "inicio": 69.27,
+      "fin": 69.78,
+      "corte": false
+    },
+    {
+      "texto": "propuso",
+      "inicio": 69.78,
+      "fin": 70.24,
+      "corte": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 70.24,
+      "fin": 70.53,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 70.53,
+      "fin": 70.77,
+      "corte": false
+    },
+    {
+      "texto": "ambicioso:",
+      "inicio": 70.77,
+      "fin": 71.34,
+      "corte": true
+    },
+    {
+      "texto": "quedarse",
+      "inicio": 71.8,
+      "fin": 72.37,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 72.37,
+      "fin": 72.64,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 72.64,
+      "fin": 72.97,
+      "corte": false
+    },
+    {
+      "texto": "toda",
+      "inicio": 72.97,
+      "fin": 73.3,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 73.3,
+      "fin": 73.5,
+      "corte": false
+    },
+    {
+      "texto": "deuda",
+      "inicio": 73.5,
+      "fin": 73.89,
+      "corte": false
+    },
+    {
+      "texto": "pública",
+      "inicio": 73.89,
+      "fin": 74.4,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 74.4,
+      "fin": 74.67,
+      "corte": false
+    },
+    {
+      "texto": "país.",
+      "inicio": 74.67,
+      "fin": 75.0,
+      "corte": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 75.38,
+      "fin": 75.58,
+      "corte": false
+    },
+    {
+      "texto": "dueños",
+      "inicio": 75.58,
+      "fin": 75.93,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 75.93,
+      "fin": 76.09,
+      "corte": false
+    },
+    {
+      "texto": "bonos",
+      "inicio": 76.09,
+      "fin": 76.39,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 76.39,
+      "fin": 76.6,
+      "corte": false
+    },
+    {
+      "texto": "gobierno",
+      "inicio": 76.6,
+      "fin": 77.03,
+      "corte": false
+    },
+    {
+      "texto": "podían",
+      "inicio": 77.03,
+      "fin": 77.38,
+      "corte": false
+    },
+    {
+      "texto": "cambiarlos",
+      "inicio": 77.38,
+      "fin": 77.91,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 77.91,
+      "fin": 78.12,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 78.12,
+      "fin": 78.55,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 78.55,
+      "fin": 78.71,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 78.71,
+      "fin": 78.87,
+      "corte": false
+    },
+    {
+      "texto": "compañía.",
+      "inicio": 78.87,
+      "fin": 79.31,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 79.75,
+      "fin": 79.87,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 79.87,
+      "fin": 80.13,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 80.13,
+      "fin": 80.35,
+      "corte": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 80.35,
+      "fin": 80.66,
+      "corte": false
+    },
+    {
+      "texto": "quisieran",
+      "inicio": 80.66,
+      "fin": 81.17,
+      "corte": false
+    },
+    {
+      "texto": "hacerlo,",
+      "inicio": 81.17,
+      "fin": 81.58,
+      "corte": false
+    },
+    {
+      "texto": "había",
+      "inicio": 81.58,
+      "fin": 81.89,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 81.89,
+      "fin": 82.11,
+      "corte": false
+    },
+    {
+      "texto": "conseguir",
+      "inicio": 82.11,
+      "fin": 82.61,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 82.61,
+      "fin": 82.83,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 82.83,
+      "fin": 83.0,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 83.0,
+      "fin": 83.36,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 83.36,
+      "fin": 83.53,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 83.53,
+      "fin": 83.7,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 83.7,
+      "fin": 84.06,
+      "corte": false
+    },
+    {
+      "texto": "subiera.",
+      "inicio": 84.06,
+      "fin": 84.47,
+      "corte": true
+    },
+    {
+      "texto": "Mucho.",
+      "inicio": 84.85,
+      "fin": 85.34,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 85.83,
+      "fin": 85.97,
+      "corte": false
+    },
+    {
+      "texto": "subió.",
+      "inicio": 85.97,
+      "fin": 86.34,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 86.78,
+      "fin": 86.97,
+      "corte": false
+    },
+    {
+      "texto": "enero",
+      "inicio": 86.97,
+      "fin": 87.31,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 87.31,
+      "fin": 87.5,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 87.5,
+      "fin": 87.74,
+      "corte": false
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 87.74,
+      "fin": 88.4,
+      "corte": false
+    },
+    {
+      "texto": "veinte,",
+      "inicio": 88.4,
+      "fin": 88.8,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 88.8,
+      "fin": 89.04,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 89.04,
+      "fin": 89.44,
+      "corte": false
+    },
+    {
+      "texto": "costaba",
+      "inicio": 89.44,
+      "fin": 89.89,
+      "corte": false
+    },
+    {
+      "texto": "unas",
+      "inicio": 89.89,
+      "fin": 90.18,
+      "corte": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 90.18,
+      "fin": 90.58,
+      "corte": false
+    },
+    {
+      "texto": "treinta",
+      "inicio": 90.58,
+      "fin": 91.03,
+      "corte": false
+    },
+    {
+      "texto": "libras.",
+      "inicio": 91.03,
+      "fin": 91.43,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 91.74,
+      "fin": 91.97,
+      "corte": false
+    },
+    {
+      "texto": "junio,",
+      "inicio": 91.97,
+      "fin": 92.4,
+      "corte": false
+    },
+    {
+      "texto": "superaba",
+      "inicio": 92.4,
+      "fin": 93.03,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 93.03,
+      "fin": 93.32,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 93.32,
+      "fin": 93.62,
+      "corte": false
+    },
+    {
+      "texto": "libras.",
+      "inicio": 93.62,
+      "fin": 94.12,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 94.41,
+      "fin": 94.62,
+      "corte": false
+    },
+    {
+      "texto": "multiplicó",
+      "inicio": 94.62,
+      "fin": 95.32,
+      "corte": false
+    },
+    {
+      "texto": "por",
+      "inicio": 95.32,
+      "fin": 95.6,
+      "corte": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 95.6,
+      "fin": 95.93,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 95.93,
+      "fin": 96.15,
+      "corte": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 96.15,
+      "fin": 96.54,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 96.54,
+      "fin": 96.76,
+      "corte": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 96.76,
+      "fin": 97.09,
+      "corte": false
+    },
+    {
+      "texto": "meses.",
+      "inicio": 97.09,
+      "fin": 97.49,
+      "corte": true
+    },
+    {
+      "texto": "Todo",
+      "inicio": 97.89,
+      "fin": 98.15,
+      "corte": false
+    },
+    {
+      "texto": "Londres",
+      "inicio": 98.15,
+      "fin": 98.54,
+      "corte": false
+    },
+    {
+      "texto": "hablaba",
+      "inicio": 98.54,
+      "fin": 98.93,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 98.93,
+      "fin": 99.1,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 99.1,
+      "fin": 99.26,
+      "corte": false
+    },
+    {
+      "texto": "mismo.",
+      "inicio": 99.26,
+      "fin": 99.56,
+      "corte": true
+    },
+    {
+      "texto": "Nobles,",
+      "inicio": 99.97,
+      "fin": 100.59,
+      "corte": false
+    },
+    {
+      "texto": "comerciantes,",
+      "inicio": 100.59,
+      "fin": 101.72,
+      "corte": false
+    },
+    {
+      "texto": "políticos,",
+      "inicio": 101.72,
+      "fin": 102.59,
+      "corte": false
+    },
+    {
+      "texto": "criados.",
+      "inicio": 102.59,
+      "fin": 103.3,
+      "corte": true
+    },
+    {
+      "texto": "Todos",
+      "inicio": 103.62,
+      "fin": 103.93,
+      "corte": false
+    },
+    {
+      "texto": "querían",
+      "inicio": 103.93,
+      "fin": 104.33,
+      "corte": false
+    },
+    {
+      "texto": "su",
+      "inicio": 104.33,
+      "fin": 104.5,
+      "corte": false
+    },
+    {
+      "texto": "parte.",
+      "inicio": 104.5,
+      "fin": 104.81,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 105.26,
+      "fin": 105.43,
+      "corte": false
+    },
+    {
+      "texto": "fiebre",
+      "inicio": 105.43,
+      "fin": 105.8,
+      "corte": false
+    },
+    {
+      "texto": "fue",
+      "inicio": 105.8,
+      "fin": 106.02,
+      "corte": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 106.02,
+      "fin": 106.25,
+      "corte": false
+    },
+    {
+      "texto": "grande",
+      "inicio": 106.25,
+      "fin": 106.62,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 106.62,
+      "fin": 106.84,
+      "corte": false
+    },
+    {
+      "texto": "aparecieron",
+      "inicio": 106.84,
+      "fin": 107.46,
+      "corte": false
+    },
+    {
+      "texto": "cientos",
+      "inicio": 107.46,
+      "fin": 107.88,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 107.88,
+      "fin": 108.05,
+      "corte": false
+    },
+    {
+      "texto": "compañías",
+      "inicio": 108.05,
+      "fin": 108.57,
+      "corte": false
+    },
+    {
+      "texto": "nuevas",
+      "inicio": 108.57,
+      "fin": 108.94,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 108.94,
+      "fin": 109.16,
+      "corte": false
+    },
+    {
+      "texto": "prometían",
+      "inicio": 109.16,
+      "fin": 109.68,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 109.68,
+      "fin": 109.86,
+      "corte": false
+    },
+    {
+      "texto": "todo.",
+      "inicio": 109.86,
+      "fin": 110.13,
+      "corte": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 110.54,
+      "fin": 110.76,
+      "corte": false
+    },
+    {
+      "texto": "quería",
+      "inicio": 110.76,
+      "fin": 111.13,
+      "corte": false
+    },
+    {
+      "texto": "sacar",
+      "inicio": 111.13,
+      "fin": 111.45,
+      "corte": false
+    },
+    {
+      "texto": "aceite",
+      "inicio": 111.45,
+      "fin": 111.81,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 111.81,
+      "fin": 111.99,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 111.99,
+      "fin": 112.21,
+      "corte": false
+    },
+    {
+      "texto": "rábanos.",
+      "inicio": 112.21,
+      "fin": 112.63,
+      "corte": true
+    },
+    {
+      "texto": "Otra,",
+      "inicio": 112.95,
+      "fin": 113.24,
+      "corte": false
+    },
+    {
+      "texto": "construir",
+      "inicio": 113.24,
+      "fin": 113.79,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 113.79,
+      "fin": 114.02,
+      "corte": false
+    },
+    {
+      "texto": "rueda",
+      "inicio": 114.02,
+      "fin": 114.37,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 114.37,
+      "fin": 114.55,
+      "corte": false
+    },
+    {
+      "texto": "movimiento",
+      "inicio": 114.55,
+      "fin": 115.15,
+      "corte": false
+    },
+    {
+      "texto": "perpetuo.",
+      "inicio": 115.15,
+      "fin": 115.65,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 116.05,
+      "fin": 116.18,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 116.18,
+      "fin": 116.36,
+      "corte": false
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 116.36,
+      "fin": 116.74,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 116.74,
+      "fin": 116.97,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 116.97,
+      "fin": 117.2,
+      "corte": false
+    },
+    {
+      "texto": "pedía",
+      "inicio": 117.2,
+      "fin": 117.54,
+      "corte": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 117.54,
+      "fin": 117.92,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 117.92,
+      "fin": 118.2,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 118.2,
+      "fin": 118.43,
+      "corte": false
+    },
+    {
+      "texto": "empresa",
+      "inicio": 118.43,
+      "fin": 118.87,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 118.87,
+      "fin": 119.05,
+      "corte": false
+    },
+    {
+      "texto": "gran",
+      "inicio": 119.05,
+      "fin": 119.33,
+      "corte": false
+    },
+    {
+      "texto": "beneficio,",
+      "inicio": 119.33,
+      "fin": 119.86,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 119.86,
+      "fin": 120.14,
+      "corte": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 120.14,
+      "fin": 120.38,
+      "corte": false
+    },
+    {
+      "texto": "decir",
+      "inicio": 120.38,
+      "fin": 120.71,
+      "corte": false
+    },
+    {
+      "texto": "cuál",
+      "inicio": 120.71,
+      "fin": 120.99,
+      "corte": false
+    },
+    {
+      "texto": "era.",
+      "inicio": 120.99,
+      "fin": 121.22,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 121.66,
+      "fin": 121.85,
+      "corte": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 121.85,
+      "fin": 122.19,
+      "corte": false
+    },
+    {
+      "texto": "compraba",
+      "inicio": 122.19,
+      "fin": 122.7,
+      "corte": false
+    },
+    {
+      "texto": "igual.",
+      "inicio": 122.7,
+      "fin": 123.04,
+      "corte": true
+    },
+    {
+      "texto": "A",
+      "inicio": 123.58,
+      "fin": 123.72,
+      "corte": false
+    },
+    {
+      "texto": "estas",
+      "inicio": 123.72,
+      "fin": 124.08,
+      "corte": false
+    },
+    {
+      "texto": "empresas",
+      "inicio": 124.08,
+      "fin": 124.62,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 124.62,
+      "fin": 124.81,
+      "corte": false
+    },
+    {
+      "texto": "les",
+      "inicio": 124.81,
+      "fin": 125.07,
+      "corte": false
+    },
+    {
+      "texto": "empezó",
+      "inicio": 125.07,
+      "fin": 125.49,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 125.49,
+      "fin": 125.63,
+      "corte": false
+    },
+    {
+      "texto": "llamar",
+      "inicio": 125.63,
+      "fin": 126.05,
+      "corte": false
+    },
+    {
+      "texto": "burbujas.",
+      "inicio": 126.05,
+      "fin": 126.59,
+      "corte": true
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 127.02,
+      "fin": 127.15,
+      "corte": false
+    },
+    {
+      "texto": "Newton?",
+      "inicio": 127.15,
+      "fin": 127.54,
+      "corte": true
+    },
+    {
+      "texto": "Aquí",
+      "inicio": 127.98,
+      "fin": 128.24,
+      "corte": false
+    },
+    {
+      "texto": "viene",
+      "inicio": 128.24,
+      "fin": 128.54,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 128.54,
+      "fin": 128.7,
+      "corte": false
+    },
+    {
+      "texto": "interesante.",
+      "inicio": 128.7,
+      "fin": 129.27,
+      "corte": true
+    },
+    {
+      "texto": "Newton",
+      "inicio": 129.67,
+      "fin": 130.05,
+      "corte": false
+    },
+    {
+      "texto": "compró",
+      "inicio": 130.05,
+      "fin": 130.43,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 130.43,
+      "fin": 130.9,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 130.9,
+      "fin": 131.08,
+      "corte": false
+    },
+    {
+      "texto": "principio",
+      "inicio": 131.08,
+      "fin": 131.61,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 131.61,
+      "fin": 131.74,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 131.74,
+      "fin": 131.96,
+      "corte": false
+    },
+    {
+      "texto": "vendió",
+      "inicio": 131.96,
+      "fin": 132.34,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 132.34,
+      "fin": 132.52,
+      "corte": false
+    },
+    {
+      "texto": "primavera,",
+      "inicio": 132.52,
+      "fin": 133.05,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 133.05,
+      "fin": 133.27,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 133.27,
+      "fin": 133.5,
+      "corte": false
+    },
+    {
+      "texto": "buena",
+      "inicio": 133.5,
+      "fin": 133.83,
+      "corte": false
+    },
+    {
+      "texto": "ganancia.",
+      "inicio": 133.83,
+      "fin": 134.31,
+      "corte": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 134.66,
+      "fin": 134.87,
+      "corte": false
+    },
+    {
+      "texto": "jugada",
+      "inicio": 134.87,
+      "fin": 135.24,
+      "corte": false
+    },
+    {
+      "texto": "inteligente.",
+      "inicio": 135.24,
+      "fin": 135.84,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 136.24,
+      "fin": 136.53,
+      "corte": false
+    },
+    {
+      "texto": "después",
+      "inicio": 136.53,
+      "fin": 136.97,
+      "corte": false
+    },
+    {
+      "texto": "vio",
+      "inicio": 136.97,
+      "fin": 137.2,
+      "corte": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 137.2,
+      "fin": 137.49,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 137.49,
+      "fin": 137.67,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 137.67,
+      "fin": 138.07,
+      "corte": false
+    },
+    {
+      "texto": "seguía",
+      "inicio": 138.07,
+      "fin": 138.46,
+      "corte": false
+    },
+    {
+      "texto": "subiendo.",
+      "inicio": 138.46,
+      "fin": 138.95,
+      "corte": true
+    },
+    {
+      "texto": "Sus",
+      "inicio": 139.34,
+      "fin": 139.59,
+      "corte": false
+    },
+    {
+      "texto": "amigos",
+      "inicio": 139.59,
+      "fin": 140.01,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 140.01,
+      "fin": 140.2,
+      "corte": false
+    },
+    {
+      "texto": "hacían",
+      "inicio": 140.2,
+      "fin": 140.62,
+      "corte": false
+    },
+    {
+      "texto": "ricos.",
+      "inicio": 140.62,
+      "fin": 140.98,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 141.32,
+      "fin": 141.48,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 141.48,
+      "fin": 141.7,
+      "corte": false
+    },
+    {
+      "texto": "pudo",
+      "inicio": 141.7,
+      "fin": 142.05,
+      "corte": false
+    },
+    {
+      "texto": "resistirlo.",
+      "inicio": 142.05,
+      "fin": 142.77,
+      "corte": true
+    },
+    {
+      "texto": "Volvió",
+      "inicio": 143.18,
+      "fin": 143.58,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 143.58,
+      "fin": 143.72,
+      "corte": false
+    },
+    {
+      "texto": "comprar,",
+      "inicio": 143.72,
+      "fin": 144.18,
+      "corte": false
+    },
+    {
+      "texto": "esta",
+      "inicio": 144.55,
+      "fin": 144.88,
+      "corte": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 144.88,
+      "fin": 145.14,
+      "corte": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 145.14,
+      "fin": 145.52,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 145.52,
+      "fin": 145.79,
+      "corte": false
+    },
+    {
+      "texto": "caro,",
+      "inicio": 145.79,
+      "fin": 146.11,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 146.11,
+      "fin": 146.26,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 146.26,
+      "fin": 146.53,
+      "corte": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 146.53,
+      "fin": 146.91,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 146.91,
+      "fin": 147.18,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 147.18,
+      "fin": 147.62,
+      "corte": true
+    },
+    {
+      "texto": "Entonces",
+      "inicio": 148.13,
+      "fin": 148.81,
+      "corte": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 148.81,
+      "fin": 149.28,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 149.28,
+      "fin": 149.53,
+      "corte": false
+    },
+    {
+      "texto": "caída.",
+      "inicio": 149.53,
+      "fin": 149.99,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 150.47,
+      "fin": 150.66,
+      "corte": false
+    },
+    {
+      "texto": "agosto,",
+      "inicio": 150.66,
+      "fin": 151.07,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 151.07,
+      "fin": 151.27,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 151.27,
+      "fin": 151.68,
+      "corte": false
+    },
+    {
+      "texto": "empezó",
+      "inicio": 151.68,
+      "fin": 152.1,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 152.1,
+      "fin": 152.24,
+      "corte": false
+    },
+    {
+      "texto": "bajar.",
+      "inicio": 152.24,
+      "fin": 152.6,
+      "corte": true
+    },
+    {
+      "texto": "En",
+      "inicio": 153.02,
+      "fin": 153.23,
+      "corte": false
+    },
+    {
+      "texto": "septiembre,",
+      "inicio": 153.23,
+      "fin": 153.9,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 153.9,
+      "fin": 154.1,
+      "corte": false
+    },
+    {
+      "texto": "pánico",
+      "inicio": 154.1,
+      "fin": 154.54,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 154.54,
+      "fin": 154.75,
+      "corte": false
+    },
+    {
+      "texto": "apoderó",
+      "inicio": 154.75,
+      "fin": 155.24,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 155.24,
+      "fin": 155.45,
+      "corte": false
+    },
+    {
+      "texto": "Londres.",
+      "inicio": 155.45,
+      "fin": 155.95,
+      "corte": true
+    },
+    {
+      "texto": "Todos",
+      "inicio": 156.28,
+      "fin": 156.59,
+      "corte": false
+    },
+    {
+      "texto": "querían",
+      "inicio": 156.59,
+      "fin": 157.0,
+      "corte": false
+    },
+    {
+      "texto": "vender",
+      "inicio": 157.0,
+      "fin": 157.36,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 157.36,
+      "fin": 157.49,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 157.49,
+      "fin": 157.65,
+      "corte": false
+    },
+    {
+      "texto": "vez,",
+      "inicio": 157.65,
+      "fin": 157.87,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 158.18,
+      "fin": 158.31,
+      "corte": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 158.31,
+      "fin": 158.66,
+      "corte": false
+    },
+    {
+      "texto": "quería",
+      "inicio": 158.66,
+      "fin": 159.07,
+      "corte": false
+    },
+    {
+      "texto": "comprar.",
+      "inicio": 159.07,
+      "fin": 159.53,
+      "corte": true
+    },
+    {
+      "texto": "Para",
+      "inicio": 159.53,
+      "fin": 159.83,
+      "corte": false
+    },
+    {
+      "texto": "diciembre,",
+      "inicio": 159.83,
+      "fin": 160.4,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 160.4,
+      "fin": 160.59,
+      "corte": false
+    },
+    {
+      "texto": "acción",
+      "inicio": 160.59,
+      "fin": 160.99,
+      "corte": false
+    },
+    {
+      "texto": "había",
+      "inicio": 160.99,
+      "fin": 161.34,
+      "corte": false
+    },
+    {
+      "texto": "vuelto",
+      "inicio": 161.34,
+      "fin": 161.75,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 161.75,
+      "fin": 161.88,
+      "corte": false
+    },
+    {
+      "texto": "unas",
+      "inicio": 161.88,
+      "fin": 162.18,
+      "corte": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 162.18,
+      "fin": 162.59,
+      "corte": false
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 162.59,
+      "fin": 163.27,
+      "corte": false
+    },
+    {
+      "texto": "libras.",
+      "inicio": 163.27,
+      "fin": 163.67,
+      "corte": true
+    },
+    {
+      "texto": "Casi",
+      "inicio": 164.05,
+      "fin": 164.29,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 164.29,
+      "fin": 164.44,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 164.44,
+      "fin": 164.73,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 164.73,
+      "fin": 164.93,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 164.93,
+      "fin": 165.08,
+      "corte": false
+    },
+    {
+      "texto": "enero.",
+      "inicio": 165.08,
+      "fin": 165.37,
+      "corte": true
+    },
+    {
+      "texto": "Miles",
+      "inicio": 165.83,
+      "fin": 166.15,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 166.15,
+      "fin": 166.33,
+      "corte": false
+    },
+    {
+      "texto": "personas",
+      "inicio": 166.33,
+      "fin": 166.8,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 166.8,
+      "fin": 166.97,
+      "corte": false
+    },
+    {
+      "texto": "arruinaron.",
+      "inicio": 166.97,
+      "fin": 167.54,
+      "corte": true
+    },
+    {
+      "texto": "Hubo",
+      "inicio": 167.97,
+      "fin": 168.3,
+      "corte": false
+    },
+    {
+      "texto": "bancos",
+      "inicio": 168.3,
+      "fin": 168.74,
+      "corte": false
+    },
+    {
+      "texto": "quebrados",
+      "inicio": 168.74,
+      "fin": 169.36,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 169.36,
+      "fin": 169.51,
+      "corte": false
+    },
+    {
+      "texto": "suicidios.",
+      "inicio": 169.51,
+      "fin": 170.13,
+      "corte": true
+    },
+    {
+      "texto": "Según",
+      "inicio": 170.61,
+      "fin": 170.98,
+      "corte": false
+    },
+    {
+      "texto": "varias",
+      "inicio": 170.98,
+      "fin": 171.41,
+      "corte": false
+    },
+    {
+      "texto": "fuentes,",
+      "inicio": 171.41,
+      "fin": 171.89,
+      "corte": false
+    },
+    {
+      "texto": "Newton",
+      "inicio": 171.89,
+      "fin": 172.32,
+      "corte": false
+    },
+    {
+      "texto": "perdió",
+      "inicio": 172.32,
+      "fin": 172.75,
+      "corte": false
+    },
+    {
+      "texto": "unas",
+      "inicio": 172.75,
+      "fin": 173.06,
+      "corte": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 173.06,
+      "fin": 173.48,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 173.48,
+      "fin": 173.74,
+      "corte": false
+    },
+    {
+      "texto": "libras.",
+      "inicio": 173.74,
+      "fin": 174.17,
+      "corte": true
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 174.54,
+      "fin": 174.8,
+      "corte": false
+    },
+    {
+      "texto": "serían",
+      "inicio": 174.8,
+      "fin": 175.23,
+      "corte": false
+    },
+    {
+      "texto": "varios",
+      "inicio": 175.23,
+      "fin": 175.67,
+      "corte": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 175.67,
+      "fin": 176.22,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 176.22,
+      "fin": 176.42,
+      "corte": false
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 176.42,
+      "fin": 176.91,
+      "corte": true
+    },
+    {
+      "texto": "Se",
+      "inicio": 177.32,
+      "fin": 177.48,
+      "corte": false
+    },
+    {
+      "texto": "le",
+      "inicio": 177.48,
+      "fin": 177.64,
+      "corte": false
+    },
+    {
+      "texto": "atribuye",
+      "inicio": 177.64,
+      "fin": 178.07,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 178.07,
+      "fin": 178.27,
+      "corte": false
+    },
+    {
+      "texto": "frase",
+      "inicio": 178.27,
+      "fin": 178.56,
+      "corte": false
+    },
+    {
+      "texto": "famosa:",
+      "inicio": 178.56,
+      "fin": 178.9,
+      "corte": true
+    },
+    {
+      "texto": "puedo",
+      "inicio": 179.44,
+      "fin": 179.75,
+      "corte": false
+    },
+    {
+      "texto": "calcular",
+      "inicio": 179.75,
+      "fin": 180.21,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 180.21,
+      "fin": 180.37,
+      "corte": false
+    },
+    {
+      "texto": "movimiento",
+      "inicio": 180.37,
+      "fin": 180.92,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 180.92,
+      "fin": 181.09,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 181.09,
+      "fin": 181.3,
+      "corte": false
+    },
+    {
+      "texto": "astros,",
+      "inicio": 181.3,
+      "fin": 181.66,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 181.99,
+      "fin": 182.25,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 182.25,
+      "fin": 182.42,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 182.42,
+      "fin": 182.59,
+      "corte": false
+    },
+    {
+      "texto": "locura",
+      "inicio": 182.59,
+      "fin": 182.96,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 182.96,
+      "fin": 183.13,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 183.13,
+      "fin": 183.29,
+      "corte": false
+    },
+    {
+      "texto": "gente.",
+      "inicio": 183.29,
+      "fin": 183.61,
+      "corte": true
+    },
+    {
+      "texto": "No",
+      "inicio": 184.07,
+      "fin": 184.22,
+      "corte": false
+    },
+    {
+      "texto": "está",
+      "inicio": 184.22,
+      "fin": 184.45,
+      "corte": false
+    },
+    {
+      "texto": "claro",
+      "inicio": 184.45,
+      "fin": 184.72,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 184.72,
+      "fin": 184.91,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 184.91,
+      "fin": 185.05,
+      "corte": false
+    },
+    {
+      "texto": "dijera,",
+      "inicio": 185.05,
+      "fin": 185.36,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 185.71,
+      "fin": 185.97,
+      "corte": false
+    },
+    {
+      "texto": "resume",
+      "inicio": 185.97,
+      "fin": 186.33,
+      "corte": false
+    },
+    {
+      "texto": "muy",
+      "inicio": 186.33,
+      "fin": 186.54,
+      "corte": false
+    },
+    {
+      "texto": "bien",
+      "inicio": 186.54,
+      "fin": 186.81,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 186.81,
+      "fin": 186.97,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 186.97,
+      "fin": 187.19,
+      "corte": false
+    },
+    {
+      "texto": "pasó.",
+      "inicio": 187.19,
+      "fin": 187.45,
+      "corte": true
+    },
+    {
+      "texto": "Dicen",
+      "inicio": 187.96,
+      "fin": 188.3,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 188.3,
+      "fin": 188.53,
+      "corte": false
+    },
+    {
+      "texto": "después",
+      "inicio": 188.53,
+      "fin": 188.96,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 188.96,
+      "fin": 189.14,
+      "corte": false
+    },
+    {
+      "texto": "soportaba",
+      "inicio": 189.14,
+      "fin": 189.68,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 189.68,
+      "fin": 189.91,
+      "corte": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 189.91,
+      "fin": 190.24,
+      "corte": false
+    },
+    {
+      "texto": "mencionara",
+      "inicio": 190.24,
+      "fin": 190.83,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 190.83,
+      "fin": 191.06,
+      "corte": false
+    },
+    {
+      "texto": "Mares",
+      "inicio": 191.06,
+      "fin": 191.4,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 191.4,
+      "fin": 191.63,
+      "corte": false
+    },
+    {
+      "texto": "Sur",
+      "inicio": 191.63,
+      "fin": 191.86,
+      "corte": false
+    },
+    {
+      "texto": "delante",
+      "inicio": 191.86,
+      "fin": 192.29,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 192.29,
+      "fin": 192.47,
+      "corte": false
+    },
+    {
+      "texto": "él.",
+      "inicio": 192.47,
+      "fin": 192.65,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 193.2,
+      "fin": 193.32,
+      "corte": false
+    },
+    {
+      "texto": "aquí",
+      "inicio": 193.32,
+      "fin": 193.59,
+      "corte": false
+    },
+    {
+      "texto": "viene",
+      "inicio": 193.59,
+      "fin": 193.91,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 193.91,
+      "fin": 194.08,
+      "corte": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 194.08,
+      "fin": 194.4,
+      "corte": false
+    },
+    {
+      "texto": "polémica.",
+      "inicio": 194.4,
+      "fin": 194.87,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 195.36,
+      "fin": 195.53,
+      "corte": false
+    },
+    {
+      "texto": "investigación",
+      "inicio": 195.53,
+      "fin": 196.23,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 196.23,
+      "fin": 196.45,
+      "corte": false
+    },
+    {
+      "texto": "Parlamento",
+      "inicio": 196.45,
+      "fin": 197.0,
+      "corte": false
+    },
+    {
+      "texto": "descubrió",
+      "inicio": 197.0,
+      "fin": 197.51,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 197.51,
+      "fin": 197.73,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 197.73,
+      "fin": 197.9,
+      "corte": false
+    },
+    {
+      "texto": "compañía",
+      "inicio": 197.9,
+      "fin": 198.36,
+      "corte": false
+    },
+    {
+      "texto": "había",
+      "inicio": 198.36,
+      "fin": 198.67,
+      "corte": false
+    },
+    {
+      "texto": "regalado",
+      "inicio": 198.67,
+      "fin": 199.13,
+      "corte": false
+    },
+    {
+      "texto": "acciones",
+      "inicio": 199.13,
+      "fin": 199.59,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 199.59,
+      "fin": 199.71,
+      "corte": false
+    },
+    {
+      "texto": "ministros",
+      "inicio": 199.71,
+      "fin": 200.21,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 200.21,
+      "fin": 200.33,
+      "corte": false
+    },
+    {
+      "texto": "políticos",
+      "inicio": 200.33,
+      "fin": 200.84,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 200.84,
+      "fin": 201.11,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 201.11,
+      "fin": 201.32,
+      "corte": false
+    },
+    {
+      "texto": "apoyaran",
+      "inicio": 201.32,
+      "fin": 201.78,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 201.78,
+      "fin": 201.95,
+      "corte": false
+    },
+    {
+      "texto": "plan.",
+      "inicio": 201.95,
+      "fin": 202.22,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 202.72,
+      "fin": 202.88,
+      "corte": false
+    },
+    {
+      "texto": "ministro",
+      "inicio": 202.88,
+      "fin": 203.32,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 203.32,
+      "fin": 203.48,
+      "corte": false
+    },
+    {
+      "texto": "Hacienda",
+      "inicio": 203.48,
+      "fin": 203.91,
+      "corte": false
+    },
+    {
+      "texto": "terminó",
+      "inicio": 203.91,
+      "fin": 204.29,
+      "corte": false
+    },
+    {
+      "texto": "encarcelado",
+      "inicio": 204.29,
+      "fin": 204.86,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 204.86,
+      "fin": 205.02,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 205.02,
+      "fin": 205.18,
+      "corte": false
+    },
+    {
+      "texto": "Torre",
+      "inicio": 205.18,
+      "fin": 205.48,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 205.48,
+      "fin": 205.64,
+      "corte": false
+    },
+    {
+      "texto": "Londres.",
+      "inicio": 205.64,
+      "fin": 206.02,
+      "corte": true
+    },
+    {
+      "texto": "Varios",
+      "inicio": 206.38,
+      "fin": 206.77,
+      "corte": false
+    },
+    {
+      "texto": "directores",
+      "inicio": 206.77,
+      "fin": 207.38,
+      "corte": false
+    },
+    {
+      "texto": "perdieron",
+      "inicio": 207.38,
+      "fin": 207.94,
+      "corte": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 207.94,
+      "fin": 208.17,
+      "corte": false
+    },
+    {
+      "texto": "fortunas.",
+      "inicio": 208.17,
+      "fin": 208.68,
+      "corte": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 209.04,
+      "fin": 209.31,
+      "corte": false
+    },
+    {
+      "texto": "muchos",
+      "inicio": 209.31,
+      "fin": 209.68,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 209.68,
+      "fin": 209.86,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 209.86,
+      "fin": 210.08,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 210.08,
+      "fin": 210.31,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 210.31,
+      "fin": 210.48,
+      "corte": false
+    },
+    {
+      "texto": "beneficiaron",
+      "inicio": 210.48,
+      "fin": 211.15,
+      "corte": false
+    },
+    {
+      "texto": "nunca",
+      "inicio": 211.15,
+      "fin": 211.48,
+      "corte": false
+    },
+    {
+      "texto": "devolvieron",
+      "inicio": 211.48,
+      "fin": 212.1,
+      "corte": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 212.1,
+      "fin": 212.37,
+      "corte": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 212.81,
+      "fin": 212.98,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 212.98,
+      "fin": 213.21,
+      "corte": false
+    },
+    {
+      "texto": "curioso",
+      "inicio": 213.21,
+      "fin": 213.63,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 213.63,
+      "fin": 213.81,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 213.81,
+      "fin": 214.03,
+      "corte": false
+    },
+    {
+      "texto": "esto",
+      "inicio": 214.03,
+      "fin": 214.3,
+      "corte": false
+    },
+    {
+      "texto": "pasó",
+      "inicio": 214.3,
+      "fin": 214.58,
+      "corte": false
+    },
+    {
+      "texto": "al",
+      "inicio": 214.58,
+      "fin": 214.75,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 214.75,
+      "fin": 215.08,
+      "corte": false
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 215.08,
+      "fin": 215.45,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 215.45,
+      "fin": 215.63,
+      "corte": false
+    },
+    {
+      "texto": "Francia,",
+      "inicio": 215.63,
+      "fin": 216.05,
+      "corte": false
+    },
+    {
+      "texto": "con",
+      "inicio": 216.31,
+      "fin": 216.58,
+      "corte": false
+    },
+    {
+      "texto": "otra",
+      "inicio": 216.58,
+      "fin": 216.91,
+      "corte": false
+    },
+    {
+      "texto": "burbuja",
+      "inicio": 216.91,
+      "fin": 217.42,
+      "corte": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 217.42,
+      "fin": 217.75,
+      "corte": false
+    },
+    {
+      "texto": "idéntica:",
+      "inicio": 217.75,
+      "fin": 218.32,
+      "corte": true
+    },
+    {
+      "texto": "la",
+      "inicio": 218.65,
+      "fin": 218.81,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 218.81,
+      "fin": 219.02,
+      "corte": false
+    },
+    {
+      "texto": "Misisipi.",
+      "inicio": 219.02,
+      "fin": 219.47,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 219.93,
+      "fin": 220.08,
+      "corte": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 220.08,
+      "fin": 220.5,
+      "corte": false
+    },
+    {
+      "texto": "entonces",
+      "inicio": 220.5,
+      "fin": 221.1,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 221.1,
+      "fin": 221.32,
+      "corte": false
+    },
+    {
+      "texto": "ha",
+      "inicio": 221.32,
+      "fin": 221.54,
+      "corte": false
+    },
+    {
+      "texto": "repetido",
+      "inicio": 221.54,
+      "fin": 222.15,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 222.15,
+      "fin": 222.43,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 222.43,
+      "fin": 222.59,
+      "corte": false
+    },
+    {
+      "texto": "otra",
+      "inicio": 222.59,
+      "fin": 222.94,
+      "corte": false
+    },
+    {
+      "texto": "vez.",
+      "inicio": 222.94,
+      "fin": 223.22,
+      "corte": true
+    },
+    {
+      "texto": "Las",
+      "inicio": 223.65,
+      "fin": 223.85,
+      "corte": false
+    },
+    {
+      "texto": "puntocom",
+      "inicio": 223.85,
+      "fin": 224.29,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 224.29,
+      "fin": 224.44,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 224.44,
+      "fin": 224.6,
+      "corte": false
+    },
+    {
+      "texto": "año",
+      "inicio": 224.6,
+      "fin": 224.81,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 224.81,
+      "fin": 225.01,
+      "corte": false
+    },
+    {
+      "texto": "mil.",
+      "inicio": 225.01,
+      "fin": 225.22,
+      "corte": true
+    },
+    {
+      "texto": "Las",
+      "inicio": 225.65,
+      "fin": 225.86,
+      "corte": false
+    },
+    {
+      "texto": "hipotecas",
+      "inicio": 225.86,
+      "fin": 226.32,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 226.32,
+      "fin": 226.48,
+      "corte": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 226.48,
+      "fin": 226.68,
+      "corte": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 226.68,
+      "fin": 226.88,
+      "corte": false
+    },
+    {
+      "texto": "ocho.",
+      "inicio": 226.88,
+      "fin": 227.13,
+      "corte": true
+    },
+    {
+      "texto": "Algunas",
+      "inicio": 227.58,
+      "fin": 228.0,
+      "corte": false
+    },
+    {
+      "texto": "criptomonedas",
+      "inicio": 228.0,
+      "fin": 228.71,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 228.71,
+      "fin": 228.89,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 228.89,
+      "fin": 229.11,
+      "corte": false
+    },
+    {
+      "texto": "últimos",
+      "inicio": 229.11,
+      "fin": 229.53,
+      "corte": false
+    },
+    {
+      "texto": "años.",
+      "inicio": 229.53,
+      "fin": 229.8,
+      "corte": true
+    },
+    {
+      "texto": "Cambian",
+      "inicio": 230.18,
+      "fin": 230.54,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 230.54,
+      "fin": 230.73,
+      "corte": false
+    },
+    {
+      "texto": "nombres,",
+      "inicio": 230.73,
+      "fin": 231.09,
+      "corte": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 231.37,
+      "fin": 231.64,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 231.64,
+      "fin": 231.82,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 231.82,
+      "fin": 232.29,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 232.29,
+      "fin": 232.47,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 232.47,
+      "fin": 232.65,
+      "corte": false
+    },
+    {
+      "texto": "misma.",
+      "inicio": 232.65,
+      "fin": 232.97,
+      "corte": true
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 233.49,
+      "fin": 234.14,
+      "corte": false
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 234.42,
+      "fin": 234.62,
+      "corte": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 234.62,
+      "fin": 234.82,
+      "corte": false
+    },
+    {
+      "texto": "enseña",
+      "inicio": 234.82,
+      "fin": 235.15,
+      "corte": false
+    },
+    {
+      "texto": "Newton?",
+      "inicio": 235.15,
+      "fin": 235.48,
+      "corte": true
+    },
+    {
+      "texto": "Tres",
+      "inicio": 236.12,
+      "fin": 236.41,
+      "corte": false
+    },
+    {
+      "texto": "lecciones.",
+      "inicio": 236.41,
+      "fin": 236.95,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 237.37,
+      "fin": 237.52,
+      "corte": false
+    },
+    {
+      "texto": "primera:",
+      "inicio": 237.52,
+      "fin": 237.9,
+      "corte": true
+    },
+    {
+      "texto": "si",
+      "inicio": 238.3,
+      "fin": 238.46,
+      "corte": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 238.46,
+      "fin": 238.72,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 238.72,
+      "fin": 238.88,
+      "corte": false
+    },
+    {
+      "texto": "mundo",
+      "inicio": 238.88,
+      "fin": 239.19,
+      "corte": false
+    },
+    {
+      "texto": "habla",
+      "inicio": 239.19,
+      "fin": 239.49,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 239.49,
+      "fin": 239.66,
+      "corte": false
+    },
+    {
+      "texto": "una",
+      "inicio": 239.66,
+      "fin": 239.87,
+      "corte": false
+    },
+    {
+      "texto": "inversión",
+      "inicio": 239.87,
+      "fin": 240.36,
+      "corte": false
+    },
+    {
+      "texto": "y",
+      "inicio": 240.61,
+      "fin": 240.73,
+      "corte": false
+    },
+    {
+      "texto": "tú",
+      "inicio": 240.73,
+      "fin": 240.9,
+      "corte": false
+    },
+    {
+      "texto": "compras",
+      "inicio": 240.9,
+      "fin": 241.31,
+      "corte": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 241.31,
+      "fin": 241.67,
+      "corte": false
+    },
+    {
+      "texto": "otros",
+      "inicio": 241.67,
+      "fin": 241.99,
+      "corte": false
+    },
+    {
+      "texto": "se",
+      "inicio": 241.99,
+      "fin": 242.16,
+      "corte": false
+    },
+    {
+      "texto": "están",
+      "inicio": 242.16,
+      "fin": 242.47,
+      "corte": false
+    },
+    {
+      "texto": "haciendo",
+      "inicio": 242.47,
+      "fin": 242.93,
+      "corte": false
+    },
+    {
+      "texto": "ricos,",
+      "inicio": 242.93,
+      "fin": 243.25,
+      "corte": false
+    },
+    {
+      "texto": "ten",
+      "inicio": 243.62,
+      "fin": 243.84,
+      "corte": false
+    },
+    {
+      "texto": "cuidado.",
+      "inicio": 243.84,
+      "fin": 244.25,
+      "corte": true
+    },
+    {
+      "texto": "La",
+      "inicio": 244.75,
+      "fin": 244.92,
+      "corte": false
+    },
+    {
+      "texto": "segunda:",
+      "inicio": 244.92,
+      "fin": 245.34,
+      "corte": true
+    },
+    {
+      "texto": "una",
+      "inicio": 245.76,
+      "fin": 246.0,
+      "corte": false
+    },
+    {
+      "texto": "buena",
+      "inicio": 246.0,
+      "fin": 246.36,
+      "corte": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 246.36,
+      "fin": 246.87,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 246.87,
+      "fin": 247.06,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 247.06,
+      "fin": 247.25,
+      "corte": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 247.25,
+      "fin": 247.44,
+      "corte": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 247.44,
+      "fin": 247.79,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 247.79,
+      "fin": 248.04,
+      "corte": false
+    },
+    {
+      "texto": "un",
+      "inicio": 248.04,
+      "fin": 248.23,
+      "corte": false
+    },
+    {
+      "texto": "buen",
+      "inicio": 248.23,
+      "fin": 248.52,
+      "corte": false
+    },
+    {
+      "texto": "negocio.",
+      "inicio": 248.52,
+      "fin": 248.98,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 249.5,
+      "fin": 249.62,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 249.62,
+      "fin": 249.77,
+      "corte": false
+    },
+    {
+      "texto": "tercera:",
+      "inicio": 249.77,
+      "fin": 250.15,
+      "corte": true
+    },
+    {
+      "texto": "ser",
+      "inicio": 250.57,
+      "fin": 250.87,
+      "corte": false
+    },
+    {
+      "texto": "inteligente",
+      "inicio": 250.87,
+      "fin": 251.7,
+      "corte": false
+    },
+    {
+      "texto": "no",
+      "inicio": 251.7,
+      "fin": 251.93,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 251.93,
+      "fin": 252.16,
+      "corte": false
+    },
+    {
+      "texto": "protege.",
+      "inicio": 252.16,
+      "fin": 252.73,
+      "corte": true
+    },
+    {
+      "texto": "El",
+      "inicio": 253.18,
+      "fin": 253.37,
+      "corte": false
+    },
+    {
+      "texto": "miedo",
+      "inicio": 253.37,
+      "fin": 253.71,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 253.71,
+      "fin": 253.85,
+      "corte": false
+    },
+    {
+      "texto": "quedarte",
+      "inicio": 253.85,
+      "fin": 254.35,
+      "corte": false
+    },
+    {
+      "texto": "fuera",
+      "inicio": 254.35,
+      "fin": 254.7,
+      "corte": false
+    },
+    {
+      "texto": "es",
+      "inicio": 254.7,
+      "fin": 254.89,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 254.89,
+      "fin": 255.13,
+      "corte": false
+    },
+    {
+      "texto": "fuerte",
+      "inicio": 255.13,
+      "fin": 255.53,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 255.53,
+      "fin": 255.77,
+      "corte": false
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 255.77,
+      "fin": 256.33,
+      "corte": false
+    },
+    {
+      "texto": "cálculo.",
+      "inicio": 256.33,
+      "fin": 256.78,
+      "corte": true
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 257.35,
+      "fin": 257.65,
+      "corte": false
+    },
+    {
+      "texto": "dime",
+      "inicio": 257.65,
+      "fin": 257.9,
+      "corte": false
+    },
+    {
+      "texto": "tú:",
+      "inicio": 257.9,
+      "fin": 258.06,
+      "corte": true
+    },
+    {
+      "texto": "¿crees",
+      "inicio": 258.49,
+      "fin": 258.79,
+      "corte": false
+    },
+    {
+      "texto": "que",
+      "inicio": 258.79,
+      "fin": 259.0,
+      "corte": false
+    },
+    {
+      "texto": "hoy",
+      "inicio": 259.0,
+      "fin": 259.2,
+      "corte": false
+    },
+    {
+      "texto": "estamos",
+      "inicio": 259.2,
+      "fin": 259.59,
+      "corte": false
+    },
+    {
+      "texto": "viviendo",
+      "inicio": 259.59,
+      "fin": 260.03,
+      "corte": false
+    },
+    {
+      "texto": "alguna",
+      "inicio": 260.03,
+      "fin": 260.38,
+      "corte": false
+    },
+    {
+      "texto": "burbuja?",
+      "inicio": 260.38,
+      "fin": 260.77,
+      "corte": true
+    },
+    {
+      "texto": "¿La",
+      "inicio": 261.2,
+      "fin": 261.39,
+      "corte": false
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 261.39,
+      "fin": 262.11,
+      "corte": false
+    },
+    {
+      "texto": "artificial,",
+      "inicio": 262.11,
+      "fin": 262.73,
+      "corte": false
+    },
+    {
+      "texto": "las",
+      "inicio": 262.73,
+      "fin": 262.97,
+      "corte": false
+    },
+    {
+      "texto": "criptomonedas,",
+      "inicio": 262.97,
+      "fin": 263.75,
+      "corte": false
+    },
+    {
+      "texto": "el",
+      "inicio": 263.75,
+      "fin": 263.94,
+      "corte": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 263.94,
+      "fin": 264.34,
+      "corte": false
+    },
+    {
+      "texto": "de",
+      "inicio": 264.34,
+      "fin": 264.53,
+      "corte": false
+    },
+    {
+      "texto": "la",
+      "inicio": 264.53,
+      "fin": 264.71,
+      "corte": false
+    },
+    {
+      "texto": "vivienda?",
+      "inicio": 264.71,
+      "fin": 265.22,
+      "corte": true
+    },
+    {
+      "texto": "Te",
+      "inicio": 265.67,
+      "fin": 265.81,
+      "corte": false
+    },
+    {
+      "texto": "leo",
+      "inicio": 265.81,
+      "fin": 266.0,
+      "corte": false
+    },
+    {
+      "texto": "en",
+      "inicio": 266.0,
+      "fin": 266.15,
+      "corte": false
+    },
+    {
+      "texto": "los",
+      "inicio": 266.15,
+      "fin": 266.34,
+      "corte": false
+    },
+    {
+      "texto": "comentarios.",
+      "inicio": 266.34,
+      "fin": 266.87,
+      "corte": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 267.22,
+      "fin": 267.35,
+      "corte": false
+    },
+    {
+      "texto": "si",
+      "inicio": 267.35,
+      "fin": 267.53,
+      "corte": false
+    },
+    {
+      "texto": "te",
+      "inicio": 267.53,
+      "fin": 267.71,
+      "corte": false
+    },
+    {
+      "texto": "gustó,",
+      "inicio": 267.71,
+      "fin": 268.05,
+      "corte": false
+    },
+    {
+      "texto": "suscríbete",
+      "inicio": 268.05,
+      "fin": 268.65,
+      "corte": false
+    },
+    {
+      "texto": "a",
+      "inicio": 268.65,
+      "fin": 268.78,
+      "corte": false
+    },
+    {
+      "texto": "Cuentas",
+      "inicio": 268.78,
+      "fin": 269.22,
+      "corte": false
+    },
+    {
+      "texto": "Claras",
+      "inicio": 269.22,
+      "fin": 269.61,
+      "corte": false
+    },
+    {
+      "texto": "para",
+      "inicio": 269.61,
+      "fin": 269.9,
+      "corte": false
+    },
+    {
+      "texto": "más",
+      "inicio": 269.9,
+      "fin": 270.14,
+      "corte": false
+    },
+    {
+      "texto": "historias",
+      "inicio": 270.14,
+      "fin": 270.68,
+      "corte": false
+    },
+    {
+      "texto": "del",
+      "inicio": 270.68,
+      "fin": 270.92,
+      "corte": false
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 270.92,
+      "fin": 271.31,
+      "corte": true
+    }
+  ]
 }

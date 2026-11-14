@@ -1,0 +1,1007 @@
+{
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.29,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 0.29,
+   "fin": 0.53,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 0.53,
+   "fin": 0.77,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 0.77,
+   "fin": 0.96,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 0.96,
+   "fin": 1.2,
+   "corte": false
+  },
+  {
+   "texto": "países",
+   "inicio": 1.2,
+   "fin": 1.58,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 1.58,
+   "fin": 1.82,
+   "corte": false
+  },
+  {
+   "texto": "ricos",
+   "inicio": 1.82,
+   "fin": 2.16,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 2.16,
+   "fin": 2.4,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 2.4,
+   "fin": 2.73,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 2.73,
+   "fin": 3.45,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 3.45,
+   "fin": 3.75,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 3.75,
+   "fin": 3.95,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 3.95,
+   "fin": 4.15,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 4.15,
+   "fin": 4.5,
+   "corte": false
+  },
+  {
+   "texto": "nada.",
+   "inicio": 4.5,
+   "fin": 4.8,
+   "corte": true
+  },
+  {
+   "texto": "Nauru",
+   "inicio": 4.81,
+   "fin": 5.13,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 5.13,
+   "fin": 5.76,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 5.76,
+   "fin": 5.99,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 6.0,
+   "fin": 6.28,
+   "corte": false
+  },
+  {
+   "texto": "diminuta",
+   "inicio": 6.28,
+   "fin": 6.74,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 6.75,
+   "fin": 6.98,
+   "corte": false
+  },
+  {
+   "texto": "Pacífico:",
+   "inicio": 6.98,
+   "fin": 7.45,
+   "corte": false
+  },
+  {
+   "texto": "puedes",
+   "inicio": 7.45,
+   "fin": 7.82,
+   "corte": false
+  },
+  {
+   "texto": "rodearla",
+   "inicio": 7.82,
+   "fin": 8.62,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 8.62,
+   "fin": 8.8,
+   "corte": false
+  },
+  {
+   "texto": "coche",
+   "inicio": 8.8,
+   "fin": 9.13,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 9.13,
+   "fin": 9.32,
+   "corte": false
+  },
+  {
+   "texto": "veinte",
+   "inicio": 9.32,
+   "fin": 9.69,
+   "corte": false
+  },
+  {
+   "texto": "minutos.",
+   "inicio": 9.69,
+   "fin": 10.11,
+   "corte": true
+  },
+  {
+   "texto": "Durante",
+   "inicio": 10.12,
+   "fin": 10.54,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 10.54,
+   "fin": 11.24,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.25,
+   "fin": 11.43,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 11.44,
+   "fin": 11.72,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 11.72,
+   "fin": 11.96,
+   "corte": false
+  },
+  {
+   "texto": "aves",
+   "inicio": 11.96,
+   "fin": 12.24,
+   "corte": false
+  },
+  {
+   "texto": "dejaron",
+   "inicio": 12.25,
+   "fin": 12.67,
+   "corte": false
+  },
+  {
+   "texto": "allí",
+   "inicio": 12.67,
+   "fin": 12.96,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 12.96,
+   "fin": 13.2,
+   "corte": false
+  },
+  {
+   "texto": "excrementos.",
+   "inicio": 13.2,
+   "fin": 13.82,
+   "corte": true
+  },
+  {
+   "texto": "Con",
+   "inicio": 13.82,
+   "fin": 14.05,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 14.05,
+   "fin": 14.24,
+   "corte": false
+  },
+  {
+   "texto": "tiempo",
+   "inicio": 14.24,
+   "fin": 14.9,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 14.9,
+   "fin": 15.09,
+   "corte": false
+  },
+  {
+   "texto": "convirtieron",
+   "inicio": 15.09,
+   "fin": 15.75,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 15.75,
+   "fin": 15.94,
+   "corte": false
+  },
+  {
+   "texto": "fosfato,",
+   "inicio": 15.94,
+   "fin": 16.37,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 16.37,
+   "fin": 16.56,
+   "corte": false
+  },
+  {
+   "texto": "abono",
+   "inicio": 16.56,
+   "fin": 17.17,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 17.17,
+   "fin": 17.4,
+   "corte": false
+  },
+  {
+   "texto": "valioso.",
+   "inicio": 17.41,
+   "fin": 17.83,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 17.83,
+   "fin": 18.08,
+   "corte": false
+  },
+  {
+   "texto": "1968",
+   "inicio": 18.08,
+   "fin": 19.2,
+   "corte": false
+  },
+  {
+   "texto": "Nauru",
+   "inicio": 19.2,
+   "fin": 19.63,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 19.63,
+   "fin": 19.88,
+   "corte": false
+  },
+  {
+   "texto": "independiza",
+   "inicio": 19.88,
+   "fin": 20.68,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 20.68,
+   "fin": 20.86,
+   "corte": false
+  },
+  {
+   "texto": "empieza",
+   "inicio": 20.86,
+   "fin": 21.41,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 21.41,
+   "fin": 21.6,
+   "corte": false
+  },
+  {
+   "texto": "venderlo",
+   "inicio": 21.6,
+   "fin": 22.21,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 22.21,
+   "fin": 22.46,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 22.46,
+   "fin": 22.89,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 22.89,
+   "fin": 23.11,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 23.11,
+   "fin": 23.82,
+   "corte": false
+  },
+  {
+   "texto": "llueve.",
+   "inicio": 23.83,
+   "fin": 24.26,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 24.26,
+   "fin": 24.44,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 24.44,
+   "fin": 24.67,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 24.67,
+   "fin": 25.24,
+   "corte": false
+  },
+  {
+   "texto": "70",
+   "inicio": 25.24,
+   "fin": 25.69,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 25.7,
+   "fin": 25.83,
+   "corte": false
+  },
+  {
+   "texto": "80,",
+   "inicio": 25.83,
+   "fin": 26.29,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 26.29,
+   "fin": 26.61,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 26.61,
+   "fin": 26.84,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 26.84,
+   "fin": 27.02,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 27.02,
+   "fin": 27.25,
+   "corte": false
+  },
+  {
+   "texto": "ingresos",
+   "inicio": 27.25,
+   "fin": 27.71,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 27.71,
+   "fin": 27.93,
+   "corte": false
+  },
+  {
+   "texto": "persona",
+   "inicio": 27.93,
+   "fin": 28.35,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 28.35,
+   "fin": 28.57,
+   "corte": false
+  },
+  {
+   "texto": "altos",
+   "inicio": 28.57,
+   "fin": 28.89,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 28.89,
+   "fin": 29.12,
+   "corte": false
+  },
+  {
+   "texto": "planeta.",
+   "inicio": 29.12,
+   "fin": 29.53,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 29.53,
+   "fin": 29.72,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 29.72,
+   "fin": 30.2,
+   "corte": false
+  },
+  {
+   "texto": "pagan",
+   "inicio": 30.2,
+   "fin": 30.52,
+   "corte": false
+  },
+  {
+   "texto": "impuestos,",
+   "inicio": 30.52,
+   "fin": 31.03,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 31.03,
+   "fin": 31.22,
+   "corte": false
+  },
+  {
+   "texto": "salud",
+   "inicio": 31.22,
+   "fin": 31.54,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 31.54,
+   "fin": 31.73,
+   "corte": false
+  },
+  {
+   "texto": "gratis",
+   "inicio": 31.73,
+   "fin": 32.1,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 32.1,
+   "fin": 32.24,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 32.24,
+   "fin": 32.47,
+   "corte": false
+  },
+  {
+   "texto": "coches",
+   "inicio": 32.47,
+   "fin": 32.84,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.84,
+   "fin": 33.02,
+   "corte": false
+  },
+  {
+   "texto": "lujo",
+   "inicio": 33.02,
+   "fin": 33.3,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 33.3,
+   "fin": 33.49,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 33.49,
+   "fin": 33.72,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 33.72,
+   "fin": 34.0,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 34.0,
+   "fin": 34.23,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 34.23,
+   "fin": 34.46,
+   "corte": false
+  },
+  {
+   "texto": "sola",
+   "inicio": 34.46,
+   "fin": 34.74,
+   "corte": false
+  },
+  {
+   "texto": "carretera.",
+   "inicio": 34.74,
+   "fin": 35.25,
+   "corte": true
+  },
+  {
+   "texto": "Guardan",
+   "inicio": 35.25,
+   "fin": 35.66,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.66,
+   "fin": 35.84,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 35.84,
+   "fin": 36.57,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 36.57,
+   "fin": 36.76,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 36.76,
+   "fin": 36.94,
+   "corte": false
+  },
+  {
+   "texto": "fondo",
+   "inicio": 36.94,
+   "fin": 37.26,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 37.26,
+   "fin": 37.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 37.54,
+   "fin": 37.72,
+   "corte": false
+  },
+  {
+   "texto": "futuro,",
+   "inicio": 37.72,
+   "fin": 38.09,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 38.09,
+   "fin": 38.65,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 38.65,
+   "fin": 38.83,
+   "corte": false
+  },
+  {
+   "texto": "invierten",
+   "inicio": 38.83,
+   "fin": 39.34,
+   "corte": false
+  },
+  {
+   "texto": "mal:",
+   "inicio": 39.34,
+   "fin": 39.57,
+   "corte": false
+  },
+  {
+   "texto": "edificios",
+   "inicio": 39.57,
+   "fin": 40.41,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.41,
+   "fin": 40.59,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 40.59,
+   "fin": 40.77,
+   "corte": false
+  },
+  {
+   "texto": "extranjero",
+   "inicio": 40.77,
+   "fin": 41.33,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 41.33,
+   "fin": 41.46,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 41.46,
+   "fin": 41.79,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 41.79,
+   "fin": 41.97,
+   "corte": false
+  },
+  {
+   "texto": "musical",
+   "inicio": 41.97,
+   "fin": 42.38,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 42.38,
+   "fin": 42.57,
+   "corte": false
+  },
+  {
+   "texto": "Londres",
+   "inicio": 42.57,
+   "fin": 42.98,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 42.98,
+   "fin": 43.21,
+   "corte": false
+  },
+  {
+   "texto": "fracasó.",
+   "inicio": 43.21,
+   "fin": 43.63,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 43.63,
+   "fin": 44.13,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 44.13,
+   "fin": 44.34,
+   "corte": false
+  },
+  {
+   "texto": "fosfato",
+   "inicio": 44.34,
+   "fin": 44.8,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 44.8,
+   "fin": 45.01,
+   "corte": false
+  },
+  {
+   "texto": "acaba.",
+   "inicio": 45.01,
+   "fin": 45.37,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 45.37,
+   "fin": 45.61,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 45.61,
+   "fin": 46.17,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 46.17,
+   "fin": 46.51,
+   "corte": false
+  },
+  {
+   "texto": "parte",
+   "inicio": 46.51,
+   "fin": 46.84,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 46.85,
+   "fin": 47.04,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 47.04,
+   "fin": 47.23,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 47.23,
+   "fin": 47.52,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 47.52,
+   "fin": 47.71,
+   "corte": false
+  },
+  {
+   "texto": "roca",
+   "inicio": 47.71,
+   "fin": 48.0,
+   "corte": false
+  },
+  {
+   "texto": "pelada.",
+   "inicio": 48.0,
+   "fin": 48.38,
+   "corte": true
+  },
+  {
+   "texto": "¿Qué",
+   "inicio": 48.38,
+   "fin": 48.62,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 48.63,
+   "fin": 49.44,
+   "corte": false
+  },
+  {
+   "texto": "hecho",
+   "inicio": 49.44,
+   "fin": 49.78,
+   "corte": false
+  },
+  {
+   "texto": "tú",
+   "inicio": 49.78,
+   "fin": 49.98,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 49.98,
+   "fin": 50.23,
+   "corte": false
+  },
+  {
+   "texto": "esa",
+   "inicio": 50.23,
+   "fin": 50.47,
+   "corte": false
+  },
+  {
+   "texto": "riqueza?",
+   "inicio": 50.47,
+   "fin": 51.27,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 51.28,
+   "fin": 51.72,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.72,
+   "fin": 52.01,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 52.01,
+   "fin": 52.26,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 52.26,
+   "fin": 52.8,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 52.8,
+   "fin": 53.0,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 53.0,
+   "fin": 53.39,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Este fue uno de los países más ricos del mundo.",
+   "inicio": 0.0,
+   "fin": 2.73
+  },
+  {
+   "texto": "Hoy casi no le queda nada.",
+   "inicio": 2.73,
+   "fin": 4.8
+  },
+  {
+   "texto": "Nauru es una isla diminuta del Pacífico: puedes rodearla en coche en veinte minutos.",
+   "inicio": 4.81,
+   "fin": 10.11
+  },
+  {
+   "texto": "Durante miles de años, las aves dejaron allí sus excrementos.",
+   "inicio": 10.12,
+   "fin": 13.82
+  },
+  {
+   "texto": "Con el tiempo se convirtieron en fosfato, un abono muy valioso.",
+   "inicio": 13.82,
+   "fin": 17.83
+  },
+  {
+   "texto": "En 1968 Nauru se independiza y empieza a venderlo al mundo.",
+   "inicio": 17.83,
+   "fin": 22.89
+  },
+  {
+   "texto": "El dinero llueve.",
+   "inicio": 22.89,
+   "fin": 24.26
+  },
+  {
+   "texto": "En los años 70 y 80, tiene uno de los ingresos por persona más altos del planeta.",
+   "inicio": 24.26,
+   "fin": 29.53
+  },
+  {
+   "texto": "No se pagan impuestos, la salud es gratis y hay coches de lujo en una isla con una sola carretera.",
+   "inicio": 29.53,
+   "fin": 35.25
+  },
+  {
+   "texto": "Guardan el dinero en un fondo para el futuro, pero lo invierten mal: edificios en el extranjero y hasta un musical en Londres que fracasó.",
+   "inicio": 35.25,
+   "fin": 43.63
+  },
+  {
+   "texto": "Y el fosfato se acaba.",
+   "inicio": 43.63,
+   "fin": 45.37
+  },
+  {
+   "texto": "Hoy la mayor parte de la isla es roca pelada.",
+   "inicio": 45.37,
+   "fin": 48.38
+  },
+  {
+   "texto": "¿Qué habrías hecho tú con esa riqueza?",
+   "inicio": 48.38,
+   "fin": 51.27
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 51.28,
+   "fin": 53.39
+  }
+ ],
+ "duracion": 53.39
+}

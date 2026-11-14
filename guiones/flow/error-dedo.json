@@ -1,0 +1,939 @@
+{
+ "palabras": [
+  {
+   "texto": "Un",
+   "inicio": 0.0,
+   "fin": 0.23,
+   "corte": false
+  },
+  {
+   "texto": "error",
+   "inicio": 0.23,
+   "fin": 0.64,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 0.64,
+   "fin": 0.87,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 0.87,
+   "fin": 1.11,
+   "corte": false
+  },
+  {
+   "texto": "dedo",
+   "inicio": 1.11,
+   "fin": 1.46,
+   "corte": false
+  },
+  {
+   "texto": "costó",
+   "inicio": 1.46,
+   "fin": 1.86,
+   "corte": false
+  },
+  {
+   "texto": "340",
+   "inicio": 1.87,
+   "fin": 2.51,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 2.51,
+   "fin": 3.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.09,
+   "fin": 3.32,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 3.32,
+   "fin": 3.85,
+   "corte": true
+  },
+  {
+   "texto": "Tokio,",
+   "inicio": 3.85,
+   "fin": 4.21,
+   "corte": false
+  },
+  {
+   "texto": "8",
+   "inicio": 4.22,
+   "fin": 5.3,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 5.3,
+   "fin": 5.81,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 5.82,
+   "fin": 6.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 6.4,
+   "fin": 6.61,
+   "corte": false
+  },
+  {
+   "texto": "2005.",
+   "inicio": 6.61,
+   "fin": 7.24,
+   "corte": true
+  },
+  {
+   "texto": "Una",
+   "inicio": 7.24,
+   "fin": 7.88,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 7.88,
+   "fin": 8.34,
+   "corte": false
+  },
+  {
+   "texto": "sale",
+   "inicio": 8.34,
+   "fin": 8.65,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 8.65,
+   "fin": 8.8,
+   "corte": false
+  },
+  {
+   "texto": "bolsa",
+   "inicio": 8.8,
+   "fin": 9.16,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 9.16,
+   "fin": 9.42,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 9.42,
+   "fin": 10.05,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 10.05,
+   "fin": 10.27,
+   "corte": false
+  },
+  {
+   "texto": "operador",
+   "inicio": 10.27,
+   "fin": 10.82,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 10.82,
+   "fin": 11.09,
+   "corte": false
+  },
+  {
+   "texto": "banco",
+   "inicio": 11.09,
+   "fin": 11.47,
+   "corte": false
+  },
+  {
+   "texto": "Mizuho",
+   "inicio": 11.47,
+   "fin": 11.9,
+   "corte": false
+  },
+  {
+   "texto": "quiere",
+   "inicio": 11.9,
+   "fin": 12.34,
+   "corte": false
+  },
+  {
+   "texto": "vender",
+   "inicio": 12.34,
+   "fin": 12.77,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 12.77,
+   "fin": 13.05,
+   "corte": false
+  },
+  {
+   "texto": "acción",
+   "inicio": 13.05,
+   "fin": 13.48,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 13.48,
+   "fin": 13.64,
+   "corte": false
+  },
+  {
+   "texto": "610.000",
+   "inicio": 13.64,
+   "fin": 14.41,
+   "corte": false
+  },
+  {
+   "texto": "yenes.",
+   "inicio": 14.41,
+   "fin": 15.12,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 15.12,
+   "fin": 15.43,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 15.44,
+   "fin": 15.64,
+   "corte": false
+  },
+  {
+   "texto": "equivoca",
+   "inicio": 15.65,
+   "fin": 16.17,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 16.17,
+   "fin": 16.72,
+   "corte": false
+  },
+  {
+   "texto": "casilla.",
+   "inicio": 16.72,
+   "fin": 17.19,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 17.19,
+   "fin": 17.35,
+   "corte": false
+  },
+  {
+   "texto": "vende",
+   "inicio": 17.35,
+   "fin": 17.73,
+   "corte": false
+  },
+  {
+   "texto": "610.000",
+   "inicio": 17.73,
+   "fin": 18.48,
+   "corte": false
+  },
+  {
+   "texto": "acciones",
+   "inicio": 18.48,
+   "fin": 19.01,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.01,
+   "fin": 19.17,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 19.17,
+   "fin": 19.65,
+   "corte": false
+  },
+  {
+   "texto": "yen",
+   "inicio": 19.65,
+   "fin": 19.92,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 19.92,
+   "fin": 20.24,
+   "corte": false
+  },
+  {
+   "texto": "una.",
+   "inicio": 20.58,
+   "fin": 20.84,
+   "corte": true
+  },
+  {
+   "texto": "Es",
+   "inicio": 20.85,
+   "fin": 21.04,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 21.04,
+   "fin": 21.29,
+   "corte": false
+  },
+  {
+   "texto": "locura:",
+   "inicio": 21.29,
+   "fin": 21.69,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 21.69,
+   "fin": 21.89,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 21.89,
+   "fin": 22.33,
+   "corte": false
+  },
+  {
+   "texto": "ni",
+   "inicio": 22.33,
+   "fin": 22.53,
+   "corte": false
+  },
+  {
+   "texto": "siquiera",
+   "inicio": 22.53,
+   "fin": 23.03,
+   "corte": false
+  },
+  {
+   "texto": "tenía",
+   "inicio": 23.03,
+   "fin": 23.37,
+   "corte": false
+  },
+  {
+   "texto": "tantas",
+   "inicio": 23.37,
+   "fin": 23.77,
+   "corte": false
+  },
+  {
+   "texto": "acciones.",
+   "inicio": 23.77,
+   "fin": 24.27,
+   "corte": true
+  },
+  {
+   "texto": "Tenía",
+   "inicio": 24.27,
+   "fin": 24.72,
+   "corte": false
+  },
+  {
+   "texto": "41",
+   "inicio": 24.72,
+   "fin": 25.37,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 25.37,
+   "fin": 25.83,
+   "corte": false
+  },
+  {
+   "texto": "menos.",
+   "inicio": 25.83,
+   "fin": 26.28,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 26.28,
+   "fin": 26.8,
+   "corte": false
+  },
+  {
+   "texto": "sistema",
+   "inicio": 26.8,
+   "fin": 27.25,
+   "corte": false
+  },
+  {
+   "texto": "muestra",
+   "inicio": 27.25,
+   "fin": 27.7,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 27.7,
+   "fin": 27.94,
+   "corte": false
+  },
+  {
+   "texto": "alerta,",
+   "inicio": 27.94,
+   "fin": 28.34,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 28.34,
+   "fin": 28.91,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 28.91,
+   "fin": 29.11,
+   "corte": false
+  },
+  {
+   "texto": "operador",
+   "inicio": 29.11,
+   "fin": 29.6,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.6,
+   "fin": 29.8,
+   "corte": false
+  },
+  {
+   "texto": "ignora.",
+   "inicio": 29.8,
+   "fin": 30.51,
+   "corte": true
+  },
+  {
+   "texto": "Intentan",
+   "inicio": 30.51,
+   "fin": 31.01,
+   "corte": false
+  },
+  {
+   "texto": "cancelar",
+   "inicio": 31.01,
+   "fin": 31.5,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 31.5,
+   "fin": 31.95,
+   "corte": false
+  },
+  {
+   "texto": "orden,",
+   "inicio": 31.95,
+   "fin": 32.3,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 32.3,
+   "fin": 32.45,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 32.45,
+   "fin": 32.64,
+   "corte": false
+  },
+  {
+   "texto": "sistema",
+   "inicio": 32.64,
+   "fin": 33.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.09,
+   "fin": 33.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 33.29,
+   "fin": 33.48,
+   "corte": false
+  },
+  {
+   "texto": "bolsa",
+   "inicio": 33.49,
+   "fin": 34.19,
+   "corte": false
+  },
+  {
+   "texto": "falla.",
+   "inicio": 34.19,
+   "fin": 34.53,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 34.53,
+   "fin": 34.73,
+   "corte": false
+  },
+  {
+   "texto": "minutos,",
+   "inicio": 34.73,
+   "fin": 35.16,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.17,
+   "fin": 35.36,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 35.36,
+   "fin": 35.75,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 35.75,
+   "fin": 35.94,
+   "corte": false
+  },
+  {
+   "texto": "derrumba",
+   "inicio": 35.94,
+   "fin": 36.43,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 36.43,
+   "fin": 36.58,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 36.58,
+   "fin": 36.92,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.92,
+   "fin": 37.11,
+   "corte": false
+  },
+  {
+   "texto": "inversores",
+   "inicio": 37.11,
+   "fin": 37.7,
+   "corte": false
+  },
+  {
+   "texto": "compran",
+   "inicio": 37.7,
+   "fin": 38.13,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 38.14,
+   "fin": 38.28,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 38.28,
+   "fin": 38.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 38.67,
+   "fin": 38.86,
+   "corte": false
+  },
+  {
+   "texto": "ganga.",
+   "inicio": 38.87,
+   "fin": 39.55,
+   "corte": true
+  },
+  {
+   "texto": "Mizuho",
+   "inicio": 39.55,
+   "fin": 40.04,
+   "corte": false
+  },
+  {
+   "texto": "perdió",
+   "inicio": 40.04,
+   "fin": 40.52,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 40.52,
+   "fin": 40.88,
+   "corte": false
+  },
+  {
+   "texto": "340",
+   "inicio": 40.88,
+   "fin": 41.55,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 41.55,
+   "fin": 42.16,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.16,
+   "fin": 42.4,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 42.4,
+   "fin": 42.94,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 42.94,
+   "fin": 43.46,
+   "corte": false
+  },
+  {
+   "texto": "joven",
+   "inicio": 43.46,
+   "fin": 43.82,
+   "corte": false
+  },
+  {
+   "texto": "inversor",
+   "inicio": 43.82,
+   "fin": 44.34,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.34,
+   "fin": 44.54,
+   "corte": false
+  },
+  {
+   "texto": "27",
+   "inicio": 44.55,
+   "fin": 45.06,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 45.06,
+   "fin": 45.37,
+   "corte": false
+  },
+  {
+   "texto": "ganó",
+   "inicio": 45.37,
+   "fin": 45.68,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 45.68,
+   "fin": 45.99,
+   "corte": false
+  },
+  {
+   "texto": "17",
+   "inicio": 45.99,
+   "fin": 46.51,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 46.51,
+   "fin": 47.03,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 47.03,
+   "fin": 47.23,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 47.24,
+   "fin": 47.44,
+   "corte": false
+  },
+  {
+   "texto": "rato.",
+   "inicio": 47.44,
+   "fin": 47.75,
+   "corte": true
+  },
+  {
+   "texto": "Meses",
+   "inicio": 47.75,
+   "fin": 48.49,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 48.49,
+   "fin": 48.93,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 48.93,
+   "fin": 49.13,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 49.13,
+   "fin": 49.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 49.43,
+   "fin": 49.63,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 49.63,
+   "fin": 49.83,
+   "corte": false
+  },
+  {
+   "texto": "bolsa",
+   "inicio": 49.83,
+   "fin": 50.18,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.18,
+   "fin": 50.38,
+   "corte": false
+  },
+  {
+   "texto": "Tokio",
+   "inicio": 50.38,
+   "fin": 50.72,
+   "corte": false
+  },
+  {
+   "texto": "renunció.",
+   "inicio": 50.72,
+   "fin": 51.22,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 51.22,
+   "fin": 51.84,
+   "corte": false
+  },
+  {
+   "texto": "revisas",
+   "inicio": 51.84,
+   "fin": 52.3,
+   "corte": false
+  },
+  {
+   "texto": "dos",
+   "inicio": 52.3,
+   "fin": 52.55,
+   "corte": false
+  },
+  {
+   "texto": "veces",
+   "inicio": 52.55,
+   "fin": 52.91,
+   "corte": false
+  },
+  {
+   "texto": "antes",
+   "inicio": 52.91,
+   "fin": 53.27,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 53.27,
+   "fin": 53.47,
+   "corte": false
+  },
+  {
+   "texto": "pagar?",
+   "inicio": 53.47,
+   "fin": 53.83,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 53.83,
+   "fin": 54.71,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 54.71,
+   "fin": 55.01,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 55.01,
+   "fin": 55.27,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 55.27,
+   "fin": 55.83,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 55.84,
+   "fin": 56.04,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 56.04,
+   "fin": 56.45,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Un error de un dedo costó 340 millones de dólares.",
+   "inicio": 0.0,
+   "fin": 3.85
+  },
+  {
+   "texto": "Tokio, 8 de diciembre de 2005.",
+   "inicio": 3.85,
+   "fin": 7.24
+  },
+  {
+   "texto": "Una empresa sale a bolsa ese día.",
+   "inicio": 7.24,
+   "fin": 10.05
+  },
+  {
+   "texto": "Un operador del banco Mizuho quiere vender una acción a 610.000 yenes.",
+   "inicio": 10.05,
+   "fin": 15.12
+  },
+  {
+   "texto": "Pero se equivoca de casilla.",
+   "inicio": 15.12,
+   "fin": 17.19
+  },
+  {
+   "texto": "Y vende 610.000 acciones a 1 yen cada una.",
+   "inicio": 17.19,
+   "fin": 20.84
+  },
+  {
+   "texto": "Es una locura: la empresa ni siquiera tenía tantas acciones.",
+   "inicio": 20.85,
+   "fin": 24.27
+  },
+  {
+   "texto": "Tenía 41 veces menos.",
+   "inicio": 24.27,
+   "fin": 26.28
+  },
+  {
+   "texto": "El sistema muestra una alerta, pero el operador la ignora.",
+   "inicio": 26.28,
+   "fin": 30.51
+  },
+  {
+   "texto": "Intentan cancelar la orden, y el sistema de la bolsa falla.",
+   "inicio": 30.51,
+   "fin": 34.53
+  },
+  {
+   "texto": "En minutos, el precio se derrumba y miles de inversores compran a precio de ganga.",
+   "inicio": 34.53,
+   "fin": 39.55
+  },
+  {
+   "texto": "Mizuho perdió unos 340 millones de dólares.",
+   "inicio": 39.55,
+   "fin": 42.94
+  },
+  {
+   "texto": "Un joven inversor de 27 años ganó unos 17 millones en un rato.",
+   "inicio": 42.94,
+   "fin": 47.75
+  },
+  {
+   "texto": "Meses después, el jefe de la bolsa de Tokio renunció.",
+   "inicio": 47.75,
+   "fin": 51.22
+  },
+  {
+   "texto": "¿Tú revisas dos veces antes de pagar?",
+   "inicio": 51.22,
+   "fin": 53.83
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 53.83,
+   "fin": 56.45
+  }
+ ],
+ "duracion": 56.45
+}

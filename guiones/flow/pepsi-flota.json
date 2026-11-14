@@ -1,0 +1,929 @@
+{
+ "palabras": [
+  {
+   "texto": "Pepsi",
+   "inicio": 0.0,
+   "fin": 0.35,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 0.35,
+   "fin": 0.69,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 0.7,
+   "fin": 0.84,
+   "corte": false
+  },
+  {
+   "texto": "tener",
+   "inicio": 0.84,
+   "fin": 1.19,
+   "corte": false
+  },
+  {
+   "texto": "submarinos",
+   "inicio": 1.19,
+   "fin": 1.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.79,
+   "fin": 1.98,
+   "corte": false
+  },
+  {
+   "texto": "guerra.",
+   "inicio": 1.99,
+   "fin": 2.38,
+   "corte": true
+  },
+  {
+   "texto": "1959,",
+   "inicio": 2.38,
+   "fin": 4.32,
+   "corte": false
+  },
+  {
+   "texto": "Moscú.",
+   "inicio": 4.32,
+   "fin": 6.01,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 6.01,
+   "fin": 6.19,
+   "corte": false
+  },
+  {
+   "texto": "plena",
+   "inicio": 6.19,
+   "fin": 6.52,
+   "corte": false
+  },
+  {
+   "texto": "Guerra",
+   "inicio": 6.52,
+   "fin": 6.89,
+   "corte": false
+  },
+  {
+   "texto": "Fría,",
+   "inicio": 6.89,
+   "fin": 7.17,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 7.17,
+   "fin": 7.35,
+   "corte": false
+  },
+  {
+   "texto": "vicepresidente",
+   "inicio": 7.35,
+   "fin": 8.1,
+   "corte": false
+  },
+  {
+   "texto": "Nixon",
+   "inicio": 8.1,
+   "fin": 8.42,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 8.42,
+   "fin": 8.61,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 8.61,
+   "fin": 8.8,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 8.8,
+   "fin": 8.93,
+   "corte": false
+  },
+  {
+   "texto": "probar",
+   "inicio": 8.94,
+   "fin": 9.31,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 9.31,
+   "fin": 9.54,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 9.54,
+   "fin": 9.86,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 9.87,
+   "fin": 10.05,
+   "corte": false
+  },
+  {
+   "texto": "líder",
+   "inicio": 10.05,
+   "fin": 10.38,
+   "corte": false
+  },
+  {
+   "texto": "soviético",
+   "inicio": 10.38,
+   "fin": 10.89,
+   "corte": false
+  },
+  {
+   "texto": "Khrushchev.",
+   "inicio": 10.89,
+   "fin": 11.45,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 11.45,
+   "fin": 12.02,
+   "corte": false
+  },
+  {
+   "texto": "foto",
+   "inicio": 12.02,
+   "fin": 12.32,
+   "corte": false
+  },
+  {
+   "texto": "da",
+   "inicio": 12.32,
+   "fin": 12.52,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 12.52,
+   "fin": 12.72,
+   "corte": false
+  },
+  {
+   "texto": "vuelta",
+   "inicio": 12.72,
+   "fin": 13.12,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 13.12,
+   "fin": 13.33,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 13.33,
+   "fin": 13.68,
+   "corte": true
+  },
+  {
+   "texto": "Años",
+   "inicio": 13.68,
+   "fin": 14.45,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 14.45,
+   "fin": 14.88,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 14.89,
+   "fin": 15.22,
+   "corte": false
+  },
+  {
+   "texto": "consigue",
+   "inicio": 15.23,
+   "fin": 15.71,
+   "corte": false
+  },
+  {
+   "texto": "vender",
+   "inicio": 15.71,
+   "fin": 16.1,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 16.1,
+   "fin": 16.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 16.3,
+   "fin": 16.49,
+   "corte": false
+  },
+  {
+   "texto": "Unión",
+   "inicio": 16.49,
+   "fin": 16.83,
+   "corte": false
+  },
+  {
+   "texto": "Soviética.",
+   "inicio": 16.83,
+   "fin": 17.36,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 17.36,
+   "fin": 18.05,
+   "corte": false
+  },
+  {
+   "texto": "había",
+   "inicio": 18.05,
+   "fin": 18.39,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 18.39,
+   "fin": 18.58,
+   "corte": false
+  },
+  {
+   "texto": "problema:",
+   "inicio": 18.58,
+   "fin": 19.47,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 19.47,
+   "fin": 19.67,
+   "corte": false
+  },
+  {
+   "texto": "rublo",
+   "inicio": 19.67,
+   "fin": 20.0,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 20.0,
+   "fin": 20.2,
+   "corte": false
+  },
+  {
+   "texto": "servía",
+   "inicio": 20.2,
+   "fin": 20.58,
+   "corte": false
+  },
+  {
+   "texto": "fuera",
+   "inicio": 20.58,
+   "fin": 20.92,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 20.92,
+   "fin": 21.16,
+   "corte": false
+  },
+  {
+   "texto": "país.",
+   "inicio": 21.16,
+   "fin": 21.45,
+   "corte": true
+  },
+  {
+   "texto": "Así",
+   "inicio": 21.45,
+   "fin": 22.0,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 22.0,
+   "fin": 22.25,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 22.25,
+   "fin": 22.5,
+   "corte": false
+  },
+  {
+   "texto": "soviéticos",
+   "inicio": 22.5,
+   "fin": 23.09,
+   "corte": false
+  },
+  {
+   "texto": "pagaban",
+   "inicio": 23.09,
+   "fin": 23.54,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 23.54,
+   "fin": 23.79,
+   "corte": false
+  },
+  {
+   "texto": "vodka.",
+   "inicio": 23.79,
+   "fin": 24.14,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 24.14,
+   "fin": 24.82,
+   "corte": false
+  },
+  {
+   "texto": "1989",
+   "inicio": 24.82,
+   "fin": 25.58,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 25.58,
+   "fin": 25.83,
+   "corte": false
+  },
+  {
+   "texto": "acuerdo",
+   "inicio": 25.84,
+   "fin": 26.41,
+   "corte": false
+  },
+  {
+   "texto": "creció",
+   "inicio": 26.41,
+   "fin": 26.91,
+   "corte": false
+  },
+  {
+   "texto": "tanto",
+   "inicio": 26.91,
+   "fin": 27.36,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 27.36,
+   "fin": 27.67,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 27.67,
+   "fin": 27.93,
+   "corte": false
+  },
+  {
+   "texto": "vodka",
+   "inicio": 27.93,
+   "fin": 28.37,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 28.37,
+   "fin": 28.62,
+   "corte": false
+  },
+  {
+   "texto": "alcanzaba.",
+   "inicio": 28.62,
+   "fin": 29.32,
+   "corte": true
+  },
+  {
+   "texto": "Entonces",
+   "inicio": 29.32,
+   "fin": 30.16,
+   "corte": false
+  },
+  {
+   "texto": "pagaron",
+   "inicio": 30.16,
+   "fin": 30.6,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 30.6,
+   "fin": 30.84,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 30.84,
+   "fin": 31.13,
+   "corte": false
+  },
+  {
+   "texto": "cosa:",
+   "inicio": 31.13,
+   "fin": 31.42,
+   "corte": false
+  },
+  {
+   "texto": "17",
+   "inicio": 31.42,
+   "fin": 32.27,
+   "corte": false
+  },
+  {
+   "texto": "submarinos",
+   "inicio": 32.27,
+   "fin": 32.85,
+   "corte": false
+  },
+  {
+   "texto": "viejos,",
+   "inicio": 32.85,
+   "fin": 33.23,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 33.23,
+   "fin": 33.42,
+   "corte": false
+  },
+  {
+   "texto": "crucero,",
+   "inicio": 33.43,
+   "fin": 33.86,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 33.86,
+   "fin": 34.1,
+   "corte": false
+  },
+  {
+   "texto": "fragata",
+   "inicio": 34.1,
+   "fin": 34.54,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 34.54,
+   "fin": 34.68,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 34.68,
+   "fin": 34.87,
+   "corte": false
+  },
+  {
+   "texto": "destructor.",
+   "inicio": 34.88,
+   "fin": 35.45,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 35.46,
+   "fin": 35.69,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 35.69,
+   "fin": 35.88,
+   "corte": false
+  },
+  {
+   "texto": "momento,",
+   "inicio": 35.88,
+   "fin": 36.31,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 36.31,
+   "fin": 36.5,
+   "corte": false
+  },
+  {
+   "texto": "dijo",
+   "inicio": 36.5,
+   "fin": 37.17,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 37.17,
+   "fin": 37.41,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 37.41,
+   "fin": 37.74,
+   "corte": false
+  },
+  {
+   "texto": "tenía",
+   "inicio": 37.74,
+   "fin": 38.07,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 38.07,
+   "fin": 38.31,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 38.31,
+   "fin": 38.5,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 38.5,
+   "fin": 38.73,
+   "corte": false
+  },
+  {
+   "texto": "flotas",
+   "inicio": 38.74,
+   "fin": 39.11,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 39.12,
+   "fin": 39.35,
+   "corte": false
+  },
+  {
+   "texto": "grandes",
+   "inicio": 39.35,
+   "fin": 39.78,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 39.78,
+   "fin": 40.02,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 40.02,
+   "fin": 40.35,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 40.35,
+   "fin": 40.54,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 40.54,
+   "fin": 40.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 40.82,
+   "fin": 41.01,
+   "corte": false
+  },
+  {
+   "texto": "Pepsi",
+   "inicio": 41.01,
+   "fin": 41.69,
+   "corte": false
+  },
+  {
+   "texto": "bromeó",
+   "inicio": 41.69,
+   "fin": 42.07,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 42.07,
+   "fin": 42.3,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 42.3,
+   "fin": 42.49,
+   "corte": false
+  },
+  {
+   "texto": "Casa",
+   "inicio": 42.49,
+   "fin": 42.77,
+   "corte": false
+  },
+  {
+   "texto": "Blanca:",
+   "inicio": 42.77,
+   "fin": 43.15,
+   "corte": false
+  },
+  {
+   "texto": "estamos",
+   "inicio": 43.15,
+   "fin": 43.57,
+   "corte": false
+  },
+  {
+   "texto": "desarmando",
+   "inicio": 43.58,
+   "fin": 44.5,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 44.5,
+   "fin": 44.64,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 44.64,
+   "fin": 44.83,
+   "corte": false
+  },
+  {
+   "texto": "Unión",
+   "inicio": 44.83,
+   "fin": 45.16,
+   "corte": false
+  },
+  {
+   "texto": "Soviética",
+   "inicio": 45.16,
+   "fin": 45.68,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 45.68,
+   "fin": 45.91,
+   "corte": false
+  },
+  {
+   "texto": "rápido",
+   "inicio": 45.91,
+   "fin": 46.29,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.29,
+   "fin": 46.53,
+   "corte": false
+  },
+  {
+   "texto": "ustedes.",
+   "inicio": 46.53,
+   "fin": 46.95,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 46.95,
+   "fin": 47.2,
+   "corte": false
+  },
+  {
+   "texto": "barcos",
+   "inicio": 47.2,
+   "fin": 47.98,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 47.98,
+   "fin": 48.18,
+   "corte": false
+  },
+  {
+   "texto": "vendieron",
+   "inicio": 48.18,
+   "fin": 48.73,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 48.73,
+   "fin": 49.03,
+   "corte": false
+  },
+  {
+   "texto": "chatarra.",
+   "inicio": 49.03,
+   "fin": 49.53,
+   "corte": true
+  },
+  {
+   "texto": "¿Sabías",
+   "inicio": 49.53,
+   "fin": 50.34,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 50.34,
+   "fin": 50.58,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 50.58,
+   "fin": 50.78,
+   "corte": false
+  },
+  {
+   "texto": "podía",
+   "inicio": 50.78,
+   "fin": 51.12,
+   "corte": false
+  },
+  {
+   "texto": "pagar",
+   "inicio": 51.12,
+   "fin": 51.46,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 51.46,
+   "fin": 51.66,
+   "corte": false
+  },
+  {
+   "texto": "refresco",
+   "inicio": 51.66,
+   "fin": 52.14,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 52.14,
+   "fin": 52.39,
+   "corte": false
+  },
+  {
+   "texto": "submarinos?",
+   "inicio": 52.39,
+   "fin": 52.97,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 52.97,
+   "fin": 53.78,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 53.78,
+   "fin": 54.08,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 54.08,
+   "fin": 54.33,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 54.33,
+   "fin": 54.88,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 54.88,
+   "fin": 55.08,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 55.08,
+   "fin": 55.48,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Pepsi llegó a tener submarinos de guerra.",
+   "inicio": 0.0,
+   "fin": 2.38
+  },
+  {
+   "texto": "1959, Moscú.",
+   "inicio": 2.38,
+   "fin": 6.01
+  },
+  {
+   "texto": "En plena Guerra Fría, el vicepresidente Nixon le da a probar una Pepsi al líder soviético Khrushchev.",
+   "inicio": 6.01,
+   "fin": 11.45
+  },
+  {
+   "texto": "La foto da la vuelta al mundo.",
+   "inicio": 11.45,
+   "fin": 13.68
+  },
+  {
+   "texto": "Años después, Pepsi consigue vender en la Unión Soviética.",
+   "inicio": 13.68,
+   "fin": 17.36
+  },
+  {
+   "texto": "Pero había un problema: el rublo no servía fuera del país.",
+   "inicio": 17.36,
+   "fin": 21.45
+  },
+  {
+   "texto": "Así que los soviéticos pagaban con vodka.",
+   "inicio": 21.45,
+   "fin": 24.14
+  },
+  {
+   "texto": "En 1989 el acuerdo creció tanto que el vodka no alcanzaba.",
+   "inicio": 24.14,
+   "fin": 29.32
+  },
+  {
+   "texto": "Entonces pagaron con otra cosa: 17 submarinos viejos, un crucero, una fragata y un destructor.",
+   "inicio": 29.32,
+   "fin": 35.45
+  },
+  {
+   "texto": "Por un momento, se dijo que Pepsi tenía una de las flotas más grandes del mundo.",
+   "inicio": 35.46,
+   "fin": 40.35
+  },
+  {
+   "texto": "El jefe de Pepsi bromeó con la Casa Blanca: estamos desarmando a la Unión Soviética más rápido que ustedes.",
+   "inicio": 40.35,
+   "fin": 46.95
+  },
+  {
+   "texto": "Los barcos se vendieron como chatarra.",
+   "inicio": 46.95,
+   "fin": 49.53
+  },
+  {
+   "texto": "¿Sabías que se podía pagar un refresco con submarinos?",
+   "inicio": 49.53,
+   "fin": 52.97
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 52.97,
+   "fin": 55.48
+  }
+ ],
+ "duracion": 55.48
+}

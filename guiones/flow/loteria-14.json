@@ -1,0 +1,962 @@
+{
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.3,
+   "corte": false
+  },
+  {
+   "texto": "hombre",
+   "inicio": 0.3,
+   "fin": 0.7,
+   "corte": false
+  },
+  {
+   "texto": "ganó",
+   "inicio": 0.7,
+   "fin": 1.0,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 1.0,
+   "fin": 1.2,
+   "corte": false
+  },
+  {
+   "texto": "lotería",
+   "inicio": 1.2,
+   "fin": 1.65,
+   "corte": false
+  },
+  {
+   "texto": "14",
+   "inicio": 1.65,
+   "fin": 2.15,
+   "corte": false
+  },
+  {
+   "texto": "veces.",
+   "inicio": 2.15,
+   "fin": 2.5,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 2.5,
+   "fin": 2.67,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 2.67,
+   "fin": 2.89,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 2.89,
+   "fin": 3.53,
+   "corte": false
+  },
+  {
+   "texto": "suerte.",
+   "inicio": 3.53,
+   "fin": 3.97,
+   "corte": true
+  },
+  {
+   "texto": "Stefan",
+   "inicio": 3.98,
+   "fin": 4.39,
+   "corte": false
+  },
+  {
+   "texto": "Mandel",
+   "inicio": 4.39,
+   "fin": 5.21,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 5.22,
+   "fin": 5.47,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 5.47,
+   "fin": 5.68,
+   "corte": false
+  },
+  {
+   "texto": "economista",
+   "inicio": 5.68,
+   "fin": 6.3,
+   "corte": false
+  },
+  {
+   "texto": "rumano.",
+   "inicio": 6.3,
+   "fin": 6.71,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 6.71,
+   "fin": 6.9,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 6.9,
+   "fin": 7.53,
+   "corte": false
+  },
+  {
+   "texto": "hizo",
+   "inicio": 7.53,
+   "fin": 7.82,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 7.82,
+   "fin": 8.07,
+   "corte": false
+  },
+  {
+   "texto": "cuenta",
+   "inicio": 8.07,
+   "fin": 8.46,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 8.46,
+   "fin": 8.7,
+   "corte": false
+  },
+  {
+   "texto": "simple:",
+   "inicio": 8.7,
+   "fin": 9.09,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 9.09,
+   "fin": 9.28,
+   "corte": false
+  },
+  {
+   "texto": "compras",
+   "inicio": 9.28,
+   "fin": 10.12,
+   "corte": false
+  },
+  {
+   "texto": "todas",
+   "inicio": 10.12,
+   "fin": 10.46,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 10.46,
+   "fin": 10.71,
+   "corte": false
+  },
+  {
+   "texto": "combinaciones",
+   "inicio": 10.71,
+   "fin": 11.43,
+   "corte": false
+  },
+  {
+   "texto": "posibles,",
+   "inicio": 11.44,
+   "fin": 11.92,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 11.92,
+   "fin": 12.11,
+   "corte": false
+  },
+  {
+   "texto": "premio",
+   "inicio": 12.12,
+   "fin": 12.5,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 12.5,
+   "fin": 12.7,
+   "corte": false
+  },
+  {
+   "texto": "tuyo",
+   "inicio": 12.7,
+   "fin": 12.99,
+   "corte": false
+  },
+  {
+   "texto": "seguro.",
+   "inicio": 12.99,
+   "fin": 13.38,
+   "corte": true
+  },
+  {
+   "texto": "Solo",
+   "inicio": 13.38,
+   "fin": 13.68,
+   "corte": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 13.68,
+   "fin": 13.97,
+   "corte": false
+  },
+  {
+   "texto": "falta",
+   "inicio": 13.97,
+   "fin": 14.71,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 14.71,
+   "fin": 14.96,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 14.96,
+   "fin": 15.16,
+   "corte": false
+  },
+  {
+   "texto": "premio",
+   "inicio": 15.16,
+   "fin": 15.55,
+   "corte": false
+  },
+  {
+   "texto": "valga",
+   "inicio": 15.55,
+   "fin": 15.9,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 15.9,
+   "fin": 16.15,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 16.15,
+   "fin": 16.39,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 16.39,
+   "fin": 16.74,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 16.74,
+   "fin": 16.99,
+   "corte": false
+  },
+  {
+   "texto": "boletos.",
+   "inicio": 16.99,
+   "fin": 17.43,
+   "corte": true
+  },
+  {
+   "texto": "Empezó",
+   "inicio": 17.43,
+   "fin": 17.85,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.86,
+   "fin": 18.51,
+   "corte": false
+  },
+  {
+   "texto": "Rumanía",
+   "inicio": 18.51,
+   "fin": 18.99,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 18.99,
+   "fin": 19.25,
+   "corte": false
+  },
+  {
+   "texto": "amigos.",
+   "inicio": 19.25,
+   "fin": 19.67,
+   "corte": true
+  },
+  {
+   "texto": "Luego",
+   "inicio": 19.67,
+   "fin": 20.33,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 20.33,
+   "fin": 20.55,
+   "corte": false
+  },
+  {
+   "texto": "mudó",
+   "inicio": 20.55,
+   "fin": 20.88,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 20.88,
+   "fin": 21.04,
+   "corte": false
+  },
+  {
+   "texto": "Australia",
+   "inicio": 21.04,
+   "fin": 21.64,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 21.64,
+   "fin": 21.8,
+   "corte": false
+  },
+  {
+   "texto": "armó",
+   "inicio": 21.8,
+   "fin": 22.13,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 22.13,
+   "fin": 22.34,
+   "corte": false
+  },
+  {
+   "texto": "grupo",
+   "inicio": 22.35,
+   "fin": 22.73,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.73,
+   "fin": 22.94,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 22.94,
+   "fin": 23.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 23.22,
+   "fin": 23.43,
+   "corte": false
+  },
+  {
+   "texto": "2.500",
+   "inicio": 23.43,
+   "fin": 24.08,
+   "corte": false
+  },
+  {
+   "texto": "inversores.",
+   "inicio": 24.09,
+   "fin": 24.74,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 24.74,
+   "fin": 25.39,
+   "corte": false
+  },
+  {
+   "texto": "1992",
+   "inicio": 25.39,
+   "fin": 26.14,
+   "corte": false
+  },
+  {
+   "texto": "encontró",
+   "inicio": 26.14,
+   "fin": 26.77,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 26.77,
+   "fin": 27.03,
+   "corte": false
+  },
+  {
+   "texto": "lotería",
+   "inicio": 27.03,
+   "fin": 27.59,
+   "corte": false
+  },
+  {
+   "texto": "perfecta",
+   "inicio": 27.59,
+   "fin": 28.22,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 28.23,
+   "fin": 28.48,
+   "corte": false
+  },
+  {
+   "texto": "Virginia,",
+   "inicio": 28.48,
+   "fin": 29.11,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 29.11,
+   "fin": 29.68,
+   "corte": false
+  },
+  {
+   "texto": "Unidos.",
+   "inicio": 29.68,
+   "fin": 30.18,
+   "corte": true
+  },
+  {
+   "texto": "Había",
+   "inicio": 30.18,
+   "fin": 30.5,
+   "corte": false
+  },
+  {
+   "texto": "7",
+   "inicio": 30.5,
+   "fin": 31.25,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 31.26,
+   "fin": 31.71,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 31.71,
+   "fin": 31.89,
+   "corte": false
+  },
+  {
+   "texto": "combinaciones,",
+   "inicio": 31.89,
+   "fin": 32.57,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 32.57,
+   "fin": 32.7,
+   "corte": false
+  },
+  {
+   "texto": "1",
+   "inicio": 32.7,
+   "fin": 33.11,
+   "corte": false
+  },
+  {
+   "texto": "dólar",
+   "inicio": 33.11,
+   "fin": 33.42,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 33.43,
+   "fin": 33.7,
+   "corte": false
+  },
+  {
+   "texto": "una.",
+   "inicio": 33.7,
+   "fin": 33.92,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 33.92,
+   "fin": 34.08,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 34.08,
+   "fin": 34.29,
+   "corte": false
+  },
+  {
+   "texto": "premio",
+   "inicio": 34.29,
+   "fin": 35.08,
+   "corte": false
+  },
+  {
+   "texto": "había",
+   "inicio": 35.08,
+   "fin": 35.45,
+   "corte": false
+  },
+  {
+   "texto": "crecido",
+   "inicio": 35.45,
+   "fin": 35.93,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 35.93,
+   "fin": 36.3,
+   "corte": false
+  },
+  {
+   "texto": "27",
+   "inicio": 36.3,
+   "fin": 36.83,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 36.83,
+   "fin": 37.36,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 37.36,
+   "fin": 37.56,
+   "corte": false
+  },
+  {
+   "texto": "equipo",
+   "inicio": 37.56,
+   "fin": 37.96,
+   "corte": false
+  },
+  {
+   "texto": "imprimió",
+   "inicio": 37.96,
+   "fin": 38.87,
+   "corte": false
+  },
+  {
+   "texto": "boletos",
+   "inicio": 38.87,
+   "fin": 39.32,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 39.32,
+   "fin": 39.57,
+   "corte": false
+  },
+  {
+   "texto": "parar",
+   "inicio": 39.57,
+   "fin": 39.93,
+   "corte": false
+  },
+  {
+   "texto": "durante",
+   "inicio": 39.93,
+   "fin": 40.38,
+   "corte": false
+  },
+  {
+   "texto": "días.",
+   "inicio": 40.38,
+   "fin": 40.68,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 40.68,
+   "fin": 40.87,
+   "corte": false
+  },
+  {
+   "texto": "les",
+   "inicio": 40.88,
+   "fin": 41.12,
+   "corte": false
+  },
+  {
+   "texto": "dio",
+   "inicio": 41.12,
+   "fin": 41.36,
+   "corte": false
+  },
+  {
+   "texto": "tiempo",
+   "inicio": 41.36,
+   "fin": 42.07,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.07,
+   "fin": 42.26,
+   "corte": false
+  },
+  {
+   "texto": "comprarlos",
+   "inicio": 42.26,
+   "fin": 42.84,
+   "corte": false
+  },
+  {
+   "texto": "todos,",
+   "inicio": 42.84,
+   "fin": 43.18,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 43.18,
+   "fin": 43.47,
+   "corte": false
+  },
+  {
+   "texto": "sí",
+   "inicio": 43.47,
+   "fin": 43.66,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 43.66,
+   "fin": 43.95,
+   "corte": false
+  },
+  {
+   "texto": "5",
+   "inicio": 43.95,
+   "fin": 44.38,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 44.38,
+   "fin": 44.86,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 44.86,
+   "fin": 45.03,
+   "corte": false
+  },
+  {
+   "texto": "salió",
+   "inicio": 45.03,
+   "fin": 45.42,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 45.42,
+   "fin": 45.64,
+   "corte": false
+  },
+  {
+   "texto": "número.",
+   "inicio": 45.64,
+   "fin": 46.43,
+   "corte": true
+  },
+  {
+   "texto": "Era",
+   "inicio": 46.43,
+   "fin": 46.75,
+   "corte": false
+  },
+  {
+   "texto": "legal.",
+   "inicio": 46.75,
+   "fin": 47.58,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 47.58,
+   "fin": 47.87,
+   "corte": false
+  },
+  {
+   "texto": "después",
+   "inicio": 47.87,
+   "fin": 48.71,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 48.71,
+   "fin": 48.9,
+   "corte": false
+  },
+  {
+   "texto": "él,",
+   "inicio": 48.9,
+   "fin": 49.1,
+   "corte": false
+  },
+  {
+   "texto": "muchas",
+   "inicio": 49.1,
+   "fin": 49.49,
+   "corte": false
+  },
+  {
+   "texto": "loterías",
+   "inicio": 49.49,
+   "fin": 49.98,
+   "corte": false
+  },
+  {
+   "texto": "cambiaron",
+   "inicio": 49.98,
+   "fin": 50.52,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 50.52,
+   "fin": 50.77,
+   "corte": false
+  },
+  {
+   "texto": "reglas",
+   "inicio": 50.77,
+   "fin": 51.16,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.16,
+   "fin": 51.45,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 51.45,
+   "fin": 51.7,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 51.7,
+   "fin": 52.04,
+   "corte": false
+  },
+  {
+   "texto": "pudiera",
+   "inicio": 52.04,
+   "fin": 52.48,
+   "corte": false
+  },
+  {
+   "texto": "repetirlo.",
+   "inicio": 52.48,
+   "fin": 53.02,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 53.02,
+   "fin": 53.23,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 53.23,
+   "fin": 54.13,
+   "corte": false
+  },
+  {
+   "texto": "invertido",
+   "inicio": 54.13,
+   "fin": 54.71,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 54.71,
+   "fin": 54.98,
+   "corte": false
+  },
+  {
+   "texto": "él?",
+   "inicio": 54.98,
+   "fin": 55.59,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 55.59,
+   "fin": 56.05,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 56.06,
+   "fin": 56.36,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 56.37,
+   "fin": 56.62,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 56.62,
+   "fin": 57.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 57.19,
+   "fin": 57.4,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 57.4,
+   "fin": 57.81,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Este hombre ganó la lotería 14 veces.",
+   "inicio": 0.0,
+   "fin": 2.5
+  },
+  {
+   "texto": "Y no fue suerte.",
+   "inicio": 2.5,
+   "fin": 3.97
+  },
+  {
+   "texto": "Stefan Mandel era un economista rumano.",
+   "inicio": 3.98,
+   "fin": 6.71
+  },
+  {
+   "texto": "Un día hizo una cuenta muy simple: si compras todas las combinaciones posibles, el premio es tuyo seguro.",
+   "inicio": 6.71,
+   "fin": 13.38
+  },
+  {
+   "texto": "Solo hace falta que el premio valga más que todos los boletos.",
+   "inicio": 13.38,
+   "fin": 17.43
+  },
+  {
+   "texto": "Empezó en Rumanía con amigos.",
+   "inicio": 17.43,
+   "fin": 19.67
+  },
+  {
+   "texto": "Luego se mudó a Australia y armó un grupo de más de 2.500 inversores.",
+   "inicio": 19.67,
+   "fin": 24.74
+  },
+  {
+   "texto": "En 1992 encontró la lotería perfecta en Virginia, Estados Unidos.",
+   "inicio": 24.74,
+   "fin": 30.18
+  },
+  {
+   "texto": "Había 7 millones de combinaciones, a 1 dólar cada una.",
+   "inicio": 30.18,
+   "fin": 33.92
+  },
+  {
+   "texto": "Y el premio había crecido hasta 27 millones.",
+   "inicio": 33.92,
+   "fin": 37.36
+  },
+  {
+   "texto": "Su equipo imprimió boletos sin parar durante días.",
+   "inicio": 37.36,
+   "fin": 40.68
+  },
+  {
+   "texto": "No les dio tiempo de comprarlos todos, pero sí unos 5 millones.",
+   "inicio": 40.68,
+   "fin": 44.86
+  },
+  {
+   "texto": "Y salió su número.",
+   "inicio": 44.86,
+   "fin": 46.43
+  },
+  {
+   "texto": "Era legal.",
+   "inicio": 46.43,
+   "fin": 47.58
+  },
+  {
+   "texto": "Pero después de él, muchas loterías cambiaron sus reglas para que nadie pudiera repetirlo.",
+   "inicio": 47.58,
+   "fin": 53.02
+  },
+  {
+   "texto": "¿Tú habrías invertido con él?",
+   "inicio": 53.02,
+   "fin": 55.59
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 55.59,
+   "fin": 57.81
+  }
+ ],
+ "duracion": 57.81
+}

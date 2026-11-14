@@ -1,0 +1,948 @@
+{
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.3,
+   "corte": false
+  },
+  {
+   "texto": "rey",
+   "inicio": 0.3,
+   "fin": 0.54,
+   "corte": false
+  },
+  {
+   "texto": "regaló",
+   "inicio": 0.54,
+   "fin": 0.94,
+   "corte": false
+  },
+  {
+   "texto": "tanto",
+   "inicio": 0.94,
+   "fin": 1.28,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 1.29,
+   "fin": 1.53,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.53,
+   "fin": 1.78,
+   "corte": false
+  },
+  {
+   "texto": "arruinó",
+   "inicio": 1.78,
+   "fin": 2.22,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 2.22,
+   "fin": 2.47,
+   "corte": false
+  },
+  {
+   "texto": "ciudad.",
+   "inicio": 2.47,
+   "fin": 2.87,
+   "corte": true
+  },
+  {
+   "texto": "1324.",
+   "inicio": 2.87,
+   "fin": 5.06,
+   "corte": true
+  },
+  {
+   "texto": "Mansa",
+   "inicio": 5.07,
+   "fin": 5.4,
+   "corte": false
+  },
+  {
+   "texto": "Musa",
+   "inicio": 5.4,
+   "fin": 6.2,
+   "corte": false
+  },
+  {
+   "texto": "gobierna",
+   "inicio": 6.21,
+   "fin": 6.68,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 6.68,
+   "fin": 6.87,
+   "corte": false
+  },
+  {
+   "texto": "Imperio",
+   "inicio": 6.87,
+   "fin": 7.29,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 7.29,
+   "fin": 7.48,
+   "corte": false
+  },
+  {
+   "texto": "Mali,",
+   "inicio": 7.48,
+   "fin": 7.77,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 7.77,
+   "fin": 7.96,
+   "corte": false
+  },
+  {
+   "texto": "África",
+   "inicio": 7.96,
+   "fin": 8.33,
+   "corte": false
+  },
+  {
+   "texto": "occidental,",
+   "inicio": 8.34,
+   "fin": 8.9,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 8.9,
+   "fin": 9.04,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 9.05,
+   "fin": 9.23,
+   "corte": false
+  },
+  {
+   "texto": "dueño",
+   "inicio": 9.24,
+   "fin": 9.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.57,
+   "fin": 10.01,
+   "corte": false
+  },
+  {
+   "texto": "algunas",
+   "inicio": 10.01,
+   "fin": 10.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.43,
+   "fin": 10.62,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 10.62,
+   "fin": 10.86,
+   "corte": false
+  },
+  {
+   "texto": "minas",
+   "inicio": 10.86,
+   "fin": 11.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.19,
+   "fin": 11.38,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 11.38,
+   "fin": 11.62,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 11.62,
+   "fin": 11.85,
+   "corte": false
+  },
+  {
+   "texto": "grandes",
+   "inicio": 11.85,
+   "fin": 12.28,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 12.28,
+   "fin": 12.52,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 12.52,
+   "fin": 12.85,
+   "corte": true
+  },
+  {
+   "texto": "Decide",
+   "inicio": 12.85,
+   "fin": 13.26,
+   "corte": false
+  },
+  {
+   "texto": "peregrinar",
+   "inicio": 13.26,
+   "fin": 14.28,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 14.28,
+   "fin": 14.44,
+   "corte": false
+  },
+  {
+   "texto": "La",
+   "inicio": 14.44,
+   "fin": 14.64,
+   "corte": false
+  },
+  {
+   "texto": "Meca.",
+   "inicio": 14.65,
+   "fin": 14.96,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 14.96,
+   "fin": 15.24,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 15.24,
+   "fin": 15.43,
+   "corte": false
+  },
+  {
+   "texto": "viaja",
+   "inicio": 15.44,
+   "fin": 16.13,
+   "corte": false
+  },
+  {
+   "texto": "solo:",
+   "inicio": 16.13,
+   "fin": 16.42,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 16.42,
+   "fin": 16.61,
+   "corte": false
+  },
+  {
+   "texto": "acompañan",
+   "inicio": 16.61,
+   "fin": 17.59,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 17.59,
+   "fin": 17.92,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.93,
+   "fin": 18.12,
+   "corte": false
+  },
+  {
+   "texto": "personas",
+   "inicio": 18.12,
+   "fin": 18.59,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 18.6,
+   "fin": 18.74,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 18.74,
+   "fin": 18.98,
+   "corte": false
+  },
+  {
+   "texto": "caravana",
+   "inicio": 18.98,
+   "fin": 19.46,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.46,
+   "fin": 19.65,
+   "corte": false
+  },
+  {
+   "texto": "camellos",
+   "inicio": 19.65,
+   "fin": 20.13,
+   "corte": false
+  },
+  {
+   "texto": "cargados",
+   "inicio": 20.13,
+   "fin": 20.6,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 20.61,
+   "fin": 20.8,
+   "corte": false
+  },
+  {
+   "texto": "oro.",
+   "inicio": 20.8,
+   "fin": 21.04,
+   "corte": true
+  },
+  {
+   "texto": "Al",
+   "inicio": 21.04,
+   "fin": 21.23,
+   "corte": false
+  },
+  {
+   "texto": "pasar",
+   "inicio": 21.23,
+   "fin": 21.56,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 21.56,
+   "fin": 22.17,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 22.17,
+   "fin": 22.36,
+   "corte": false
+  },
+  {
+   "texto": "Cairo,",
+   "inicio": 22.36,
+   "fin": 22.69,
+   "corte": false
+  },
+  {
+   "texto": "regala",
+   "inicio": 22.69,
+   "fin": 23.07,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 23.07,
+   "fin": 23.31,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 23.31,
+   "fin": 23.45,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 23.45,
+   "fin": 23.74,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 23.74,
+   "fin": 23.93,
+   "corte": false
+  },
+  {
+   "texto": "mundo:",
+   "inicio": 23.93,
+   "fin": 24.26,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 24.26,
+   "fin": 24.4,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 24.4,
+   "fin": 24.64,
+   "corte": false
+  },
+  {
+   "texto": "pobres,",
+   "inicio": 24.64,
+   "fin": 25.33,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 25.33,
+   "fin": 25.47,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 25.47,
+   "fin": 25.71,
+   "corte": false
+  },
+  {
+   "texto": "funcionarios,",
+   "inicio": 25.71,
+   "fin": 26.37,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 26.38,
+   "fin": 26.52,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 26.52,
+   "fin": 26.76,
+   "corte": false
+  },
+  {
+   "texto": "comerciantes.",
+   "inicio": 26.76,
+   "fin": 27.42,
+   "corte": true
+  },
+  {
+   "texto": "Hay",
+   "inicio": 27.42,
+   "fin": 27.67,
+   "corte": false
+  },
+  {
+   "texto": "tanto",
+   "inicio": 27.67,
+   "fin": 28.01,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 28.02,
+   "fin": 28.67,
+   "corte": false
+  },
+  {
+   "texto": "circulando",
+   "inicio": 28.67,
+   "fin": 29.27,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 29.27,
+   "fin": 29.51,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 29.51,
+   "fin": 29.71,
+   "corte": false
+  },
+  {
+   "texto": "valor",
+   "inicio": 29.71,
+   "fin": 30.06,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 30.06,
+   "fin": 30.25,
+   "corte": false
+  },
+  {
+   "texto": "desploma.",
+   "inicio": 30.25,
+   "fin": 30.75,
+   "corte": true
+  },
+  {
+   "texto": "Según",
+   "inicio": 30.75,
+   "fin": 31.08,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 31.08,
+   "fin": 31.32,
+   "corte": false
+  },
+  {
+   "texto": "cronistas,",
+   "inicio": 31.32,
+   "fin": 32.22,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 32.22,
+   "fin": 32.41,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 32.41,
+   "fin": 32.8,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 32.8,
+   "fin": 33.04,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 33.04,
+   "fin": 33.28,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 33.28,
+   "fin": 33.47,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 33.47,
+   "fin": 33.66,
+   "corte": false
+  },
+  {
+   "texto": "Cairo",
+   "inicio": 33.66,
+   "fin": 34.0,
+   "corte": false
+  },
+  {
+   "texto": "tardó",
+   "inicio": 34.0,
+   "fin": 34.33,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 34.33,
+   "fin": 34.62,
+   "corte": false
+  },
+  {
+   "texto": "doce",
+   "inicio": 34.62,
+   "fin": 34.91,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 34.91,
+   "fin": 35.19,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 35.2,
+   "fin": 35.39,
+   "corte": false
+  },
+  {
+   "texto": "recuperarse.",
+   "inicio": 35.39,
+   "fin": 36.01,
+   "corte": true
+  },
+  {
+   "texto": "Para",
+   "inicio": 36.01,
+   "fin": 36.3,
+   "corte": false
+  },
+  {
+   "texto": "arreglarlo,",
+   "inicio": 36.3,
+   "fin": 37.26,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 37.26,
+   "fin": 37.45,
+   "corte": false
+  },
+  {
+   "texto": "volver,",
+   "inicio": 37.45,
+   "fin": 37.83,
+   "corte": false
+  },
+  {
+   "texto": "Mansa",
+   "inicio": 37.83,
+   "fin": 38.17,
+   "corte": false
+  },
+  {
+   "texto": "Musa",
+   "inicio": 38.17,
+   "fin": 38.46,
+   "corte": false
+  },
+  {
+   "texto": "pidió",
+   "inicio": 38.46,
+   "fin": 39.11,
+   "corte": false
+  },
+  {
+   "texto": "oro",
+   "inicio": 39.11,
+   "fin": 39.35,
+   "corte": false
+  },
+  {
+   "texto": "prestado",
+   "inicio": 39.35,
+   "fin": 39.83,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 39.83,
+   "fin": 39.97,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 39.97,
+   "fin": 40.21,
+   "corte": false
+  },
+  {
+   "texto": "prestamistas",
+   "inicio": 40.21,
+   "fin": 40.88,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 40.89,
+   "fin": 41.08,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 41.08,
+   "fin": 41.27,
+   "corte": false
+  },
+  {
+   "texto": "ciudad.",
+   "inicio": 41.27,
+   "fin": 41.65,
+   "corte": true
+  },
+  {
+   "texto": "Muchos",
+   "inicio": 41.65,
+   "fin": 42.04,
+   "corte": false
+  },
+  {
+   "texto": "historiadores",
+   "inicio": 42.04,
+   "fin": 43.12,
+   "corte": false
+  },
+  {
+   "texto": "dicen",
+   "inicio": 43.12,
+   "fin": 43.46,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 43.46,
+   "fin": 43.7,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 43.7,
+   "fin": 43.94,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 43.94,
+   "fin": 44.14,
+   "corte": false
+  },
+  {
+   "texto": "persona",
+   "inicio": 44.14,
+   "fin": 44.57,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 44.57,
+   "fin": 44.82,
+   "corte": false
+  },
+  {
+   "texto": "rica",
+   "inicio": 44.82,
+   "fin": 45.11,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 45.11,
+   "fin": 45.3,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 45.3,
+   "fin": 45.5,
+   "corte": false
+  },
+  {
+   "texto": "historia.",
+   "inicio": 45.5,
+   "fin": 45.98,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 45.98,
+   "fin": 46.53,
+   "corte": false
+  },
+  {
+   "texto": "fortuna",
+   "inicio": 46.54,
+   "fin": 46.99,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 46.99,
+   "fin": 47.19,
+   "corte": false
+  },
+  {
+   "texto": "imposible",
+   "inicio": 47.2,
+   "fin": 47.75,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 47.75,
+   "fin": 47.96,
+   "corte": false
+  },
+  {
+   "texto": "calcular.",
+   "inicio": 47.96,
+   "fin": 48.46,
+   "corte": true
+  },
+  {
+   "texto": "¿Qué",
+   "inicio": 48.46,
+   "fin": 48.72,
+   "corte": false
+  },
+  {
+   "texto": "harías",
+   "inicio": 48.72,
+   "fin": 49.59,
+   "corte": false
+  },
+  {
+   "texto": "tú",
+   "inicio": 49.59,
+   "fin": 49.8,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 49.8,
+   "fin": 50.06,
+   "corte": false
+  },
+  {
+   "texto": "tanto",
+   "inicio": 50.06,
+   "fin": 50.42,
+   "corte": false
+  },
+  {
+   "texto": "oro?",
+   "inicio": 50.42,
+   "fin": 50.67,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 50.68,
+   "fin": 51.59,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.59,
+   "fin": 51.9,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 51.9,
+   "fin": 52.15,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 52.15,
+   "fin": 52.71,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 52.71,
+   "fin": 52.91,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 52.91,
+   "fin": 53.32,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Este rey regaló tanto oro que arruinó una ciudad.",
+   "inicio": 0.0,
+   "fin": 2.87
+  },
+  {
+   "texto": "1324.",
+   "inicio": 2.87,
+   "fin": 5.06
+  },
+  {
+   "texto": "Mansa Musa gobierna el Imperio de Mali, en África occidental, y es dueño de algunas de las minas de oro más grandes del mundo.",
+   "inicio": 5.07,
+   "fin": 12.85
+  },
+  {
+   "texto": "Decide peregrinar a La Meca.",
+   "inicio": 12.85,
+   "fin": 14.96
+  },
+  {
+   "texto": "Pero no viaja solo: lo acompañan miles de personas y una caravana de camellos cargados de oro.",
+   "inicio": 14.96,
+   "fin": 21.04
+  },
+  {
+   "texto": "Al pasar por El Cairo, regala oro a todo el mundo: a los pobres, a los funcionarios, a los comerciantes.",
+   "inicio": 21.04,
+   "fin": 27.42
+  },
+  {
+   "texto": "Hay tanto oro circulando que su valor se desploma.",
+   "inicio": 27.42,
+   "fin": 30.75
+  },
+  {
+   "texto": "Según los cronistas, el precio del oro en El Cairo tardó unos doce años en recuperarse.",
+   "inicio": 30.75,
+   "fin": 36.01
+  },
+  {
+   "texto": "Para arreglarlo, al volver, Mansa Musa pidió oro prestado a los prestamistas de la ciudad.",
+   "inicio": 36.01,
+   "fin": 41.65
+  },
+  {
+   "texto": "Muchos historiadores dicen que fue la persona más rica de la historia.",
+   "inicio": 41.65,
+   "fin": 45.98
+  },
+  {
+   "texto": "Su fortuna es imposible de calcular.",
+   "inicio": 45.98,
+   "fin": 48.46
+  },
+  {
+   "texto": "¿Qué harías tú con tanto oro?",
+   "inicio": 48.46,
+   "fin": 50.67
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 50.68,
+   "fin": 53.32
+  }
+ ],
+ "duracion": 53.32
+}

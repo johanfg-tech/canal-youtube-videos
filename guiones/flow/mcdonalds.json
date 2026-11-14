@@ -1,0 +1,921 @@
+{
+ "palabras": [
+  {
+   "texto": "Un",
+   "inicio": 0.0,
+   "fin": 0.19,
+   "corte": false
+  },
+  {
+   "texto": "apretón",
+   "inicio": 0.19,
+   "fin": 0.61,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 0.61,
+   "fin": 0.8,
+   "corte": false
+  },
+  {
+   "texto": "manos",
+   "inicio": 0.8,
+   "fin": 1.12,
+   "corte": false
+  },
+  {
+   "texto": "les",
+   "inicio": 1.13,
+   "fin": 1.36,
+   "corte": false
+  },
+  {
+   "texto": "costó",
+   "inicio": 1.36,
+   "fin": 1.69,
+   "corte": false
+  },
+  {
+   "texto": "McDonald's",
+   "inicio": 1.69,
+   "fin": 2.2,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 2.2,
+   "fin": 2.34,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 2.34,
+   "fin": 2.58,
+   "corte": false
+  },
+  {
+   "texto": "hermanos",
+   "inicio": 2.58,
+   "fin": 3.05,
+   "corte": false
+  },
+  {
+   "texto": "McDonald.",
+   "inicio": 3.05,
+   "fin": 3.51,
+   "corte": true
+  },
+  {
+   "texto": "California,",
+   "inicio": 3.52,
+   "fin": 5.12,
+   "corte": false
+  },
+  {
+   "texto": "1948.",
+   "inicio": 5.12,
+   "fin": 6.31,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 6.31,
+   "fin": 6.54,
+   "corte": false
+  },
+  {
+   "texto": "hermanos",
+   "inicio": 6.54,
+   "fin": 7.48,
+   "corte": false
+  },
+  {
+   "texto": "Richard",
+   "inicio": 7.48,
+   "fin": 7.89,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 7.89,
+   "fin": 8.03,
+   "corte": false
+  },
+  {
+   "texto": "Maurice",
+   "inicio": 8.03,
+   "fin": 8.44,
+   "corte": false
+  },
+  {
+   "texto": "McDonald",
+   "inicio": 8.44,
+   "fin": 8.9,
+   "corte": false
+  },
+  {
+   "texto": "inventan",
+   "inicio": 8.9,
+   "fin": 9.36,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 9.36,
+   "fin": 9.59,
+   "corte": false
+  },
+  {
+   "texto": "forma",
+   "inicio": 9.59,
+   "fin": 9.91,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.91,
+   "fin": 10.1,
+   "corte": false
+  },
+  {
+   "texto": "hacer",
+   "inicio": 10.1,
+   "fin": 10.42,
+   "corte": false
+  },
+  {
+   "texto": "hamburguesas",
+   "inicio": 10.42,
+   "fin": 11.06,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 11.06,
+   "fin": 11.24,
+   "corte": false
+  },
+  {
+   "texto": "segundos,",
+   "inicio": 11.24,
+   "fin": 11.7,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 11.7,
+   "fin": 11.98,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 11.98,
+   "fin": 12.42,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 12.42,
+   "fin": 12.65,
+   "corte": false
+  },
+  {
+   "texto": "fábrica.",
+   "inicio": 12.65,
+   "fin": 13.06,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 13.06,
+   "fin": 13.75,
+   "corte": false
+  },
+  {
+   "texto": "1954",
+   "inicio": 13.75,
+   "fin": 14.55,
+   "corte": false
+  },
+  {
+   "texto": "llega",
+   "inicio": 14.55,
+   "fin": 15.02,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 15.02,
+   "fin": 15.29,
+   "corte": false
+  },
+  {
+   "texto": "vendedor",
+   "inicio": 15.29,
+   "fin": 15.96,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.96,
+   "fin": 16.23,
+   "corte": false
+  },
+  {
+   "texto": "batidoras:",
+   "inicio": 16.23,
+   "fin": 17.29,
+   "corte": false
+  },
+  {
+   "texto": "Ray",
+   "inicio": 17.29,
+   "fin": 17.62,
+   "corte": false
+  },
+  {
+   "texto": "Kroc.",
+   "inicio": 17.62,
+   "fin": 18.36,
+   "corte": true
+  },
+  {
+   "texto": "Ve",
+   "inicio": 18.36,
+   "fin": 18.55,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 18.55,
+   "fin": 18.8,
+   "corte": false
+  },
+  {
+   "texto": "filas",
+   "inicio": 18.8,
+   "fin": 19.14,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 19.15,
+   "fin": 19.29,
+   "corte": false
+  },
+  {
+   "texto": "queda",
+   "inicio": 19.29,
+   "fin": 19.64,
+   "corte": false
+  },
+  {
+   "texto": "fascinado.",
+   "inicio": 19.64,
+   "fin": 20.18,
+   "corte": true
+  },
+  {
+   "texto": "Les",
+   "inicio": 20.18,
+   "fin": 20.81,
+   "corte": false
+  },
+  {
+   "texto": "propone",
+   "inicio": 20.81,
+   "fin": 21.23,
+   "corte": false
+  },
+  {
+   "texto": "abrir",
+   "inicio": 21.23,
+   "fin": 21.56,
+   "corte": false
+  },
+  {
+   "texto": "restaurantes",
+   "inicio": 21.56,
+   "fin": 22.21,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 22.21,
+   "fin": 22.45,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 22.45,
+   "fin": 22.72,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 22.73,
+   "fin": 22.91,
+   "corte": false
+  },
+  {
+   "texto": "país,",
+   "inicio": 22.91,
+   "fin": 23.19,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 23.19,
+   "fin": 23.62,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 23.62,
+   "fin": 23.86,
+   "corte": false
+  },
+  {
+   "texto": "hermanos",
+   "inicio": 23.86,
+   "fin": 24.32,
+   "corte": false
+  },
+  {
+   "texto": "aceptan.",
+   "inicio": 24.32,
+   "fin": 24.74,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 24.74,
+   "fin": 25.42,
+   "corte": false
+  },
+  {
+   "texto": "Kroc",
+   "inicio": 25.42,
+   "fin": 25.73,
+   "corte": false
+  },
+  {
+   "texto": "quiere",
+   "inicio": 25.73,
+   "fin": 26.14,
+   "corte": false
+  },
+  {
+   "texto": "más.",
+   "inicio": 26.14,
+   "fin": 26.4,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 26.4,
+   "fin": 26.66,
+   "corte": false
+  },
+  {
+   "texto": "1961",
+   "inicio": 26.66,
+   "fin": 27.75,
+   "corte": false
+  },
+  {
+   "texto": "les",
+   "inicio": 27.75,
+   "fin": 28.07,
+   "corte": false
+  },
+  {
+   "texto": "compra",
+   "inicio": 28.08,
+   "fin": 28.59,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 28.6,
+   "fin": 28.85,
+   "corte": false
+  },
+  {
+   "texto": "marca",
+   "inicio": 28.86,
+   "fin": 29.31,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 29.31,
+   "fin": 29.63,
+   "corte": false
+  },
+  {
+   "texto": "2,7",
+   "inicio": 29.64,
+   "fin": 30.29,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 30.29,
+   "fin": 30.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.94,
+   "fin": 31.2,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 31.2,
+   "fin": 31.78,
+   "corte": true
+  },
+  {
+   "texto": "Según",
+   "inicio": 31.78,
+   "fin": 32.12,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 32.12,
+   "fin": 32.65,
+   "corte": false
+  },
+  {
+   "texto": "familia,",
+   "inicio": 32.65,
+   "fin": 33.08,
+   "corte": false
+  },
+  {
+   "texto": "además",
+   "inicio": 33.08,
+   "fin": 33.47,
+   "corte": false
+  },
+  {
+   "texto": "prometieron",
+   "inicio": 33.47,
+   "fin": 34.1,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 34.11,
+   "fin": 34.35,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 34.35,
+   "fin": 34.54,
+   "corte": false
+  },
+  {
+   "texto": "apretón",
+   "inicio": 34.54,
+   "fin": 34.98,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 34.98,
+   "fin": 35.17,
+   "corte": false
+  },
+  {
+   "texto": "manos",
+   "inicio": 35.18,
+   "fin": 35.51,
+   "corte": false
+  },
+  {
+   "texto": "pagarles",
+   "inicio": 35.52,
+   "fin": 36.0,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 36.0,
+   "fin": 36.2,
+   "corte": false
+  },
+  {
+   "texto": "0,5",
+   "inicio": 36.2,
+   "fin": 36.68,
+   "corte": false
+  },
+  {
+   "texto": "%",
+   "inicio": 36.68,
+   "fin": 36.78,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.78,
+   "fin": 36.97,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 36.97,
+   "fin": 37.22,
+   "corte": false
+  },
+  {
+   "texto": "ventas",
+   "inicio": 37.22,
+   "fin": 37.61,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 37.61,
+   "fin": 37.9,
+   "corte": false
+  },
+  {
+   "texto": "siempre.",
+   "inicio": 37.9,
+   "fin": 38.33,
+   "corte": true
+  },
+  {
+   "texto": "Nunca",
+   "inicio": 38.34,
+   "fin": 38.72,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 38.72,
+   "fin": 38.93,
+   "corte": false
+  },
+  {
+   "texto": "firmó.",
+   "inicio": 38.93,
+   "fin": 39.71,
+   "corte": true
+  },
+  {
+   "texto": "Nunca",
+   "inicio": 39.71,
+   "fin": 40.1,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 40.1,
+   "fin": 40.67,
+   "corte": false
+  },
+  {
+   "texto": "pagó.",
+   "inicio": 40.67,
+   "fin": 41.0,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 41.0,
+   "fin": 41.23,
+   "corte": false
+  },
+  {
+   "texto": "eso",
+   "inicio": 41.23,
+   "fin": 41.84,
+   "corte": false
+  },
+  {
+   "texto": "serían",
+   "inicio": 41.84,
+   "fin": 42.21,
+   "corte": false
+  },
+  {
+   "texto": "cientos",
+   "inicio": 42.21,
+   "fin": 42.64,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.64,
+   "fin": 42.83,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 42.83,
+   "fin": 43.3,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 43.3,
+   "fin": 43.49,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 43.49,
+   "fin": 43.91,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 43.91,
+   "fin": 44.1,
+   "corte": false
+  },
+  {
+   "texto": "año.",
+   "inicio": 44.1,
+   "fin": 44.34,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 44.34,
+   "fin": 44.48,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 44.48,
+   "fin": 44.75,
+   "corte": false
+  },
+  {
+   "texto": "colmo,",
+   "inicio": 44.76,
+   "fin": 45.43,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 45.44,
+   "fin": 45.67,
+   "corte": false
+  },
+  {
+   "texto": "hermanos",
+   "inicio": 45.67,
+   "fin": 46.13,
+   "corte": false
+  },
+  {
+   "texto": "tuvieron",
+   "inicio": 46.13,
+   "fin": 46.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 46.59,
+   "fin": 46.82,
+   "corte": false
+  },
+  {
+   "texto": "quitar",
+   "inicio": 46.83,
+   "fin": 47.2,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 47.2,
+   "fin": 47.38,
+   "corte": false
+  },
+  {
+   "texto": "apellido",
+   "inicio": 47.38,
+   "fin": 47.84,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 47.85,
+   "fin": 48.03,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 48.03,
+   "fin": 48.21,
+   "corte": false
+  },
+  {
+   "texto": "propio",
+   "inicio": 48.22,
+   "fin": 48.59,
+   "corte": false
+  },
+  {
+   "texto": "restaurante.",
+   "inicio": 48.59,
+   "fin": 49.19,
+   "corte": true
+  },
+  {
+   "texto": "Kroc",
+   "inicio": 49.19,
+   "fin": 49.84,
+   "corte": false
+  },
+  {
+   "texto": "abrió",
+   "inicio": 49.84,
+   "fin": 50.18,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 50.18,
+   "fin": 50.37,
+   "corte": false
+  },
+  {
+   "texto": "McDonald's",
+   "inicio": 50.37,
+   "fin": 50.91,
+   "corte": false
+  },
+  {
+   "texto": "justo",
+   "inicio": 50.91,
+   "fin": 51.25,
+   "corte": false
+  },
+  {
+   "texto": "enfrente.",
+   "inicio": 51.25,
+   "fin": 51.73,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 51.74,
+   "fin": 51.93,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 51.94,
+   "fin": 52.8,
+   "corte": false
+  },
+  {
+   "texto": "firmado",
+   "inicio": 52.81,
+   "fin": 53.25,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 53.25,
+   "fin": 53.45,
+   "corte": false
+  },
+  {
+   "texto": "trato?",
+   "inicio": 53.45,
+   "fin": 54.17,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 54.17,
+   "fin": 54.61,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 54.61,
+   "fin": 54.9,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 54.9,
+   "fin": 55.15,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 55.15,
+   "fin": 55.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 55.68,
+   "fin": 55.88,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 55.88,
+   "fin": 56.27,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Un apretón de manos les costó McDonald's a los hermanos McDonald.",
+   "inicio": 0.0,
+   "fin": 3.51
+  },
+  {
+   "texto": "California, 1948.",
+   "inicio": 3.52,
+   "fin": 6.31
+  },
+  {
+   "texto": "Los hermanos Richard y Maurice McDonald inventan una forma de hacer hamburguesas en segundos, como en una fábrica.",
+   "inicio": 6.31,
+   "fin": 13.06
+  },
+  {
+   "texto": "En 1954 llega un vendedor de batidoras: Ray Kroc.",
+   "inicio": 13.06,
+   "fin": 18.36
+  },
+  {
+   "texto": "Ve las filas y queda fascinado.",
+   "inicio": 18.36,
+   "fin": 20.18
+  },
+  {
+   "texto": "Les propone abrir restaurantes por todo el país, y los hermanos aceptan.",
+   "inicio": 20.18,
+   "fin": 24.74
+  },
+  {
+   "texto": "Pero Kroc quiere más.",
+   "inicio": 24.74,
+   "fin": 26.4
+  },
+  {
+   "texto": "En 1961 les compra la marca por 2,7 millones de dólares.",
+   "inicio": 26.4,
+   "fin": 31.78
+  },
+  {
+   "texto": "Según la familia, además prometieron con un apretón de manos pagarles el 0,5 % de las ventas para siempre.",
+   "inicio": 31.78,
+   "fin": 38.33
+  },
+  {
+   "texto": "Nunca se firmó.",
+   "inicio": 38.34,
+   "fin": 39.71
+  },
+  {
+   "texto": "Nunca se pagó.",
+   "inicio": 39.71,
+   "fin": 41.0
+  },
+  {
+   "texto": "Hoy eso serían cientos de millones de dólares al año.",
+   "inicio": 41.0,
+   "fin": 44.34
+  },
+  {
+   "texto": "Y para colmo, los hermanos tuvieron que quitar su apellido de su propio restaurante.",
+   "inicio": 44.34,
+   "fin": 49.19
+  },
+  {
+   "texto": "Kroc abrió un McDonald's justo enfrente.",
+   "inicio": 49.19,
+   "fin": 51.73
+  },
+  {
+   "texto": "¿Tú habrías firmado el trato?",
+   "inicio": 51.74,
+   "fin": 54.17
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 54.17,
+   "fin": 56.27
+  }
+ ],
+ "duracion": 56.27
+}

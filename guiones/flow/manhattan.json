@@ -1,0 +1,916 @@
+{
+ "palabras": [
+  {
+   "texto": "¿De",
+   "inicio": 0.0,
+   "fin": 0.21,
+   "corte": false
+  },
+  {
+   "texto": "verdad",
+   "inicio": 0.21,
+   "fin": 0.63,
+   "corte": false
+  },
+  {
+   "texto": "compraron",
+   "inicio": 0.63,
+   "fin": 1.2,
+   "corte": false
+  },
+  {
+   "texto": "Manhattan",
+   "inicio": 1.21,
+   "fin": 1.78,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 1.78,
+   "fin": 2.04,
+   "corte": false
+  },
+  {
+   "texto": "24",
+   "inicio": 2.04,
+   "fin": 2.57,
+   "corte": false
+  },
+  {
+   "texto": "dólares?",
+   "inicio": 2.57,
+   "fin": 3.04,
+   "corte": true
+  },
+  {
+   "texto": "1626.",
+   "inicio": 3.04,
+   "fin": 5.21,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 5.21,
+   "fin": 5.4,
+   "corte": false
+  },
+  {
+   "texto": "barco",
+   "inicio": 5.4,
+   "fin": 6.26,
+   "corte": false
+  },
+  {
+   "texto": "holandés",
+   "inicio": 6.26,
+   "fin": 6.74,
+   "corte": false
+  },
+  {
+   "texto": "llega",
+   "inicio": 6.74,
+   "fin": 7.07,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 7.07,
+   "fin": 7.21,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 7.21,
+   "fin": 7.45,
+   "corte": false
+  },
+  {
+   "texto": "isla",
+   "inicio": 7.45,
+   "fin": 7.74,
+   "corte": false
+  },
+  {
+   "texto": "llena",
+   "inicio": 7.74,
+   "fin": 8.07,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.07,
+   "fin": 8.26,
+   "corte": false
+  },
+  {
+   "texto": "bosques",
+   "inicio": 8.26,
+   "fin": 8.69,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 8.69,
+   "fin": 8.88,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.88,
+   "fin": 9.07,
+   "corte": false
+  },
+  {
+   "texto": "costa",
+   "inicio": 9.07,
+   "fin": 9.4,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.4,
+   "fin": 9.59,
+   "corte": false
+  },
+  {
+   "texto": "América.",
+   "inicio": 9.59,
+   "fin": 10.48,
+   "corte": true
+  },
+  {
+   "texto": "Peter",
+   "inicio": 10.48,
+   "fin": 10.81,
+   "corte": false
+  },
+  {
+   "texto": "Minuit,",
+   "inicio": 10.81,
+   "fin": 11.19,
+   "corte": false
+  },
+  {
+   "texto": "gobernador",
+   "inicio": 11.19,
+   "fin": 11.77,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.77,
+   "fin": 11.96,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 11.96,
+   "fin": 12.15,
+   "corte": false
+  },
+  {
+   "texto": "colonia,",
+   "inicio": 12.15,
+   "fin": 12.58,
+   "corte": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 12.58,
+   "fin": 12.87,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 12.87,
+   "fin": 13.06,
+   "corte": false
+  },
+  {
+   "texto": "trato",
+   "inicio": 13.06,
+   "fin": 13.39,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 13.39,
+   "fin": 13.63,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 13.63,
+   "fin": 13.82,
+   "corte": false
+  },
+  {
+   "texto": "pueblo",
+   "inicio": 13.82,
+   "fin": 14.2,
+   "corte": false
+  },
+  {
+   "texto": "lenape.",
+   "inicio": 14.2,
+   "fin": 15.06,
+   "corte": true
+  },
+  {
+   "texto": "Les",
+   "inicio": 15.06,
+   "fin": 15.3,
+   "corte": false
+  },
+  {
+   "texto": "entrega",
+   "inicio": 15.3,
+   "fin": 15.75,
+   "corte": false
+  },
+  {
+   "texto": "mercancías:",
+   "inicio": 15.75,
+   "fin": 16.67,
+   "corte": false
+  },
+  {
+   "texto": "telas,",
+   "inicio": 16.67,
+   "fin": 17.01,
+   "corte": false
+  },
+  {
+   "texto": "herramientas,",
+   "inicio": 17.01,
+   "fin": 17.7,
+   "corte": false
+  },
+  {
+   "texto": "adornos.",
+   "inicio": 17.7,
+   "fin": 18.15,
+   "corte": true
+  },
+  {
+   "texto": "Según",
+   "inicio": 18.15,
+   "fin": 19.02,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 19.02,
+   "fin": 19.26,
+   "corte": false
+  },
+  {
+   "texto": "carta",
+   "inicio": 19.26,
+   "fin": 19.59,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.59,
+   "fin": 19.79,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 19.79,
+   "fin": 19.98,
+   "corte": false
+  },
+  {
+   "texto": "época,",
+   "inicio": 19.98,
+   "fin": 20.31,
+   "corte": false
+  },
+  {
+   "texto": "valían",
+   "inicio": 20.31,
+   "fin": 20.7,
+   "corte": false
+  },
+  {
+   "texto": "60",
+   "inicio": 20.7,
+   "fin": 21.18,
+   "corte": false
+  },
+  {
+   "texto": "florines.",
+   "inicio": 21.18,
+   "fin": 21.65,
+   "corte": true
+  },
+  {
+   "texto": "Dos",
+   "inicio": 21.66,
+   "fin": 21.91,
+   "corte": false
+  },
+  {
+   "texto": "siglos",
+   "inicio": 21.91,
+   "fin": 22.79,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 22.79,
+   "fin": 23.24,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 23.24,
+   "fin": 23.44,
+   "corte": false
+  },
+  {
+   "texto": "historiador",
+   "inicio": 23.44,
+   "fin": 24.09,
+   "corte": false
+  },
+  {
+   "texto": "convirtió",
+   "inicio": 24.09,
+   "fin": 24.65,
+   "corte": false
+  },
+  {
+   "texto": "esa",
+   "inicio": 24.65,
+   "fin": 24.9,
+   "corte": false
+  },
+  {
+   "texto": "cifra",
+   "inicio": 24.9,
+   "fin": 25.25,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 25.25,
+   "fin": 25.4,
+   "corte": false
+  },
+  {
+   "texto": "dólares:",
+   "inicio": 25.4,
+   "fin": 25.85,
+   "corte": false
+  },
+  {
+   "texto": "24.",
+   "inicio": 25.85,
+   "fin": 26.78,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 26.79,
+   "fin": 26.93,
+   "corte": false
+  },
+  {
+   "texto": "nació",
+   "inicio": 26.93,
+   "fin": 27.27,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 27.27,
+   "fin": 27.46,
+   "corte": false
+  },
+  {
+   "texto": "leyenda",
+   "inicio": 27.46,
+   "fin": 28.38,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.38,
+   "fin": 28.58,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 28.58,
+   "fin": 28.77,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 28.77,
+   "fin": 29.11,
+   "corte": false
+  },
+  {
+   "texto": "ganga",
+   "inicio": 29.11,
+   "fin": 29.45,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.45,
+   "fin": 29.64,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.64,
+   "fin": 29.83,
+   "corte": false
+  },
+  {
+   "texto": "historia.",
+   "inicio": 29.83,
+   "fin": 30.32,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 30.32,
+   "fin": 30.64,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 30.64,
+   "fin": 30.9,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 30.9,
+   "fin": 31.64,
+   "corte": false
+  },
+  {
+   "texto": "problema.",
+   "inicio": 31.64,
+   "fin": 32.17,
+   "corte": true
+  },
+  {
+   "texto": "Para",
+   "inicio": 32.17,
+   "fin": 32.47,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 32.47,
+   "fin": 33.19,
+   "corte": false
+  },
+  {
+   "texto": "lenape,",
+   "inicio": 33.19,
+   "fin": 33.59,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 33.59,
+   "fin": 33.78,
+   "corte": false
+  },
+  {
+   "texto": "tierra",
+   "inicio": 33.79,
+   "fin": 34.18,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 34.18,
+   "fin": 34.38,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 34.38,
+   "fin": 34.58,
+   "corte": false
+  },
+  {
+   "texto": "vendía.",
+   "inicio": 34.58,
+   "fin": 34.97,
+   "corte": true
+  },
+  {
+   "texto": "Probablemente",
+   "inicio": 34.97,
+   "fin": 36.11,
+   "corte": false
+  },
+  {
+   "texto": "entendieron",
+   "inicio": 36.11,
+   "fin": 36.74,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 36.74,
+   "fin": 36.98,
+   "corte": false
+  },
+  {
+   "texto": "estaban",
+   "inicio": 36.98,
+   "fin": 37.41,
+   "corte": false
+  },
+  {
+   "texto": "compartiendo",
+   "inicio": 37.41,
+   "fin": 38.08,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 38.08,
+   "fin": 38.27,
+   "corte": false
+  },
+  {
+   "texto": "uso,",
+   "inicio": 38.27,
+   "fin": 38.51,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 38.51,
+   "fin": 38.7,
+   "corte": false
+  },
+  {
+   "texto": "entregándola",
+   "inicio": 38.7,
+   "fin": 39.7,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 39.71,
+   "fin": 39.99,
+   "corte": false
+  },
+  {
+   "texto": "siempre.",
+   "inicio": 39.99,
+   "fin": 40.42,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 40.42,
+   "fin": 41.09,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 41.09,
+   "fin": 41.31,
+   "corte": false
+  },
+  {
+   "texto": "dato",
+   "inicio": 41.31,
+   "fin": 41.64,
+   "corte": false
+  },
+  {
+   "texto": "curioso:",
+   "inicio": 41.64,
+   "fin": 42.51,
+   "corte": false
+  },
+  {
+   "texto": "si",
+   "inicio": 42.51,
+   "fin": 42.73,
+   "corte": false
+  },
+  {
+   "texto": "esos",
+   "inicio": 42.73,
+   "fin": 43.06,
+   "corte": false
+  },
+  {
+   "texto": "24",
+   "inicio": 43.06,
+   "fin": 43.61,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 43.61,
+   "fin": 44.11,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 44.11,
+   "fin": 44.33,
+   "corte": false
+  },
+  {
+   "texto": "hubieran",
+   "inicio": 44.33,
+   "fin": 44.88,
+   "corte": false
+  },
+  {
+   "texto": "invertido",
+   "inicio": 44.88,
+   "fin": 45.48,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 45.48,
+   "fin": 45.7,
+   "corte": false
+  },
+  {
+   "texto": "7",
+   "inicio": 45.7,
+   "fin": 46.2,
+   "corte": false
+  },
+  {
+   "texto": "%",
+   "inicio": 46.2,
+   "fin": 46.31,
+   "corte": false
+  },
+  {
+   "texto": "anual",
+   "inicio": 46.31,
+   "fin": 46.69,
+   "corte": false
+  },
+  {
+   "texto": "desde",
+   "inicio": 46.69,
+   "fin": 47.08,
+   "corte": false
+  },
+  {
+   "texto": "1626,",
+   "inicio": 47.08,
+   "fin": 47.74,
+   "corte": false
+  },
+  {
+   "texto": "hoy",
+   "inicio": 47.74,
+   "fin": 48.34,
+   "corte": false
+  },
+  {
+   "texto": "serían",
+   "inicio": 48.34,
+   "fin": 48.78,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 48.78,
+   "fin": 49.11,
+   "corte": false
+  },
+  {
+   "texto": "14",
+   "inicio": 49.11,
+   "fin": 49.66,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 49.66,
+   "fin": 50.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.21,
+   "fin": 50.43,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 50.43,
+   "fin": 50.93,
+   "corte": true
+  },
+  {
+   "texto": "Más",
+   "inicio": 50.93,
+   "fin": 51.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 51.43,
+   "fin": 51.63,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 51.63,
+   "fin": 51.83,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 51.83,
+   "fin": 52.08,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 52.08,
+   "fin": 52.38,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 52.38,
+   "fin": 52.68,
+   "corte": false
+  },
+  {
+   "texto": "Manhattan.",
+   "inicio": 52.68,
+   "fin": 53.77,
+   "corte": true
+  },
+  {
+   "texto": "¿Fue",
+   "inicio": 53.77,
+   "fin": 54.03,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 54.03,
+   "fin": 54.28,
+   "corte": false
+  },
+  {
+   "texto": "ganga",
+   "inicio": 54.28,
+   "fin": 54.63,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 54.63,
+   "fin": 54.78,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 54.78,
+   "fin": 54.99,
+   "corte": false
+  },
+  {
+   "texto": "malentendido?",
+   "inicio": 54.99,
+   "fin": 55.69,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 55.69,
+   "fin": 56.65,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 56.66,
+   "fin": 56.95,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 56.96,
+   "fin": 57.21,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 57.21,
+   "fin": 57.76,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 57.76,
+   "fin": 57.96,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 57.96,
+   "fin": 58.36,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿De verdad compraron Manhattan por 24 dólares?",
+   "inicio": 0.0,
+   "fin": 3.04
+  },
+  {
+   "texto": "1626.",
+   "inicio": 3.04,
+   "fin": 5.21
+  },
+  {
+   "texto": "Un barco holandés llega a una isla llena de bosques en la costa de América.",
+   "inicio": 5.21,
+   "fin": 10.48
+  },
+  {
+   "texto": "Peter Minuit, gobernador de la colonia, hace un trato con el pueblo lenape.",
+   "inicio": 10.48,
+   "fin": 15.06
+  },
+  {
+   "texto": "Les entrega mercancías: telas, herramientas, adornos.",
+   "inicio": 15.06,
+   "fin": 18.15
+  },
+  {
+   "texto": "Según una carta de la época, valían 60 florines.",
+   "inicio": 18.15,
+   "fin": 21.65
+  },
+  {
+   "texto": "Dos siglos después, un historiador convirtió esa cifra a dólares: 24.",
+   "inicio": 21.66,
+   "fin": 26.78
+  },
+  {
+   "texto": "Y nació la leyenda de la mayor ganga de la historia.",
+   "inicio": 26.79,
+   "fin": 30.32
+  },
+  {
+   "texto": "Pero hay un problema.",
+   "inicio": 30.32,
+   "fin": 32.17
+  },
+  {
+   "texto": "Para los lenape, la tierra no se vendía.",
+   "inicio": 32.17,
+   "fin": 34.97
+  },
+  {
+   "texto": "Probablemente entendieron que estaban compartiendo su uso, no entregándola para siempre.",
+   "inicio": 34.97,
+   "fin": 40.42
+  },
+  {
+   "texto": "Y un dato curioso: si esos 24 dólares se hubieran invertido al 7 % anual desde 1626, hoy serían unos 14 billones de dólares.",
+   "inicio": 40.42,
+   "fin": 50.93
+  },
+  {
+   "texto": "Más de lo que vale todo Manhattan.",
+   "inicio": 50.93,
+   "fin": 53.77
+  },
+  {
+   "texto": "¿Fue una ganga o un malentendido?",
+   "inicio": 53.77,
+   "fin": 55.69
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 55.69,
+   "fin": 58.36
+  }
+ ],
+ "duracion": 58.36
+}

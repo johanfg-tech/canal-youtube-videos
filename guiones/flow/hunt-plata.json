@@ -1,0 +1,964 @@
+{
+ "palabras": [
+  {
+   "texto": "Dos",
+   "inicio": 0.0,
+   "fin": 0.24,
+   "corte": false
+  },
+  {
+   "texto": "hermanos",
+   "inicio": 0.24,
+   "fin": 0.72,
+   "corte": false
+  },
+  {
+   "texto": "intentaron",
+   "inicio": 0.72,
+   "fin": 1.29,
+   "corte": false
+  },
+  {
+   "texto": "quedarse",
+   "inicio": 1.29,
+   "fin": 1.77,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 1.77,
+   "fin": 2.0,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 2.01,
+   "fin": 2.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 2.29,
+   "fin": 2.48,
+   "corte": false
+  },
+  {
+   "texto": "plata",
+   "inicio": 2.48,
+   "fin": 2.82,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 2.82,
+   "fin": 3.06,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 3.06,
+   "fin": 3.39,
+   "corte": true
+  },
+  {
+   "texto": "Texas,",
+   "inicio": 3.39,
+   "fin": 4.67,
+   "corte": false
+  },
+  {
+   "texto": "1979.",
+   "inicio": 4.67,
+   "fin": 6.04,
+   "corte": true
+  },
+  {
+   "texto": "Nelson",
+   "inicio": 6.04,
+   "fin": 6.98,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 6.99,
+   "fin": 7.12,
+   "corte": false
+  },
+  {
+   "texto": "Herbert",
+   "inicio": 7.13,
+   "fin": 7.55,
+   "corte": false
+  },
+  {
+   "texto": "Hunt",
+   "inicio": 7.55,
+   "fin": 7.83,
+   "corte": false
+  },
+  {
+   "texto": "son",
+   "inicio": 7.83,
+   "fin": 8.06,
+   "corte": false
+  },
+  {
+   "texto": "hijos",
+   "inicio": 8.06,
+   "fin": 8.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.39,
+   "fin": 8.58,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 8.58,
+   "fin": 8.81,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.81,
+   "fin": 9.0,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 9.0,
+   "fin": 9.23,
+   "corte": false
+  },
+  {
+   "texto": "hombres",
+   "inicio": 9.23,
+   "fin": 9.65,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 9.65,
+   "fin": 9.89,
+   "corte": false
+  },
+  {
+   "texto": "ricos",
+   "inicio": 9.89,
+   "fin": 10.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.22,
+   "fin": 10.4,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 10.4,
+   "fin": 10.82,
+   "corte": false
+  },
+  {
+   "texto": "Unidos.",
+   "inicio": 10.82,
+   "fin": 11.2,
+   "corte": true
+  },
+  {
+   "texto": "Temen",
+   "inicio": 11.2,
+   "fin": 11.53,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 11.53,
+   "fin": 12.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 12.29,
+   "fin": 12.48,
+   "corte": false
+  },
+  {
+   "texto": "inflación",
+   "inicio": 12.48,
+   "fin": 13.0,
+   "corte": false
+  },
+  {
+   "texto": "destruya",
+   "inicio": 13.0,
+   "fin": 13.47,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 13.47,
+   "fin": 13.66,
+   "corte": false
+  },
+  {
+   "texto": "dólar,",
+   "inicio": 13.66,
+   "fin": 14.28,
+   "corte": false
+  },
+  {
+   "texto": "así",
+   "inicio": 14.28,
+   "fin": 14.51,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 14.51,
+   "fin": 14.75,
+   "corte": false
+  },
+  {
+   "texto": "empiezan",
+   "inicio": 14.75,
+   "fin": 15.22,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 15.22,
+   "fin": 15.36,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 15.36,
+   "fin": 15.79,
+   "corte": false
+  },
+  {
+   "texto": "plata.",
+   "inicio": 15.79,
+   "fin": 16.45,
+   "corte": true
+  },
+  {
+   "texto": "Mucha",
+   "inicio": 16.45,
+   "fin": 16.86,
+   "corte": false
+  },
+  {
+   "texto": "plata.",
+   "inicio": 16.86,
+   "fin": 17.74,
+   "corte": true
+  },
+  {
+   "texto": "Compran",
+   "inicio": 17.74,
+   "fin": 18.16,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 18.16,
+   "fin": 18.39,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 18.39,
+   "fin": 18.76,
+   "corte": false
+  },
+  {
+   "texto": "prestado,",
+   "inicio": 18.76,
+   "fin": 19.49,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 19.49,
+   "fin": 19.63,
+   "corte": false
+  },
+  {
+   "texto": "llegan",
+   "inicio": 19.63,
+   "fin": 20.01,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 20.01,
+   "fin": 20.15,
+   "corte": false
+  },
+  {
+   "texto": "controlar",
+   "inicio": 20.15,
+   "fin": 20.66,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 20.66,
+   "fin": 20.89,
+   "corte": false
+  },
+  {
+   "texto": "enorme",
+   "inicio": 20.89,
+   "fin": 21.27,
+   "corte": false
+  },
+  {
+   "texto": "parte",
+   "inicio": 21.27,
+   "fin": 21.59,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.59,
+   "fin": 21.78,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 21.78,
+   "fin": 21.97,
+   "corte": false
+  },
+  {
+   "texto": "plata",
+   "inicio": 21.97,
+   "fin": 22.29,
+   "corte": false
+  },
+  {
+   "texto": "disponible",
+   "inicio": 22.29,
+   "fin": 22.85,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 22.85,
+   "fin": 23.57,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 23.57,
+   "fin": 23.89,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 23.9,
+   "fin": 24.08,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 24.08,
+   "fin": 24.44,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 24.45,
+   "fin": 24.63,
+   "corte": false
+  },
+  {
+   "texto": "dispara:",
+   "inicio": 24.63,
+   "fin": 25.35,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 25.35,
+   "fin": 25.53,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 25.53,
+   "fin": 25.8,
+   "corte": false
+  },
+  {
+   "texto": "6",
+   "inicio": 25.81,
+   "fin": 26.22,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 26.22,
+   "fin": 26.63,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 26.63,
+   "fin": 26.81,
+   "corte": false
+  },
+  {
+   "texto": "onza",
+   "inicio": 26.81,
+   "fin": 27.09,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 27.09,
+   "fin": 27.22,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 27.23,
+   "fin": 27.5,
+   "corte": false
+  },
+  {
+   "texto": "50",
+   "inicio": 27.5,
+   "fin": 27.96,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 27.96,
+   "fin": 28.14,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 28.14,
+   "fin": 28.41,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 28.42,
+   "fin": 28.6,
+   "corte": false
+  },
+  {
+   "texto": "año.",
+   "inicio": 28.6,
+   "fin": 28.83,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 28.83,
+   "fin": 29.44,
+   "corte": false
+  },
+  {
+   "texto": "gente",
+   "inicio": 29.44,
+   "fin": 29.77,
+   "corte": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 29.78,
+   "fin": 30.06,
+   "corte": false
+  },
+  {
+   "texto": "filas",
+   "inicio": 30.06,
+   "fin": 30.39,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 30.39,
+   "fin": 30.68,
+   "corte": false
+  },
+  {
+   "texto": "vender",
+   "inicio": 30.68,
+   "fin": 31.06,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 31.06,
+   "fin": 31.3,
+   "corte": false
+  },
+  {
+   "texto": "cubiertos",
+   "inicio": 31.3,
+   "fin": 31.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 31.82,
+   "fin": 32.01,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 32.01,
+   "fin": 32.65,
+   "corte": false
+  },
+  {
+   "texto": "abuela.",
+   "inicio": 32.66,
+   "fin": 33.03,
+   "corte": true
+  },
+  {
+   "texto": "Entonces",
+   "inicio": 33.04,
+   "fin": 33.5,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 33.51,
+   "fin": 33.69,
+   "corte": false
+  },
+  {
+   "texto": "bolsa",
+   "inicio": 33.69,
+   "fin": 34.02,
+   "corte": false
+  },
+  {
+   "texto": "cambia",
+   "inicio": 34.02,
+   "fin": 34.4,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 34.4,
+   "fin": 34.63,
+   "corte": false
+  },
+  {
+   "texto": "reglas",
+   "inicio": 34.63,
+   "fin": 35.01,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 35.01,
+   "fin": 35.15,
+   "corte": false
+  },
+  {
+   "texto": "prohíbe",
+   "inicio": 35.15,
+   "fin": 35.57,
+   "corte": false
+  },
+  {
+   "texto": "comprar",
+   "inicio": 35.57,
+   "fin": 36.0,
+   "corte": false
+  },
+  {
+   "texto": "plata",
+   "inicio": 36.0,
+   "fin": 36.32,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 36.33,
+   "fin": 36.56,
+   "corte": false
+  },
+  {
+   "texto": "tanto",
+   "inicio": 36.56,
+   "fin": 36.89,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 36.89,
+   "fin": 37.26,
+   "corte": false
+  },
+  {
+   "texto": "prestado.",
+   "inicio": 37.26,
+   "fin": 38.21,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 38.21,
+   "fin": 38.45,
+   "corte": false
+  },
+  {
+   "texto": "27",
+   "inicio": 38.45,
+   "fin": 39.06,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.06,
+   "fin": 39.3,
+   "corte": false
+  },
+  {
+   "texto": "marzo",
+   "inicio": 39.3,
+   "fin": 39.72,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.73,
+   "fin": 39.97,
+   "corte": false
+  },
+  {
+   "texto": "1980,",
+   "inicio": 39.97,
+   "fin": 40.69,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 40.7,
+   "fin": 40.94,
+   "corte": false
+  },
+  {
+   "texto": "precio",
+   "inicio": 40.94,
+   "fin": 41.42,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 41.42,
+   "fin": 41.67,
+   "corte": false
+  },
+  {
+   "texto": "hunde.",
+   "inicio": 41.67,
+   "fin": 42.58,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 42.58,
+   "fin": 42.82,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 42.82,
+   "fin": 43.06,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 43.06,
+   "fin": 43.25,
+   "corte": false
+  },
+  {
+   "texto": "conoce",
+   "inicio": 43.26,
+   "fin": 43.64,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 43.64,
+   "fin": 43.93,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 43.93,
+   "fin": 44.13,
+   "corte": false
+  },
+  {
+   "texto": "Jueves",
+   "inicio": 44.13,
+   "fin": 44.51,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.51,
+   "fin": 44.71,
+   "corte": false
+  },
+  {
+   "texto": "Plata.",
+   "inicio": 44.71,
+   "fin": 45.05,
+   "corte": true
+  },
+  {
+   "texto": "Los",
+   "inicio": 45.05,
+   "fin": 45.79,
+   "corte": false
+  },
+  {
+   "texto": "Hunt",
+   "inicio": 45.79,
+   "fin": 46.08,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 46.08,
+   "fin": 46.28,
+   "corte": false
+  },
+  {
+   "texto": "pueden",
+   "inicio": 46.28,
+   "fin": 46.67,
+   "corte": false
+  },
+  {
+   "texto": "pagar",
+   "inicio": 46.67,
+   "fin": 47.02,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 47.02,
+   "fin": 47.26,
+   "corte": false
+  },
+  {
+   "texto": "deudas.",
+   "inicio": 47.26,
+   "fin": 47.66,
+   "corte": true
+  },
+  {
+   "texto": "Perdieron",
+   "inicio": 47.66,
+   "fin": 48.46,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 48.46,
+   "fin": 48.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 48.79,
+   "fin": 48.99,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 48.99,
+   "fin": 49.47,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 49.47,
+   "fin": 49.61,
+   "corte": false
+  },
+  {
+   "texto": "terminaron",
+   "inicio": 49.61,
+   "fin": 50.19,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 50.19,
+   "fin": 50.38,
+   "corte": false
+  },
+  {
+   "texto": "bancarrota.",
+   "inicio": 50.38,
+   "fin": 50.96,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 50.96,
+   "fin": 51.16,
+   "corte": false
+  },
+  {
+   "texto": "habrías",
+   "inicio": 51.17,
+   "fin": 52.09,
+   "corte": false
+  },
+  {
+   "texto": "vendido",
+   "inicio": 52.09,
+   "fin": 52.55,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 52.55,
+   "fin": 52.75,
+   "corte": false
+  },
+  {
+   "texto": "plata?",
+   "inicio": 52.75,
+   "fin": 53.1,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 53.1,
+   "fin": 54.04,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 54.04,
+   "fin": 54.33,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 54.34,
+   "fin": 54.58,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 54.58,
+   "fin": 55.13,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 55.13,
+   "fin": 55.32,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 55.32,
+   "fin": 55.72,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Dos hermanos intentaron quedarse con toda la plata del mundo.",
+   "inicio": 0.0,
+   "fin": 3.39
+  },
+  {
+   "texto": "Texas, 1979.",
+   "inicio": 3.39,
+   "fin": 6.04
+  },
+  {
+   "texto": "Nelson y Herbert Hunt son hijos de uno de los hombres más ricos de Estados Unidos.",
+   "inicio": 6.04,
+   "fin": 11.2
+  },
+  {
+   "texto": "Temen que la inflación destruya el dólar, así que empiezan a comprar plata.",
+   "inicio": 11.2,
+   "fin": 16.45
+  },
+  {
+   "texto": "Mucha plata.",
+   "inicio": 16.45,
+   "fin": 17.74
+  },
+  {
+   "texto": "Compran con dinero prestado, y llegan a controlar una enorme parte de la plata disponible del mundo.",
+   "inicio": 17.74,
+   "fin": 23.89
+  },
+  {
+   "texto": "El precio se dispara: de unos 6 dólares la onza a casi 50 en solo un año.",
+   "inicio": 23.9,
+   "fin": 28.83
+  },
+  {
+   "texto": "La gente hace filas para vender los cubiertos de la abuela.",
+   "inicio": 28.83,
+   "fin": 33.03
+  },
+  {
+   "texto": "Entonces la bolsa cambia las reglas y prohíbe comprar plata con tanto dinero prestado.",
+   "inicio": 33.04,
+   "fin": 38.21
+  },
+  {
+   "texto": "El 27 de marzo de 1980, el precio se hunde.",
+   "inicio": 38.21,
+   "fin": 42.58
+  },
+  {
+   "texto": "Ese día se conoce como el Jueves de Plata.",
+   "inicio": 42.58,
+   "fin": 45.05
+  },
+  {
+   "texto": "Los Hunt no pueden pagar sus deudas.",
+   "inicio": 45.05,
+   "fin": 47.66
+  },
+  {
+   "texto": "Perdieron miles de millones y terminaron en bancarrota.",
+   "inicio": 47.66,
+   "fin": 50.96
+  },
+  {
+   "texto": "¿Tú habrías vendido tu plata?",
+   "inicio": 50.96,
+   "fin": 53.1
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 53.1,
+   "fin": 55.72
+  }
+ ],
+ "duracion": 55.72
+}

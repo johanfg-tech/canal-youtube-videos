@@ -1,0 +1,976 @@
+{
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.29,
+   "corte": false
+  },
+  {
+   "texto": "hombre",
+   "inicio": 0.29,
+   "fin": 0.69,
+   "corte": false
+  },
+  {
+   "texto": "cambió",
+   "inicio": 0.69,
+   "fin": 1.08,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 1.08,
+   "fin": 1.27,
+   "corte": false
+  },
+  {
+   "texto": "clip",
+   "inicio": 1.27,
+   "fin": 1.57,
+   "corte": false
+  },
+  {
+   "texto": "rojo",
+   "inicio": 1.57,
+   "fin": 1.86,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 1.86,
+   "fin": 2.11,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 2.11,
+   "fin": 2.35,
+   "corte": false
+  },
+  {
+   "texto": "casa.",
+   "inicio": 2.35,
+   "fin": 2.64,
+   "corte": true
+  },
+  {
+   "texto": "2006,",
+   "inicio": 2.65,
+   "fin": 3.85,
+   "corte": false
+  },
+  {
+   "texto": "Canadá.",
+   "inicio": 3.85,
+   "fin": 4.63,
+   "corte": true
+  },
+  {
+   "texto": "Kyle",
+   "inicio": 4.63,
+   "fin": 5.33,
+   "corte": false
+  },
+  {
+   "texto": "MacDonald",
+   "inicio": 5.33,
+   "fin": 5.86,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 5.87,
+   "fin": 6.2,
+   "corte": false
+  },
+  {
+   "texto": "26",
+   "inicio": 6.2,
+   "fin": 6.69,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 6.69,
+   "fin": 6.98,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 6.98,
+   "fin": 7.17,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 7.17,
+   "fin": 7.51,
+   "corte": false
+  },
+  {
+   "texto": "trabajo",
+   "inicio": 7.51,
+   "fin": 7.94,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 7.95,
+   "fin": 8.09,
+   "corte": false
+  },
+  {
+   "texto": "sobre",
+   "inicio": 8.09,
+   "fin": 8.43,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 8.43,
+   "fin": 8.62,
+   "corte": false
+  },
+  {
+   "texto": "mesa",
+   "inicio": 8.62,
+   "fin": 8.91,
+   "corte": false
+  },
+  {
+   "texto": "hay",
+   "inicio": 8.91,
+   "fin": 9.15,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 9.15,
+   "fin": 9.35,
+   "corte": false
+  },
+  {
+   "texto": "clip",
+   "inicio": 9.35,
+   "fin": 9.64,
+   "corte": false
+  },
+  {
+   "texto": "rojo.",
+   "inicio": 9.64,
+   "fin": 9.93,
+   "corte": true
+  },
+  {
+   "texto": "Se",
+   "inicio": 9.93,
+   "fin": 10.12,
+   "corte": false
+  },
+  {
+   "texto": "propone",
+   "inicio": 10.12,
+   "fin": 10.89,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 10.89,
+   "fin": 11.17,
+   "corte": false
+  },
+  {
+   "texto": "absurdo:",
+   "inicio": 11.18,
+   "fin": 11.6,
+   "corte": false
+  },
+  {
+   "texto": "cambiarlo",
+   "inicio": 11.6,
+   "fin": 12.12,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 12.12,
+   "fin": 12.7,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 12.71,
+   "fin": 12.99,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 12.99,
+   "fin": 13.18,
+   "corte": false
+  },
+  {
+   "texto": "poco",
+   "inicio": 13.18,
+   "fin": 13.46,
+   "corte": false
+  },
+  {
+   "texto": "mejor,",
+   "inicio": 13.46,
+   "fin": 13.79,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 13.79,
+   "fin": 14.02,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 14.03,
+   "fin": 14.17,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 14.17,
+   "fin": 14.79,
+   "corte": false
+  },
+  {
+   "texto": "vez,",
+   "inicio": 14.79,
+   "fin": 15.02,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 15.03,
+   "fin": 15.35,
+   "corte": false
+  },
+  {
+   "texto": "llegar",
+   "inicio": 15.36,
+   "fin": 15.73,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 15.73,
+   "fin": 15.87,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 15.87,
+   "fin": 16.11,
+   "corte": false
+  },
+  {
+   "texto": "casa.",
+   "inicio": 16.11,
+   "fin": 16.39,
+   "corte": true
+  },
+  {
+   "texto": "Primero",
+   "inicio": 16.39,
+   "fin": 16.83,
+   "corte": false
+  },
+  {
+   "texto": "cambia",
+   "inicio": 16.83,
+   "fin": 17.21,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 17.21,
+   "fin": 17.41,
+   "corte": false
+  },
+  {
+   "texto": "clip",
+   "inicio": 17.41,
+   "fin": 18.05,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 18.06,
+   "fin": 18.3,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 18.3,
+   "fin": 18.49,
+   "corte": false
+  },
+  {
+   "texto": "bolígrafo",
+   "inicio": 18.49,
+   "fin": 19.02,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 19.02,
+   "fin": 19.26,
+   "corte": false
+  },
+  {
+   "texto": "forma",
+   "inicio": 19.26,
+   "fin": 19.6,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.6,
+   "fin": 19.79,
+   "corte": false
+  },
+  {
+   "texto": "pez.",
+   "inicio": 19.79,
+   "fin": 20.03,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 20.04,
+   "fin": 20.23,
+   "corte": false
+  },
+  {
+   "texto": "bolígrafo,",
+   "inicio": 20.24,
+   "fin": 21.11,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 21.12,
+   "fin": 21.36,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 21.37,
+   "fin": 21.56,
+   "corte": false
+  },
+  {
+   "texto": "pomo",
+   "inicio": 21.57,
+   "fin": 21.86,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.87,
+   "fin": 22.06,
+   "corte": false
+  },
+  {
+   "texto": "puerta.",
+   "inicio": 22.06,
+   "fin": 22.46,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 22.46,
+   "fin": 22.66,
+   "corte": false
+  },
+  {
+   "texto": "pomo,",
+   "inicio": 22.66,
+   "fin": 23.33,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 23.33,
+   "fin": 23.58,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 23.58,
+   "fin": 23.83,
+   "corte": false
+  },
+  {
+   "texto": "estufa",
+   "inicio": 23.83,
+   "fin": 24.23,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 24.23,
+   "fin": 24.43,
+   "corte": false
+  },
+  {
+   "texto": "camping.",
+   "inicio": 24.43,
+   "fin": 24.88,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 24.88,
+   "fin": 25.08,
+   "corte": false
+  },
+  {
+   "texto": "estufa,",
+   "inicio": 25.08,
+   "fin": 25.83,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 25.83,
+   "fin": 26.08,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 26.08,
+   "fin": 26.28,
+   "corte": false
+  },
+  {
+   "texto": "generador",
+   "inicio": 26.28,
+   "fin": 26.83,
+   "corte": false
+  },
+  {
+   "texto": "eléctrico.",
+   "inicio": 26.83,
+   "fin": 27.39,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 27.39,
+   "fin": 27.53,
+   "corte": false
+  },
+  {
+   "texto": "así",
+   "inicio": 27.53,
+   "fin": 28.1,
+   "corte": false
+  },
+  {
+   "texto": "sigue:",
+   "inicio": 28.1,
+   "fin": 28.43,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 28.43,
+   "fin": 28.98,
+   "corte": false
+  },
+  {
+   "texto": "moto",
+   "inicio": 28.98,
+   "fin": 29.26,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 29.26,
+   "fin": 29.45,
+   "corte": false
+  },
+  {
+   "texto": "nieve,",
+   "inicio": 29.45,
+   "fin": 29.78,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 29.78,
+   "fin": 29.97,
+   "corte": false
+  },
+  {
+   "texto": "viaje,",
+   "inicio": 29.97,
+   "fin": 30.3,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 30.3,
+   "fin": 30.53,
+   "corte": false
+  },
+  {
+   "texto": "furgoneta,",
+   "inicio": 30.53,
+   "fin": 31.05,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 31.05,
+   "fin": 31.24,
+   "corte": false
+  },
+  {
+   "texto": "contrato",
+   "inicio": 31.24,
+   "fin": 31.71,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 31.71,
+   "fin": 32.17,
+   "corte": false
+  },
+  {
+   "texto": "grabación,",
+   "inicio": 32.18,
+   "fin": 32.69,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 32.69,
+   "fin": 32.88,
+   "corte": false
+  },
+  {
+   "texto": "año",
+   "inicio": 32.88,
+   "fin": 33.12,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.12,
+   "fin": 33.3,
+   "corte": false
+  },
+  {
+   "texto": "alquiler",
+   "inicio": 33.31,
+   "fin": 33.78,
+   "corte": false
+  },
+  {
+   "texto": "gratis.",
+   "inicio": 33.78,
+   "fin": 34.15,
+   "corte": true
+  },
+  {
+   "texto": "Luego,",
+   "inicio": 34.15,
+   "fin": 34.48,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 34.49,
+   "fin": 34.72,
+   "corte": false
+  },
+  {
+   "texto": "tarde",
+   "inicio": 34.72,
+   "fin": 35.06,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 35.06,
+   "fin": 35.55,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.55,
+   "fin": 35.74,
+   "corte": false
+  },
+  {
+   "texto": "rockero",
+   "inicio": 35.74,
+   "fin": 36.16,
+   "corte": false
+  },
+  {
+   "texto": "Alice",
+   "inicio": 36.17,
+   "fin": 36.5,
+   "corte": false
+  },
+  {
+   "texto": "Cooper,",
+   "inicio": 36.5,
+   "fin": 36.88,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 36.88,
+   "fin": 37.02,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 37.02,
+   "fin": 37.35,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 37.35,
+   "fin": 37.54,
+   "corte": false
+  },
+  {
+   "texto": "papel",
+   "inicio": 37.54,
+   "fin": 37.88,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 37.88,
+   "fin": 38.34,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 38.34,
+   "fin": 38.58,
+   "corte": false
+  },
+  {
+   "texto": "película.",
+   "inicio": 38.58,
+   "fin": 39.05,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 39.06,
+   "fin": 39.24,
+   "corte": false
+  },
+  {
+   "texto": "pueblo",
+   "inicio": 39.24,
+   "fin": 39.62,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.62,
+   "fin": 39.81,
+   "corte": false
+  },
+  {
+   "texto": "Canadá",
+   "inicio": 39.81,
+   "fin": 40.56,
+   "corte": false
+  },
+  {
+   "texto": "ve",
+   "inicio": 40.56,
+   "fin": 40.75,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 40.75,
+   "fin": 40.94,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 40.94,
+   "fin": 41.41,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 41.42,
+   "fin": 41.56,
+   "corte": false
+  },
+  {
+   "texto": "ofrece",
+   "inicio": 41.56,
+   "fin": 41.94,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 41.94,
+   "fin": 42.22,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 42.22,
+   "fin": 42.36,
+   "corte": false
+  },
+  {
+   "texto": "cambio",
+   "inicio": 42.36,
+   "fin": 42.74,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.74,
+   "fin": 42.93,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 42.93,
+   "fin": 43.17,
+   "corte": false
+  },
+  {
+   "texto": "papel:",
+   "inicio": 43.17,
+   "fin": 43.5,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 43.5,
+   "fin": 43.73,
+   "corte": false
+  },
+  {
+   "texto": "casa.",
+   "inicio": 43.74,
+   "fin": 44.47,
+   "corte": true
+  },
+  {
+   "texto": "Catorce",
+   "inicio": 44.48,
+   "fin": 44.94,
+   "corte": false
+  },
+  {
+   "texto": "trueques",
+   "inicio": 44.94,
+   "fin": 45.88,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 45.88,
+   "fin": 46.09,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 46.09,
+   "fin": 46.29,
+   "corte": false
+  },
+  {
+   "texto": "año.",
+   "inicio": 46.29,
+   "fin": 46.55,
+   "corte": true
+  },
+  {
+   "texto": "Del",
+   "inicio": 46.55,
+   "fin": 46.81,
+   "corte": false
+  },
+  {
+   "texto": "clip",
+   "inicio": 46.81,
+   "fin": 47.13,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 47.13,
+   "fin": 47.61,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 47.61,
+   "fin": 47.82,
+   "corte": false
+  },
+  {
+   "texto": "casa.",
+   "inicio": 47.82,
+   "fin": 48.41,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 48.41,
+   "fin": 48.61,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 48.61,
+   "fin": 49.36,
+   "corte": false
+  },
+  {
+   "texto": "cambiarías",
+   "inicio": 49.36,
+   "fin": 49.99,
+   "corte": false
+  },
+  {
+   "texto": "primero?",
+   "inicio": 49.99,
+   "fin": 50.85,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 50.85,
+   "fin": 51.3,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 51.3,
+   "fin": 51.6,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 51.6,
+   "fin": 51.85,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 51.85,
+   "fin": 52.4,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 52.4,
+   "fin": 52.6,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 52.6,
+   "fin": 53.0,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Este hombre cambió un clip rojo por una casa.",
+   "inicio": 0.0,
+   "fin": 2.64
+  },
+  {
+   "texto": "2006, Canadá.",
+   "inicio": 2.65,
+   "fin": 4.63
+  },
+  {
+   "texto": "Kyle MacDonald tiene 26 años, no tiene trabajo y sobre su mesa hay un clip rojo.",
+   "inicio": 4.63,
+   "fin": 9.93
+  },
+  {
+   "texto": "Se propone algo absurdo: cambiarlo por algo un poco mejor, una y otra vez, hasta llegar a una casa.",
+   "inicio": 9.93,
+   "fin": 16.39
+  },
+  {
+   "texto": "Primero cambia el clip por un bolígrafo con forma de pez.",
+   "inicio": 16.39,
+   "fin": 20.03
+  },
+  {
+   "texto": "El bolígrafo, por un pomo de puerta.",
+   "inicio": 20.04,
+   "fin": 22.46
+  },
+  {
+   "texto": "El pomo, por una estufa de camping.",
+   "inicio": 22.46,
+   "fin": 24.88
+  },
+  {
+   "texto": "La estufa, por un generador eléctrico.",
+   "inicio": 24.88,
+   "fin": 27.39
+  },
+  {
+   "texto": "Y así sigue: una moto de nieve, un viaje, una furgoneta, un contrato de grabación, un año de alquiler gratis.",
+   "inicio": 27.39,
+   "fin": 34.15
+  },
+  {
+   "texto": "Luego, una tarde con el rockero Alice Cooper, y hasta un papel en una película.",
+   "inicio": 34.15,
+   "fin": 39.05
+  },
+  {
+   "texto": "Un pueblo de Canadá ve la historia y ofrece algo a cambio de ese papel: una casa.",
+   "inicio": 39.06,
+   "fin": 44.47
+  },
+  {
+   "texto": "Catorce trueques en un año.",
+   "inicio": 44.48,
+   "fin": 46.55
+  },
+  {
+   "texto": "Del clip a la casa.",
+   "inicio": 46.55,
+   "fin": 48.41
+  },
+  {
+   "texto": "¿Tú qué cambiarías primero?",
+   "inicio": 48.41,
+   "fin": 50.85
+  },
+  {
+   "texto": "Sígueme para más historias de dinero.",
+   "inicio": 50.85,
+   "fin": 53.0
+  }
+ ],
+ "duracion": 53.0
+}

@@ -12,6 +12,7 @@ import {
 } from "remotion";
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
+import { AdvientoIntro } from "../components/historia/AdvientoIntro";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
 // Plantilla de historia hecha con imágenes de Google Flow (misma metodología que
@@ -54,6 +55,8 @@ export type HistoriaFlow = {
   etiquetas: EtiquetaCfg[];
   grafico?: GraficoCfg;
   remate: { frase: number; pregunta: string; fondo: string };
+  // Calendario de adviento: la frase 0 es "Puerta N." y la frase 1 la fecha.
+  adviento?: { puerta: number; fecha: string; anio?: string };
 };
 
 const COLA = 1.6;
@@ -262,7 +265,8 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const g = h.grafico;
   const g0 = g ? inicioDe(h, g.desde) : 0;
   const g1 = g ? h.guion.frases[g.hasta].fin : 0;
-  const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05);
+  const tIntro = h.adviento ? h.guion.frases[1].fin : 0;
+  const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05 && p.inicio >= tIntro - 0.05);
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
       {planos.map((p, i) => (
@@ -301,6 +305,16 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
         <AbsoluteFill style={{ background: "rgba(10,12,16,0.55)" }} />
         <RemateFinal pregunta={h.remate.pregunta} sigueme={Math.max(1.2, h.guion.frases[h.remate.frase].fin - tRemate + 0.2)} />
       </Sequence>
+
+      {h.adviento ? (
+        <AdvientoIntro
+          puerta={h.adviento.puerta}
+          fecha={h.adviento.fecha}
+          anio={h.adviento.anio}
+          tPuerta={h.guion.frases[0].fin}
+          tFin={tIntro}
+        />
+      ) : null}
 
       <Audio src={staticFile(`${h.carpeta}/voz.mp3`)} />
     </AbsoluteFill>

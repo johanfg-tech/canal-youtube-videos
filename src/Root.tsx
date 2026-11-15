@@ -17,6 +17,7 @@ import { PizzasFlowShort, duracionPizzasFlow } from "./compositions/PizzasFlowSh
 import { CocaFlowShort, duracionCocaFlow } from "./compositions/CocaFlowShort";
 import { FlowHistoria, duracionFlow } from "./compositions/FlowHistoria";
 import { AdvientoIntroPreview } from "./components/historia/AdvientoIntroFlow";
+import { abiertasAntes } from "./historias/flow/adviento";
 import { HISTORIAS_FLOW } from "./historias/flow";
 import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
 import remates from "../guiones/remates.json";
@@ -735,8 +736,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="AdvientoIntro"
         component={AdvientoIntroPreview}
-        defaultProps={{ puerta: 1, fecha: "1 de diciembre", anio: "1913" }}
-        durationInFrames={Math.round(6.2 * FPS)}
+        defaultProps={{ puerta: 2, fecha: "2 de diciembre", anio: "2001", entrada: "flow-enron/i01.jpg", abiertas: abiertasAntes(2) }}
+        durationInFrames={Math.round(5.6 * FPS)}
         fps={FPS}
         width={1080}
         height={1920}

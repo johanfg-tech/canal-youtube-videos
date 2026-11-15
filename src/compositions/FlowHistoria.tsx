@@ -13,6 +13,7 @@ import {
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
 import { AdvientoIntroFlow, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
+import { abiertasAntes } from "../historias/flow/adviento";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
 // Plantilla de historia hecha con imágenes de Google Flow (misma metodología que
@@ -267,6 +268,8 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const g1 = g ? h.guion.frases[g.hasta].fin : 0;
   const tIntro = h.adviento ? finIntroAdviento(h.guion.frases[1].fin) : 0;
   const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05 && p.inicio >= tIntro - 0.05);
+  // Imagen que se ve dentro de la puerta al entrar: el plano que está en pantalla al acabar la intro.
+  const planoEntrada = planos.find((p) => p.ini <= tIntro && tIntro < p.fin && !p.video) ?? planos.find((p) => !p.video);
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
       {planos.map((p, i) => (
@@ -312,6 +315,8 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
           fecha={h.adviento.fecha}
           anio={h.adviento.anio}
           tFin={h.guion.frases[1].fin}
+          entrada={`${h.carpeta}/${planoEntrada?.src ?? "i01.jpg"}`}
+          abiertas={abiertasAntes(h.adviento.puerta)}
         />
       ) : null}
 

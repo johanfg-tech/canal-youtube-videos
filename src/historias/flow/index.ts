@@ -15,9 +15,10 @@ import { manhattan } from "./manhattan";
 import { bitcoinsBasura } from "./bitcoinsBasura";
 import { salvatorMundi } from "./salvatorMundi";
 import { paseVuelos } from "./paseVuelos";
+import { fordCadena } from "./fordCadena";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos,
+  salvatorMundi, paseVuelos, fordCadena,
 ];

@@ -1,0 +1,1034 @@
+{
+ "palabras": [
+  {
+   "texto": "Puerta",
+   "inicio": 0.0,
+   "fin": 0.38,
+   "corte": false
+  },
+  {
+   "texto": "1.",
+   "inicio": 0.38,
+   "fin": 1.21,
+   "corte": true
+  },
+  {
+   "texto": "1",
+   "inicio": 1.21,
+   "fin": 1.78,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.78,
+   "fin": 2.03,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 2.03,
+   "fin": 2.71,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.71,
+   "fin": 2.96,
+   "corte": false
+  },
+  {
+   "texto": "1913.",
+   "inicio": 2.96,
+   "fin": 4.14,
+   "corte": true
+  },
+  {
+   "texto": "Este",
+   "inicio": 4.14,
+   "fin": 4.42,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 4.42,
+   "fin": 4.66,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 4.66,
+   "fin": 4.84,
+   "corte": false
+  },
+  {
+   "texto": "coche",
+   "inicio": 4.85,
+   "fin": 5.17,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.17,
+   "fin": 5.41,
+   "corte": false
+  },
+  {
+   "texto": "tardaba",
+   "inicio": 5.41,
+   "fin": 5.83,
+   "corte": false
+  },
+  {
+   "texto": "12",
+   "inicio": 5.83,
+   "fin": 6.3,
+   "corte": false
+  },
+  {
+   "texto": "horas",
+   "inicio": 6.3,
+   "fin": 6.63,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 6.63,
+   "fin": 6.81,
+   "corte": false
+  },
+  {
+   "texto": "fabricarse",
+   "inicio": 6.81,
+   "fin": 7.38,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 7.38,
+   "fin": 7.66,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 7.66,
+   "fin": 7.8,
+   "corte": false
+  },
+  {
+   "texto": "hacerse",
+   "inicio": 7.8,
+   "fin": 8.22,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 8.22,
+   "fin": 8.41,
+   "corte": false
+  },
+  {
+   "texto": "hora",
+   "inicio": 8.41,
+   "fin": 8.69,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 8.69,
+   "fin": 8.83,
+   "corte": false
+  },
+  {
+   "texto": "media.",
+   "inicio": 8.83,
+   "fin": 9.16,
+   "corte": true
+  },
+  {
+   "texto": "Detroit,",
+   "inicio": 9.16,
+   "fin": 10.03,
+   "corte": false
+  },
+  {
+   "texto": "fábrica",
+   "inicio": 10.03,
+   "fin": 10.77,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.77,
+   "fin": 10.99,
+   "corte": false
+  },
+  {
+   "texto": "Ford.",
+   "inicio": 10.99,
+   "fin": 11.31,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 11.31,
+   "fin": 12.0,
+   "corte": false
+  },
+  {
+   "texto": "Modelo",
+   "inicio": 12.0,
+   "fin": 12.39,
+   "corte": false
+  },
+  {
+   "texto": "T",
+   "inicio": 12.39,
+   "fin": 12.54,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 12.54,
+   "fin": 12.73,
+   "corte": false
+  },
+  {
+   "texto": "fabrica",
+   "inicio": 12.73,
+   "fin": 13.17,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 13.17,
+   "fin": 13.32,
+   "corte": false
+  },
+  {
+   "texto": "mano:",
+   "inicio": 13.32,
+   "fin": 13.61,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 13.61,
+   "fin": 14.26,
+   "corte": false
+  },
+  {
+   "texto": "obreros",
+   "inicio": 14.26,
+   "fin": 14.69,
+   "corte": false
+  },
+  {
+   "texto": "caminan",
+   "inicio": 14.69,
+   "fin": 15.13,
+   "corte": false
+  },
+  {
+   "texto": "alrededor",
+   "inicio": 15.13,
+   "fin": 15.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.67,
+   "fin": 15.86,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 15.86,
+   "fin": 16.15,
+   "corte": false
+  },
+  {
+   "texto": "coche,",
+   "inicio": 16.16,
+   "fin": 16.5,
+   "corte": false
+  },
+  {
+   "texto": "pieza",
+   "inicio": 16.5,
+   "fin": 17.13,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 17.13,
+   "fin": 17.27,
+   "corte": false
+  },
+  {
+   "texto": "pieza.",
+   "inicio": 17.27,
+   "fin": 17.61,
+   "corte": true
+  },
+  {
+   "texto": "Henry",
+   "inicio": 17.61,
+   "fin": 18.44,
+   "corte": false
+  },
+  {
+   "texto": "Ford",
+   "inicio": 18.44,
+   "fin": 18.73,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 18.73,
+   "fin": 19.07,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 19.07,
+   "fin": 19.31,
+   "corte": false
+  },
+  {
+   "texto": "idea",
+   "inicio": 19.31,
+   "fin": 19.6,
+   "corte": false
+  },
+  {
+   "texto": "sacada",
+   "inicio": 19.6,
+   "fin": 19.99,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.99,
+   "fin": 20.18,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 20.18,
+   "fin": 20.42,
+   "corte": false
+  },
+  {
+   "texto": "mataderos:",
+   "inicio": 20.43,
+   "fin": 20.96,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 20.96,
+   "fin": 21.49,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.49,
+   "fin": 21.69,
+   "corte": false
+  },
+  {
+   "texto": "coche",
+   "inicio": 21.69,
+   "fin": 22.03,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 22.03,
+   "fin": 22.22,
+   "corte": false
+  },
+  {
+   "texto": "mueva",
+   "inicio": 22.22,
+   "fin": 22.56,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 22.56,
+   "fin": 22.7,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 22.7,
+   "fin": 22.95,
+   "corte": false
+  },
+  {
+   "texto": "obreros",
+   "inicio": 22.95,
+   "fin": 23.38,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 23.38,
+   "fin": 23.58,
+   "corte": false
+  },
+  {
+   "texto": "queden",
+   "inicio": 23.58,
+   "fin": 23.96,
+   "corte": false
+  },
+  {
+   "texto": "quietos.",
+   "inicio": 23.96,
+   "fin": 24.79,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 24.79,
+   "fin": 25.04,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 25.04,
+   "fin": 25.29,
+   "corte": false
+  },
+  {
+   "texto": "arranca",
+   "inicio": 25.29,
+   "fin": 25.74,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 25.74,
+   "fin": 25.94,
+   "corte": false
+  },
+  {
+   "texto": "primera",
+   "inicio": 25.94,
+   "fin": 26.39,
+   "corte": false
+  },
+  {
+   "texto": "cadena",
+   "inicio": 26.39,
+   "fin": 26.79,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 26.8,
+   "fin": 26.99,
+   "corte": false
+  },
+  {
+   "texto": "montaje",
+   "inicio": 27.0,
+   "fin": 27.45,
+   "corte": false
+  },
+  {
+   "texto": "móvil.",
+   "inicio": 27.45,
+   "fin": 28.19,
+   "corte": true
+  },
+  {
+   "texto": "Cada",
+   "inicio": 28.19,
+   "fin": 28.49,
+   "corte": false
+  },
+  {
+   "texto": "obrero",
+   "inicio": 28.49,
+   "fin": 28.89,
+   "corte": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 28.9,
+   "fin": 29.19,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 29.2,
+   "fin": 29.5,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 29.5,
+   "fin": 29.75,
+   "corte": false
+  },
+  {
+   "texto": "tarea,",
+   "inicio": 29.75,
+   "fin": 30.43,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 30.43,
+   "fin": 30.68,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 30.69,
+   "fin": 30.83,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 30.84,
+   "fin": 31.14,
+   "corte": false
+  },
+  {
+   "texto": "vez.",
+   "inicio": 31.14,
+   "fin": 31.39,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 31.39,
+   "fin": 31.91,
+   "corte": false
+  },
+  {
+   "texto": "tiempo",
+   "inicio": 31.91,
+   "fin": 32.32,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 32.32,
+   "fin": 32.62,
+   "corte": false
+  },
+  {
+   "texto": "montar",
+   "inicio": 32.62,
+   "fin": 33.03,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 33.03,
+   "fin": 33.23,
+   "corte": false
+  },
+  {
+   "texto": "chasis",
+   "inicio": 33.23,
+   "fin": 33.63,
+   "corte": false
+  },
+  {
+   "texto": "baja",
+   "inicio": 33.63,
+   "fin": 33.93,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.94,
+   "fin": 34.14,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 34.14,
+   "fin": 34.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 34.39,
+   "fin": 34.59,
+   "corte": false
+  },
+  {
+   "texto": "12",
+   "inicio": 34.59,
+   "fin": 35.1,
+   "corte": false
+  },
+  {
+   "texto": "horas",
+   "inicio": 35.1,
+   "fin": 35.45,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 35.45,
+   "fin": 35.6,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 35.6,
+   "fin": 35.9,
+   "corte": false
+  },
+  {
+   "texto": "93",
+   "inicio": 35.91,
+   "fin": 36.41,
+   "corte": false
+  },
+  {
+   "texto": "minutos.",
+   "inicio": 36.41,
+   "fin": 36.86,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 36.86,
+   "fin": 37.36,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 37.36,
+   "fin": 37.57,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 37.57,
+   "fin": 37.83,
+   "corte": false
+  },
+  {
+   "texto": "importante:",
+   "inicio": 37.83,
+   "fin": 38.82,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.82,
+   "fin": 39.02,
+   "corte": false
+  },
+  {
+   "texto": "precio.",
+   "inicio": 39.03,
+   "fin": 39.84,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 39.84,
+   "fin": 40.12,
+   "corte": false
+  },
+  {
+   "texto": "1908",
+   "inicio": 40.12,
+   "fin": 40.96,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 40.96,
+   "fin": 41.24,
+   "corte": false
+  },
+  {
+   "texto": "Modelo",
+   "inicio": 41.24,
+   "fin": 41.8,
+   "corte": false
+  },
+  {
+   "texto": "T",
+   "inicio": 41.8,
+   "fin": 42.01,
+   "corte": false
+  },
+  {
+   "texto": "costaba",
+   "inicio": 42.01,
+   "fin": 42.64,
+   "corte": false
+  },
+  {
+   "texto": "850",
+   "inicio": 42.64,
+   "fin": 43.41,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 43.41,
+   "fin": 44.04,
+   "corte": true
+  },
+  {
+   "texto": "Años",
+   "inicio": 44.04,
+   "fin": 44.73,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 44.73,
+   "fin": 45.34,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 45.34,
+   "fin": 45.75,
+   "corte": false
+  },
+  {
+   "texto": "260.",
+   "inicio": 45.75,
+   "fin": 46.5,
+   "corte": true
+  },
+  {
+   "texto": "De",
+   "inicio": 46.5,
+   "fin": 46.7,
+   "corte": false
+  },
+  {
+   "texto": "repente,",
+   "inicio": 46.7,
+   "fin": 47.49,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 47.49,
+   "fin": 47.74,
+   "corte": false
+  },
+  {
+   "texto": "mismos",
+   "inicio": 47.74,
+   "fin": 48.14,
+   "corte": false
+  },
+  {
+   "texto": "obreros",
+   "inicio": 48.14,
+   "fin": 48.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 48.59,
+   "fin": 48.83,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 48.84,
+   "fin": 49.03,
+   "corte": false
+  },
+  {
+   "texto": "fabricaban",
+   "inicio": 49.03,
+   "fin": 49.63,
+   "corte": false
+  },
+  {
+   "texto": "podían",
+   "inicio": 49.63,
+   "fin": 50.03,
+   "corte": false
+  },
+  {
+   "texto": "comprarlo.",
+   "inicio": 50.03,
+   "fin": 50.57,
+   "corte": true
+  },
+  {
+   "texto": "Así",
+   "inicio": 50.58,
+   "fin": 50.82,
+   "corte": false
+  },
+  {
+   "texto": "nació",
+   "inicio": 50.83,
+   "fin": 51.56,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 51.56,
+   "fin": 51.76,
+   "corte": false
+  },
+  {
+   "texto": "producción",
+   "inicio": 51.76,
+   "fin": 52.36,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 52.36,
+   "fin": 52.56,
+   "corte": false
+  },
+  {
+   "texto": "masa",
+   "inicio": 52.56,
+   "fin": 52.86,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 52.86,
+   "fin": 53.11,
+   "corte": false
+  },
+  {
+   "texto": "todavía",
+   "inicio": 53.11,
+   "fin": 53.56,
+   "corte": false
+  },
+  {
+   "texto": "usamos",
+   "inicio": 53.56,
+   "fin": 53.96,
+   "corte": false
+  },
+  {
+   "texto": "hoy.",
+   "inicio": 53.96,
+   "fin": 54.21,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 54.21,
+   "fin": 54.41,
+   "corte": false
+  },
+  {
+   "texto": "trabajarías",
+   "inicio": 54.41,
+   "fin": 55.52,
+   "corte": false
+  },
+  {
+   "texto": "haciendo",
+   "inicio": 55.52,
+   "fin": 56.02,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 56.02,
+   "fin": 56.22,
+   "corte": false
+  },
+  {
+   "texto": "misma",
+   "inicio": 56.22,
+   "fin": 56.57,
+   "corte": false
+  },
+  {
+   "texto": "tarea",
+   "inicio": 56.57,
+   "fin": 56.93,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 56.93,
+   "fin": 57.23,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 57.23,
+   "fin": 57.43,
+   "corte": false
+  },
+  {
+   "texto": "día?",
+   "inicio": 57.43,
+   "fin": 57.68,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 57.68,
+   "fin": 58.49,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 58.49,
+   "fin": 58.68,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 58.68,
+   "fin": 58.96,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 58.96,
+   "fin": 59.15,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 59.15,
+   "fin": 59.53,
+   "corte": false
+  },
+  {
+   "texto": "2.",
+   "inicio": 59.53,
+   "fin": 59.95,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 59.95,
+   "fin": 60.71,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 60.71,
+   "fin": 61.03,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 61.03,
+   "fin": 61.24,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 61.24,
+   "fin": 61.88,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Puerta 1.",
+   "inicio": 0.0,
+   "fin": 1.21
+  },
+  {
+   "texto": "1 de diciembre de 1913.",
+   "inicio": 1.21,
+   "fin": 4.14
+  },
+  {
+   "texto": "Este día un coche que tardaba 12 horas en fabricarse pasó a hacerse en hora y media.",
+   "inicio": 4.14,
+   "fin": 9.16
+  },
+  {
+   "texto": "Detroit, fábrica de Ford.",
+   "inicio": 9.16,
+   "fin": 11.31
+  },
+  {
+   "texto": "El Modelo T se fabrica a mano: los obreros caminan alrededor de cada coche, pieza a pieza.",
+   "inicio": 11.31,
+   "fin": 17.61
+  },
+  {
+   "texto": "Henry Ford tiene una idea sacada de los mataderos: que el coche se mueva y los obreros se queden quietos.",
+   "inicio": 17.61,
+   "fin": 24.79
+  },
+  {
+   "texto": "Ese día arranca la primera cadena de montaje móvil.",
+   "inicio": 24.79,
+   "fin": 28.19
+  },
+  {
+   "texto": "Cada obrero hace solo una tarea, una y otra vez.",
+   "inicio": 28.19,
+   "fin": 31.39
+  },
+  {
+   "texto": "El tiempo para montar un chasis baja de más de 12 horas a unos 93 minutos.",
+   "inicio": 31.39,
+   "fin": 36.86
+  },
+  {
+   "texto": "Y lo más importante: el precio.",
+   "inicio": 36.86,
+   "fin": 39.84
+  },
+  {
+   "texto": "En 1908 un Modelo T costaba 850 dólares.",
+   "inicio": 39.84,
+   "fin": 44.04
+  },
+  {
+   "texto": "Años después, solo 260.",
+   "inicio": 44.04,
+   "fin": 46.5
+  },
+  {
+   "texto": "De repente, los mismos obreros que lo fabricaban podían comprarlo.",
+   "inicio": 46.5,
+   "fin": 50.57
+  },
+  {
+   "texto": "Así nació la producción en masa que todavía usamos hoy.",
+   "inicio": 50.58,
+   "fin": 54.21
+  },
+  {
+   "texto": "¿Tú trabajarías haciendo la misma tarea todo el día?",
+   "inicio": 54.21,
+   "fin": 57.68
+  },
+  {
+   "texto": "Mañana se abre la puerta 2.",
+   "inicio": 57.68,
+   "fin": 59.95
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 59.95,
+   "fin": 61.88
+  }
+ ],
+ "duracion": 61.88
+}

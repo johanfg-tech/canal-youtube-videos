@@ -736,8 +736,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="AdvientoIntro"
         component={AdvientoIntroPreview}
-        defaultProps={{ puerta: 2, fecha: "2 de diciembre", anio: "2001", entrada: "flow-enron/i01.jpg", abiertas: abiertasAntes(2) }}
-        durationInFrames={Math.round(5.6 * FPS)}
+        defaultProps={{ puerta: 2, anio: "2001", entrada: "flow-enron/i01.jpg", abiertas: abiertasAntes(2) }}
+        durationInFrames={Math.round(7 * FPS)}
         fps={FPS}
         width={1080}
         height={1920}

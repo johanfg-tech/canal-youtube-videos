@@ -12,7 +12,7 @@ import {
 } from "remotion";
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
-import { AdvientoIntroFlow, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
+import { AdvientoIntroFlow, ZOOM_ENTRADA, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
 import { abiertasAntes } from "../historias/flow/adviento";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
@@ -262,14 +262,22 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const total = h.guion.duracion + COLA;
   const tRemate = inicioDe(h, h.remate.frase);
   const cortes = h.planos.map((p, i) => (i === 0 ? 0 : inicioDe(h, p.frase, p.parte)));
-  const planos: Plano[] = h.planos.map((p, i) => ({ ...p, ini: cortes[i], fin: i + 1 < cortes.length ? cortes[i + 1] : total }));
+  let planos: Plano[] = h.planos.map((p, i) => ({ ...p, ini: cortes[i], fin: i + 1 < cortes.length ? cortes[i + 1] : total }));
   const g = h.grafico;
   const g0 = g ? inicioDe(h, g.desde) : 0;
   const g1 = g ? h.guion.frases[g.hasta].fin : 0;
   const tIntro = h.adviento ? finIntroAdviento(h.guion.frases[1].fin) : 0;
   const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05 && p.inicio >= tIntro - 0.05);
-  // Imagen que se ve dentro de la puerta al entrar: el plano que está en pantalla al acabar la intro.
+  // Calendario de adviento: la imagen que se ve dentro de la puerta es la del plano que está
+  // en pantalla al acabar la intro. Ese plano empieza justo al acabar la intro, con el mismo
+  // encuadre (zoom ZOOM_ENTRADA centrado) y se va alejando; los anteriores quedan tapados.
   const planoEntrada = planos.find((p) => p.ini <= tIntro && tIntro < p.fin && !p.video) ?? planos.find((p) => !p.video);
+  if (h.adviento && planoEntrada) {
+    const j = planos.indexOf(planoEntrada);
+    planos = planos.slice(j).map((p, i) =>
+      i === 0 ? { ...p, ini: tIntro, zoom: [ZOOM_ENTRADA, 1.0] as [number, number], foco: [50, 50, 50, 50] as [number, number, number, number] } : p,
+    );
+  }
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
       {planos.map((p, i) => (
@@ -312,7 +320,6 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
       {h.adviento ? (
         <AdvientoIntroFlow
           puerta={h.adviento.puerta}
-          fecha={h.adviento.fecha}
           anio={h.adviento.anio}
           tFin={h.guion.frases[1].fin}
           entrada={`${h.carpeta}/${planoEntrada?.src ?? "i01.jpg"}`}

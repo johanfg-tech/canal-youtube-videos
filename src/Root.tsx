@@ -16,6 +16,7 @@ import { PizzasBitcoinShort, duracionPizzas } from "./compositions/PizzasBitcoin
 import { PizzasFlowShort, duracionPizzasFlow } from "./compositions/PizzasFlowShort";
 import { CocaFlowShort, duracionCocaFlow } from "./compositions/CocaFlowShort";
 import { FlowHistoria, duracionFlow } from "./compositions/FlowHistoria";
+import { AdvientoIntroPreview } from "./components/historia/AdvientoIntroFlow";
 import { HISTORIAS_FLOW } from "./historias/flow";
 import { Remate, remateSchema, duracionRemate } from "./compositions/Remate";
 import remates from "../guiones/remates.json";
@@ -731,6 +732,15 @@ export const RemotionRoot: React.FC = () => {
           height={1920}
         />
       ))}
+      <Composition
+        id="AdvientoIntro"
+        component={AdvientoIntroPreview}
+        defaultProps={{ puerta: 1, fecha: "1 de diciembre", anio: "1913" }}
+        durationInFrames={Math.round(6.2 * FPS)}
+        fps={FPS}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="PilotoFlorida"
         component={PilotoFloridaShort}

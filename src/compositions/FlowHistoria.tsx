@@ -12,7 +12,7 @@ import {
 } from "remotion";
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
-import { AdvientoIntro } from "../components/historia/AdvientoIntro";
+import { AdvientoIntroFlow, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
 // Plantilla de historia hecha con imágenes de Google Flow (misma metodología que
@@ -265,7 +265,7 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const g = h.grafico;
   const g0 = g ? inicioDe(h, g.desde) : 0;
   const g1 = g ? h.guion.frases[g.hasta].fin : 0;
-  const tIntro = h.adviento ? h.guion.frases[1].fin : 0;
+  const tIntro = h.adviento ? finIntroAdviento(h.guion.frases[1].fin) : 0;
   const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05 && p.inicio >= tIntro - 0.05);
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
@@ -307,12 +307,11 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
       </Sequence>
 
       {h.adviento ? (
-        <AdvientoIntro
+        <AdvientoIntroFlow
           puerta={h.adviento.puerta}
           fecha={h.adviento.fecha}
           anio={h.adviento.anio}
-          tPuerta={h.guion.frases[0].fin}
-          tFin={tIntro}
+          tFin={h.guion.frases[1].fin}
         />
       ) : null}
 

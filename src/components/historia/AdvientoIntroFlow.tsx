@@ -58,66 +58,134 @@ const textoOro: React.CSSProperties = {
 const veta = "repeating-linear-gradient(88deg, rgba(60,30,10,0.10) 0px, rgba(60,30,10,0) 2px, rgba(255,230,190,0.05) 5px, rgba(60,30,10,0.08) 8px, rgba(60,30,10,0) 11px)";
 const nudos = "radial-gradient(ellipse 18% 9% at 70% 30%, rgba(60,30,10,0.18), rgba(0,0,0,0) 70%), radial-gradient(ellipse 14% 7% at 25% 75%, rgba(60,30,10,0.14), rgba(0,0,0,0) 70%)";
 const madera = (claro: string, oscuro: string) => `${veta}, ${nudos}, linear-gradient(170deg, ${claro}, ${oscuro})`;
-const TONOS: [string, string][] = [
-  ["#b8834d", "#865427"], // roble
-  ["#93603a", "#5f3b1e"], // nogal
+// Colores navideños de las puertas: papel de regalo rojo, verde y crema con su lazo.
+const ESTILOS: { fondo: [string, string]; cinta: [string, string]; dibujo: string }[] = [
+  { fondo: ["#d23a32", "#8e1a17"], cinta: ["#ffe6a0", "#c9962e"], dibujo: "repeating-linear-gradient(45deg, rgba(255,255,255,0.07) 0 6px, rgba(255,255,255,0) 6px 12px)" },
+  { fondo: ["#2f8a4c", "#14532b"], cinta: ["#e8473d", "#9d1d18"], dibujo: "radial-gradient(circle at 25% 25%, rgba(255,255,255,0.16) 1.4px, rgba(0,0,0,0) 2px), radial-gradient(circle at 75% 75%, rgba(255,255,255,0.16) 1.4px, rgba(0,0,0,0) 2px)" },
+  { fondo: ["#f3e6cc", "#cdb48a"], cinta: ["#d23a32", "#8e1a17"], dibujo: "repeating-linear-gradient(-45deg, rgba(200,40,40,0.16) 0 5px, rgba(0,0,0,0) 5px 13px)" },
+  { fondo: ["#a8262a", "#5e0f12"], cinta: ["#3c9a5a", "#1d5a31"], dibujo: "radial-gradient(circle at 50% 50%, rgba(255,230,170,0.14) 1.4px, rgba(0,0,0,0) 2px)" },
 ];
+const estilo = (n: number) => ESTILOS[(n * 7 + Math.floor((n - 1) / COLS)) % ESTILOS.length];
 
-// Cara de una puertecita de madera tallada.
+// Cara de una puertecita: un regalo con cinta, lazo y etiqueta con el número.
 const Hoja: React.FC<{ n: number; brillo?: number }> = ({ n, brillo = 0 }) => {
-  const [claro, oscuro] = TONOS[(n + Math.floor((n - 1) / COLS)) % 2];
+  const e = estilo(n);
+  const cinta = `linear-gradient(90deg, ${e.cinta[1]}, ${e.cinta[0]} 45%, ${e.cinta[1]})`;
+  const cintaH = `linear-gradient(180deg, ${e.cinta[1]}, ${e.cinta[0]} 45%, ${e.cinta[1]})`;
+  const lazo = (lado: 1 | -1): React.CSSProperties => ({
+    position: "absolute",
+    left: DW / 2 - 13 + lado * 8,
+    top: 3,
+    width: 18,
+    height: 12,
+    borderRadius: "50%",
+    border: `3px solid ${e.cinta[0]}`,
+    boxShadow: `0 1px 1px rgba(0,0,0,0.4), inset 0 0 0 1px ${e.cinta[1]}`,
+    transform: `rotate(${lado * 22}deg)`,
+  });
   return (
     <div
       style={{
         position: "absolute",
         inset: 0,
         borderRadius: 5,
-        background: madera(claro, oscuro),
-        boxShadow: `inset 0 1px 0 rgba(255,230,190,0.35), inset 0 -2px 3px rgba(0,0,0,0.35), 0 2px 4px rgba(0,0,0,0.55), 0 0 ${20 * brillo}px ${6 * brillo}px rgba(255,205,110,${0.8 * brillo})`,
+        overflow: "hidden",
+        background: `${e.dibujo}, linear-gradient(165deg, ${e.fondo[0]}, ${e.fondo[1]})`,
+        backgroundSize: "auto, auto",
+        boxShadow: `inset 0 1px 0 rgba(255,255,255,0.35), inset 0 -2px 3px rgba(0,0,0,0.35), 0 2px 4px rgba(0,0,0,0.55), 0 0 ${20 * brillo}px ${6 * brillo}px rgba(255,205,110,${0.8 * brillo})`,
         backfaceVisibility: "hidden",
       }}
     >
-      {/* Panel tallado */}
+      {/* Cinta en cruz */}
+      <div style={{ position: "absolute", left: DW / 2 - 6, top: 0, width: 12, height: "100%", background: cinta }} />
+      <div style={{ position: "absolute", top: DH / 2 - 6, left: 0, height: 12, width: "100%", background: cintaH }} />
+      {/* Lazo */}
+      <div style={lazo(-1)} />
+      <div style={lazo(1)} />
+      <div style={{ position: "absolute", left: DW / 2 - 5, top: 7, width: 10, height: 9, borderRadius: 4, background: e.cinta[0], boxShadow: "0 1px 1px rgba(0,0,0,0.5)" }} />
+      {/* Etiqueta con el número */}
       <div
         style={{
           position: "absolute",
-          inset: 7,
-          borderRadius: 4,
-          boxShadow: "inset 1.5px 1.5px 2px rgba(0,0,0,0.45), inset -1px -1px 1px rgba(255,225,180,0.25)",
+          left: DW / 2 - 23,
+          top: DH / 2 - 21,
+          width: 46,
+          height: 42,
+          borderRadius: 10,
+          background: "radial-gradient(circle at 40% 30%, #fffaf0, #efe1c2)",
+          boxShadow: "0 2px 3px rgba(0,0,0,0.5), inset 0 0 0 2px rgba(201,150,46,0.9)",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
         }}
       >
-        <div
-          style={{
-            fontFamily: CINZEL,
-            fontWeight: 900,
-            fontSize: 42,
-            lineHeight: 1,
-            marginTop: -3,
-            color: "#3a200d",
-            textShadow: "0 1px 0 rgba(255,228,185,0.45), 0 -1px 0 rgba(0,0,0,0.35)",
-          }}
-        >
-          {n}
-        </div>
+        <div style={{ fontFamily: CINZEL, fontWeight: 900, fontSize: 28, lineHeight: 1, marginTop: -1, color: "#a3201c" }}>{n}</div>
       </div>
-      <div
-        style={{
-          position: "absolute",
-          right: 4,
-          top: DH / 2 - 4,
-          width: 7,
-          height: 7,
-          borderRadius: "50%",
-          background: `radial-gradient(circle at 35% 35%, #fff6cf, ${ORO} 50%, ${ORO_OSC})`,
-          boxShadow: "0 1px 1px rgba(0,0,0,0.6)",
-        }}
-      />
+      {/* Brillo del papel */}
+      <div style={{ position: "absolute", inset: 0, background: "linear-gradient(120deg, rgba(255,255,255,0.18), rgba(255,255,255,0) 40%)" }} />
     </div>
   );
 };
+
+// Guirnalda de luces que rodea el tablero.
+const COLORES_LUZ = ["#ff4d4d", "#ffd75e", "#4dd97a", "#5eb6ff", "#ff9a3c"];
+const Luces: React.FC<{ frame: number }> = ({ frame }) => {
+  const puntos: { x: number; y: number }[] = [];
+  const paso = 34;
+  const borde = 4;
+  const nx = Math.round(BW / paso);
+  const ny = Math.round(BH / paso);
+  for (let i = 0; i <= nx; i++) puntos.push({ x: BX + (BW * i) / nx, y: BY - borde });
+  for (let i = 1; i <= ny; i++) puntos.push({ x: BX + BW + borde, y: BY + (BH * i) / ny });
+  for (let i = nx - 1; i >= 0; i--) puntos.push({ x: BX + (BW * i) / nx, y: BY + BH + borde });
+  for (let i = ny - 1; i >= 1; i--) puntos.push({ x: BX - borde, y: BY + (BH * i) / ny });
+  // Cable con caída suave entre bombillas.
+  let dCable = `M ${puntos[0].x} ${puntos[0].y}`;
+  for (let i = 1; i <= puntos.length; i++) {
+    const p0 = puntos[i - 1];
+    const p1 = puntos[i % puntos.length];
+    const mx = (p0.x + p1.x) / 2;
+    const my = (p0.y + p1.y) / 2;
+    const dx = p1.x - p0.x;
+    const dy = p1.y - p0.y;
+    const L = Math.hypot(dx, dy) || 1;
+    // la curva se hunde hacia fuera del tablero
+    const ox = (dy / L) * 7;
+    const oy = (-dx / L) * 7;
+    dCable += ` Q ${mx - ox} ${my - oy} ${p1.x} ${p1.y}`;
+  }
+  return (
+    <svg style={{ position: "absolute", left: 0, top: 0, width: 1080, height: 1920, overflow: "visible", pointerEvents: "none" }}>
+      <path d={dCable} fill="none" stroke="#1c2a14" strokeWidth={2.2} />
+      {puntos.map((p, i) => {
+        const c = COLORES_LUZ[i % COLORES_LUZ.length];
+        const on = 0.55 + 0.45 * Math.max(0, Math.sin(frame / 9 + i * 1.7));
+        return (
+          <g key={i}>
+            <circle cx={p.x} cy={p.y} r={11} fill={c} opacity={0.28 * on} />
+            <ellipse cx={p.x} cy={p.y} rx={4.2} ry={5.6} fill={c} opacity={0.55 + 0.45 * on} />
+            <circle cx={p.x - 1.3} cy={p.y - 1.8} r={1.4} fill="#fff" opacity={0.8 * on} />
+          </g>
+        );
+      })}
+    </svg>
+  );
+};
+
+// Ramito de acebo para las esquinas de la cabecera.
+const Acebo: React.FC<{ x: number; y: number; espejo?: boolean }> = ({ x, y, espejo }) => (
+  <svg style={{ position: "absolute", left: x - 40, top: y - 30, width: 80, height: 60, overflow: "visible", transform: espejo ? "scaleX(-1)" : undefined }}>
+    <path d="M40 30 C 26 14, 8 18, 2 10 C 10 24, 6 34, 14 40 C 20 32, 30 36, 40 30 Z" fill="#2f7d3f" stroke="#164a22" strokeWidth={1.5} />
+    <path d="M40 30 C 46 12, 64 8, 72 2 C 66 16, 74 26, 68 34 C 60 28, 50 34, 40 30 Z" fill="#3a9150" stroke="#164a22" strokeWidth={1.5} />
+    <path d="M40 30 L 12 22 M40 30 L 64 12" stroke="#164a22" strokeWidth={1.2} />
+    <circle cx={36} cy={32} r={6} fill="#d8262c" stroke="#7d0f12" strokeWidth={1} />
+    <circle cx={45} cy={34} r={6} fill="#e3333a" stroke="#7d0f12" strokeWidth={1} />
+    <circle cx={40} cy={25} r={6} fill="#c91f25" stroke="#7d0f12" strokeWidth={1} />
+    <circle cx={34} cy={30} r={1.6} fill="#fff" opacity={0.8} />
+    <circle cx={43} cy={32} r={1.6} fill="#fff" opacity={0.8} />
+    <circle cx={38} cy={23} r={1.6} fill="#fff" opacity={0.8} />
+  </svg>
+);
 
 // La hoja girada (abierta), con su cara trasera de madera.
 const HojaGirada: React.FC<{ n: number; giro: number; brillo?: number }> = ({ n, giro, brillo }) => (
@@ -131,7 +199,7 @@ const HojaGirada: React.FC<{ n: number; giro: number; brillo?: number }> = ({ n,
           borderRadius: 5,
           transform: "rotateY(180deg)",
           backfaceVisibility: "hidden",
-          background: madera("#7a5130", "#4a2c15"),
+          background: "linear-gradient(170deg, #f1e4c8, #c9b088)",
         }}
       />
     </div>
@@ -266,6 +334,9 @@ export const AdvientoIntroFlow: React.FC<{
             <div style={{ ...textoOro, fontSize: 28, letterSpacing: 5 }}>DICIEMBRE</div>
           </div>
         </div>
+        <Acebo x={BX + 78} y={BY + 40} />
+        <Acebo x={BX + BW - 78} y={BY + 40} espejo />
+        <Luces frame={frame} />
         {/* Puertas */}
         {Array.from({ length: 24 }, (_, i) => i + 1).map((n) => {
           const q = celda(n);

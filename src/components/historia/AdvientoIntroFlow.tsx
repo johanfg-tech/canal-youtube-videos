@@ -289,7 +289,7 @@ export const AdvientoIntroFlow: React.FC<{
   const anioHoy = interpolate(frame, [tA + (t1 - tA) * 0.35, tA + (t1 - tA) * 0.75], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   // Título del calendario (bienvenida) y título de la historia (encima del año).
   const bienvenida = tA > 0 ? interpolate(frame, [f(0.3), f(1.1), tA - f(0.5), tA + f(0.2)], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
-  const tituloO = interpolate(frame, [tA + (t1 - tA) * 0.35, tA + (t1 - tA) * 0.75, tEntra0 + f(0.2), tEntra0 + f(0.7)], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const tituloO = interpolate(frame, [tA + f(0.3), tA + f(1.0), tEntra0 + f(0.2), tEntra0 + f(0.7)], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const anioPantallaY = 960 + (d.y - ROT - 6 - cam.y) * cam.s;
   // Al cruzar la puerta, el recorte del hueco se abre hasta el fotograma completo.
   // Termina bastante antes del final para que los últimos fotogramas sean solo la imagen.
@@ -423,24 +423,25 @@ export const AdvientoIntroFlow: React.FC<{
         <div
           style={{
             position: "absolute",
-            left: 60,
-            right: 60,
-            bottom: 1920 - anioPantallaY + 4,
-            textAlign: "center",
+            left: 30,
+            right: 30,
+            bottom: 1920 - anioPantallaY + 6,
+            display: "flex",
+            justifyContent: "center",
             opacity: tituloO,
             transform: `translateY(${(1 - tituloO) * 16}px)`,
           }}
         >
           <div
             style={{
-              display: "inline-block",
-              padding: "18px 34px 20px",
-              borderRadius: 18,
+              width: "fit-content",
+              padding: "10px 22px 12px",
+              borderRadius: 14,
               background: "linear-gradient(180deg, #a3221f, #6e0f12)",
               boxShadow: `0 10px 30px rgba(0,0,0,0.6), inset 0 0 0 3px ${ORO}, inset 0 0 0 6px rgba(80,10,10,0.9), inset 0 2px 0 7px rgba(255,220,160,0.25)`,
             }}
           >
-            <div style={{ ...textoOro, fontSize: 58, lineHeight: 1.1, letterSpacing: 1.2, textWrap: "balance", background: "linear-gradient(180deg, #fff6d6 0%, #f3cd6e 55%, #c9962e 100%)", WebkitBackgroundClip: "text", backgroundClip: "text" }}>{titulo}</div>
+            <div style={{ ...textoOro, fontSize: Math.min(46, 940 / (titulo.length * 0.66)), lineHeight: 1.1, letterSpacing: 0.6, whiteSpace: "nowrap", background: "linear-gradient(180deg, #fff6d6 0%, #f3cd6e 55%, #c9962e 100%)", WebkitBackgroundClip: "text", backgroundClip: "text" }}>{titulo}</div>
           </div>
         </div>
       ) : null}

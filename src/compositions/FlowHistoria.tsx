@@ -13,7 +13,7 @@ import {
 import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
 import { AdvientoIntroFlow, ZOOM_ENTRADA, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
-import { abiertasAntes } from "../historias/flow/adviento";
+import { PUERTAS_ADVIENTO, abiertasAntes } from "../historias/flow/adviento";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
 // Plantilla de historia hecha con imágenes de Google Flow (misma metodología que
@@ -56,7 +56,7 @@ export type HistoriaFlow = {
   etiquetas: EtiquetaCfg[];
   grafico?: GraficoCfg;
   remate: { frase: number; pregunta: string; fondo: string };
-  // Calendario de adviento: la frase 0 es "Puerta N." y la frase 1 la fecha.
+  // Calendario de adviento: frase 0 = bienvenida, frase 1 = "Hoy abrimos la puerta N.", frase 2 = fecha.
   adviento?: { puerta: number; fecha: string; anio?: string };
 };
 
@@ -266,7 +266,7 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const g = h.grafico;
   const g0 = g ? inicioDe(h, g.desde) : 0;
   const g1 = g ? h.guion.frases[g.hasta].fin : 0;
-  const tIntro = h.adviento ? finIntroAdviento(h.guion.frases[1].fin) : 0;
+  const tIntro = h.adviento ? finIntroAdviento(h.guion.frases[2].fin) : 0;
   const palabras = h.guion.palabras.filter((p) => p.inicio < tRemate - 0.05 && p.inicio >= tIntro - 0.05);
   // Calendario de adviento: la imagen que se ve dentro de la puerta es la del plano que está
   // en pantalla al acabar la intro. Ese plano empieza justo al acabar la intro, con el mismo
@@ -321,13 +321,22 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
         <AdvientoIntroFlow
           puerta={h.adviento.puerta}
           anio={h.adviento.anio}
-          tFin={h.guion.frases[1].fin}
+          titulo={PUERTAS_ADVIENTO[h.adviento.puerta]?.titulo}
+          tBienvenida={h.guion.frases[0].fin}
+          tFin={h.guion.frases[2].fin}
           entrada={`${h.carpeta}/${planoEntrada?.src ?? "i01.jpg"}`}
           abiertas={abiertasAntes(h.adviento.puerta)}
         />
       ) : null}
 
       <Audio src={staticFile(`${h.carpeta}/voz.mp3`)} />
+      {h.adviento ? (
+        // Cascabeles navideños al empezar, por debajo de la voz.
+        <Audio
+          src={staticFile("flow-adviento-intro/cascabeles.mp3")}
+          volume={(fr) => interpolate(fr, [0, 6, f(2.5), f(5)], [0, 0.55, 0.4, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}
+        />
+      ) : null}
     </AbsoluteFill>
   );
 };

@@ -239,16 +239,19 @@ const ease = Easing.bezier(0.45, 0, 0.25, 1);
 export const AdvientoIntroFlow: React.FC<{
   puerta: number;
   anio?: string;
+  titulo?: string; // título de la historia del día, encima del año
+  tBienvenida?: number; // fin de la frase de bienvenida (s): hasta ahí, plano general con el título del calendario
   tFin: number; // fin de la frase con la fecha (s)
   entrada: string; // primera imagen de la historia (se ve al entrar por la puerta)
   abiertas: { puerta: number; src: string; anio: string }[];
-}> = ({ puerta, anio, tFin, entrada, abiertas }) => {
+}> = ({ puerta, anio, titulo, tBienvenida = 0, tFin, entrada, abiertas }) => {
   const frame = useCurrentFrame();
   const T = finIntroAdviento(tFin);
   const fin = f(T);
   if (frame >= fin) return null;
 
-  const t1 = f(T * 0.52); // llega frente a la puerta
+  const tA = f(tBienvenida); // empieza el acercamiento
+  const t1 = Math.round(tA + (fin - tA) * 0.52); // llega frente a la puerta
   const tAbre0 = t1 - 3;
   const tAbre1 = tAbre0 + f(0.7);
   const tEntra0 = tAbre0 + f(0.3);
@@ -259,7 +262,7 @@ export const AdvientoIntroFlow: React.FC<{
   const iw = 1080 * k;
   const ih = 1920 * k;
   // Cámara: (x, y) es el punto del mundo en el centro de la pantalla; s la escala.
-  const s0 = 1;
+  const s0 = 1.05;
   const s1 = 430 / DW;
   const s2 = ZOOM_ENTRADA / k;
   const c0 = { x: 540, y: 960 };
@@ -274,14 +277,20 @@ export const AdvientoIntroFlow: React.FC<{
     const w = (1 - sa / s) / (1 - sa / sb);
     return { s, x: ca.x + (cb.x - ca.x) * w, y: ca.y + (cb.y - ca.y) * w };
   };
-  const u1 = tramo(f(0.1), t1);
+  const u1 = tramo(tA + f(0.1), t1);
   const u2 = tramo(tEntra0, fin - 1, Easing.bezier(0.5, 0, 0.3, 1));
-  const cam = frame < tEntra0 ? zoom(u1, s0, s1, c0, c1) : zoom(u2, s1, s2, c1, c2);
+  // Durante la bienvenida, el salón entero con un empuje muy lento (1,00 → 1,05).
+  const uB = tramo(0, Math.max(1, tA + f(0.1)), Easing.bezier(0.33, 0, 0.67, 1));
+  const cam = frame < tA + f(0.1) ? { s: 1 + (s0 - 1) * uB, x: 540, y: 960 } : frame < tEntra0 ? zoom(u1, s0, s1, c0, c1) : zoom(u2, s1, s2, c1, c2);
 
   const giro = interpolate(frame, [tAbre0, tAbre1], [0, -118], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.inOut(Easing.cubic) });
   const brillo = interpolate(frame, [0, f(0.8), tAbre0, tAbre0 + 6], [0, 0.9, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const luz = interpolate(frame, [tAbre0, tAbre0 + 6, tAbre1 + 4, fin - 4], [0, 0.85, 0.5, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  const anioHoy = interpolate(frame, [f(T * 0.25), f(T * 0.42)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const anioHoy = interpolate(frame, [tA + (t1 - tA) * 0.35, tA + (t1 - tA) * 0.75], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  // Título del calendario (bienvenida) y título de la historia (encima del año).
+  const bienvenida = tA > 0 ? interpolate(frame, [f(0.3), f(1.1), tA - f(0.5), tA + f(0.2)], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
+  const tituloO = interpolate(frame, [tA + (t1 - tA) * 0.35, tA + (t1 - tA) * 0.75, tEntra0 + f(0.2), tEntra0 + f(0.7)], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const anioPantallaY = 960 + (d.y - ROT - 6 - cam.y) * cam.s;
   // Al cruzar la puerta, el recorte del hueco se abre hasta el fotograma completo.
   // Termina bastante antes del final para que los últimos fotogramas sean solo la imagen.
   const tAbierto = Math.round(tEntra0 + (fin - 1 - tEntra0) * 0.72);
@@ -384,28 +393,82 @@ export const AdvientoIntroFlow: React.FC<{
           <HojaGirada n={puerta} giro={giro} brillo={brillo} />
         </div>
       </div>
+      {/* Bienvenida: título del calendario sobre el plano general */}
+      {bienvenida > 0 ? (
+        <AbsoluteFill style={{ alignItems: "center", opacity: bienvenida }}>
+          <div
+            style={{
+              position: "absolute",
+              top: 120,
+              left: 60,
+              right: 60,
+              padding: "34px 30px 30px",
+              borderRadius: 28,
+              background: "radial-gradient(ellipse at 50% 40%, rgba(40,14,4,0.82), rgba(20,6,0,0.55) 70%, rgba(20,6,0,0) 100%)",
+              textAlign: "center",
+              transform: `translateY(${(1 - bienvenida) * 24}px)`,
+            }}
+          >
+            <div style={{ ...textoOro, fontSize: 46, letterSpacing: 6, lineHeight: 1.1 }}>CALENDARIO DE</div>
+            <div style={{ ...textoOro, fontSize: 92, letterSpacing: 3, lineHeight: 1.05, marginTop: 6 }}>HISTORIAS</div>
+            <div style={{ ...textoOro, fontSize: 58, letterSpacing: 5, lineHeight: 1.1, marginTop: 4 }}>DE ADVIENTO</div>
+            <div style={{ fontFamily: CINZEL, fontWeight: 700, fontSize: 30, color: "#f6e7c4", marginTop: 18, letterSpacing: 1, textShadow: "0 2px 6px rgba(0,0,0,0.9)" }}>
+              Una historia real por cada día de diciembre
+            </div>
+          </div>
+        </AbsoluteFill>
+      ) : null}
+      {/* Título de la historia, encima del año de la puerta */}
+      {titulo && tituloO > 0 ? (
+        <div
+          style={{
+            position: "absolute",
+            left: 60,
+            right: 60,
+            bottom: 1920 - anioPantallaY + 4,
+            textAlign: "center",
+            opacity: tituloO,
+            transform: `translateY(${(1 - tituloO) * 16}px)`,
+          }}
+        >
+          <div
+            style={{
+              display: "inline-block",
+              padding: "18px 34px 20px",
+              borderRadius: 18,
+              background: "linear-gradient(180deg, #a3221f, #6e0f12)",
+              boxShadow: `0 10px 30px rgba(0,0,0,0.6), inset 0 0 0 3px ${ORO}, inset 0 0 0 6px rgba(80,10,10,0.9), inset 0 2px 0 7px rgba(255,220,160,0.25)`,
+            }}
+          >
+            <div style={{ ...textoOro, fontSize: 58, lineHeight: 1.1, letterSpacing: 1.2, textWrap: "balance", background: "linear-gradient(180deg, #fff6d6 0%, #f3cd6e 55%, #c9962e 100%)", WebkitBackgroundClip: "text", backgroundClip: "text" }}>{titulo}</div>
+          </div>
+        </div>
+      ) : null}
       {/* Viñeta cálida, desaparece al entrar */}
       <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(20,6,0,0.5) 100%)", opacity: 1 - u2 }} />
     </AbsoluteFill>
   );
 };
 
+const PREVIEW_BIENVENIDA = 6;
+const PREVIEW_FIN = 10.5;
 // Vista previa sola de la intro (sin voz): al acabar sigue la primera imagen alejándose.
 export const AdvientoIntroPreview: React.FC<{
   puerta: number;
   anio?: string;
+  titulo?: string;
   entrada: string;
   abiertas: { puerta: number; src: string; anio: string }[];
 }> = (p) => {
   const frame = useCurrentFrame();
-  const fin = f(finIntroAdviento(3.4));
+  const fin = f(finIntroAdviento(PREVIEW_FIN));
   const z = interpolate(frame, [fin, fin + f(4)], [ZOOM_ENTRADA, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.bezier(0.33, 0, 0.67, 1) });
   return (
     <AbsoluteFill style={{ background: "#000" }}>
       <AbsoluteFill style={{ overflow: "hidden" }}>
         <Img src={staticFile(p.entrada)} style={{ width: "100%", height: "100%", objectFit: "cover", transformOrigin: "50% 50%", transform: `scale(${z})` }} />
       </AbsoluteFill>
-      <AdvientoIntroFlow {...p} tFin={3.4} />
+      <AdvientoIntroFlow {...p} tBienvenida={PREVIEW_BIENVENIDA} tFin={PREVIEW_FIN} />
     </AbsoluteFill>
   );
 };

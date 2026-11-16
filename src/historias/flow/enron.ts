@@ -10,7 +10,7 @@ export const enron: HistoriaFlow = {
   planos: [
     { frase: 3, src: "i05.jpg" },
     { frase: 3, parte: 0.5, src: "i01.jpg" },
-    { frase: 5, src: "v_energia.mp4", video: true },
+    { frase: 5, parte: 0.12, src: "v_energia.mp4", video: true },
     { frase: 6, src: "v_sala.mp4", video: true },
     { frase: 7, src: "v_esconden.mp4", video: true },
     { frase: 7, parte: 0.65, src: "i04.jpg" },

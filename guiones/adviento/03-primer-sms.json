@@ -1,0 +1,1172 @@
+{
+ "palabras": [
+  {
+   "texto": "Bienvenidos",
+   "inicio": 0.0,
+   "fin": 0.63,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 0.63,
+   "fin": 0.83,
+   "corte": false
+  },
+  {
+   "texto": "calendario",
+   "inicio": 0.83,
+   "fin": 1.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.41,
+   "fin": 1.6,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 1.6,
+   "fin": 2.14,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.14,
+   "fin": 2.33,
+   "corte": false
+  },
+  {
+   "texto": "Adviento:",
+   "inicio": 2.33,
+   "fin": 3.26,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 3.26,
+   "fin": 3.56,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 3.56,
+   "fin": 3.8,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.8,
+   "fin": 3.99,
+   "corte": false
+  },
+  {
+   "texto": "diciembre,",
+   "inicio": 3.99,
+   "fin": 4.53,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.53,
+   "fin": 4.77,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 4.77,
+   "fin": 5.25,
+   "corte": false
+  },
+  {
+   "texto": "real",
+   "inicio": 5.26,
+   "fin": 5.55,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.55,
+   "fin": 5.79,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 5.79,
+   "fin": 6.08,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 6.08,
+   "fin": 6.32,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 6.32,
+   "fin": 6.66,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.66,
+   "fin": 6.91,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 7.35,
+   "fin": 7.69,
+   "corte": false
+  },
+  {
+   "texto": "abrimos",
+   "inicio": 7.69,
+   "fin": 8.3,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.3,
+   "fin": 8.57,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 8.58,
+   "fin": 9.12,
+   "corte": false
+  },
+  {
+   "texto": "3:",
+   "inicio": 9.12,
+   "fin": 10.11,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 10.11,
+   "fin": 10.38,
+   "corte": false
+  },
+  {
+   "texto": "primer",
+   "inicio": 10.38,
+   "fin": 10.93,
+   "corte": false
+  },
+  {
+   "texto": "SMS.",
+   "inicio": 10.93,
+   "fin": 11.27,
+   "corte": true
+  },
+  {
+   "texto": "3",
+   "inicio": 11.99,
+   "fin": 12.58,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.58,
+   "fin": 12.85,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 12.85,
+   "fin": 13.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.57,
+   "fin": 13.83,
+   "corte": false
+  },
+  {
+   "texto": "1992.",
+   "inicio": 13.83,
+   "fin": 14.62,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 15.1,
+   "fin": 15.31,
+   "corte": false
+  },
+  {
+   "texto": "mensaje",
+   "inicio": 15.31,
+   "fin": 15.77,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.77,
+   "fin": 15.97,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 15.97,
+   "fin": 16.28,
+   "corte": false
+  },
+  {
+   "texto": "dos",
+   "inicio": 16.28,
+   "fin": 16.54,
+   "corte": false
+  },
+  {
+   "texto": "palabras",
+   "inicio": 16.54,
+   "fin": 17.05,
+   "corte": false
+  },
+  {
+   "texto": "inició",
+   "inicio": 17.05,
+   "fin": 17.46,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 17.46,
+   "fin": 17.66,
+   "corte": false
+  },
+  {
+   "texto": "negocio",
+   "inicio": 17.66,
+   "fin": 18.13,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.13,
+   "fin": 18.33,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 18.33,
+   "fin": 18.69,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.69,
+   "fin": 18.89,
+   "corte": false
+  },
+  {
+   "texto": "millones.",
+   "inicio": 18.9,
+   "fin": 19.41,
+   "corte": true
+  },
+  {
+   "texto": "Inglaterra.",
+   "inicio": 19.97,
+   "fin": 20.6,
+   "corte": true
+  },
+  {
+   "texto": "Neil",
+   "inicio": 21.1,
+   "fin": 21.38,
+   "corte": false
+  },
+  {
+   "texto": "Papworth,",
+   "inicio": 21.38,
+   "fin": 21.84,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 21.85,
+   "fin": 22.03,
+   "corte": false
+  },
+  {
+   "texto": "ingeniero",
+   "inicio": 22.03,
+   "fin": 22.55,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.55,
+   "fin": 22.73,
+   "corte": false
+  },
+  {
+   "texto": "22",
+   "inicio": 22.74,
+   "fin": 23.2,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 23.2,
+   "fin": 23.48,
+   "corte": false
+  },
+  {
+   "texto": "está",
+   "inicio": 23.49,
+   "fin": 23.77,
+   "corte": false
+  },
+  {
+   "texto": "probando",
+   "inicio": 23.77,
+   "fin": 24.23,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 24.23,
+   "fin": 24.42,
+   "corte": false
+  },
+  {
+   "texto": "sistema",
+   "inicio": 24.42,
+   "fin": 24.84,
+   "corte": false
+  },
+  {
+   "texto": "nuevo",
+   "inicio": 24.84,
+   "fin": 25.17,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 25.17,
+   "fin": 25.45,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 25.45,
+   "fin": 25.64,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 25.64,
+   "fin": 26.06,
+   "corte": false
+  },
+  {
+   "texto": "Vodafone.",
+   "inicio": 26.06,
+   "fin": 26.53,
+   "corte": true
+  },
+  {
+   "texto": "Desde",
+   "inicio": 26.98,
+   "fin": 27.33,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 27.33,
+   "fin": 27.53,
+   "corte": false
+  },
+  {
+   "texto": "ordenador",
+   "inicio": 27.53,
+   "fin": 28.08,
+   "corte": false
+  },
+  {
+   "texto": "escribe:",
+   "inicio": 28.08,
+   "fin": 28.97,
+   "corte": false
+  },
+  {
+   "texto": "Merry",
+   "inicio": 28.97,
+   "fin": 29.32,
+   "corte": false
+  },
+  {
+   "texto": "Christmas,",
+   "inicio": 29.32,
+   "fin": 29.87,
+   "corte": false
+  },
+  {
+   "texto": "Feliz",
+   "inicio": 29.87,
+   "fin": 30.22,
+   "corte": false
+  },
+  {
+   "texto": "Navidad.",
+   "inicio": 30.22,
+   "fin": 30.67,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 31.03,
+   "fin": 31.14,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 31.14,
+   "fin": 31.29,
+   "corte": false
+  },
+  {
+   "texto": "envía",
+   "inicio": 31.29,
+   "fin": 31.55,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 31.55,
+   "fin": 31.7,
+   "corte": false
+  },
+  {
+   "texto": "teléfono",
+   "inicio": 31.7,
+   "fin": 32.07,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.07,
+   "fin": 32.22,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 32.22,
+   "fin": 32.37,
+   "corte": false
+  },
+  {
+   "texto": "directivo",
+   "inicio": 32.37,
+   "fin": 32.78,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 32.78,
+   "fin": 32.96,
+   "corte": false
+  },
+  {
+   "texto": "estaba",
+   "inicio": 32.96,
+   "fin": 33.26,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 33.26,
+   "fin": 33.41,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 33.41,
+   "fin": 33.6,
+   "corte": false
+  },
+  {
+   "texto": "fiesta.",
+   "inicio": 33.6,
+   "fin": 33.9,
+   "corte": true
+  },
+  {
+   "texto": "Era",
+   "inicio": 34.31,
+   "fin": 34.61,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 34.61,
+   "fin": 34.86,
+   "corte": false
+  },
+  {
+   "texto": "primer",
+   "inicio": 34.86,
+   "fin": 35.35,
+   "corte": false
+  },
+  {
+   "texto": "SMS",
+   "inicio": 35.35,
+   "fin": 35.66,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 35.66,
+   "fin": 35.9,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 35.9,
+   "fin": 36.15,
+   "corte": false
+  },
+  {
+   "texto": "historia.",
+   "inicio": 36.15,
+   "fin": 36.76,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 37.26,
+   "fin": 37.44,
+   "corte": false
+  },
+  {
+   "texto": "directivo",
+   "inicio": 37.44,
+   "fin": 37.93,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 37.93,
+   "fin": 38.11,
+   "corte": false
+  },
+  {
+   "texto": "pudo",
+   "inicio": 38.11,
+   "fin": 38.38,
+   "corte": false
+  },
+  {
+   "texto": "responder:",
+   "inicio": 38.38,
+   "fin": 38.87,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 38.87,
+   "fin": 39.46,
+   "corte": false
+  },
+  {
+   "texto": "teléfonos",
+   "inicio": 39.47,
+   "fin": 39.96,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.96,
+   "fin": 40.14,
+   "corte": false
+  },
+  {
+   "texto": "entonces",
+   "inicio": 40.14,
+   "fin": 40.58,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 40.59,
+   "fin": 40.76,
+   "corte": false
+  },
+  {
+   "texto": "tenían",
+   "inicio": 40.77,
+   "fin": 41.12,
+   "corte": false
+  },
+  {
+   "texto": "forma",
+   "inicio": 41.12,
+   "fin": 41.44,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 41.44,
+   "fin": 41.62,
+   "corte": false
+  },
+  {
+   "texto": "escribir",
+   "inicio": 41.62,
+   "fin": 42.06,
+   "corte": false
+  },
+  {
+   "texto": "mensajes.",
+   "inicio": 42.06,
+   "fin": 42.51,
+   "corte": true
+  },
+  {
+   "texto": "Al",
+   "inicio": 42.94,
+   "fin": 43.12,
+   "corte": false
+  },
+  {
+   "texto": "principio",
+   "inicio": 43.12,
+   "fin": 43.6,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 43.6,
+   "fin": 43.9,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 43.9,
+   "fin": 44.07,
+   "corte": false
+  },
+  {
+   "texto": "dio",
+   "inicio": 44.08,
+   "fin": 44.29,
+   "corte": false
+  },
+  {
+   "texto": "importancia.",
+   "inicio": 44.29,
+   "fin": 44.86,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 45.28,
+   "fin": 45.57,
+   "corte": false
+  },
+  {
+   "texto": "pocos",
+   "inicio": 45.57,
+   "fin": 45.9,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 45.9,
+   "fin": 46.18,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 46.18,
+   "fin": 46.61,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 46.61,
+   "fin": 46.85,
+   "corte": false
+  },
+  {
+   "texto": "mensajes",
+   "inicio": 46.85,
+   "fin": 47.32,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 47.32,
+   "fin": 47.51,
+   "corte": false
+  },
+  {
+   "texto": "texto",
+   "inicio": 47.51,
+   "fin": 47.85,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 47.85,
+   "fin": 48.04,
+   "corte": false
+  },
+  {
+   "texto": "convirtieron",
+   "inicio": 48.04,
+   "fin": 48.7,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 48.7,
+   "fin": 48.89,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 48.89,
+   "fin": 49.13,
+   "corte": false
+  },
+  {
+   "texto": "mina",
+   "inicio": 49.13,
+   "fin": 49.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 49.41,
+   "fin": 49.6,
+   "corte": false
+  },
+  {
+   "texto": "oro:",
+   "inicio": 49.6,
+   "fin": 50.19,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 50.19,
+   "fin": 50.43,
+   "corte": false
+  },
+  {
+   "texto": "compañías",
+   "inicio": 50.43,
+   "fin": 50.95,
+   "corte": false
+  },
+  {
+   "texto": "cobraban",
+   "inicio": 50.95,
+   "fin": 51.43,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 51.43,
+   "fin": 51.66,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 51.66,
+   "fin": 51.95,
+   "corte": false
+  },
+  {
+   "texto": "mensaje,",
+   "inicio": 51.95,
+   "fin": 52.38,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 52.38,
+   "fin": 52.52,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 52.52,
+   "fin": 53.01,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 53.01,
+   "fin": 53.34,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 53.34,
+   "fin": 53.68,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 53.68,
+   "fin": 53.82,
+   "corte": false
+  },
+  {
+   "texto": "enviar",
+   "inicio": 53.82,
+   "fin": 54.2,
+   "corte": false
+  },
+  {
+   "texto": "billones",
+   "inicio": 54.2,
+   "fin": 54.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 54.67,
+   "fin": 54.86,
+   "corte": false
+  },
+  {
+   "texto": "ellos",
+   "inicio": 54.86,
+   "fin": 55.19,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 55.2,
+   "fin": 55.38,
+   "corte": false
+  },
+  {
+   "texto": "año.",
+   "inicio": 55.39,
+   "fin": 55.62,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 56.08,
+   "fin": 56.32,
+   "corte": false
+  },
+  {
+   "texto": "2021,",
+   "inicio": 56.32,
+   "fin": 57.04,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 57.04,
+   "fin": 57.34,
+   "corte": false
+  },
+  {
+   "texto": "primer",
+   "inicio": 57.34,
+   "fin": 57.82,
+   "corte": false
+  },
+  {
+   "texto": "mensaje",
+   "inicio": 57.82,
+   "fin": 58.35,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 58.35,
+   "fin": 58.59,
+   "corte": false
+  },
+  {
+   "texto": "subastó",
+   "inicio": 58.59,
+   "fin": 59.13,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 59.13,
+   "fin": 59.49,
+   "corte": false
+  },
+  {
+   "texto": "NFT",
+   "inicio": 59.49,
+   "fin": 59.79,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 59.79,
+   "fin": 60.09,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 60.09,
+   "fin": 60.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 60.39,
+   "fin": 60.63,
+   "corte": false
+  },
+  {
+   "texto": "100.000",
+   "inicio": 60.63,
+   "fin": 61.47,
+   "corte": false
+  },
+  {
+   "texto": "euros.",
+   "inicio": 61.47,
+   "fin": 61.89,
+   "corte": true
+  },
+  {
+   "texto": "Dos",
+   "inicio": 62.23,
+   "fin": 62.51,
+   "corte": false
+  },
+  {
+   "texto": "palabras",
+   "inicio": 62.51,
+   "fin": 63.09,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 63.09,
+   "fin": 63.38,
+   "corte": false
+  },
+  {
+   "texto": "valían",
+   "inicio": 63.38,
+   "fin": 63.84,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 63.84,
+   "fin": 64.13,
+   "corte": false
+  },
+  {
+   "texto": "fortuna.",
+   "inicio": 64.13,
+   "fin": 64.65,
+   "corte": true
+  },
+  {
+   "texto": "¿Recuerdas",
+   "inicio": 65.15,
+   "fin": 65.62,
+   "corte": false
+  },
+  {
+   "texto": "cuánto",
+   "inicio": 65.62,
+   "fin": 65.95,
+   "corte": false
+  },
+  {
+   "texto": "te",
+   "inicio": 65.96,
+   "fin": 66.12,
+   "corte": false
+  },
+  {
+   "texto": "cobraban",
+   "inicio": 66.12,
+   "fin": 66.55,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 66.55,
+   "fin": 66.76,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 66.76,
+   "fin": 66.93,
+   "corte": false
+  },
+  {
+   "texto": "mensaje?",
+   "inicio": 66.93,
+   "fin": 67.31,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 67.93,
+   "fin": 68.29,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 68.29,
+   "fin": 68.46,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 68.46,
+   "fin": 68.73,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 68.73,
+   "fin": 68.91,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 68.91,
+   "fin": 69.26,
+   "corte": false
+  },
+  {
+   "texto": "4.",
+   "inicio": 69.26,
+   "fin": 69.66,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 69.98,
+   "fin": 70.48,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 70.48,
+   "fin": 70.82,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 70.82,
+   "fin": 71.04,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 71.04,
+   "fin": 71.71,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Bienvenidos al calendario de historias de Adviento: cada día de diciembre, una historia real que pasó ese mismo día.",
+   "inicio": 0.0,
+   "fin": 6.91
+  },
+  {
+   "texto": "Hoy abrimos la puerta 3: El primer SMS.",
+   "inicio": 7.35,
+   "fin": 11.27
+  },
+  {
+   "texto": "3 de diciembre de 1992.",
+   "inicio": 11.99,
+   "fin": 14.62
+  },
+  {
+   "texto": "Un mensaje de solo dos palabras inició un negocio de miles de millones.",
+   "inicio": 15.1,
+   "fin": 19.41
+  },
+  {
+   "texto": "Inglaterra.",
+   "inicio": 19.97,
+   "fin": 20.6
+  },
+  {
+   "texto": "Neil Papworth, un ingeniero de 22 años, está probando un sistema nuevo para la empresa Vodafone.",
+   "inicio": 21.1,
+   "fin": 26.53
+  },
+  {
+   "texto": "Desde su ordenador escribe: Merry Christmas, Feliz Navidad.",
+   "inicio": 26.98,
+   "fin": 30.67
+  },
+  {
+   "texto": "Y lo envía al teléfono de un directivo que estaba en una fiesta.",
+   "inicio": 31.03,
+   "fin": 33.9
+  },
+  {
+   "texto": "Era el primer SMS de la historia.",
+   "inicio": 34.31,
+   "fin": 36.76
+  },
+  {
+   "texto": "El directivo no pudo responder: los teléfonos de entonces no tenían forma de escribir mensajes.",
+   "inicio": 37.26,
+   "fin": 42.51
+  },
+  {
+   "texto": "Al principio nadie le dio importancia.",
+   "inicio": 42.94,
+   "fin": 44.86
+  },
+  {
+   "texto": "Pero pocos años después, los mensajes de texto se convirtieron en una mina de oro: las compañías cobraban por cada mensaje, y el mundo llegó a enviar billones de ellos al año.",
+   "inicio": 45.28,
+   "fin": 55.62
+  },
+  {
+   "texto": "En 2021, ese primer mensaje se subastó como NFT por más de 100.000 euros.",
+   "inicio": 56.08,
+   "fin": 61.89
+  },
+  {
+   "texto": "Dos palabras que valían una fortuna.",
+   "inicio": 62.23,
+   "fin": 64.65
+  },
+  {
+   "texto": "¿Recuerdas cuánto te cobraban por un mensaje?",
+   "inicio": 65.15,
+   "fin": 67.31
+  },
+  {
+   "texto": "Mañana se abre la puerta 4.",
+   "inicio": 67.93,
+   "fin": 69.66
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 69.98,
+   "fin": 71.71
+  }
+ ],
+ "duracion": 71.71
+}

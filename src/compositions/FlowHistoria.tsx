@@ -14,6 +14,7 @@ import { theme } from "../theme";
 import { Subtitulos, Palabra } from "../components/datos/Subtitulos";
 import { AdvientoIntroFlow, ZOOM_ENTRADA, finIntroAdviento } from "../components/historia/AdvientoIntroFlow";
 import { PUERTAS_ADVIENTO, abiertasAntes } from "../historias/flow/adviento";
+import { ComentarioRed } from "../components/historia/ComentarioRed";
 import { AMARILLO, FPS, NARANJA, ROJO, RemateFinal, VERDE, f, texto, useEntrada } from "../components/historia/kit";
 
 // Plantilla de historia hecha con imágenes de Google Flow (misma metodología que
@@ -58,6 +59,8 @@ export type HistoriaFlow = {
   remate: { frase: number; pregunta: string; fondo: string };
   // Calendario de adviento: frase 0 = bienvenida, frase 1 = "Hoy abrimos la puerta N.", frase 2 = fecha.
   adviento?: { puerta: number; fecha: string; anio?: string };
+  // Comentario de un seguidor que da origen al vídeo: se muestra desde el inicio hasta el fin de la frase `hasta`.
+  comentario?: { autor: string; texto: string; desde?: number; hasta: number; likes?: number };
 };
 
 const COLA = 1.6;
@@ -267,6 +270,9 @@ const Grafico: React.FC<{ g: GraficoCfg; carpeta: string; dur: number }> = ({ g,
 export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const total = h.guion.duracion + COLA;
   const tRemate = inicioDe(h, h.remate.frase);
+  // Tarjeta del comentario de un seguidor: al principio (desde 0) o donde diga "desde".
+  const tComIni = h.comentario ? (h.comentario.desde ? inicioDe(h, h.comentario.desde) - 0.15 : 0.2) : 0;
+  const tComFin = h.comentario ? Math.min(h.guion.frases[h.comentario.hasta].fin + 0.3, tRemate) : 0;
   const cortes = h.planos.map((p, i) => (i === 0 ? 0 : inicioDe(h, p.frase, p.parte)));
   let planos: Plano[] = h.planos.map((p, i) => ({ ...p, ini: cortes[i], fin: i + 1 < cortes.length ? cortes[i + 1] : total }));
   const g = h.grafico;
@@ -315,6 +321,13 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
           </Sequence>
         );
       })}
+
+      {h.comentario ? (
+        <Sequence from={f(tComIni)} durationInFrames={f(tComFin - tComIni)}>
+          <AbsoluteFill style={{ background: "rgba(8,10,14,0.35)" }} />
+          <ComentarioRed autor={h.comentario.autor} texto={h.comentario.texto} likes={h.comentario.likes} dur={tComFin - tComIni} />
+        </Sequence>
+      ) : null}
 
       <Subtitulos palabras={palabras} top={1450} tamano={64} />
 

@@ -1,0 +1,1144 @@
+{
+ "palabras": [
+  {
+   "texto": "Bienvenidos",
+   "inicio": 0.0,
+   "fin": 0.64,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 0.64,
+   "fin": 0.84,
+   "corte": false
+  },
+  {
+   "texto": "calendario",
+   "inicio": 0.84,
+   "fin": 1.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.43,
+   "fin": 1.63,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 1.63,
+   "fin": 2.17,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.17,
+   "fin": 2.37,
+   "corte": false
+  },
+  {
+   "texto": "Adviento:",
+   "inicio": 2.37,
+   "fin": 3.28,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 3.28,
+   "fin": 3.57,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 3.57,
+   "fin": 3.82,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.82,
+   "fin": 4.02,
+   "corte": false
+  },
+  {
+   "texto": "diciembre,",
+   "inicio": 4.02,
+   "fin": 4.56,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.56,
+   "fin": 4.81,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 4.81,
+   "fin": 5.3,
+   "corte": false
+  },
+  {
+   "texto": "real",
+   "inicio": 5.3,
+   "fin": 5.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.6,
+   "fin": 5.84,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 5.84,
+   "fin": 6.14,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 6.14,
+   "fin": 6.38,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 6.39,
+   "fin": 6.73,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.73,
+   "fin": 6.98,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 7.41,
+   "fin": 7.66,
+   "corte": false
+  },
+  {
+   "texto": "abrimos",
+   "inicio": 7.66,
+   "fin": 8.11,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.11,
+   "fin": 8.3,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 8.3,
+   "fin": 8.7,
+   "corte": false
+  },
+  {
+   "texto": "4:",
+   "inicio": 8.7,
+   "fin": 9.51,
+   "corte": false
+  },
+  {
+   "texto": "El",
+   "inicio": 9.51,
+   "fin": 9.7,
+   "corte": false
+  },
+  {
+   "texto": "fin",
+   "inicio": 9.71,
+   "fin": 9.95,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.95,
+   "fin": 10.15,
+   "corte": false
+  },
+  {
+   "texto": "Pan",
+   "inicio": 10.15,
+   "fin": 10.4,
+   "corte": false
+  },
+  {
+   "texto": "Am.",
+   "inicio": 10.4,
+   "fin": 10.6,
+   "corte": true
+  },
+  {
+   "texto": "4",
+   "inicio": 11.37,
+   "fin": 11.99,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.99,
+   "fin": 12.27,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 12.27,
+   "fin": 13.02,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.03,
+   "fin": 13.3,
+   "corte": false
+  },
+  {
+   "texto": "1991.",
+   "inicio": 13.3,
+   "fin": 14.13,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 14.54,
+   "fin": 14.75,
+   "corte": false
+  },
+  {
+   "texto": "aerolínea",
+   "inicio": 14.75,
+   "fin": 15.31,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 15.32,
+   "fin": 15.57,
+   "corte": false
+  },
+  {
+   "texto": "famosa",
+   "inicio": 15.57,
+   "fin": 15.98,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 15.99,
+   "fin": 16.24,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 16.24,
+   "fin": 16.6,
+   "corte": false
+  },
+  {
+   "texto": "dejó",
+   "inicio": 16.6,
+   "fin": 16.91,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 16.91,
+   "fin": 17.12,
+   "corte": false
+  },
+  {
+   "texto": "volar",
+   "inicio": 17.12,
+   "fin": 17.48,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.48,
+   "fin": 17.68,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 17.68,
+   "fin": 17.89,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 17.89,
+   "fin": 18.15,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 18.15,
+   "fin": 18.46,
+   "corte": false
+  },
+  {
+   "texto": "otro.",
+   "inicio": 18.46,
+   "fin": 18.76,
+   "corte": true
+  },
+  {
+   "texto": "Pan",
+   "inicio": 19.26,
+   "fin": 19.5,
+   "corte": false
+  },
+  {
+   "texto": "Am.",
+   "inicio": 19.5,
+   "fin": 19.69,
+   "corte": true
+  },
+  {
+   "texto": "Durante",
+   "inicio": 20.31,
+   "fin": 20.75,
+   "corte": false
+  },
+  {
+   "texto": "décadas",
+   "inicio": 20.76,
+   "fin": 21.2,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 21.2,
+   "fin": 21.45,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.45,
+   "fin": 21.64,
+   "corte": false
+  },
+  {
+   "texto": "símbolo",
+   "inicio": 21.64,
+   "fin": 22.09,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 22.09,
+   "fin": 22.29,
+   "corte": false
+  },
+  {
+   "texto": "viajar",
+   "inicio": 22.29,
+   "fin": 22.68,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 22.68,
+   "fin": 22.88,
+   "corte": false
+  },
+  {
+   "texto": "avión:",
+   "inicio": 22.88,
+   "fin": 23.59,
+   "corte": false
+  },
+  {
+   "texto": "azafatas",
+   "inicio": 23.59,
+   "fin": 24.08,
+   "corte": false
+  },
+  {
+   "texto": "elegantes,",
+   "inicio": 24.08,
+   "fin": 24.63,
+   "corte": false
+  },
+  {
+   "texto": "rutas",
+   "inicio": 24.63,
+   "fin": 24.97,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 24.97,
+   "fin": 25.22,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 25.22,
+   "fin": 25.52,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 25.52,
+   "fin": 25.71,
+   "corte": false
+  },
+  {
+   "texto": "planeta",
+   "inicio": 25.71,
+   "fin": 26.16,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 26.16,
+   "fin": 26.31,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 26.31,
+   "fin": 26.5,
+   "corte": false
+  },
+  {
+   "texto": "rascacielos",
+   "inicio": 26.51,
+   "fin": 27.15,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 27.15,
+   "fin": 27.39,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 27.39,
+   "fin": 27.59,
+   "corte": false
+  },
+  {
+   "texto": "nombre",
+   "inicio": 27.59,
+   "fin": 27.99,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 27.99,
+   "fin": 28.18,
+   "corte": false
+  },
+  {
+   "texto": "Nueva",
+   "inicio": 28.19,
+   "fin": 28.53,
+   "corte": false
+  },
+  {
+   "texto": "York.",
+   "inicio": 28.53,
+   "fin": 28.83,
+   "corte": true
+  },
+  {
+   "texto": "Fue",
+   "inicio": 29.14,
+   "fin": 29.44,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.44,
+   "fin": 29.68,
+   "corte": false
+  },
+  {
+   "texto": "primera",
+   "inicio": 29.68,
+   "fin": 30.21,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 30.21,
+   "fin": 30.45,
+   "corte": false
+  },
+  {
+   "texto": "estrenar",
+   "inicio": 30.45,
+   "fin": 31.04,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 31.04,
+   "fin": 31.28,
+   "corte": false
+  },
+  {
+   "texto": "Boeing",
+   "inicio": 31.28,
+   "fin": 31.75,
+   "corte": false
+  },
+  {
+   "texto": "747.",
+   "inicio": 31.75,
+   "fin": 32.4,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 32.85,
+   "fin": 33.16,
+   "corte": false
+  },
+  {
+   "texto": "llegaron",
+   "inicio": 33.16,
+   "fin": 33.68,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 33.68,
+   "fin": 33.93,
+   "corte": false
+  },
+  {
+   "texto": "golpes:",
+   "inicio": 33.93,
+   "fin": 34.35,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 34.35,
+   "fin": 34.88,
+   "corte": false
+  },
+  {
+   "texto": "crisis",
+   "inicio": 34.88,
+   "fin": 35.29,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 35.29,
+   "fin": 35.55,
+   "corte": false
+  },
+  {
+   "texto": "petróleo,",
+   "inicio": 35.55,
+   "fin": 36.06,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 36.06,
+   "fin": 36.27,
+   "corte": false
+  },
+  {
+   "texto": "competencia",
+   "inicio": 36.27,
+   "fin": 36.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 36.94,
+   "fin": 37.15,
+   "corte": false
+  },
+  {
+   "texto": "nuevas",
+   "inicio": 37.15,
+   "fin": 37.56,
+   "corte": false
+  },
+  {
+   "texto": "aerolíneas",
+   "inicio": 37.56,
+   "fin": 38.18,
+   "corte": false
+  },
+  {
+   "texto": "baratas,",
+   "inicio": 38.18,
+   "fin": 38.94,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.94,
+   "fin": 39.15,
+   "corte": false
+  },
+  {
+   "texto": "atentado",
+   "inicio": 39.15,
+   "fin": 39.66,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.67,
+   "fin": 39.87,
+   "corte": false
+  },
+  {
+   "texto": "Lockerbie",
+   "inicio": 39.87,
+   "fin": 40.44,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 40.44,
+   "fin": 40.64,
+   "corte": false
+  },
+  {
+   "texto": "1988",
+   "inicio": 40.64,
+   "fin": 41.26,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 41.26,
+   "fin": 41.42,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 41.42,
+   "fin": 41.62,
+   "corte": false
+  },
+  {
+   "texto": "subida",
+   "inicio": 41.62,
+   "fin": 42.04,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 42.04,
+   "fin": 42.29,
+   "corte": false
+  },
+  {
+   "texto": "combustible",
+   "inicio": 42.29,
+   "fin": 42.96,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 42.96,
+   "fin": 43.22,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 43.22,
+   "fin": 43.43,
+   "corte": false
+  },
+  {
+   "texto": "guerra",
+   "inicio": 43.43,
+   "fin": 43.84,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 43.84,
+   "fin": 44.1,
+   "corte": false
+  },
+  {
+   "texto": "Golfo.",
+   "inicio": 44.1,
+   "fin": 44.46,
+   "corte": true
+  },
+  {
+   "texto": "Para",
+   "inicio": 44.85,
+   "fin": 45.21,
+   "corte": false
+  },
+  {
+   "texto": "sobrevivir",
+   "inicio": 45.21,
+   "fin": 45.92,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 45.92,
+   "fin": 46.21,
+   "corte": false
+  },
+  {
+   "texto": "vendiendo",
+   "inicio": 46.22,
+   "fin": 46.87,
+   "corte": false
+  },
+  {
+   "texto": "todo:",
+   "inicio": 46.87,
+   "fin": 47.59,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 47.59,
+   "fin": 47.89,
+   "corte": false
+  },
+  {
+   "texto": "rutas,",
+   "inicio": 47.89,
+   "fin": 48.3,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 48.3,
+   "fin": 48.54,
+   "corte": false
+  },
+  {
+   "texto": "edificio,",
+   "inicio": 48.54,
+   "fin": 49.13,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 49.13,
+   "fin": 49.43,
+   "corte": false
+  },
+  {
+   "texto": "aviones.",
+   "inicio": 49.43,
+   "fin": 49.96,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 50.34,
+   "fin": 50.6,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 50.6,
+   "fin": 50.86,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 50.86,
+   "fin": 51.07,
+   "corte": false
+  },
+  {
+   "texto": "último",
+   "inicio": 51.07,
+   "fin": 51.48,
+   "corte": false
+  },
+  {
+   "texto": "comprador",
+   "inicio": 51.48,
+   "fin": 52.05,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 52.05,
+   "fin": 52.31,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 52.31,
+   "fin": 52.52,
+   "corte": false
+  },
+  {
+   "texto": "sostenía",
+   "inicio": 52.52,
+   "fin": 53.03,
+   "corte": false
+  },
+  {
+   "texto": "retiró",
+   "inicio": 53.03,
+   "fin": 53.45,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 53.45,
+   "fin": 53.65,
+   "corte": false
+  },
+  {
+   "texto": "dinero.",
+   "inicio": 53.66,
+   "fin": 54.07,
+   "corte": true
+  },
+  {
+   "texto": "Pan",
+   "inicio": 54.46,
+   "fin": 54.69,
+   "corte": false
+  },
+  {
+   "texto": "Am",
+   "inicio": 54.69,
+   "fin": 54.88,
+   "corte": false
+  },
+  {
+   "texto": "suspendió",
+   "inicio": 54.88,
+   "fin": 55.4,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 55.4,
+   "fin": 55.73,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 55.73,
+   "fin": 55.96,
+   "corte": false
+  },
+  {
+   "texto": "vuelos",
+   "inicio": 55.96,
+   "fin": 56.34,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 56.34,
+   "fin": 56.48,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 56.48,
+   "fin": 56.81,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 56.81,
+   "fin": 57.0,
+   "corte": false
+  },
+  {
+   "texto": "empleados",
+   "inicio": 57.0,
+   "fin": 57.52,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 57.52,
+   "fin": 57.7,
+   "corte": false
+  },
+  {
+   "texto": "quedaron",
+   "inicio": 57.71,
+   "fin": 58.17,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 58.18,
+   "fin": 58.41,
+   "corte": false
+  },
+  {
+   "texto": "trabajo.",
+   "inicio": 58.41,
+   "fin": 58.83,
+   "corte": true
+  },
+  {
+   "texto": "Tras",
+   "inicio": 59.26,
+   "fin": 59.6,
+   "corte": false
+  },
+  {
+   "texto": "64",
+   "inicio": 59.61,
+   "fin": 60.19,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 60.19,
+   "fin": 60.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 60.54,
+   "fin": 61.02,
+   "corte": false
+  },
+  {
+   "texto": "gigante",
+   "inicio": 61.02,
+   "fin": 61.55,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 61.55,
+   "fin": 61.84,
+   "corte": false
+  },
+  {
+   "texto": "cielo",
+   "inicio": 61.84,
+   "fin": 62.24,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 62.24,
+   "fin": 62.48,
+   "corte": false
+  },
+  {
+   "texto": "apagó.",
+   "inicio": 62.48,
+   "fin": 62.88,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 63.51,
+   "fin": 63.7,
+   "corte": false
+  },
+  {
+   "texto": "alguna",
+   "inicio": 63.7,
+   "fin": 64.1,
+   "corte": false
+  },
+  {
+   "texto": "vez",
+   "inicio": 64.1,
+   "fin": 64.35,
+   "corte": false
+  },
+  {
+   "texto": "viste",
+   "inicio": 64.35,
+   "fin": 64.69,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 64.69,
+   "fin": 64.89,
+   "corte": false
+  },
+  {
+   "texto": "avión",
+   "inicio": 64.89,
+   "fin": 65.23,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 65.24,
+   "fin": 65.43,
+   "corte": false
+  },
+  {
+   "texto": "Pan",
+   "inicio": 65.43,
+   "fin": 65.68,
+   "corte": false
+  },
+  {
+   "texto": "Am?",
+   "inicio": 65.68,
+   "fin": 65.88,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 66.32,
+   "fin": 66.7,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 66.7,
+   "fin": 66.9,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 66.9,
+   "fin": 67.19,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 67.19,
+   "fin": 67.38,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 67.38,
+   "fin": 67.77,
+   "corte": false
+  },
+  {
+   "texto": "5.",
+   "inicio": 67.77,
+   "fin": 68.21,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 68.5,
+   "fin": 69.01,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 69.02,
+   "fin": 69.36,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 69.36,
+   "fin": 69.58,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 69.59,
+   "fin": 70.27,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Bienvenidos al calendario de historias de Adviento: cada día de diciembre, una historia real que pasó ese mismo día.",
+   "inicio": 0.0,
+   "fin": 6.98
+  },
+  {
+   "texto": "Hoy abrimos la puerta 4: El fin de Pan Am.",
+   "inicio": 7.41,
+   "fin": 10.6
+  },
+  {
+   "texto": "4 de diciembre de 1991.",
+   "inicio": 11.37,
+   "fin": 14.13
+  },
+  {
+   "texto": "La aerolínea más famosa del mundo dejó de volar de un día para otro.",
+   "inicio": 14.54,
+   "fin": 18.76
+  },
+  {
+   "texto": "Pan Am.",
+   "inicio": 19.26,
+   "fin": 19.69
+  },
+  {
+   "texto": "Durante décadas fue el símbolo de viajar en avión: azafatas elegantes, rutas por todo el planeta y un rascacielos con su nombre en Nueva York.",
+   "inicio": 20.31,
+   "fin": 28.83
+  },
+  {
+   "texto": "Fue la primera en estrenar el Boeing 747.",
+   "inicio": 29.14,
+   "fin": 32.4
+  },
+  {
+   "texto": "Pero llegaron los golpes: la crisis del petróleo, la competencia de nuevas aerolíneas baratas, el atentado de Lockerbie en 1988 y la subida del combustible por la guerra del Golfo.",
+   "inicio": 32.85,
+   "fin": 44.46
+  },
+  {
+   "texto": "Para sobrevivir fue vendiendo todo: sus rutas, su edificio, sus aviones.",
+   "inicio": 44.85,
+   "fin": 49.96
+  },
+  {
+   "texto": "Ese día el último comprador que la sostenía retiró el dinero.",
+   "inicio": 50.34,
+   "fin": 54.07
+  },
+  {
+   "texto": "Pan Am suspendió todos sus vuelos y miles de empleados se quedaron sin trabajo.",
+   "inicio": 54.46,
+   "fin": 58.83
+  },
+  {
+   "texto": "Tras 64 años, el gigante del cielo se apagó.",
+   "inicio": 59.26,
+   "fin": 62.88
+  },
+  {
+   "texto": "¿Tú alguna vez viste un avión de Pan Am?",
+   "inicio": 63.51,
+   "fin": 65.88
+  },
+  {
+   "texto": "Mañana se abre la puerta 5.",
+   "inicio": 66.32,
+   "fin": 68.21
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 68.5,
+   "fin": 70.27
+  }
+ ],
+ "duracion": 70.27
+}

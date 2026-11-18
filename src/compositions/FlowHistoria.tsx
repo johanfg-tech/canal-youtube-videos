@@ -80,8 +80,14 @@ const PlanoVista: React.FC<{ p: Plano; primero: boolean; carpeta: string; idx: n
   const src = staticFile(`${carpeta}/${p.src}`);
   if (p.video) {
     return (
-      <AbsoluteFill style={{ opacity: opacidad }}>
-        <OffthreadVideo src={src} startFrom={f(p.desde ?? 0)} muted style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+      <AbsoluteFill style={{ opacity: opacidad, overflow: "hidden" }}>
+        <OffthreadVideo
+          src={src}
+          startFrom={f(p.desde ?? 0)}
+          muted
+          // zoom en vídeo: recorte fijo (p. ej. para tapar franjas negras que trae el clip)
+          style={{ width: "100%", height: "100%", objectFit: "cover", transform: p.zoom ? `scale(${p.zoom[0] + (p.zoom[1] - p.zoom[0]) * t})` : undefined }}
+        />
       </AbsoluteFill>
     );
   }

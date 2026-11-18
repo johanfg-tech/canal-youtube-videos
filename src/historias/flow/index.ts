@@ -18,9 +18,10 @@ import { paseVuelos } from "./paseVuelos";
 import { fordCadena } from "./fordCadena";
 import { enron } from "./enron";
 import { primerSms } from "./primerSms";
+import { panAm } from "./panAm";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos, fordCadena, enron, primerSms,
+  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm,
 ];

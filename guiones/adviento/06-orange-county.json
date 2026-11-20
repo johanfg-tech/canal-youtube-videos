@@ -1,0 +1,1161 @@
+{
+ "palabras": [
+  {
+   "texto": "Bienvenidos",
+   "inicio": 0.0,
+   "fin": 0.65,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 0.65,
+   "fin": 0.85,
+   "corte": false
+  },
+  {
+   "texto": "calendario",
+   "inicio": 0.85,
+   "fin": 1.45,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.46,
+   "fin": 1.65,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 1.66,
+   "fin": 2.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.21,
+   "fin": 2.41,
+   "corte": false
+  },
+  {
+   "texto": "Adviento:",
+   "inicio": 2.41,
+   "fin": 3.3,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 3.31,
+   "fin": 3.61,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 3.61,
+   "fin": 3.86,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.86,
+   "fin": 4.06,
+   "corte": false
+  },
+  {
+   "texto": "diciembre,",
+   "inicio": 4.06,
+   "fin": 4.61,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.61,
+   "fin": 4.86,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 4.86,
+   "fin": 5.36,
+   "corte": false
+  },
+  {
+   "texto": "real",
+   "inicio": 5.36,
+   "fin": 5.66,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.66,
+   "fin": 5.91,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 5.91,
+   "fin": 6.21,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 6.21,
+   "fin": 6.46,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 6.46,
+   "fin": 6.81,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.82,
+   "fin": 7.07,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 7.58,
+   "fin": 7.84,
+   "corte": false
+  },
+  {
+   "texto": "abrimos",
+   "inicio": 7.84,
+   "fin": 8.3,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.3,
+   "fin": 8.5,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 8.5,
+   "fin": 8.91,
+   "corte": false
+  },
+  {
+   "texto": "6:",
+   "inicio": 8.92,
+   "fin": 9.38,
+   "corte": false
+  },
+  {
+   "texto": "La",
+   "inicio": 9.38,
+   "fin": 9.93,
+   "corte": false
+  },
+  {
+   "texto": "quiebra",
+   "inicio": 9.93,
+   "fin": 10.39,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 10.39,
+   "fin": 10.6,
+   "corte": false
+  },
+  {
+   "texto": "Orange",
+   "inicio": 10.6,
+   "fin": 11.01,
+   "corte": false
+  },
+  {
+   "texto": "County.",
+   "inicio": 11.01,
+   "fin": 11.42,
+   "corte": true
+  },
+  {
+   "texto": "6",
+   "inicio": 12.07,
+   "fin": 12.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.67,
+   "fin": 12.94,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 12.94,
+   "fin": 13.68,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.68,
+   "fin": 13.95,
+   "corte": false
+  },
+  {
+   "texto": "1994.",
+   "inicio": 13.95,
+   "fin": 14.75,
+   "corte": true
+  },
+  {
+   "texto": "Uno",
+   "inicio": 15.26,
+   "fin": 15.51,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.51,
+   "fin": 15.72,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 15.72,
+   "fin": 15.97,
+   "corte": false
+  },
+  {
+   "texto": "condados",
+   "inicio": 15.97,
+   "fin": 16.49,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 16.49,
+   "fin": 16.74,
+   "corte": false
+  },
+  {
+   "texto": "ricos",
+   "inicio": 16.74,
+   "fin": 17.1,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.1,
+   "fin": 17.31,
+   "corte": false
+  },
+  {
+   "texto": "Estados",
+   "inicio": 17.31,
+   "fin": 17.77,
+   "corte": false
+  },
+  {
+   "texto": "Unidos",
+   "inicio": 17.77,
+   "fin": 18.18,
+   "corte": false
+  },
+  {
+   "texto": "quebró",
+   "inicio": 18.18,
+   "fin": 18.59,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 18.59,
+   "fin": 18.85,
+   "corte": false
+  },
+  {
+   "texto": "culpa",
+   "inicio": 18.85,
+   "fin": 19.2,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 19.21,
+   "fin": 19.41,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 19.41,
+   "fin": 19.62,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 19.62,
+   "fin": 19.92,
+   "corte": false
+  },
+  {
+   "texto": "hombre.",
+   "inicio": 19.92,
+   "fin": 20.33,
+   "corte": true
+  },
+  {
+   "texto": "Orange",
+   "inicio": 20.87,
+   "fin": 21.31,
+   "corte": false
+  },
+  {
+   "texto": "County,",
+   "inicio": 21.31,
+   "fin": 21.75,
+   "corte": false
+  },
+  {
+   "texto": "California.",
+   "inicio": 21.75,
+   "fin": 22.4,
+   "corte": true
+  },
+  {
+   "texto": "Robert",
+   "inicio": 22.95,
+   "fin": 23.31,
+   "corte": false
+  },
+  {
+   "texto": "Citron",
+   "inicio": 23.32,
+   "fin": 23.68,
+   "corte": false
+  },
+  {
+   "texto": "lleva",
+   "inicio": 23.68,
+   "fin": 24.0,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 24.0,
+   "fin": 24.23,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 24.23,
+   "fin": 24.41,
+   "corte": false
+  },
+  {
+   "texto": "20",
+   "inicio": 24.41,
+   "fin": 24.87,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 24.87,
+   "fin": 25.14,
+   "corte": false
+  },
+  {
+   "texto": "manejando",
+   "inicio": 25.14,
+   "fin": 25.65,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 25.65,
+   "fin": 25.83,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 25.83,
+   "fin": 26.19,
+   "corte": false
+  },
+  {
+   "texto": "público",
+   "inicio": 26.19,
+   "fin": 26.61,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 26.61,
+   "fin": 26.83,
+   "corte": false
+  },
+  {
+   "texto": "condado,",
+   "inicio": 26.83,
+   "fin": 27.52,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 27.52,
+   "fin": 27.66,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 27.66,
+   "fin": 27.98,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 27.98,
+   "fin": 28.16,
+   "corte": false
+  },
+  {
+   "texto": "adoran:",
+   "inicio": 28.16,
+   "fin": 28.53,
+   "corte": false
+  },
+  {
+   "texto": "consigue",
+   "inicio": 28.53,
+   "fin": 29.43,
+   "corte": false
+  },
+  {
+   "texto": "ganancias",
+   "inicio": 29.43,
+   "fin": 29.93,
+   "corte": false
+  },
+  {
+   "texto": "mucho",
+   "inicio": 29.94,
+   "fin": 30.25,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 30.26,
+   "fin": 30.48,
+   "corte": false
+  },
+  {
+   "texto": "altas",
+   "inicio": 30.48,
+   "fin": 30.8,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 30.8,
+   "fin": 31.03,
+   "corte": false
+  },
+  {
+   "texto": "nadie.",
+   "inicio": 31.03,
+   "fin": 31.35,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 31.8,
+   "fin": 32.0,
+   "corte": false
+  },
+  {
+   "texto": "secreto",
+   "inicio": 32.0,
+   "fin": 32.45,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 32.45,
+   "fin": 32.7,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 32.7,
+   "fin": 32.95,
+   "corte": false
+  },
+  {
+   "texto": "apuesta:",
+   "inicio": 32.95,
+   "fin": 33.4,
+   "corte": false
+  },
+  {
+   "texto": "pedía",
+   "inicio": 33.4,
+   "fin": 34.13,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 34.13,
+   "fin": 34.53,
+   "corte": false
+  },
+  {
+   "texto": "prestado",
+   "inicio": 34.53,
+   "fin": 35.03,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 35.03,
+   "fin": 35.33,
+   "corte": false
+  },
+  {
+   "texto": "invertir",
+   "inicio": 35.33,
+   "fin": 35.83,
+   "corte": false
+  },
+  {
+   "texto": "más,",
+   "inicio": 35.83,
+   "fin": 36.08,
+   "corte": false
+  },
+  {
+   "texto": "apostando",
+   "inicio": 36.08,
+   "fin": 36.62,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 36.63,
+   "fin": 36.77,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 36.77,
+   "fin": 37.02,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 37.02,
+   "fin": 37.27,
+   "corte": false
+  },
+  {
+   "texto": "tipos",
+   "inicio": 37.27,
+   "fin": 37.62,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.62,
+   "fin": 37.82,
+   "corte": false
+  },
+  {
+   "texto": "interés",
+   "inicio": 37.82,
+   "fin": 38.27,
+   "corte": false
+  },
+  {
+   "texto": "seguirían",
+   "inicio": 38.27,
+   "fin": 38.82,
+   "corte": false
+  },
+  {
+   "texto": "bajos.",
+   "inicio": 38.82,
+   "fin": 39.17,
+   "corte": true
+  },
+  {
+   "texto": "Funcionó",
+   "inicio": 39.54,
+   "fin": 40.21,
+   "corte": false
+  },
+  {
+   "texto": "durante",
+   "inicio": 40.21,
+   "fin": 40.81,
+   "corte": false
+  },
+  {
+   "texto": "años.",
+   "inicio": 40.81,
+   "fin": 41.21,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 41.59,
+   "fin": 41.95,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 41.95,
+   "fin": 42.2,
+   "corte": false
+  },
+  {
+   "texto": "1994",
+   "inicio": 42.2,
+   "fin": 42.94,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 42.94,
+   "fin": 43.18,
+   "corte": false
+  },
+  {
+   "texto": "Reserva",
+   "inicio": 43.18,
+   "fin": 43.74,
+   "corte": false
+  },
+  {
+   "texto": "Federal",
+   "inicio": 43.74,
+   "fin": 44.29,
+   "corte": false
+  },
+  {
+   "texto": "empezó",
+   "inicio": 44.29,
+   "fin": 44.78,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 44.78,
+   "fin": 44.97,
+   "corte": false
+  },
+  {
+   "texto": "subir",
+   "inicio": 44.97,
+   "fin": 45.4,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 45.4,
+   "fin": 45.71,
+   "corte": false
+  },
+  {
+   "texto": "intereses,",
+   "inicio": 45.71,
+   "fin": 46.67,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 46.67,
+   "fin": 46.98,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 46.98,
+   "fin": 47.16,
+   "corte": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 47.16,
+   "fin": 47.53,
+   "corte": false
+  },
+  {
+   "texto": "vez.",
+   "inicio": 47.53,
+   "fin": 47.84,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 48.22,
+   "fin": 48.41,
+   "corte": false
+  },
+  {
+   "texto": "apuesta",
+   "inicio": 48.41,
+   "fin": 48.85,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 48.85,
+   "fin": 49.05,
+   "corte": false
+  },
+  {
+   "texto": "dio",
+   "inicio": 49.05,
+   "fin": 49.29,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 49.3,
+   "fin": 49.49,
+   "corte": false
+  },
+  {
+   "texto": "vuelta.",
+   "inicio": 49.49,
+   "fin": 49.88,
+   "corte": true
+  },
+  {
+   "texto": "Las",
+   "inicio": 50.3,
+   "fin": 50.58,
+   "corte": false
+  },
+  {
+   "texto": "pérdidas",
+   "inicio": 50.58,
+   "fin": 51.13,
+   "corte": false
+  },
+  {
+   "texto": "llegaron",
+   "inicio": 51.13,
+   "fin": 51.69,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 51.69,
+   "fin": 51.86,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 51.86,
+   "fin": 52.19,
+   "corte": false
+  },
+  {
+   "texto": "1.600",
+   "inicio": 52.19,
+   "fin": 52.86,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 52.86,
+   "fin": 53.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 53.41,
+   "fin": 53.63,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 53.64,
+   "fin": 54.13,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 54.53,
+   "fin": 54.76,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 54.76,
+   "fin": 54.99,
+   "corte": false
+  },
+  {
+   "texto": "Orange",
+   "inicio": 54.99,
+   "fin": 55.37,
+   "corte": false
+  },
+  {
+   "texto": "County",
+   "inicio": 55.37,
+   "fin": 55.74,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 55.74,
+   "fin": 55.93,
+   "corte": false
+  },
+  {
+   "texto": "declaró",
+   "inicio": 55.93,
+   "fin": 56.35,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 56.35,
+   "fin": 56.53,
+   "corte": false
+  },
+  {
+   "texto": "quiebra,",
+   "inicio": 56.53,
+   "fin": 56.95,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 56.95,
+   "fin": 57.42,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 57.42,
+   "fin": 57.75,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 57.75,
+   "fin": 57.93,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 57.93,
+   "fin": 58.12,
+   "corte": false
+  },
+  {
+   "texto": "gobierno",
+   "inicio": 58.12,
+   "fin": 58.59,
+   "corte": false
+  },
+  {
+   "texto": "local",
+   "inicio": 58.59,
+   "fin": 58.91,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 58.91,
+   "fin": 59.1,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 59.1,
+   "fin": 59.28,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 59.29,
+   "fin": 59.75,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 59.75,
+   "fin": 59.98,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 59.99,
+   "fin": 60.26,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 60.27,
+   "fin": 60.59,
+   "corte": false
+  },
+  {
+   "texto": "entonces.",
+   "inicio": 60.59,
+   "fin": 61.06,
+   "corte": true
+  },
+  {
+   "texto": "Hubo",
+   "inicio": 61.43,
+   "fin": 61.74,
+   "corte": false
+  },
+  {
+   "texto": "despidos",
+   "inicio": 61.74,
+   "fin": 62.25,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 62.25,
+   "fin": 62.4,
+   "corte": false
+  },
+  {
+   "texto": "recortes",
+   "inicio": 62.4,
+   "fin": 62.91,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 62.92,
+   "fin": 63.12,
+   "corte": false
+  },
+  {
+   "texto": "escuelas",
+   "inicio": 63.12,
+   "fin": 63.63,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 63.63,
+   "fin": 63.79,
+   "corte": false
+  },
+  {
+   "texto": "servicios.",
+   "inicio": 63.79,
+   "fin": 64.35,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 64.78,
+   "fin": 64.97,
+   "corte": false
+  },
+  {
+   "texto": "dejarías",
+   "inicio": 64.97,
+   "fin": 65.45,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 65.45,
+   "fin": 65.64,
+   "corte": false
+  },
+  {
+   "texto": "dinero",
+   "inicio": 65.64,
+   "fin": 66.02,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 66.02,
+   "fin": 66.16,
+   "corte": false
+  },
+  {
+   "texto": "alguien",
+   "inicio": 66.16,
+   "fin": 66.59,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 66.59,
+   "fin": 66.87,
+   "corte": false
+  },
+  {
+   "texto": "porque",
+   "inicio": 66.87,
+   "fin": 67.25,
+   "corte": false
+  },
+  {
+   "texto": "siempre",
+   "inicio": 67.25,
+   "fin": 67.68,
+   "corte": false
+  },
+  {
+   "texto": "gana?",
+   "inicio": 67.68,
+   "fin": 67.96,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 68.49,
+   "fin": 68.86,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 68.86,
+   "fin": 69.04,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 69.04,
+   "fin": 69.31,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 69.32,
+   "fin": 69.5,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 69.5,
+   "fin": 69.86,
+   "corte": false
+  },
+  {
+   "texto": "7.",
+   "inicio": 69.86,
+   "fin": 70.28,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 70.61,
+   "fin": 71.1,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 71.1,
+   "fin": 71.42,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 71.42,
+   "fin": 71.63,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 71.64,
+   "fin": 72.28,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Bienvenidos al calendario de historias de Adviento: cada día de diciembre, una historia real que pasó ese mismo día.",
+   "inicio": 0.0,
+   "fin": 7.07
+  },
+  {
+   "texto": "Hoy abrimos la puerta 6: La quiebra de Orange County.",
+   "inicio": 7.58,
+   "fin": 11.42
+  },
+  {
+   "texto": "6 de diciembre de 1994.",
+   "inicio": 12.07,
+   "fin": 14.75
+  },
+  {
+   "texto": "Uno de los condados más ricos de Estados Unidos quebró por culpa de un solo hombre.",
+   "inicio": 15.26,
+   "fin": 20.33
+  },
+  {
+   "texto": "Orange County, California.",
+   "inicio": 20.87,
+   "fin": 22.4
+  },
+  {
+   "texto": "Robert Citron lleva más de 20 años manejando el dinero público del condado, y todos lo adoran: consigue ganancias mucho más altas que nadie.",
+   "inicio": 22.95,
+   "fin": 31.35
+  },
+  {
+   "texto": "Su secreto era una apuesta: pedía dinero prestado para invertir más, apostando a que los tipos de interés seguirían bajos.",
+   "inicio": 31.8,
+   "fin": 39.17
+  },
+  {
+   "texto": "Funcionó durante años.",
+   "inicio": 39.54,
+   "fin": 41.21
+  },
+  {
+   "texto": "Pero en 1994 la Reserva Federal empezó a subir los intereses, una y otra vez.",
+   "inicio": 41.59,
+   "fin": 47.84
+  },
+  {
+   "texto": "La apuesta se dio la vuelta.",
+   "inicio": 48.22,
+   "fin": 49.88
+  },
+  {
+   "texto": "Las pérdidas llegaron a unos 1.600 millones de dólares.",
+   "inicio": 50.3,
+   "fin": 54.13
+  },
+  {
+   "texto": "Ese día Orange County se declaró en quiebra, la mayor de un gobierno local en la historia del país hasta entonces.",
+   "inicio": 54.53,
+   "fin": 61.06
+  },
+  {
+   "texto": "Hubo despidos y recortes en escuelas y servicios.",
+   "inicio": 61.43,
+   "fin": 64.35
+  },
+  {
+   "texto": "¿Tú dejarías tu dinero a alguien solo porque siempre gana?",
+   "inicio": 64.78,
+   "fin": 67.96
+  },
+  {
+   "texto": "Mañana se abre la puerta 7.",
+   "inicio": 68.49,
+   "fin": 70.28
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 70.61,
+   "fin": 72.28
+  }
+ ],
+ "duracion": 72.28
+}

@@ -20,9 +20,10 @@ import { enron } from "./enron";
 import { primerSms } from "./primerSms";
 import { panAm } from "./panAm";
 import { rockefeller } from "./rockefeller";
+import { instagramQueja } from "./instagramQueja";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, rockefeller,
+  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, rockefeller, instagramQueja,
 ];

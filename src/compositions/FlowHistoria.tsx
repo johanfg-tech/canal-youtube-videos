@@ -61,6 +61,8 @@ export type HistoriaFlow = {
   adviento?: { puerta: number; fecha: string; anio?: string };
   // Comentario de un seguidor que da origen al vídeo: se muestra desde el inicio hasta el fin de la frase `hasta`.
   comentario?: { autor: string; texto: string; desde?: number; hasta: number; likes?: number };
+  // Captura de pantalla real (p. ej. un mensaje de una app) que se muestra en tarjeta de la frase `frase` a la `hasta`.
+  captura?: { src: string; frase: number; hasta: number; ancho?: number; titulo?: string };
 };
 
 const COLA = 1.6;
@@ -267,6 +269,34 @@ const Grafico: React.FC<{ g: GraficoCfg; carpeta: string; dur: number }> = ({ g,
   );
 };
 
+const CapturaVista: React.FC<{ src: string; dur: number; ancho: number; titulo?: string }> = ({ src, dur, ancho, titulo }) => {
+  const frame = useCurrentFrame();
+  const e = useEntrada(0.05);
+  const salida = interpolate(frame, [f(dur) - 10, f(dur)], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  // Acercamiento muy lento mientras se lee.
+  const z = interpolate(frame, [0, f(dur)], [1, 1.05], { extrapolateRight: "clamp" });
+  return (
+    <AbsoluteFill style={{ opacity: salida }}>
+      <AbsoluteFill style={{ background: "rgba(8,10,14,0.62)", opacity: e }} />
+      {titulo ? (
+        <div style={{ position: "absolute", top: 430, left: 60, right: 60, ...texto(54, AMARILLO), opacity: e }}>{titulo}</div>
+      ) : null}
+      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", top: -120 }}>
+        <Img
+          src={staticFile(src)}
+          style={{
+            width: ancho,
+            borderRadius: 30,
+            boxShadow: "0 30px 90px rgba(0,0,0,0.6)",
+            transform: `translateY(${(1 - e) * 120}px) scale(${(0.9 + 0.1 * e) * z})`,
+            opacity: e,
+          }}
+        />
+      </AbsoluteFill>
+    </AbsoluteFill>
+  );
+};
+
 export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
   const total = h.guion.duracion + COLA;
   const tRemate = inicioDe(h, h.remate.frase);
@@ -326,6 +356,20 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
         <Sequence from={f(tComIni)} durationInFrames={f(tComFin - tComIni)}>
           <AbsoluteFill style={{ background: "rgba(8,10,14,0.35)" }} />
           <ComentarioRed autor={h.comentario.autor} texto={h.comentario.texto} likes={h.comentario.likes} dur={tComFin - tComIni} />
+        </Sequence>
+      ) : null}
+
+      {h.captura ? (
+        <Sequence
+          from={f(inicioDe(h, h.captura.frase) - 0.1)}
+          durationInFrames={f(h.guion.frases[h.captura.hasta].fin + 0.3) - f(inicioDe(h, h.captura.frase) - 0.1)}
+        >
+          <CapturaVista
+            src={`${h.carpeta}/${h.captura.src}`}
+            ancho={h.captura.ancho ?? 980}
+            titulo={h.captura.titulo}
+            dur={h.guion.frases[h.captura.hasta].fin + 0.4 - inicioDe(h, h.captura.frase)}
+          />
         </Sequence>
       ) : null}
 

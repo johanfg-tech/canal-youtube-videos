@@ -26,10 +26,17 @@ export const f = (s: number) => Math.round(s * FPS);
 export const useEntrada = (desde: number, damping = 14) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  return spring({ frame: frame - f(desde), fps, config: { damping, mass: 0.6 } });
+  return spring({
+    frame: frame - f(desde),
+    fps,
+    config: { damping, mass: 0.6 },
+  });
 };
 
-export const texto = (size: number, color = theme.text): React.CSSProperties => ({
+export const texto = (
+  size: number,
+  color = theme.text,
+): React.CSSProperties => ({
   fontFamily: theme.font,
   fontWeight: 900,
   fontSize: size,
@@ -39,7 +46,10 @@ export const texto = (size: number, color = theme.text): React.CSSProperties => 
   letterSpacing: -1,
 });
 
-export const Escena: React.FC<{ dur: number; children: React.ReactNode }> = ({ dur, children }) => {
+export const Escena: React.FC<{ dur: number; children: React.ReactNode }> = ({
+  dur,
+  children,
+}) => {
   const frame = useCurrentFrame();
   const total = f(dur);
   const opacity = interpolate(frame, [0, 6, total - 8, total], [0, 1, 1, 0], {
@@ -50,7 +60,11 @@ export const Escena: React.FC<{ dur: number; children: React.ReactNode }> = ({ d
     extrapolateRight: "clamp",
     easing: Easing.out(Easing.cubic),
   });
-  return <AbsoluteFill style={{ opacity, transform: `translateY(${y}px)` }}>{children}</AbsoluteFill>;
+  return (
+    <AbsoluteFill style={{ opacity, transform: `translateY(${y}px)` }}>
+      {children}
+    </AbsoluteFill>
+  );
 };
 
 // Imagen de IA que entra con muelle y flota.
@@ -111,12 +125,12 @@ export const Tarjeta: React.FC<{
 };
 
 // Texto que se escribe letra a letra.
-export const Maquina: React.FC<{ texto_: string; desde: number; cps?: number; style: React.CSSProperties }> = ({
-  texto_,
-  desde,
-  cps = 28,
-  style,
-}) => {
+export const Maquina: React.FC<{
+  texto_: string;
+  desde: number;
+  cps?: number;
+  style: React.CSSProperties;
+}> = ({ texto_, desde, cps = 28, style }) => {
   const frame = useCurrentFrame();
   const n = Math.max(0, Math.floor(((frame - f(desde)) / FPS) * cps));
   const cursor = n < texto_.length && Math.floor(frame / 8) % 2 === 0;
@@ -129,10 +143,21 @@ export const Maquina: React.FC<{ texto_: string; desde: number; cps?: number; st
 };
 
 // Formato de dinero en español: 750.000.000
-export const dinero = (v: number) => Math.round(v).toLocaleString("es-ES").replace(/,/g, ".");
+export const dinero = (v: number) =>
+  Math.round(v).toLocaleString("es-ES").replace(/,/g, ".");
 
 // Remate integrado: ¿Y TÚ? + pregunta + SÍGUEME.
-export const RemateFinal: React.FC<{ pregunta: string; sigueme: number }> = ({ pregunta, sigueme }) => {
+export const RemateFinal: React.FC<{
+  pregunta: string;
+  sigueme: number;
+  sinSigueme?: boolean;
+  comentarios?: string;
+}> = ({
+  pregunta,
+  sigueme,
+  sinSigueme,
+  comentarios = "Cuéntamelo en los comentarios 👇",
+}) => {
   const frame = useCurrentFrame();
   const a = useEntrada(0.05, 8);
   const b = useEntrada(0.6);
@@ -140,22 +165,77 @@ export const RemateFinal: React.FC<{ pregunta: string; sigueme: number }> = ({ p
   const pulso = 1 + 0.05 * Math.sin(frame / 4);
   return (
     <>
-      <div style={{ position: "absolute", top: 230, left: 0, right: 0, display: "flex", justifyContent: "center" }}>
-        <div style={{ ...texto(170, theme.bg), background: AMARILLO, borderRadius: 32, padding: "0 50px", transform: `scale(${a}) rotate(-4deg)` }}>
+      <div
+        style={{
+          position: "absolute",
+          top: 230,
+          left: 0,
+          right: 0,
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <div
+          style={{
+            ...texto(170, theme.bg),
+            background: AMARILLO,
+            borderRadius: 32,
+            padding: "0 50px",
+            transform: `scale(${a}) rotate(-4deg)`,
+          }}
+        >
           ¿Y TÚ?
         </div>
       </div>
-      <div style={{ position: "absolute", top: 520, left: 60, right: 60, ...texto(80), opacity: b, transform: `translateY(${(1 - b) * 40}px)` }}>
+      <div
+        style={{
+          position: "absolute",
+          top: 520,
+          left: 60,
+          right: 60,
+          ...texto(80),
+          opacity: b,
+          transform: `translateY(${(1 - b) * 40}px)`,
+        }}
+      >
         {pregunta}
       </div>
-      <div style={{ position: "absolute", top: 860, left: 60, right: 60, ...texto(54, theme.muted), opacity: b }}>
-        Cuéntamelo en los comentarios 👇
+      <div
+        style={{
+          position: "absolute",
+          top: 860,
+          left: 60,
+          right: 60,
+          ...texto(54, theme.muted),
+          opacity: b,
+        }}
+      >
+        {comentarios}
       </div>
-      <div style={{ position: "absolute", top: 1080, left: 0, right: 0, display: "flex", justifyContent: "center" }}>
-        <div style={{ ...texto(100), background: ROJO, borderRadius: 999, padding: "20px 70px", transform: `scale(${c * pulso})` }}>
-          SÍGUEME ▶
+      {sinSigueme ? null : (
+        <div
+          style={{
+            position: "absolute",
+            top: 1080,
+            left: 0,
+            right: 0,
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <div
+            style={{
+              ...texto(100),
+              background: ROJO,
+              borderRadius: 999,
+              padding: "20px 70px",
+              transform: `scale(${c * pulso})`,
+            }}
+          >
+            SÍGUEME ▶
+          </div>
         </div>
-      </div>
+      )}
     </>
   );
 };

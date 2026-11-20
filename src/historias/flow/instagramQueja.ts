@@ -32,5 +32,5 @@ export const instagramQueja: HistoriaFlow = {
     { frase: 13, texto: "@meta  @instagram", size: 90, parte: 0.3 },
     { frase: 14, texto: "REVISIÓN HUMANA", color: "VERDE", size: 90, parte: 0.3 },
   ],
-  remate: { frase: 15, pregunta: "¿A ti también te ha pasado?", fondo: "i16.jpg" },
+  remate: { frase: 15, pregunta: "¿A ti también te ha pasado?", fondo: "i16.jpg", sinSigueme: true, comentarios: "Cuéntanoslo en los comentarios 👇" },
 };

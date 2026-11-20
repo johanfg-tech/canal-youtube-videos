@@ -3,1014 +3,1002 @@
   {
    "texto": "Instagram",
    "inicio": 0.0,
-   "fin": 0.54,
+   "fin": 0.48,
    "corte": false
   },
   {
    "texto": "nos",
-   "inicio": 0.54,
-   "fin": 0.79,
+   "inicio": 0.48,
+   "fin": 0.8,
    "corte": false
   },
   {
    "texto": "cerró",
-   "inicio": 0.79,
+   "inicio": 0.8,
    "fin": 1.14,
    "corte": false
   },
   {
    "texto": "la",
    "inicio": 1.14,
-   "fin": 1.33,
+   "fin": 1.28,
    "corte": false
   },
   {
    "texto": "cuenta.",
-   "inicio": 1.34,
-   "fin": 1.73,
+   "inicio": 1.28,
+   "fin": 1.6,
    "corte": true
   },
   {
    "texto": "Sin",
-   "inicio": 2.07,
-   "fin": 2.33,
+   "inicio": 2.02,
+   "fin": 2.24,
    "corte": false
   },
   {
    "texto": "aviso,",
-   "inicio": 2.34,
-   "fin": 2.7,
+   "inicio": 2.24,
+   "fin": 2.66,
    "corte": false
   },
   {
    "texto": "sin",
-   "inicio": 2.71,
-   "fin": 2.97,
+   "inicio": 3.02,
+   "fin": 3.14,
    "corte": false
   },
   {
    "texto": "un",
-   "inicio": 2.97,
-   "fin": 3.18,
+   "inicio": 3.14,
+   "fin": 3.26,
    "corte": false
   },
   {
    "texto": "motivo",
-   "inicio": 3.18,
-   "fin": 3.6,
+   "inicio": 3.26,
+   "fin": 3.52,
    "corte": false
   },
   {
    "texto": "concreto",
-   "inicio": 3.6,
-   "fin": 4.13,
+   "inicio": 3.52,
+   "fin": 4.14,
    "corte": false
   },
   {
    "texto": "y",
-   "inicio": 4.13,
-   "fin": 4.29,
+   "inicio": 4.14,
+   "fin": 4.48,
    "corte": false
   },
   {
    "texto": "sin",
-   "inicio": 4.29,
-   "fin": 4.55,
+   "inicio": 4.48,
+   "fin": 4.68,
    "corte": false
   },
   {
    "texto": "opción",
-   "inicio": 4.55,
-   "fin": 4.98,
+   "inicio": 4.68,
+   "fin": 5.08,
    "corte": false
   },
   {
    "texto": "de",
-   "inicio": 4.98,
-   "fin": 5.19,
+   "inicio": 5.08,
+   "fin": 5.24,
    "corte": false
   },
   {
    "texto": "apelar.",
-   "inicio": 5.19,
-   "fin": 5.61,
+   "inicio": 5.24,
+   "fin": 5.64,
    "corte": true
   },
   {
    "texto": "Esta",
-   "inicio": 6.01,
-   "fin": 6.28,
+   "inicio": 6.0,
+   "fin": 6.24,
    "corte": false
   },
   {
    "texto": "es",
-   "inicio": 6.28,
-   "fin": 6.46,
+   "inicio": 6.24,
+   "fin": 6.44,
    "corte": false
   },
   {
    "texto": "toda",
-   "inicio": 6.46,
-   "fin": 6.73,
+   "inicio": 6.44,
+   "fin": 6.64,
    "corte": false
   },
   {
    "texto": "la",
-   "inicio": 6.73,
-   "fin": 6.91,
+   "inicio": 6.64,
+   "fin": 6.84,
    "corte": false
   },
   {
    "texto": "explicación",
-   "inicio": 6.91,
-   "fin": 7.49,
+   "inicio": 6.84,
+   "fin": 7.38,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 7.49,
-   "fin": 7.72,
+   "inicio": 7.38,
+   "fin": 7.5,
    "corte": false
   },
   {
    "texto": "nos",
-   "inicio": 7.72,
-   "fin": 7.94,
+   "inicio": 7.5,
+   "fin": 7.66,
    "corte": false
   },
   {
    "texto": "dieron:",
-   "inicio": 7.94,
-   "fin": 8.67,
+   "inicio": 7.66,
+   "fin": 7.94,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 8.67,
-   "fin": 8.9,
+   "inicio": 8.32,
+   "fin": 8.4,
    "corte": false
   },
   {
    "texto": "su",
-   "inicio": 8.9,
-   "fin": 9.08,
+   "inicio": 8.4,
+   "fin": 8.52,
    "corte": false
   },
   {
    "texto": "tecnología",
-   "inicio": 9.08,
-   "fin": 9.62,
+   "inicio": 8.52,
+   "fin": 9.02,
    "corte": false
   },
   {
    "texto": "detectó",
-   "inicio": 9.62,
-   "fin": 10.02,
+   "inicio": 9.02,
+   "fin": 9.62,
    "corte": false
   },
   {
    "texto": "algo",
-   "inicio": 10.02,
-   "fin": 10.29,
+   "inicio": 9.62,
+   "fin": 9.86,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 10.29,
-   "fin": 10.52,
+   "inicio": 9.86,
+   "fin": 10.12,
    "corte": false
   },
   {
    "texto": "no",
-   "inicio": 10.52,
-   "fin": 10.7,
+   "inicio": 10.12,
+   "fin": 10.44,
    "corte": false
   },
   {
    "texto": "cumple",
-   "inicio": 10.7,
-   "fin": 11.06,
+   "inicio": 10.44,
+   "fin": 10.9,
    "corte": false
   },
   {
    "texto": "sus",
-   "inicio": 11.06,
-   "fin": 11.28,
+   "inicio": 10.9,
+   "fin": 11.06,
    "corte": false
   },
   {
    "texto": "reglas.",
-   "inicio": 11.28,
-   "fin": 11.64,
+   "inicio": 11.06,
+   "fin": 11.48,
    "corte": true
   },
   {
    "texto": "¿Qué",
    "inicio": 12.08,
-   "fin": 12.31,
+   "fin": 12.2,
    "corte": false
   },
   {
    "texto": "regla?",
-   "inicio": 12.31,
-   "fin": 12.63,
+   "inicio": 12.2,
+   "fin": 12.58,
    "corte": true
   },
   {
    "texto": "No",
-   "inicio": 12.92,
-   "fin": 13.12,
+   "inicio": 12.94,
+   "fin": 13.16,
    "corte": false
   },
   {
    "texto": "lo",
-   "inicio": 13.12,
-   "fin": 13.31,
+   "inicio": 13.16,
+   "fin": 13.28,
    "corte": false
   },
   {
    "texto": "dicen.",
-   "inicio": 13.32,
-   "fin": 13.66,
+   "inicio": 13.28,
+   "fin": 13.52,
    "corte": true
   },
   {
    "texto": "Al",
-   "inicio": 13.99,
-   "fin": 14.18,
+   "inicio": 13.96,
+   "fin": 14.1,
    "corte": false
   },
   {
    "texto": "intentar",
-   "inicio": 14.18,
-   "fin": 14.66,
+   "inicio": 14.1,
+   "fin": 14.44,
    "corte": false
   },
   {
    "texto": "entrar,",
-   "inicio": 14.66,
-   "fin": 15.04,
+   "inicio": 14.44,
+   "fin": 14.84,
    "corte": false
   },
   {
    "texto": "nos",
-   "inicio": 15.04,
-   "fin": 15.27,
+   "inicio": 15.18,
+   "fin": 15.24,
    "corte": false
   },
   {
    "texto": "piden",
-   "inicio": 15.28,
-   "fin": 15.61,
+   "inicio": 15.24,
+   "fin": 15.48,
    "corte": false
   },
   {
    "texto": "confirmar",
-   "inicio": 15.61,
-   "fin": 16.13,
+   "inicio": 15.48,
+   "fin": 16.06,
    "corte": false
   },
   {
    "texto": "con",
-   "inicio": 16.13,
-   "fin": 16.37,
+   "inicio": 16.06,
+   "fin": 16.26,
    "corte": false
   },
   {
    "texto": "una",
-   "inicio": 16.37,
-   "fin": 16.61,
+   "inicio": 16.26,
+   "fin": 16.42,
    "corte": false
   },
   {
    "texto": "notificación",
-   "inicio": 16.61,
-   "fin": 17.27,
+   "inicio": 16.42,
+   "fin": 16.98,
    "corte": false
   },
   {
    "texto": "al",
-   "inicio": 17.27,
-   "fin": 17.46,
+   "inicio": 16.98,
+   "fin": 17.24,
    "corte": false
   },
   {
    "texto": "móvil",
-   "inicio": 17.46,
-   "fin": 17.8,
+   "inicio": 17.24,
+   "fin": 17.6,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 17.8,
-   "fin": 18.03,
+   "inicio": 17.6,
+   "fin": 17.84,
    "corte": false
   },
   {
    "texto": "nunca",
-   "inicio": 18.03,
-   "fin": 18.37,
+   "inicio": 17.84,
+   "fin": 18.22,
    "corte": false
   },
   {
    "texto": "llega.",
-   "inicio": 18.37,
-   "fin": 18.7,
+   "inicio": 18.22,
+   "fin": 18.62,
    "corte": true
   },
   {
    "texto": "Y",
-   "inicio": 19.01,
-   "fin": 19.15,
+   "inicio": 18.98,
+   "fin": 19.08,
    "corte": false
   },
   {
    "texto": "cuando",
-   "inicio": 19.15,
-   "fin": 19.53,
+   "inicio": 19.08,
+   "fin": 19.26,
    "corte": false
   },
   {
    "texto": "por",
-   "inicio": 19.53,
-   "fin": 19.77,
+   "inicio": 19.26,
+   "fin": 19.52,
    "corte": false
   },
   {
    "texto": "fin",
-   "inicio": 19.77,
-   "fin": 20.0,
+   "inicio": 19.52,
+   "fin": 19.8,
    "corte": false
   },
   {
    "texto": "entramos",
-   "inicio": 20.01,
-   "fin": 20.48,
+   "inicio": 19.8,
+   "fin": 20.16,
    "corte": false
   },
   {
    "texto": "con",
-   "inicio": 20.48,
-   "fin": 20.71,
+   "inicio": 20.16,
+   "fin": 20.36,
    "corte": false
   },
   {
    "texto": "la",
-   "inicio": 20.72,
-   "fin": 20.9,
+   "inicio": 20.36,
+   "fin": 20.46,
    "corte": false
   },
   {
    "texto": "contraseña,",
-   "inicio": 20.9,
-   "fin": 21.47,
+   "inicio": 20.46,
+   "fin": 21.08,
    "corte": false
   },
   {
    "texto": "aparece",
-   "inicio": 21.47,
-   "fin": 21.9,
+   "inicio": 21.28,
+   "fin": 21.62,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 21.9,
-   "fin": 22.13,
+   "inicio": 21.62,
+   "fin": 21.86,
    "corte": false
   },
   {
    "texto": "la",
-   "inicio": 22.14,
-   "fin": 22.32,
+   "inicio": 21.86,
+   "fin": 21.98,
    "corte": false
   },
   {
    "texto": "cuenta",
-   "inicio": 22.33,
-   "fin": 22.7,
+   "inicio": 21.98,
+   "fin": 22.28,
    "corte": false
   },
   {
    "texto": "está",
-   "inicio": 22.7,
-   "fin": 22.99,
+   "inicio": 22.28,
+   "fin": 22.62,
    "corte": false
   },
   {
    "texto": "inhabilitada.",
-   "inicio": 22.99,
-   "fin": 23.65,
+   "inicio": 22.62,
+   "fin": 23.62,
    "corte": true
   },
   {
    "texto": "Buscamos",
-   "inicio": 24.01,
-   "fin": 24.49,
+   "inicio": 23.98,
+   "fin": 24.32,
    "corte": false
   },
   {
    "texto": "ayuda",
-   "inicio": 24.49,
-   "fin": 24.82,
+   "inicio": 24.32,
+   "fin": 24.7,
    "corte": false
   },
   {
    "texto": "y",
-   "inicio": 24.82,
-   "fin": 24.96,
+   "inicio": 24.7,
+   "fin": 25.08,
    "corte": false
   },
   {
    "texto": "solo",
-   "inicio": 24.96,
-   "fin": 25.25,
+   "inicio": 25.08,
+   "fin": 25.34,
    "corte": false
   },
   {
    "texto": "responde",
-   "inicio": 25.25,
-   "fin": 25.72,
+   "inicio": 25.34,
+   "fin": 25.92,
    "corte": false
   },
   {
    "texto": "una",
-   "inicio": 25.73,
-   "fin": 25.96,
+   "inicio": 25.92,
+   "fin": 26.02,
    "corte": false
   },
   {
    "texto": "inteligencia",
-   "inicio": 25.96,
-   "fin": 26.63,
+   "inicio": 26.02,
+   "fin": 26.58,
    "corte": false
   },
   {
    "texto": "artificial.",
-   "inicio": 26.63,
-   "fin": 27.2,
+   "inicio": 26.58,
+   "fin": 26.96,
    "corte": true
   },
   {
    "texto": "No",
-   "inicio": 27.5,
-   "fin": 27.67,
+   "inicio": 26.96,
+   "fin": 27.64,
    "corte": false
   },
   {
    "texto": "hay",
-   "inicio": 27.67,
-   "fin": 27.88,
+   "inicio": 27.64,
+   "fin": 27.76,
    "corte": false
   },
   {
    "texto": "ninguna",
-   "inicio": 27.88,
-   "fin": 28.26,
+   "inicio": 27.76,
+   "fin": 28.22,
    "corte": false
   },
   {
    "texto": "persona",
-   "inicio": 28.27,
-   "fin": 28.65,
+   "inicio": 28.22,
+   "fin": 28.66,
    "corte": false
   },
   {
    "texto": "real",
-   "inicio": 28.65,
-   "fin": 28.9,
+   "inicio": 28.66,
+   "fin": 29.02,
    "corte": false
   },
   {
    "texto": "con",
-   "inicio": 28.9,
-   "fin": 29.11,
+   "inicio": 29.02,
+   "fin": 29.22,
    "corte": false
   },
   {
    "texto": "quien",
-   "inicio": 29.11,
-   "fin": 29.41,
+   "inicio": 29.22,
+   "fin": 29.36,
    "corte": false
   },
   {
    "texto": "hablar.",
-   "inicio": 29.41,
-   "fin": 29.75,
+   "inicio": 29.36,
+   "fin": 29.66,
    "corte": true
   },
   {
    "texto": "Y",
-   "inicio": 30.05,
-   "fin": 30.18,
+   "inicio": 30.08,
+   "fin": 30.14,
    "corte": false
   },
   {
    "texto": "la",
-   "inicio": 30.18,
-   "fin": 30.35,
+   "inicio": 30.14,
+   "fin": 30.22,
    "corte": false
   },
   {
    "texto": "opción",
-   "inicio": 30.35,
-   "fin": 30.7,
+   "inicio": 30.22,
+   "fin": 30.46,
    "corte": false
   },
   {
    "texto": "de",
-   "inicio": 30.7,
-   "fin": 30.87,
+   "inicio": 30.46,
+   "fin": 30.58,
    "corte": false
   },
   {
    "texto": "apelar",
-   "inicio": 30.87,
-   "fin": 31.22,
+   "inicio": 30.58,
+   "fin": 31.0,
    "corte": false
   },
   {
    "texto": "está",
-   "inicio": 31.22,
-   "fin": 31.48,
+   "inicio": 31.0,
+   "fin": 31.38,
    "corte": false
   },
   {
    "texto": "bloqueada.",
-   "inicio": 31.48,
-   "fin": 31.95,
+   "inicio": 31.38,
+   "fin": 31.96,
    "corte": true
   },
   {
    "texto": "Estamos",
-   "inicio": 32.45,
-   "fin": 32.9,
+   "inicio": 32.4,
+   "fin": 32.7,
    "corte": false
   },
   {
    "texto": "empezando,",
-   "inicio": 32.9,
+   "inicio": 32.7,
    "fin": 33.46,
    "corte": false
   },
   {
    "texto": "publicando",
-   "inicio": 33.46,
-   "fin": 34.32,
+   "inicio": 33.7,
+   "fin": 34.22,
    "corte": false
   },
   {
    "texto": "cada",
-   "inicio": 34.33,
-   "fin": 34.63,
+   "inicio": 34.22,
+   "fin": 34.58,
    "corte": false
   },
   {
    "texto": "día",
-   "inicio": 34.63,
-   "fin": 34.88,
+   "inicio": 34.58,
+   "fin": 34.94,
    "corte": false
   },
   {
    "texto": "para",
-   "inicio": 34.88,
-   "fin": 35.18,
+   "inicio": 34.94,
+   "fin": 35.16,
    "corte": false
   },
   {
    "texto": "explicar",
-   "inicio": 35.18,
-   "fin": 35.69,
+   "inicio": 35.16,
+   "fin": 35.46,
    "corte": false
   },
   {
    "texto": "el",
-   "inicio": 35.69,
-   "fin": 35.89,
+   "inicio": 35.46,
+   "fin": 35.72,
    "corte": false
   },
   {
    "texto": "dinero",
-   "inicio": 35.89,
-   "fin": 36.29,
+   "inicio": 35.72,
+   "fin": 36.0,
    "corte": false
   },
   {
    "texto": "con",
-   "inicio": 36.29,
-   "fin": 36.54,
+   "inicio": 36.0,
+   "fin": 36.3,
    "corte": false
   },
   {
    "texto": "datos",
-   "inicio": 36.54,
-   "fin": 36.9,
+   "inicio": 36.3,
+   "fin": 36.66,
    "corte": false
   },
   {
    "texto": "claros.",
-   "inicio": 36.9,
-   "fin": 37.3,
+   "inicio": 36.66,
+   "fin": 37.26,
    "corte": true
   },
   {
    "texto": "No",
-   "inicio": 37.5,
-   "fin": 37.67,
+   "inicio": 37.48,
+   "fin": 37.6,
    "corte": false
   },
   {
    "texto": "es",
-   "inicio": 37.68,
-   "fin": 37.85,
+   "inicio": 37.6,
+   "fin": 37.72,
    "corte": false
   },
   {
    "texto": "justo",
-   "inicio": 37.85,
-   "fin": 38.15,
+   "inicio": 37.72,
+   "fin": 37.94,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 38.16,
-   "fin": 38.37,
+   "inicio": 37.94,
+   "fin": 38.12,
    "corte": false
   },
   {
    "texto": "un",
-   "inicio": 38.37,
-   "fin": 38.55,
+   "inicio": 38.12,
+   "fin": 38.22,
    "corte": false
   },
   {
    "texto": "sistema",
-   "inicio": 38.55,
-   "fin": 38.94,
+   "inicio": 38.22,
+   "fin": 38.5,
    "corte": false
   },
   {
    "texto": "automático",
-   "inicio": 38.94,
-   "fin": 39.46,
+   "inicio": 38.5,
+   "fin": 39.1,
    "corte": false
   },
   {
    "texto": "borre",
-   "inicio": 39.46,
-   "fin": 39.77,
+   "inicio": 39.1,
+   "fin": 39.6,
    "corte": false
   },
   {
    "texto": "ese",
-   "inicio": 39.77,
-   "fin": 39.99,
+   "inicio": 39.6,
+   "fin": 39.74,
    "corte": false
   },
   {
    "texto": "esfuerzo",
-   "inicio": 39.99,
-   "fin": 40.42,
+   "inicio": 39.74,
+   "fin": 40.2,
    "corte": false
   },
   {
    "texto": "sin",
-   "inicio": 40.42,
-   "fin": 40.64,
+   "inicio": 40.2,
+   "fin": 40.4,
    "corte": false
   },
   {
    "texto": "dar",
-   "inicio": 40.64,
-   "fin": 40.86,
+   "inicio": 40.4,
+   "fin": 40.6,
    "corte": false
   },
   {
    "texto": "ninguna",
-   "inicio": 40.86,
-   "fin": 41.25,
+   "inicio": 40.6,
+   "fin": 41.06,
    "corte": false
   },
   {
    "texto": "explicación.",
-   "inicio": 41.25,
-   "fin": 41.82,
+   "inicio": 41.06,
+   "fin": 41.8,
    "corte": true
   },
   {
    "texto": "Por",
    "inicio": 42.16,
-   "fin": 42.39,
+   "fin": 42.26,
    "corte": false
   },
   {
    "texto": "eso",
-   "inicio": 42.4,
-   "fin": 42.63,
+   "inicio": 42.26,
+   "fin": 42.48,
    "corte": false
   },
   {
    "texto": "te",
-   "inicio": 42.63,
-   "fin": 42.82,
+   "inicio": 42.48,
+   "fin": 42.66,
    "corte": false
   },
   {
    "texto": "pedimos",
-   "inicio": 42.82,
-   "fin": 43.24,
+   "inicio": 42.66,
+   "fin": 43.1,
    "corte": false
   },
   {
    "texto": "ayuda.",
-   "inicio": 43.24,
-   "fin": 43.57,
+   "inicio": 43.1,
+   "fin": 43.48,
    "corte": true
   },
   {
    "texto": "Comparte",
-   "inicio": 43.88,
-   "fin": 44.32,
+   "inicio": 43.86,
+   "fin": 44.26,
    "corte": false
   },
   {
    "texto": "este",
-   "inicio": 44.32,
-   "fin": 44.59,
+   "inicio": 44.26,
+   "fin": 44.46,
    "corte": false
   },
   {
    "texto": "video",
-   "inicio": 44.59,
-   "fin": 44.9,
+   "inicio": 44.46,
+   "fin": 44.8,
    "corte": false
   },
   {
    "texto": "y",
-   "inicio": 44.9,
-   "fin": 45.03,
+   "inicio": 44.8,
+   "fin": 45.08,
    "corte": false
   },
   {
    "texto": "etiqueta",
-   "inicio": 45.03,
-   "fin": 45.47,
+   "inicio": 45.08,
+   "fin": 45.54,
    "corte": false
   },
   {
    "texto": "a",
-   "inicio": 45.48,
-   "fin": 45.61,
+   "inicio": 45.54,
+   "fin": 45.7,
    "corte": false
   },
   {
    "texto": "Meta",
-   "inicio": 45.61,
-   "fin": 45.87,
+   "inicio": 45.7,
+   "fin": 46.04,
    "corte": false
   },
   {
    "texto": "y",
-   "inicio": 45.87,
-   "fin": 46.01,
-   "corte": false
-  },
-  {
-   "texto": "a",
-   "inicio": 46.01,
+   "inicio": 46.04,
    "fin": 46.14,
    "corte": false
   },
   {
-   "texto": "Instagram",
+   "texto": "a",
    "inicio": 46.14,
-   "fin": 46.63,
+   "fin": 46.22,
+   "corte": false
+  },
+  {
+   "texto": "Instagram",
+   "inicio": 46.22,
+   "fin": 46.54,
    "corte": false
   },
   {
    "texto": "en",
-   "inicio": 46.63,
-   "fin": 46.8,
+   "inicio": 46.54,
+   "fin": 46.76,
    "corte": false
   },
   {
    "texto": "los",
-   "inicio": 46.8,
-   "fin": 47.02,
+   "inicio": 46.76,
+   "fin": 46.86,
    "corte": false
   },
   {
    "texto": "comentarios.",
-   "inicio": 47.03,
-   "fin": 47.6,
+   "inicio": 46.86,
+   "fin": 47.32,
    "corte": true
   },
   {
    "texto": "Solo",
    "inicio": 47.8,
-   "fin": 48.08,
+   "fin": 47.98,
    "corte": false
   },
   {
    "texto": "pedimos",
-   "inicio": 48.08,
-   "fin": 48.49,
+   "inicio": 47.98,
+   "fin": 48.4,
    "corte": false
   },
   {
    "texto": "que",
-   "inicio": 48.49,
-   "fin": 48.72,
+   "inicio": 48.4,
+   "fin": 48.58,
    "corte": false
   },
   {
    "texto": "una",
-   "inicio": 48.72,
-   "fin": 48.95,
+   "inicio": 48.58,
+   "fin": 48.82,
    "corte": false
   },
   {
    "texto": "persona",
-   "inicio": 48.95,
-   "fin": 49.36,
+   "inicio": 48.82,
+   "fin": 49.24,
    "corte": false
   },
   {
    "texto": "revise",
-   "inicio": 49.36,
-   "fin": 49.73,
+   "inicio": 49.24,
+   "fin": 49.66,
    "corte": false
   },
   {
    "texto": "nuestro",
-   "inicio": 49.73,
-   "fin": 50.14,
+   "inicio": 49.66,
+   "fin": 49.9,
    "corte": false
   },
   {
    "texto": "caso.",
-   "inicio": 50.15,
-   "fin": 50.42,
+   "inicio": 49.9,
+   "fin": 50.32,
    "corte": true
   },
   {
    "texto": "¿A",
-   "inicio": 50.78,
+   "inicio": 50.76,
    "fin": 50.88,
    "corte": false
   },
   {
    "texto": "ti",
    "inicio": 50.88,
-   "fin": 51.01,
+   "fin": 50.98,
    "corte": false
   },
   {
    "texto": "también",
-   "inicio": 51.01,
-   "fin": 51.31,
+   "inicio": 50.98,
+   "fin": 51.22,
    "corte": false
   },
   {
    "texto": "te",
-   "inicio": 51.31,
-   "fin": 51.44,
+   "inicio": 51.22,
+   "fin": 51.36,
    "corte": false
   },
   {
    "texto": "ha",
-   "inicio": 51.44,
-   "fin": 51.58,
+   "inicio": 51.36,
+   "fin": 51.42,
    "corte": false
   },
   {
    "texto": "pasado?",
-   "inicio": 51.58,
-   "fin": 51.84,
+   "inicio": 51.42,
+   "fin": 51.68,
    "corte": true
   },
   {
    "texto": "Cuéntanoslo",
-   "inicio": 52.11,
-   "fin": 52.73,
+   "inicio": 52.06,
+   "fin": 52.66,
    "corte": false
   },
   {
    "texto": "en",
-   "inicio": 52.73,
-   "fin": 52.92,
+   "inicio": 52.66,
+   "fin": 52.74,
    "corte": false
   },
   {
    "texto": "los",
-   "inicio": 52.92,
-   "fin": 53.16,
+   "inicio": 52.74,
+   "fin": 52.82,
    "corte": false
   },
   {
-   "texto": "comentarios",
-   "inicio": 53.16,
-   "fin": 53.79,
-   "corte": false
-  },
-  {
-   "texto": "y",
-   "inicio": 53.79,
-   "fin": 53.93,
-   "corte": false
-  },
-  {
-   "texto": "sígueme.",
-   "inicio": 53.93,
-   "fin": 54.36,
+   "texto": "comentarios.",
+   "inicio": 52.82,
+   "fin": 53.28,
    "corte": true
   }
  ],
  "frases": [
   {
    "texto": "Instagram nos cerró la cuenta.",
-   "inicio": 0,
-   "fin": 1.73
+   "inicio": 0.0,
+   "fin": 1.6
   },
   {
    "texto": "Sin aviso, sin un motivo concreto y sin opción de apelar.",
-   "inicio": 2.07,
-   "fin": 5.61
+   "inicio": 2.02,
+   "fin": 5.64
   },
   {
    "texto": "Esta es toda la explicación que nos dieron: que su tecnología detectó algo que no cumple sus reglas.",
-   "inicio": 6.01,
-   "fin": 11.64
+   "inicio": 6.0,
+   "fin": 11.48
   },
   {
    "texto": "¿Qué regla?",
    "inicio": 12.08,
-   "fin": 12.63
+   "fin": 12.58
   },
   {
    "texto": "No lo dicen.",
-   "inicio": 12.92,
-   "fin": 13.66
+   "inicio": 12.94,
+   "fin": 13.52
   },
   {
    "texto": "Al intentar entrar, nos piden confirmar con una notificación al móvil que nunca llega.",
-   "inicio": 13.99,
-   "fin": 18.7
+   "inicio": 13.96,
+   "fin": 18.62
   },
   {
    "texto": "Y cuando por fin entramos con la contraseña, aparece que la cuenta está inhabilitada.",
-   "inicio": 19.01,
-   "fin": 23.65
+   "inicio": 18.98,
+   "fin": 23.62
   },
   {
    "texto": "Buscamos ayuda y solo responde una inteligencia artificial.",
-   "inicio": 24.01,
-   "fin": 27.2
+   "inicio": 23.98,
+   "fin": 26.96
   },
   {
    "texto": "No hay ninguna persona real con quien hablar.",
-   "inicio": 27.5,
-   "fin": 29.75
+   "inicio": 26.96,
+   "fin": 29.66
   },
   {
    "texto": "Y la opción de apelar está bloqueada.",
-   "inicio": 30.05,
-   "fin": 31.95
+   "inicio": 30.08,
+   "fin": 31.96
   },
   {
    "texto": "Estamos empezando, publicando cada día para explicar el dinero con datos claros.",
-   "inicio": 32.45,
-   "fin": 37.3
+   "inicio": 32.4,
+   "fin": 37.26
   },
   {
    "texto": "No es justo que un sistema automático borre ese esfuerzo sin dar ninguna explicación.",
-   "inicio": 37.5,
-   "fin": 41.82
+   "inicio": 37.48,
+   "fin": 41.8
   },
   {
    "texto": "Por eso te pedimos ayuda.",
    "inicio": 42.16,
-   "fin": 43.57
+   "fin": 43.48
   },
   {
    "texto": "Comparte este video y etiqueta a Meta y a Instagram en los comentarios.",
-   "inicio": 43.88,
-   "fin": 47.6
+   "inicio": 43.86,
+   "fin": 47.32
   },
   {
    "texto": "Solo pedimos que una persona revise nuestro caso.",
    "inicio": 47.8,
-   "fin": 50.42
+   "fin": 50.32
   },
   {
    "texto": "¿A ti también te ha pasado?",
-   "inicio": 50.78,
-   "fin": 51.84
+   "inicio": 50.76,
+   "fin": 51.68
   },
   {
-   "texto": "Cuéntanoslo en los comentarios y sígueme.",
-   "inicio": 52.11,
-   "fin": 54.36
+   "texto": "Cuéntanoslo en los comentarios.",
+   "inicio": 52.06,
+   "fin": 53.28
   }
  ],
- "duracion": 54.36
+ "duracion": 53.5
 }

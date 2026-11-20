@@ -56,7 +56,8 @@ export type HistoriaFlow = {
   planos: PlanoCfg[];
   etiquetas: EtiquetaCfg[];
   grafico?: GraficoCfg;
-  remate: { frase: number; pregunta: string; fondo: string };
+  // sinSigueme: sin botón "SÍGUEME" (p. ej. vídeos de queja); comentarios: texto bajo la pregunta.
+  remate: { frase: number; pregunta: string; fondo: string; sinSigueme?: boolean; comentarios?: string };
   // Calendario de adviento: frase 0 = bienvenida, frase 1 = "Hoy abrimos la puerta N.", frase 2 = fecha.
   adviento?: { puerta: number; fecha: string; anio?: string };
   // Comentario de un seguidor que da origen al vídeo: se muestra desde el inicio hasta el fin de la frase `hasta`.
@@ -377,7 +378,7 @@ export const FlowHistoria: React.FC<{ h: HistoriaFlow }> = ({ h }) => {
 
       <Sequence from={f(tRemate)}>
         <AbsoluteFill style={{ background: "rgba(10,12,16,0.55)" }} />
-        <RemateFinal pregunta={h.remate.pregunta} sigueme={Math.max(1.2, h.guion.frases[h.remate.frase].fin - tRemate + 0.2)} />
+        <RemateFinal pregunta={h.remate.pregunta} sinSigueme={h.remate.sinSigueme} comentarios={h.remate.comentarios} sigueme={Math.max(1.2, h.guion.frases[h.remate.frase].fin - tRemate + 0.2)} />
       </Sequence>
 
       {h.adviento ? (

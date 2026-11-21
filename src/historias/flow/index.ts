@@ -21,10 +21,11 @@ import { primerSms } from "./primerSms";
 import { panAm } from "./panAm";
 import { leySeca } from "./leySeca";
 import { orangeCounty } from "./orangeCounty";
+import { apolo17 } from "./apolo17";
 import { rockefeller } from "./rockefeller";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, rockefeller,
+  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, apolo17, rockefeller,
 ];

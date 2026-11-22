@@ -1,0 +1,878 @@
+{
+ "palabras": [
+  {
+   "texto": "¿Cuánto",
+   "inicio": 0.0,
+   "fin": 0.38,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 0.38,
+   "fin": 0.76,
+   "corte": false
+  },
+  {
+   "texto": "fabricar",
+   "inicio": 0.76,
+   "fin": 1.23,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 1.23,
+   "fin": 1.42,
+   "corte": false
+  },
+  {
+   "texto": "iPhone?",
+   "inicio": 1.42,
+   "fin": 1.8,
+   "corte": true
+  },
+  {
+   "texto": "Un",
+   "inicio": 2.31,
+   "fin": 2.54,
+   "corte": false
+  },
+  {
+   "texto": "iPhone",
+   "inicio": 2.54,
+   "fin": 3.02,
+   "corte": false
+  },
+  {
+   "texto": "Pro",
+   "inicio": 3.02,
+   "fin": 3.32,
+   "corte": false
+  },
+  {
+   "texto": "Max",
+   "inicio": 3.32,
+   "fin": 3.61,
+   "corte": false
+  },
+  {
+   "texto": "nuevo",
+   "inicio": 3.61,
+   "fin": 4.03,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 4.03,
+   "fin": 4.51,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 4.51,
+   "fin": 4.86,
+   "corte": false
+  },
+  {
+   "texto": "1.200",
+   "inicio": 4.86,
+   "fin": 5.58,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 5.58,
+   "fin": 6.11,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 6.53,
+   "fin": 6.82,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 6.82,
+   "fin": 7.06,
+   "corte": false
+  },
+  {
+   "texto": "analistas",
+   "inicio": 7.06,
+   "fin": 7.59,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 7.59,
+   "fin": 7.82,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 7.83,
+   "fin": 8.02,
+   "corte": false
+  },
+  {
+   "texto": "desarman",
+   "inicio": 8.02,
+   "fin": 8.49,
+   "corte": false
+  },
+  {
+   "texto": "pieza",
+   "inicio": 8.49,
+   "fin": 8.83,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 8.83,
+   "fin": 9.07,
+   "corte": false
+  },
+  {
+   "texto": "pieza",
+   "inicio": 9.07,
+   "fin": 9.4,
+   "corte": false
+  },
+  {
+   "texto": "calculan",
+   "inicio": 9.4,
+   "fin": 9.88,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 9.88,
+   "fin": 10.12,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 10.12,
+   "fin": 10.36,
+   "corte": false
+  },
+  {
+   "texto": "componentes",
+   "inicio": 10.36,
+   "fin": 10.98,
+   "corte": false
+  },
+  {
+   "texto": "cuestan",
+   "inicio": 10.98,
+   "fin": 11.41,
+   "corte": false
+  },
+  {
+   "texto": "cerca",
+   "inicio": 11.41,
+   "fin": 11.74,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 11.74,
+   "fin": 11.93,
+   "corte": false
+  },
+  {
+   "texto": "500.",
+   "inicio": 11.93,
+   "fin": 12.46,
+   "corte": true
+  },
+  {
+   "texto": "Lo",
+   "inicio": 12.89,
+   "fin": 13.07,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 13.07,
+   "fin": 13.29,
+   "corte": false
+  },
+  {
+   "texto": "caro",
+   "inicio": 13.3,
+   "fin": 13.57,
+   "corte": false
+  },
+  {
+   "texto": "es",
+   "inicio": 13.57,
+   "fin": 13.75,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 13.75,
+   "fin": 13.93,
+   "corte": false
+  },
+  {
+   "texto": "procesador,",
+   "inicio": 13.93,
+   "fin": 14.74,
+   "corte": false
+  },
+  {
+   "texto": "seguido",
+   "inicio": 14.74,
+   "fin": 15.15,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 15.15,
+   "fin": 15.33,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 15.33,
+   "fin": 15.51,
+   "corte": false
+  },
+  {
+   "texto": "pantalla",
+   "inicio": 15.51,
+   "fin": 15.96,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 15.96,
+   "fin": 16.1,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 16.1,
+   "fin": 16.32,
+   "corte": false
+  },
+  {
+   "texto": "cámaras.",
+   "inicio": 16.33,
+   "fin": 16.73,
+   "corte": true
+  },
+  {
+   "texto": "Montarlo",
+   "inicio": 17.18,
+   "fin": 17.64,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.64,
+   "fin": 17.82,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 17.83,
+   "fin": 18.05,
+   "corte": false
+  },
+  {
+   "texto": "fábricas",
+   "inicio": 18.05,
+   "fin": 18.51,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.51,
+   "fin": 18.69,
+   "corte": false
+  },
+  {
+   "texto": "China",
+   "inicio": 18.7,
+   "fin": 19.02,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 19.02,
+   "fin": 19.15,
+   "corte": false
+  },
+  {
+   "texto": "India",
+   "inicio": 19.15,
+   "fin": 19.47,
+   "corte": false
+  },
+  {
+   "texto": "cuesta",
+   "inicio": 19.47,
+   "fin": 19.84,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 19.84,
+   "fin": 20.11,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 20.12,
+   "fin": 20.39,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 20.39,
+   "fin": 20.8,
+   "corte": false
+  },
+  {
+   "texto": "más.",
+   "inicio": 20.8,
+   "fin": 21.03,
+   "corte": true
+  },
+  {
+   "texto": "Entonces,",
+   "inicio": 21.54,
+   "fin": 22.08,
+   "corte": false
+  },
+  {
+   "texto": "¿Apple",
+   "inicio": 22.08,
+   "fin": 22.75,
+   "corte": false
+  },
+  {
+   "texto": "gana",
+   "inicio": 22.75,
+   "fin": 23.07,
+   "corte": false
+  },
+  {
+   "texto": "700",
+   "inicio": 23.07,
+   "fin": 23.66,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 23.67,
+   "fin": 24.15,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 24.15,
+   "fin": 24.42,
+   "corte": false
+  },
+  {
+   "texto": "teléfono?",
+   "inicio": 24.42,
+   "fin": 24.96,
+   "corte": true
+  },
+  {
+   "texto": "No",
+   "inicio": 25.38,
+   "fin": 25.65,
+   "corte": false
+  },
+  {
+   "texto": "exactamente.",
+   "inicio": 25.65,
+   "fin": 26.53,
+   "corte": true
+  },
+  {
+   "texto": "Hay",
+   "inicio": 26.93,
+   "fin": 27.21,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 27.21,
+   "fin": 27.48,
+   "corte": false
+  },
+  {
+   "texto": "pagar",
+   "inicio": 27.49,
+   "fin": 27.87,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 27.87,
+   "fin": 28.09,
+   "corte": false
+  },
+  {
+   "texto": "diseño,",
+   "inicio": 28.1,
+   "fin": 28.54,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 28.54,
+   "fin": 28.76,
+   "corte": false
+  },
+  {
+   "texto": "software,",
+   "inicio": 28.76,
+   "fin": 29.31,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.32,
+   "fin": 29.54,
+   "corte": false
+  },
+  {
+   "texto": "publicidad,",
+   "inicio": 29.54,
+   "fin": 30.2,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 30.2,
+   "fin": 30.48,
+   "corte": false
+  },
+  {
+   "texto": "tiendas",
+   "inicio": 30.48,
+   "fin": 30.98,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 30.98,
+   "fin": 31.14,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 31.15,
+   "fin": 31.42,
+   "corte": false
+  },
+  {
+   "texto": "impuestos.",
+   "inicio": 31.42,
+   "fin": 32.03,
+   "corte": true
+  },
+  {
+   "texto": "Aun",
+   "inicio": 32.53,
+   "fin": 32.77,
+   "corte": false
+  },
+  {
+   "texto": "así,",
+   "inicio": 32.77,
+   "fin": 33.0,
+   "corte": false
+  },
+  {
+   "texto": "Apple",
+   "inicio": 33.0,
+   "fin": 33.59,
+   "corte": false
+  },
+  {
+   "texto": "vende",
+   "inicio": 33.59,
+   "fin": 33.92,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 33.92,
+   "fin": 34.2,
+   "corte": false
+  },
+  {
+   "texto": "uno",
+   "inicio": 34.2,
+   "fin": 34.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 34.43,
+   "fin": 34.62,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 34.62,
+   "fin": 34.9,
+   "corte": false
+  },
+  {
+   "texto": "cinco",
+   "inicio": 34.9,
+   "fin": 35.23,
+   "corte": false
+  },
+  {
+   "texto": "móviles",
+   "inicio": 35.23,
+   "fin": 35.65,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 35.66,
+   "fin": 35.89,
+   "corte": false
+  },
+  {
+   "texto": "mundo,",
+   "inicio": 35.89,
+   "fin": 36.22,
+   "corte": false
+  },
+  {
+   "texto": "pero",
+   "inicio": 36.22,
+   "fin": 36.5,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 36.5,
+   "fin": 37.01,
+   "corte": false
+  },
+  {
+   "texto": "lleva",
+   "inicio": 37.01,
+   "fin": 37.34,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.34,
+   "fin": 37.53,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 37.53,
+   "fin": 37.86,
+   "corte": false
+  },
+  {
+   "texto": "parte",
+   "inicio": 37.86,
+   "fin": 38.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 38.19,
+   "fin": 38.38,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 38.38,
+   "fin": 38.61,
+   "corte": false
+  },
+  {
+   "texto": "ganancias",
+   "inicio": 38.61,
+   "fin": 39.13,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.13,
+   "fin": 39.31,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 39.31,
+   "fin": 39.6,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 39.6,
+   "fin": 39.78,
+   "corte": false
+  },
+  {
+   "texto": "industria.",
+   "inicio": 39.78,
+   "fin": 40.3,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 40.81,
+   "fin": 41.02,
+   "corte": false
+  },
+  {
+   "texto": "pagarías",
+   "inicio": 41.02,
+   "fin": 41.56,
+   "corte": false
+  },
+  {
+   "texto": "1.200",
+   "inicio": 41.56,
+   "fin": 42.2,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 42.21,
+   "fin": 42.69,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 42.69,
+   "fin": 42.96,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 42.96,
+   "fin": 43.17,
+   "corte": false
+  },
+  {
+   "texto": "móvil?",
+   "inicio": 43.17,
+   "fin": 43.55,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "¿Cuánto cuesta fabricar un iPhone?",
+   "inicio": 0.0,
+   "fin": 1.8
+  },
+  {
+   "texto": "Un iPhone Pro Max nuevo cuesta unos 1.200 dólares.",
+   "inicio": 2.31,
+   "fin": 6.11
+  },
+  {
+   "texto": "Pero los analistas que lo desarman pieza por pieza calculan que sus componentes cuestan cerca de 500.",
+   "inicio": 6.53,
+   "fin": 12.46
+  },
+  {
+   "texto": "Lo más caro es el procesador, seguido de la pantalla y las cámaras.",
+   "inicio": 12.89,
+   "fin": 16.73
+  },
+  {
+   "texto": "Montarlo en las fábricas de China o India cuesta solo unos dólares más.",
+   "inicio": 17.18,
+   "fin": 21.03
+  },
+  {
+   "texto": "Entonces, ¿Apple gana 700 dólares por teléfono?",
+   "inicio": 21.54,
+   "fin": 24.96
+  },
+  {
+   "texto": "No exactamente.",
+   "inicio": 25.38,
+   "fin": 26.53
+  },
+  {
+   "texto": "Hay que pagar el diseño, el software, la publicidad, las tiendas y los impuestos.",
+   "inicio": 26.93,
+   "fin": 32.03
+  },
+  {
+   "texto": "Aun así, Apple vende solo uno de cada cinco móviles del mundo, pero se lleva la mayor parte de las ganancias de toda la industria.",
+   "inicio": 32.53,
+   "fin": 40.3
+  },
+  {
+   "texto": "¿Tú pagarías 1.200 dólares por un móvil?",
+   "inicio": 40.81,
+   "fin": 43.55
+  }
+ ],
+ "duracion": 43.55,
+ "voz": "narraciones/iphone-coste.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "¿Cuánto cuesta",
+    "FABRICAR",
+    "un iPhone?"
+   ],
+   "resaltar": "FABRICAR",
+   "img": {
+    "src": "ia/s24/movil-moderno.png|ia/s24/movil-desarmado.png",
+    "size": 620,
+    "y": 1060
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 1,
+   "antes": "Precio en tienda",
+   "valor": 1200,
+   "prefijo": "$",
+   "etiqueta": "iPhone Pro Max",
+   "img": {
+    "src": "ia/s24/movil-moderno.png|ia/s24/tienda-moviles.png|ia/s16/etiqueta-precio.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "comparar",
+   "frase": 2,
+   "titulo": "Precio vs. piezas",
+   "a": {
+    "etiqueta": "Precio",
+    "valor": "$1.200",
+    "altura": 1,
+    "color": "#ff5d5d"
+   },
+   "b": {
+    "etiqueta": "Piezas",
+    "valor": "≈ $500",
+    "altura": 0.42,
+    "color": "#2ee59d"
+   },
+   "pie": "estimación de analistas"
+  },
+  {
+   "tipo": "lista",
+   "frase": 3,
+   "titulo": "Lo más caro",
+   "items": [
+    {
+     "texto": "Procesador",
+     "img": "ia/s16/chip.png",
+     "en": 1.2
+    },
+    {
+     "texto": "Pantalla",
+     "img": "ia/s24/pantalla.png",
+     "en": 2.2
+    },
+    {
+     "texto": "Cámaras",
+     "img": "ia/s24/camaras.png",
+     "en": 3.0
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 4,
+   "img": {
+    "src": "ia/s24/fabrica-moviles.png|ia/s16/k-chips-fabrica.png",
+    "size": 800,
+    "y": 760
+   },
+   "texto": "Montarlo: unos dólares más"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 5,
+   "lineas": [
+    "¿Apple gana",
+    "$700 por móvil?"
+   ],
+   "resaltar": "$700",
+   "img": {
+    "src": "ia/s16/a-saco-dinero.png|ia/s24/movil-moderno.png",
+    "size": 600,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 6,
+   "img": {
+    "src": "ia/s16/k-hombre-pensativo.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "No exactamente",
+   "color": "#ff5d5d"
+  },
+  {
+   "tipo": "lista",
+   "frase": 7,
+   "titulo": "También paga",
+   "items": [
+    {
+     "texto": "Diseño y software",
+     "emoji": "💻",
+     "en": 0.8
+    },
+    {
+     "texto": "Publicidad",
+     "emoji": "📢",
+     "en": 2.0
+    },
+    {
+     "texto": "Tiendas",
+     "emoji": "🏬",
+     "en": 2.8
+    },
+    {
+     "texto": "Impuestos",
+     "emoji": "🧾",
+     "en": 3.5
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 8,
+   "img": {
+    "src": "ia/s24/cinco-moviles.png|ia/s16/m-montana-billetes.png",
+    "size": 800,
+    "y": 760
+   },
+   "texto": "1 de cada 5 móviles",
+   "sub": "pero la mayor parte de las ganancias"
+  },
+  {
+   "tipo": "remate",
+   "frase": 9,
+   "pregunta": "¿Tú pagarías $1.200 por un móvil?"
+  }
+ ]
+}

@@ -1,0 +1,917 @@
+{
+ "palabras": [
+  {
+   "texto": "Nintendo",
+   "inicio": 0.0,
+   "fin": 0.7,
+   "corte": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 0.7,
+   "fin": 1.19,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 1.19,
+   "fin": 1.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.54,
+   "fin": 1.82,
+   "corte": false
+  },
+  {
+   "texto": "135",
+   "inicio": 1.82,
+   "fin": 2.59,
+   "corte": false
+  },
+  {
+   "texto": "años.",
+   "inicio": 2.59,
+   "fin": 3.01,
+   "corte": true
+  },
+  {
+   "texto": "¿Sabías",
+   "inicio": 3.41,
+   "fin": 3.77,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 3.77,
+   "fin": 3.99,
+   "corte": false
+  },
+  {
+   "texto": "empezó",
+   "inicio": 3.99,
+   "fin": 4.35,
+   "corte": false
+  },
+  {
+   "texto": "vendiendo",
+   "inicio": 4.35,
+   "fin": 4.84,
+   "corte": false
+  },
+  {
+   "texto": "cartas?",
+   "inicio": 4.84,
+   "fin": 5.2,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 5.59,
+   "fin": 5.84,
+   "corte": false
+  },
+  {
+   "texto": "1889,",
+   "inicio": 5.85,
+   "fin": 6.62,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 6.63,
+   "fin": 6.88,
+   "corte": false
+  },
+  {
+   "texto": "Kioto,",
+   "inicio": 6.89,
+   "fin": 7.34,
+   "corte": false
+  },
+  {
+   "texto": "Fusajiro",
+   "inicio": 7.34,
+   "fin": 7.99,
+   "corte": false
+  },
+  {
+   "texto": "Yamauchi",
+   "inicio": 7.99,
+   "fin": 8.64,
+   "corte": false
+  },
+  {
+   "texto": "abrió",
+   "inicio": 8.64,
+   "fin": 9.09,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 9.1,
+   "fin": 9.42,
+   "corte": false
+  },
+  {
+   "texto": "tienda",
+   "inicio": 9.42,
+   "fin": 9.94,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 9.94,
+   "fin": 10.2,
+   "corte": false
+  },
+  {
+   "texto": "naipes",
+   "inicio": 10.2,
+   "fin": 10.72,
+   "corte": false
+  },
+  {
+   "texto": "hechos",
+   "inicio": 10.72,
+   "fin": 11.24,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 11.24,
+   "fin": 11.43,
+   "corte": false
+  },
+  {
+   "texto": "mano,",
+   "inicio": 11.44,
+   "fin": 11.82,
+   "corte": false
+  },
+  {
+   "texto": "llamados",
+   "inicio": 11.83,
+   "fin": 12.47,
+   "corte": false
+  },
+  {
+   "texto": "hanafuda.",
+   "inicio": 12.48,
+   "fin": 13.12,
+   "corte": true
+  },
+  {
+   "texto": "Durante",
+   "inicio": 13.45,
+   "fin": 13.95,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 13.95,
+   "fin": 14.28,
+   "corte": false
+  },
+  {
+   "texto": "80",
+   "inicio": 14.28,
+   "fin": 14.83,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 14.83,
+   "fin": 15.16,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 15.16,
+   "fin": 15.43,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 15.43,
+   "fin": 15.7,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 15.71,
+   "fin": 16.03,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 16.04,
+   "fin": 16.25,
+   "corte": false
+  },
+  {
+   "texto": "negocio.",
+   "inicio": 16.25,
+   "fin": 16.75,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 17.1,
+   "fin": 17.3,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 17.3,
+   "fin": 17.56,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 17.56,
+   "fin": 17.87,
+   "corte": false
+  },
+  {
+   "texto": "60",
+   "inicio": 17.87,
+   "fin": 18.39,
+   "corte": false
+  },
+  {
+   "texto": "probó",
+   "inicio": 18.39,
+   "fin": 18.75,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.75,
+   "fin": 18.96,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 18.96,
+   "fin": 19.27,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 19.27,
+   "fin": 19.58,
+   "corte": false
+  },
+  {
+   "texto": "crecer:",
+   "inicio": 19.58,
+   "fin": 20.36,
+   "corte": false
+  },
+  {
+   "texto": "taxis,",
+   "inicio": 20.36,
+   "fin": 20.72,
+   "corte": false
+  },
+  {
+   "texto": "arroz",
+   "inicio": 20.72,
+   "fin": 21.08,
+   "corte": false
+  },
+  {
+   "texto": "instantáneo",
+   "inicio": 21.08,
+   "fin": 21.75,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 21.75,
+   "fin": 21.91,
+   "corte": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 21.91,
+   "fin": 22.27,
+   "corte": false
+  },
+  {
+   "texto": "hoteles",
+   "inicio": 22.27,
+   "fin": 22.74,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 22.74,
+   "fin": 22.99,
+   "corte": false
+  },
+  {
+   "texto": "horas.",
+   "inicio": 23.0,
+   "fin": 23.36,
+   "corte": true
+  },
+  {
+   "texto": "Casi",
+   "inicio": 23.72,
+   "fin": 24.09,
+   "corte": false
+  },
+  {
+   "texto": "todo",
+   "inicio": 24.09,
+   "fin": 24.46,
+   "corte": false
+  },
+  {
+   "texto": "fracasó.",
+   "inicio": 24.47,
+   "fin": 25.02,
+   "corte": true
+  },
+  {
+   "texto": "Entonces",
+   "inicio": 25.38,
+   "fin": 25.95,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 25.96,
+   "fin": 26.19,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 26.19,
+   "fin": 26.53,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 26.53,
+   "fin": 26.71,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 26.71,
+   "fin": 27.0,
+   "corte": false
+  },
+  {
+   "texto": "juguetes",
+   "inicio": 27.0,
+   "fin": 27.57,
+   "corte": false
+  },
+  {
+   "texto": "y,",
+   "inicio": 27.58,
+   "fin": 27.75,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 27.75,
+   "fin": 27.98,
+   "corte": false
+  },
+  {
+   "texto": "1980,",
+   "inicio": 27.98,
+   "fin": 28.67,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 28.67,
+   "fin": 28.85,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 28.85,
+   "fin": 29.14,
+   "corte": false
+  },
+  {
+   "texto": "maquinitas",
+   "inicio": 29.14,
+   "fin": 29.83,
+   "corte": false
+  },
+  {
+   "texto": "Game",
+   "inicio": 29.83,
+   "fin": 30.18,
+   "corte": false
+  },
+  {
+   "texto": "&",
+   "inicio": 30.18,
+   "fin": 30.29,
+   "corte": false
+  },
+  {
+   "texto": "Watch.",
+   "inicio": 30.29,
+   "fin": 30.7,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 31.02,
+   "fin": 31.3,
+   "corte": false
+  },
+  {
+   "texto": "1985",
+   "inicio": 31.31,
+   "fin": 32.15,
+   "corte": false
+  },
+  {
+   "texto": "llegó",
+   "inicio": 32.15,
+   "fin": 32.65,
+   "corte": false
+  },
+  {
+   "texto": "Super",
+   "inicio": 32.65,
+   "fin": 33.14,
+   "corte": false
+  },
+  {
+   "texto": "Mario",
+   "inicio": 33.15,
+   "fin": 33.64,
+   "corte": false
+  },
+  {
+   "texto": "Bros",
+   "inicio": 33.64,
+   "fin": 34.06,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 34.07,
+   "fin": 34.28,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 34.28,
+   "fin": 34.56,
+   "corte": false
+  },
+  {
+   "texto": "cambió",
+   "inicio": 34.56,
+   "fin": 35.13,
+   "corte": false
+  },
+  {
+   "texto": "todo.",
+   "inicio": 35.13,
+   "fin": 35.55,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 35.9,
+   "fin": 36.18,
+   "corte": false
+  },
+  {
+   "texto": "Nintendo",
+   "inicio": 36.18,
+   "fin": 36.74,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 36.74,
+   "fin": 36.96,
+   "corte": false
+  },
+  {
+   "texto": "vendido",
+   "inicio": 36.96,
+   "fin": 37.46,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 37.46,
+   "fin": 37.74,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.74,
+   "fin": 37.96,
+   "corte": false
+  },
+  {
+   "texto": "150",
+   "inicio": 37.96,
+   "fin": 38.57,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 38.57,
+   "fin": 39.13,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.13,
+   "fin": 39.35,
+   "corte": false
+  },
+  {
+   "texto": "Switch.",
+   "inicio": 39.35,
+   "fin": 39.8,
+   "corte": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 40.05,
+   "fin": 40.2,
+   "corte": false
+  },
+  {
+   "texto": "esa",
+   "inicio": 40.2,
+   "fin": 40.44,
+   "corte": false
+  },
+  {
+   "texto": "vieja",
+   "inicio": 40.44,
+   "fin": 40.79,
+   "corte": false
+  },
+  {
+   "texto": "tienda",
+   "inicio": 40.79,
+   "fin": 41.18,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 41.18,
+   "fin": 41.37,
+   "corte": false
+  },
+  {
+   "texto": "cartas",
+   "inicio": 41.37,
+   "fin": 41.76,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 41.77,
+   "fin": 42.06,
+   "corte": false
+  },
+  {
+   "texto": "decenas",
+   "inicio": 42.06,
+   "fin": 42.5,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 42.5,
+   "fin": 42.69,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 42.69,
+   "fin": 43.04,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 43.04,
+   "fin": 43.23,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 43.23,
+   "fin": 43.72,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 43.72,
+   "fin": 43.92,
+   "corte": false
+  },
+  {
+   "texto": "dólares.",
+   "inicio": 43.92,
+   "fin": 44.36,
+   "corte": true
+  },
+  {
+   "texto": "Por",
+   "inicio": 44.63,
+   "fin": 44.88,
+   "corte": false
+  },
+  {
+   "texto": "cierto,",
+   "inicio": 44.88,
+   "fin": 45.27,
+   "corte": false
+  },
+  {
+   "texto": "todavía",
+   "inicio": 45.28,
+   "fin": 45.72,
+   "corte": false
+  },
+  {
+   "texto": "vende",
+   "inicio": 45.72,
+   "fin": 46.07,
+   "corte": false
+  },
+  {
+   "texto": "cartas",
+   "inicio": 46.07,
+   "fin": 46.47,
+   "corte": false
+  },
+  {
+   "texto": "hanafuda.",
+   "inicio": 46.47,
+   "fin": 46.96,
+   "corte": true
+  },
+  {
+   "texto": "¿Con",
+   "inicio": 47.38,
+   "fin": 47.62,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 47.62,
+   "fin": 47.86,
+   "corte": false
+  },
+  {
+   "texto": "consola",
+   "inicio": 47.86,
+   "fin": 48.3,
+   "corte": false
+  },
+  {
+   "texto": "jugabas",
+   "inicio": 48.3,
+   "fin": 48.73,
+   "corte": false
+  },
+  {
+   "texto": "tú?",
+   "inicio": 48.73,
+   "fin": 48.93,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Nintendo tiene más de 135 años.",
+   "inicio": 0.0,
+   "fin": 3.01
+  },
+  {
+   "texto": "¿Sabías que empezó vendiendo cartas?",
+   "inicio": 3.41,
+   "fin": 5.2
+  },
+  {
+   "texto": "En 1889, en Kioto, Fusajiro Yamauchi abrió una tienda de naipes hechos a mano, llamados hanafuda.",
+   "inicio": 5.59,
+   "fin": 13.12
+  },
+  {
+   "texto": "Durante casi 80 años, ese fue todo su negocio.",
+   "inicio": 13.45,
+   "fin": 16.75
+  },
+  {
+   "texto": "En los años 60 probó de todo para crecer: taxis, arroz instantáneo y hasta hoteles por horas.",
+   "inicio": 17.1,
+   "fin": 23.36
+  },
+  {
+   "texto": "Casi todo fracasó.",
+   "inicio": 23.72,
+   "fin": 25.02
+  },
+  {
+   "texto": "Entonces se pasó a los juguetes y, en 1980, a las maquinitas Game & Watch.",
+   "inicio": 25.38,
+   "fin": 30.7
+  },
+  {
+   "texto": "En 1985 llegó Super Mario Bros y lo cambió todo.",
+   "inicio": 31.02,
+   "fin": 35.55
+  },
+  {
+   "texto": "Hoy Nintendo ha vendido más de 150 millones de Switch.",
+   "inicio": 35.9,
+   "fin": 39.8
+  },
+  {
+   "texto": "Y esa vieja tienda de cartas vale decenas de miles de millones de dólares.",
+   "inicio": 40.05,
+   "fin": 44.36
+  },
+  {
+   "texto": "Por cierto, todavía vende cartas hanafuda.",
+   "inicio": 44.63,
+   "fin": 46.96
+  },
+  {
+   "texto": "¿Con qué consola jugabas tú?",
+   "inicio": 47.38,
+   "fin": 48.93
+  }
+ ],
+ "duracion": 48.93,
+ "voz": "narraciones/nintendo-cartas.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "NINTENDO tiene",
+    "+135 años"
+   ],
+   "resaltar": "NINTENDO",
+   "img": {
+    "src": "ia/s24/consola-retro.png|ia/s24/cartas-hanafuda.png",
+    "size": 640,
+    "y": 1000
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 1,
+   "lineas": [
+    "Empezó vendiendo",
+    "CARTAS"
+   ],
+   "resaltar": "CARTAS",
+   "img": {
+    "src": "ia/s24/cartas-hanafuda.png|ia/s24/tienda-japonesa.png",
+    "size": 640,
+    "y": 1000
+   }
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 2,
+   "cabecera": "Kioto, 1889",
+   "titulo": "Naipes hechos a mano",
+   "lineas": [
+    "Se llamaban hanafuda"
+   ],
+   "img": {
+    "src": "ia/s24/tienda-japonesa.png|ia/s24/artesano-cartas.png|ia/s24/cartas-hanafuda.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 3,
+   "antes": "Solo cartas durante casi",
+   "valor": 80,
+   "sufijo": " años",
+   "img": {
+    "src": "ia/s16/m-anos-pasan.png|ia/s24/artesano-cartas.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 4,
+   "titulo": "Años 60: probó de todo",
+   "items": [
+    {
+     "texto": "Taxis",
+     "img": "ia/s24/taxi-japon.png",
+     "en": 2.2
+    },
+    {
+     "texto": "Arroz instantáneo",
+     "img": "ia/s24/arroz-instantaneo.png",
+     "en": 3.0
+    },
+    {
+     "texto": "Hoteles por horas",
+     "img": "ia/s24/hotel-neon.png",
+     "en": 4.0
+    }
+   ]
+  },
+  {
+   "tipo": "imagen",
+   "frase": 5,
+   "img": {
+    "src": "ia/s16/g-cohete-cae.png|ia/s16/g-tienda-vacia.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Casi todo fracasó",
+   "color": "#ff5d5d"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 6,
+   "img": {
+    "src": "ia/s24/juguetes-retro.png|ia/s24/maquinita-mano.png|ia/s24/consola-retro.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Juguetes y maquinitas",
+   "sub": "Game & Watch, 1980"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 7,
+   "lineas": [
+    "1985:",
+    "SUPER MARIO"
+   ],
+   "resaltar": "SUPER MARIO",
+   "img": {
+    "src": "ia/s24/consola-retro.png|ia/s24/seta-roja.png|ia/s16/mando.png",
+    "size": 620,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 8,
+   "antes": "Switch vendidas",
+   "valor": 150,
+   "prefijo": "+",
+   "sufijo": " M",
+   "etiqueta": "millones de consolas",
+   "img": {
+    "src": "ia/s24/consola-hibrida.png|ia/s16/g-multitud-moviles.png",
+    "size": 560,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 9,
+   "img": {
+    "src": "ia/s16/k-montana-monedas.png|ia/s24/tienda-japonesa.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Vale decenas de miles",
+   "sub": "de millones de dólares"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 10,
+   "img": {
+    "src": "ia/s24/cartas-hanafuda.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Y aún vende hanafuda"
+  },
+  {
+   "tipo": "remate",
+   "frase": 11,
+   "pregunta": "¿Con qué consola jugabas tú?"
+  }
+ ]
+}

@@ -1,5 +1,6 @@
 import { ExplicaShort, duracionExplica } from "./compositions/ExplicaShort";
 import { VIDEOS_S16 } from "./explica/videos";
+import { VIDEOS_S24 } from "./explica/videos24";
 import { HISTORIAS } from "./explica/historias";
 import { HistoriaCineShort, duracionHistoria } from "./compositions/HistoriaCineShort";
 import { PilotoFloridaShort, duracionPiloto } from "./compositions/PilotoFloridaShort";
@@ -750,7 +751,7 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
       />
-      {VIDEOS_S16.map((v) => (
+      {[...VIDEOS_S16, ...VIDEOS_S24].map((v) => (
         <Composition
           key={v.id}
           id={v.id}

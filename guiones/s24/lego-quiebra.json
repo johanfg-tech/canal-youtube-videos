@@ -1,0 +1,834 @@
+{
+ "palabras": [
+  {
+   "texto": "En",
+   "inicio": 0.0,
+   "fin": 0.24,
+   "corte": false
+  },
+  {
+   "texto": "2004,",
+   "inicio": 0.24,
+   "fin": 0.95,
+   "corte": false
+  },
+  {
+   "texto": "LEGO",
+   "inicio": 0.95,
+   "fin": 1.31,
+   "corte": false
+  },
+  {
+   "texto": "estaba",
+   "inicio": 1.31,
+   "fin": 1.78,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 1.78,
+   "fin": 1.96,
+   "corte": false
+  },
+  {
+   "texto": "punto",
+   "inicio": 1.96,
+   "fin": 2.37,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.38,
+   "fin": 2.61,
+   "corte": false
+  },
+  {
+   "texto": "quebrar.",
+   "inicio": 2.61,
+   "fin": 3.15,
+   "corte": true
+  },
+  {
+   "texto": "La",
+   "inicio": 3.59,
+   "fin": 3.77,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 3.77,
+   "fin": 4.19,
+   "corte": false
+  },
+  {
+   "texto": "danesa",
+   "inicio": 4.2,
+   "fin": 4.57,
+   "corte": false
+  },
+  {
+   "texto": "perdía",
+   "inicio": 4.57,
+   "fin": 4.94,
+   "corte": false
+  },
+  {
+   "texto": "cerca",
+   "inicio": 4.94,
+   "fin": 5.27,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 5.27,
+   "fin": 5.46,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 5.46,
+   "fin": 5.65,
+   "corte": false
+  },
+  {
+   "texto": "millón",
+   "inicio": 5.65,
+   "fin": 6.02,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 6.02,
+   "fin": 6.21,
+   "corte": false
+  },
+  {
+   "texto": "dólares",
+   "inicio": 6.21,
+   "fin": 6.63,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 6.63,
+   "fin": 6.82,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.82,
+   "fin": 7.05,
+   "corte": true
+  },
+  {
+   "texto": "Había",
+   "inicio": 7.33,
+   "fin": 7.73,
+   "corte": false
+  },
+  {
+   "texto": "querido",
+   "inicio": 7.73,
+   "fin": 8.26,
+   "corte": false
+  },
+  {
+   "texto": "hacer",
+   "inicio": 8.26,
+   "fin": 8.67,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 8.67,
+   "fin": 8.9,
+   "corte": false
+  },
+  {
+   "texto": "todo:",
+   "inicio": 8.9,
+   "fin": 9.62,
+   "corte": false
+  },
+  {
+   "texto": "parques",
+   "inicio": 9.62,
+   "fin": 10.14,
+   "corte": false
+  },
+  {
+   "texto": "temáticos,",
+   "inicio": 10.14,
+   "fin": 10.78,
+   "corte": false
+  },
+  {
+   "texto": "ropa,",
+   "inicio": 10.78,
+   "fin": 11.13,
+   "corte": false
+  },
+  {
+   "texto": "videojuegos",
+   "inicio": 11.14,
+   "fin": 11.89,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 11.9,
+   "fin": 12.07,
+   "corte": false
+  },
+  {
+   "texto": "miles",
+   "inicio": 12.07,
+   "fin": 12.48,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.48,
+   "fin": 12.71,
+   "corte": false
+  },
+  {
+   "texto": "piezas",
+   "inicio": 12.71,
+   "fin": 13.18,
+   "corte": false
+  },
+  {
+   "texto": "distintas",
+   "inicio": 13.18,
+   "fin": 13.82,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 13.82,
+   "fin": 14.11,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 14.12,
+   "fin": 14.47,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 14.47,
+   "fin": 14.87,
+   "corte": false
+  },
+  {
+   "texto": "usaba.",
+   "inicio": 14.88,
+   "fin": 15.28,
+   "corte": true
+  },
+  {
+   "texto": "Llegó",
+   "inicio": 15.76,
+   "fin": 16.19,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 16.19,
+   "fin": 16.44,
+   "corte": false
+  },
+  {
+   "texto": "nuevo",
+   "inicio": 16.44,
+   "fin": 16.87,
+   "corte": false
+  },
+  {
+   "texto": "jefe",
+   "inicio": 16.87,
+   "fin": 17.23,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.23,
+   "fin": 17.48,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 17.48,
+   "fin": 17.84,
+   "corte": false
+  },
+  {
+   "texto": "35",
+   "inicio": 17.85,
+   "fin": 18.46,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 18.46,
+   "fin": 18.82,
+   "corte": false
+  },
+  {
+   "texto": "Jørgen",
+   "inicio": 18.83,
+   "fin": 19.31,
+   "corte": false
+  },
+  {
+   "texto": "Vig",
+   "inicio": 19.32,
+   "fin": 19.62,
+   "corte": false
+  },
+  {
+   "texto": "Knudstorp.",
+   "inicio": 19.62,
+   "fin": 20.29,
+   "corte": true
+  },
+  {
+   "texto": "Vendió",
+   "inicio": 20.73,
+   "fin": 21.11,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 21.11,
+   "fin": 21.34,
+   "corte": false
+  },
+  {
+   "texto": "parques,",
+   "inicio": 21.34,
+   "fin": 21.77,
+   "corte": false
+  },
+  {
+   "texto": "recortó",
+   "inicio": 21.77,
+   "fin": 22.19,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 22.19,
+   "fin": 22.47,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 22.47,
+   "fin": 22.61,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 22.61,
+   "fin": 22.8,
+   "corte": false
+  },
+  {
+   "texto": "mitad",
+   "inicio": 22.8,
+   "fin": 23.13,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 23.13,
+   "fin": 23.36,
+   "corte": false
+  },
+  {
+   "texto": "piezas",
+   "inicio": 23.36,
+   "fin": 23.74,
+   "corte": false
+  },
+  {
+   "texto": "diferentes",
+   "inicio": 23.74,
+   "fin": 24.3,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 24.3,
+   "fin": 24.76,
+   "corte": false
+  },
+  {
+   "texto": "volvió",
+   "inicio": 24.76,
+   "fin": 25.14,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 25.14,
+   "fin": 25.28,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 25.28,
+   "fin": 25.47,
+   "corte": false
+  },
+  {
+   "texto": "básico:",
+   "inicio": 25.47,
+   "fin": 26.26,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 26.27,
+   "fin": 26.45,
+   "corte": false
+  },
+  {
+   "texto": "ladrillo.",
+   "inicio": 26.45,
+   "fin": 26.92,
+   "corte": true
+  },
+  {
+   "texto": "Después",
+   "inicio": 27.38,
+   "fin": 27.79,
+   "corte": false
+  },
+  {
+   "texto": "llegaron",
+   "inicio": 27.79,
+   "fin": 28.24,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 28.24,
+   "fin": 28.46,
+   "corte": false
+  },
+  {
+   "texto": "sets",
+   "inicio": 28.46,
+   "fin": 28.73,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.73,
+   "fin": 28.91,
+   "corte": false
+  },
+  {
+   "texto": "Star",
+   "inicio": 28.91,
+   "fin": 29.18,
+   "corte": false
+  },
+  {
+   "texto": "Wars",
+   "inicio": 29.18,
+   "fin": 29.45,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 29.45,
+   "fin": 29.58,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 29.58,
+   "fin": 29.76,
+   "corte": false
+  },
+  {
+   "texto": "película",
+   "inicio": 29.76,
+   "fin": 30.21,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 30.21,
+   "fin": 30.39,
+   "corte": false
+  },
+  {
+   "texto": "LEGO.",
+   "inicio": 30.39,
+   "fin": 30.66,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 31.11,
+   "fin": 31.3,
+   "corte": false
+  },
+  {
+   "texto": "2015",
+   "inicio": 31.3,
+   "fin": 31.87,
+   "corte": false
+  },
+  {
+   "texto": "ya",
+   "inicio": 31.88,
+   "fin": 32.07,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 32.07,
+   "fin": 32.31,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 32.31,
+   "fin": 32.5,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 32.5,
+   "fin": 32.93,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.93,
+   "fin": 33.13,
+   "corte": false
+  },
+  {
+   "texto": "juguetes",
+   "inicio": 33.13,
+   "fin": 33.61,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 33.61,
+   "fin": 33.85,
+   "corte": false
+  },
+  {
+   "texto": "grande",
+   "inicio": 33.85,
+   "fin": 34.23,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 34.23,
+   "fin": 34.47,
+   "corte": false
+  },
+  {
+   "texto": "mundo,",
+   "inicio": 34.48,
+   "fin": 34.81,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 34.81,
+   "fin": 35.05,
+   "corte": false
+  },
+  {
+   "texto": "delante",
+   "inicio": 35.05,
+   "fin": 35.49,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 35.49,
+   "fin": 35.68,
+   "corte": false
+  },
+  {
+   "texto": "Mattel.",
+   "inicio": 35.68,
+   "fin": 36.06,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 36.53,
+   "fin": 36.73,
+   "corte": false
+  },
+  {
+   "texto": "nombre",
+   "inicio": 36.74,
+   "fin": 37.15,
+   "corte": false
+  },
+  {
+   "texto": "viene",
+   "inicio": 37.15,
+   "fin": 37.51,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 37.51,
+   "fin": 37.76,
+   "corte": false
+  },
+  {
+   "texto": "danés",
+   "inicio": 37.76,
+   "fin": 38.12,
+   "corte": false
+  },
+  {
+   "texto": "leg",
+   "inicio": 38.12,
+   "fin": 38.38,
+   "corte": false
+  },
+  {
+   "texto": "godt:",
+   "inicio": 38.38,
+   "fin": 38.69,
+   "corte": false
+  },
+  {
+   "texto": "juega",
+   "inicio": 38.69,
+   "fin": 39.46,
+   "corte": false
+  },
+  {
+   "texto": "bien.",
+   "inicio": 39.46,
+   "fin": 39.77,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 40.25,
+   "fin": 40.42,
+   "corte": false
+  },
+  {
+   "texto": "tenías",
+   "inicio": 40.42,
+   "fin": 40.76,
+   "corte": false
+  },
+  {
+   "texto": "LEGO",
+   "inicio": 40.76,
+   "fin": 41.02,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 41.02,
+   "fin": 41.19,
+   "corte": false
+  },
+  {
+   "texto": "niño?",
+   "inicio": 41.19,
+   "fin": 41.44,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "En 2004, LEGO estaba a punto de quebrar.",
+   "inicio": 0.0,
+   "fin": 3.15
+  },
+  {
+   "texto": "La empresa danesa perdía cerca de un millón de dólares al día.",
+   "inicio": 3.59,
+   "fin": 7.05
+  },
+  {
+   "texto": "Había querido hacer de todo: parques temáticos, ropa, videojuegos y miles de piezas distintas que casi nadie usaba.",
+   "inicio": 7.33,
+   "fin": 15.28
+  },
+  {
+   "texto": "Llegó un nuevo jefe de solo 35 años, Jørgen Vig Knudstorp.",
+   "inicio": 15.76,
+   "fin": 20.29
+  },
+  {
+   "texto": "Vendió los parques, recortó casi a la mitad las piezas diferentes y volvió a lo básico: el ladrillo.",
+   "inicio": 20.73,
+   "fin": 26.92
+  },
+  {
+   "texto": "Después llegaron los sets de Star Wars y la película de LEGO.",
+   "inicio": 27.38,
+   "fin": 30.66
+  },
+  {
+   "texto": "En 2015 ya era la empresa de juguetes más grande del mundo, por delante de Mattel.",
+   "inicio": 31.11,
+   "fin": 36.06
+  },
+  {
+   "texto": "Su nombre viene del danés leg godt: juega bien.",
+   "inicio": 36.53,
+   "fin": 39.77
+  },
+  {
+   "texto": "¿Tú tenías LEGO de niño?",
+   "inicio": 40.25,
+   "fin": 41.44
+  }
+ ],
+ "duracion": 41.72,
+ "voz": "narraciones/lego-quiebra.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "2004: LEGO",
+    "casi QUIEBRA"
+   ],
+   "resaltar": "QUIEBRA",
+   "color": "#ff5d5d",
+   "img": {
+    "src": "ia/s24/ladrillos-colores.png|ia/s24/fabrica-juguetes.png",
+    "size": 640,
+    "y": 1000
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 1,
+   "antes": "Perdía cada día",
+   "valor": 1,
+   "prefijo": "$",
+   "sufijo": " millón",
+   "etiqueta": "aproximadamente",
+   "color": "#ff5d5d",
+   "img": {
+    "src": "ia/s16/g-hucha-rota.png|ia/s16/c-flecha-roja-cae.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "lista",
+   "frase": 2,
+   "titulo": "Quiso hacer de todo",
+   "items": [
+    {
+     "texto": "Parques temáticos",
+     "img": "ia/s24/parque-bloques.png",
+     "en": 1.6
+    },
+    {
+     "texto": "Ropa",
+     "img": "ia/s24/ropa-ninos.png",
+     "en": 2.8
+    },
+    {
+     "texto": "Videojuegos",
+     "img": "ia/s16/mando.png",
+     "en": 3.4
+    },
+    {
+     "texto": "Miles de piezas raras",
+     "img": "ia/s24/piezas-raras.png",
+     "en": 4.4
+    }
+   ]
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 3,
+   "cabecera": "Nuevo jefe",
+   "titulo": "Solo 35 años",
+   "lineas": [
+    "Jørgen Vig Knudstorp"
+   ],
+   "img": {
+    "src": "ia/s24/jefe-joven.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 4,
+   "img": {
+    "src": "ia/s24/cartel-vendido.png|ia/s16/a-tijera-presupuesto.png|ia/s24/ladrillos-colores.png",
+    "size": 780,
+    "y": 760
+   },
+   "texto": "Volver al ladrillo"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 5,
+   "img": {
+    "src": "ia/s24/nave-bloques.png|ia/s24/claqueta-cine.png",
+    "size": 780,
+    "y": 760
+   },
+   "texto": "Star Wars y la película"
+  },
+  {
+   "tipo": "titulo",
+   "frase": 6,
+   "lineas": [
+    "2015: la juguetera",
+    "MÁS GRANDE",
+    "del mundo"
+   ],
+   "resaltar": "MÁS GRANDE",
+   "color": "#2ee59d",
+   "img": {
+    "src": "ia/s16/m-podio.png|ia/s24/nino-bloques.png",
+    "size": 600,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "titulo",
+   "frase": 7,
+   "lineas": [
+    "LEG GODT =",
+    "juega bien"
+   ],
+   "resaltar": "LEG GODT",
+   "img": {
+    "src": "ia/s24/nino-bloques.png|ia/s24/ladrillos-colores.png",
+    "size": 620,
+    "y": 1040
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 8,
+   "pregunta": "¿Tú tenías LEGO de niño?"
+  }
+ ]
+}

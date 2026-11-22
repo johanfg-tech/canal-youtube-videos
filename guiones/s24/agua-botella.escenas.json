@@ -1,0 +1,107 @@
+[
+ {
+  "tipo": "titulo",
+  "frase": 0,
+  "lineas": [
+   "¿Cuánto pagas DE MÁS",
+   "por el agua",
+   "embotellada?"
+  ],
+  "resaltar": "DE MÁS",
+  "img": {
+   "src": "ia/s16/botella-agua.png|ia/s24/grifo-vaso.png",
+   "size": 600,
+   "y": 1060
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 1,
+  "antes": "Hasta",
+  "valor": 2000,
+  "sufijo": " veces",
+  "etiqueta": "más cara que la del grifo",
+  "color": "#ff5d5d",
+  "img": {
+   "src": "ia/s24/grifo-vaso.png|ia/s16/botella-agua.png",
+   "size": 540,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 2,
+  "img": {
+   "src": "ia/s24/embotelladora.png|ia/s24/grifo-botella.png",
+   "size": 800,
+   "y": 760
+  },
+  "texto": "Agua del grifo… filtrada"
+ },
+ {
+  "tipo": "tarjeta",
+  "frase": 3,
+  "cabecera": "Aquafina (Pepsi)",
+  "titulo": "«Agua pública»",
+  "lineas": [
+   "tuvo que ponerlo en la etiqueta"
+  ],
+  "img": {
+   "src": "ia/s24/etiqueta-botella.png",
+   "size": 560
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 4,
+  "antes": "Botellas de plástico",
+  "valor": 1000000,
+  "sufijo": "",
+  "etiqueta": "compradas cada minuto",
+  "img": {
+   "src": "ia/s24/montana-botellas.png|ia/s24/reloj-minuto.png",
+   "size": 560,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 5,
+  "antes": "Negocio al año: más de",
+  "valor": 300000,
+  "prefijo": "$",
+  "sufijo": " M",
+  "etiqueta": "millones de dólares",
+  "color": "#2ee59d",
+  "img": {
+   "src": "ia/s24/supermercado-agua.png|ia/s16/m-montana-billetes.png",
+   "size": 560,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 6,
+  "img": {
+   "src": "ia/s24/pozo-agua.png",
+   "size": 760,
+   "y": 760
+  },
+  "texto": "Si no es segura, tiene sentido"
+ },
+ {
+  "tipo": "imagen",
+  "frase": 7,
+  "img": {
+   "src": "ia/s24/bebe-grifo.png|ia/s24/montana-botellas.png",
+   "size": 780,
+   "y": 760
+  },
+  "texto": "Pagas plástico y marca"
+ },
+ {
+  "tipo": "remate",
+  "frase": 8,
+  "pregunta": "¿Grifo o botella?"
+ }
+]

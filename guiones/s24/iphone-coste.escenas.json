@@ -1,0 +1,155 @@
+[
+ {
+  "tipo": "titulo",
+  "frase": 0,
+  "lineas": [
+   "¿Cuánto cuesta",
+   "FABRICAR",
+   "un iPhone?"
+  ],
+  "resaltar": "FABRICAR",
+  "img": {
+   "src": "ia/s24/movil-moderno.png|ia/s24/movil-desarmado.png",
+   "size": 620,
+   "y": 1060
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 1,
+  "antes": "Precio en tienda",
+  "valor": 1200,
+  "prefijo": "$",
+  "etiqueta": "iPhone Pro Max",
+  "img": {
+   "src": "ia/s24/movil-moderno.png|ia/s24/tienda-moviles.png|ia/s16/etiqueta-precio.png",
+   "size": 560,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "comparar",
+  "frase": 2,
+  "titulo": "Precio vs. piezas",
+  "a": {
+   "etiqueta": "Precio",
+   "valor": "$1.200",
+   "altura": 1,
+   "color": "#ff5d5d"
+  },
+  "b": {
+   "etiqueta": "Piezas",
+   "valor": "≈ $500",
+   "altura": 0.42,
+   "color": "#2ee59d"
+  },
+  "pie": "estimación de analistas"
+ },
+ {
+  "tipo": "lista",
+  "frase": 3,
+  "titulo": "Lo más caro",
+  "items": [
+   {
+    "texto": "Procesador",
+    "img": "ia/s16/chip.png",
+    "enFrase": 3,
+    "mas": 1.2
+   },
+   {
+    "texto": "Pantalla",
+    "img": "ia/s24/pantalla.png",
+    "enFrase": 3,
+    "mas": 2.2
+   },
+   {
+    "texto": "Cámaras",
+    "img": "ia/s24/camaras.png",
+    "enFrase": 3,
+    "mas": 3.0
+   }
+  ]
+ },
+ {
+  "tipo": "imagen",
+  "frase": 4,
+  "img": {
+   "src": "ia/s24/fabrica-moviles.png|ia/s16/k-chips-fabrica.png",
+   "size": 800,
+   "y": 760
+  },
+  "texto": "Montarlo: unos dólares más"
+ },
+ {
+  "tipo": "titulo",
+  "frase": 5,
+  "lineas": [
+   "¿Apple gana",
+   "$700 por móvil?"
+  ],
+  "resaltar": "$700",
+  "img": {
+   "src": "ia/s16/a-saco-dinero.png|ia/s24/movil-moderno.png",
+   "size": 600,
+   "y": 1040
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 6,
+  "img": {
+   "src": "ia/s16/k-hombre-pensativo.png",
+   "size": 760,
+   "y": 760
+  },
+  "texto": "No exactamente",
+  "color": "#ff5d5d"
+ },
+ {
+  "tipo": "lista",
+  "frase": 7,
+  "titulo": "También paga",
+  "items": [
+   {
+    "texto": "Diseño y software",
+    "emoji": "💻",
+    "enFrase": 7,
+    "mas": 0.8
+   },
+   {
+    "texto": "Publicidad",
+    "emoji": "📢",
+    "enFrase": 7,
+    "mas": 2.0
+   },
+   {
+    "texto": "Tiendas",
+    "emoji": "🏬",
+    "enFrase": 7,
+    "mas": 2.8
+   },
+   {
+    "texto": "Impuestos",
+    "emoji": "🧾",
+    "enFrase": 7,
+    "mas": 3.5
+   }
+  ]
+ },
+ {
+  "tipo": "imagen",
+  "frase": 8,
+  "img": {
+   "src": "ia/s24/cinco-moviles.png|ia/s16/m-montana-billetes.png",
+   "size": 800,
+   "y": 760
+  },
+  "texto": "1 de cada 5 móviles",
+  "sub": "pero la mayor parte de las ganancias"
+ },
+ {
+  "tipo": "remate",
+  "frase": 9,
+  "pregunta": "¿Tú pagarías $1.200 por un móvil?"
+ }
+]

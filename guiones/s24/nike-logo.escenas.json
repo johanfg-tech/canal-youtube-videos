@@ -1,0 +1,129 @@
+[
+ {
+  "tipo": "titulo",
+  "frase": 0,
+  "lineas": [
+   "¿Cuánto costó",
+   "el logo de NIKE?"
+  ],
+  "resaltar": "NIKE",
+  "img": {
+   "src": "ia/s24/zapatilla.png|ia/s24/trazo-papel.png",
+   "size": 640,
+   "y": 1000
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 1,
+  "antes": "En 1971 cobró",
+  "valor": 35,
+  "prefijo": "$",
+  "etiqueta": "por dibujar el logo",
+  "img": {
+   "src": "ia/s24/estudiante-dibuja.png|ia/s24/boceto-mesa.png|ia/s24/billete-35.png",
+   "size": 600,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 2,
+  "antes": "Cobraba",
+  "valor": 2,
+  "prefijo": "$",
+  "sufijo": " la hora",
+  "etiqueta": "trabajo de estudiante",
+  "img": {
+   "src": "ia/s24/reloj-pared.png|ia/s16/k-reloj-pared.png",
+   "size": 520,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 3,
+  "img": {
+   "src": "ia/s24/fundador-duda.png|ia/s24/fundador-mira-boceto.png",
+   "size": 820,
+   "y": 760
+  },
+  "texto": "«No me gusta…»",
+  "sub": "«…pero quizás me acostumbre»"
+ },
+ {
+  "tipo": "titulo",
+  "frase": 5,
+  "lineas": [
+   "Se llamó",
+   "SWOOSH"
+  ],
+  "resaltar": "SWOOSH",
+  "img": {
+   "src": "ia/s24/zapatilla.png|ia/s24/tienda-deportes.png|ia/s24/atleta-corre.png",
+   "size": 640,
+   "y": 1000
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 6,
+  "antes": "Nike vende al año",
+  "valor": 50000,
+  "prefijo": "$",
+  "sufijo": " M",
+  "etiqueta": "millones de dólares (aprox.)",
+  "color": "#2ee59d",
+  "img": {
+   "src": "ia/s16/m-montana-billetes.png|ia/s24/tienda-deportes.png",
+   "size": 560,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 7,
+  "img": {
+   "src": "ia/s24/anillo-oro.png|ia/s24/certificado-acciones.png|ia/s24/sobre-regalo.png",
+   "size": 760,
+   "y": 760
+  },
+  "texto": "Un anillo de oro",
+  "sub": "y 500 acciones"
+ },
+ {
+  "tipo": "cifra",
+  "frase": 8,
+  "antes": "Esas acciones hoy",
+  "valor": 1,
+  "prefijo": "+$",
+  "sufijo": " millón",
+  "etiqueta": "valdrían más de un millón",
+  "color": "#2ee59d",
+  "img": {
+   "src": "ia/s16/g-cohete-sube.png|ia/s24/certificado-acciones.png",
+   "size": 540,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "titulo",
+  "frase": 9,
+  "lineas": [
+   "Un dibujo de $35",
+   "que vale MILES",
+   "de millones"
+  ],
+  "resaltar": "MILES",
+  "img": {
+   "src": "ia/s24/trazo-papel.png|ia/s24/zapatilla.png",
+   "size": 600,
+   "y": 1060
+  }
+ },
+ {
+  "tipo": "remate",
+  "frase": 10,
+  "pregunta": "¿Tú habrías cobrado más?"
+ }
+]

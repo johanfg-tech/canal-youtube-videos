@@ -1,0 +1,754 @@
+{
+ "palabras": [
+  {
+   "texto": "En",
+   "inicio": 0.0,
+   "fin": 0.22,
+   "corte": false
+  },
+  {
+   "texto": "2007,",
+   "inicio": 0.22,
+   "fin": 0.87,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 0.88,
+   "fin": 1.2,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 1.2,
+   "fin": 1.42,
+   "corte": false
+  },
+  {
+   "texto": "mitad",
+   "inicio": 1.42,
+   "fin": 1.8,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.8,
+   "fin": 2.02,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 2.02,
+   "fin": 2.29,
+   "corte": false
+  },
+  {
+   "texto": "teléfonos",
+   "inicio": 2.3,
+   "fin": 2.9,
+   "corte": false
+  },
+  {
+   "texto": "inteligentes",
+   "inicio": 2.9,
+   "fin": 3.66,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 3.66,
+   "fin": 3.93,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 3.94,
+   "fin": 4.32,
+   "corte": false
+  },
+  {
+   "texto": "eran",
+   "inicio": 4.32,
+   "fin": 4.64,
+   "corte": false
+  },
+  {
+   "texto": "Nokia.",
+   "inicio": 4.65,
+   "fin": 5.03,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 5.42,
+   "fin": 5.64,
+   "corte": false
+  },
+  {
+   "texto": "famoso",
+   "inicio": 5.64,
+   "fin": 6.07,
+   "corte": false
+  },
+  {
+   "texto": "tono",
+   "inicio": 6.07,
+   "fin": 6.39,
+   "corte": false
+  },
+  {
+   "texto": "sonaba",
+   "inicio": 6.39,
+   "fin": 6.82,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 6.82,
+   "fin": 7.03,
+   "corte": false
+  },
+  {
+   "texto": "todas",
+   "inicio": 7.04,
+   "fin": 7.41,
+   "corte": false
+  },
+  {
+   "texto": "partes.",
+   "inicio": 7.41,
+   "fin": 7.84,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 8.3,
+   "fin": 8.56,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 8.56,
+   "fin": 8.92,
+   "corte": false
+  },
+  {
+   "texto": "año,",
+   "inicio": 8.92,
+   "fin": 9.18,
+   "corte": false
+  },
+  {
+   "texto": "Apple",
+   "inicio": 9.18,
+   "fin": 9.54,
+   "corte": false
+  },
+  {
+   "texto": "presentó",
+   "inicio": 9.55,
+   "fin": 10.06,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 10.07,
+   "fin": 10.27,
+   "corte": false
+  },
+  {
+   "texto": "iPhone.",
+   "inicio": 10.27,
+   "fin": 10.69,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 11.1,
+   "fin": 11.28,
+   "corte": false
+  },
+  {
+   "texto": "Nokia",
+   "inicio": 11.28,
+   "fin": 11.59,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 11.59,
+   "fin": 11.76,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 11.77,
+   "fin": 11.94,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 11.94,
+   "fin": 12.12,
+   "corte": false
+  },
+  {
+   "texto": "tomaron",
+   "inicio": 12.12,
+   "fin": 12.52,
+   "corte": false
+  },
+  {
+   "texto": "muy",
+   "inicio": 12.52,
+   "fin": 12.74,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 12.74,
+   "fin": 12.91,
+   "corte": false
+  },
+  {
+   "texto": "serio.",
+   "inicio": 12.91,
+   "fin": 13.22,
+   "corte": true
+  },
+  {
+   "texto": "Siguieron",
+   "inicio": 13.53,
+   "fin": 14.06,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 14.06,
+   "fin": 14.3,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 14.3,
+   "fin": 14.49,
+   "corte": false
+  },
+  {
+   "texto": "sistema,",
+   "inicio": 14.49,
+   "fin": 14.92,
+   "corte": false
+  },
+  {
+   "texto": "Symbian,",
+   "inicio": 14.92,
+   "fin": 15.35,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 15.35,
+   "fin": 15.5,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 15.5,
+   "fin": 15.74,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 15.74,
+   "fin": 15.98,
+   "corte": false
+  },
+  {
+   "texto": "teclados,",
+   "inicio": 15.98,
+   "fin": 16.46,
+   "corte": false
+  },
+  {
+   "texto": "mientras",
+   "inicio": 16.46,
+   "fin": 16.94,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 16.94,
+   "fin": 17.13,
+   "corte": false
+  },
+  {
+   "texto": "iPhone",
+   "inicio": 17.13,
+   "fin": 17.51,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 17.51,
+   "fin": 17.66,
+   "corte": false
+  },
+  {
+   "texto": "Android",
+   "inicio": 17.66,
+   "fin": 18.09,
+   "corte": false
+  },
+  {
+   "texto": "crecían",
+   "inicio": 18.09,
+   "fin": 18.52,
+   "corte": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 18.52,
+   "fin": 18.76,
+   "corte": false
+  },
+  {
+   "texto": "parar.",
+   "inicio": 18.76,
+   "fin": 19.1,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 19.52,
+   "fin": 19.75,
+   "corte": false
+  },
+  {
+   "texto": "solo",
+   "inicio": 19.75,
+   "fin": 20.1,
+   "corte": false
+  },
+  {
+   "texto": "seis",
+   "inicio": 20.1,
+   "fin": 20.45,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 20.45,
+   "fin": 20.79,
+   "corte": false
+  },
+  {
+   "texto": "Nokia",
+   "inicio": 20.79,
+   "fin": 21.2,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 21.2,
+   "fin": 21.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 21.55,
+   "fin": 21.78,
+   "corte": false
+  },
+  {
+   "texto": "líder",
+   "inicio": 21.78,
+   "fin": 22.18,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 22.18,
+   "fin": 22.35,
+   "corte": false
+  },
+  {
+   "texto": "vender",
+   "inicio": 22.35,
+   "fin": 22.82,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 22.82,
+   "fin": 23.05,
+   "corte": false
+  },
+  {
+   "texto": "negocio",
+   "inicio": 23.05,
+   "fin": 23.57,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 23.57,
+   "fin": 23.8,
+   "corte": false
+  },
+  {
+   "texto": "móviles",
+   "inicio": 23.8,
+   "fin": 24.32,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 24.32,
+   "fin": 24.49,
+   "corte": false
+  },
+  {
+   "texto": "Microsoft",
+   "inicio": 24.49,
+   "fin": 25.13,
+   "corte": false
+  },
+  {
+   "texto": "por",
+   "inicio": 25.13,
+   "fin": 25.42,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 25.42,
+   "fin": 25.76,
+   "corte": false
+  },
+  {
+   "texto": "5.400",
+   "inicio": 25.76,
+   "fin": 26.46,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 26.46,
+   "fin": 27.03,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 27.04,
+   "fin": 27.27,
+   "corte": false
+  },
+  {
+   "texto": "euros.",
+   "inicio": 27.27,
+   "fin": 27.67,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 28.12,
+   "fin": 28.43,
+   "corte": false
+  },
+  {
+   "texto": "Nokia",
+   "inicio": 28.43,
+   "fin": 28.79,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 28.79,
+   "fin": 29.0,
+   "corte": false
+  },
+  {
+   "texto": "desapareció.",
+   "inicio": 29.0,
+   "fin": 29.67,
+   "corte": true
+  },
+  {
+   "texto": "Empezó",
+   "inicio": 30.06,
+   "fin": 30.53,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 30.54,
+   "fin": 30.77,
+   "corte": false
+  },
+  {
+   "texto": "1865",
+   "inicio": 30.78,
+   "fin": 31.49,
+   "corte": false
+  },
+  {
+   "texto": "como",
+   "inicio": 31.49,
+   "fin": 31.85,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 31.85,
+   "fin": 32.15,
+   "corte": false
+  },
+  {
+   "texto": "fábrica",
+   "inicio": 32.15,
+   "fin": 32.69,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.69,
+   "fin": 32.93,
+   "corte": false
+  },
+  {
+   "texto": "papel,",
+   "inicio": 32.93,
+   "fin": 33.35,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 33.35,
+   "fin": 33.53,
+   "corte": false
+  },
+  {
+   "texto": "hoy",
+   "inicio": 33.53,
+   "fin": 34.18,
+   "corte": false
+  },
+  {
+   "texto": "vive",
+   "inicio": 34.18,
+   "fin": 34.54,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 34.54,
+   "fin": 34.78,
+   "corte": false
+  },
+  {
+   "texto": "antenas",
+   "inicio": 34.78,
+   "fin": 35.31,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 35.32,
+   "fin": 35.49,
+   "corte": false
+  },
+  {
+   "texto": "redes",
+   "inicio": 35.5,
+   "fin": 35.91,
+   "corte": false
+  },
+  {
+   "texto": "5G.",
+   "inicio": 35.92,
+   "fin": 36.51,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 36.98,
+   "fin": 37.18,
+   "corte": false
+  },
+  {
+   "texto": "tuviste",
+   "inicio": 37.18,
+   "fin": 37.64,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 37.64,
+   "fin": 37.84,
+   "corte": false
+  },
+  {
+   "texto": "Nokia?",
+   "inicio": 37.84,
+   "fin": 38.19,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "En 2007, casi la mitad de los teléfonos inteligentes del mundo eran Nokia.",
+   "inicio": 0.0,
+   "fin": 5.03
+  },
+  {
+   "texto": "Su famoso tono sonaba en todas partes.",
+   "inicio": 5.42,
+   "fin": 7.84
+  },
+  {
+   "texto": "Ese mismo año, Apple presentó el iPhone.",
+   "inicio": 8.3,
+   "fin": 10.69
+  },
+  {
+   "texto": "En Nokia no se lo tomaron muy en serio.",
+   "inicio": 11.1,
+   "fin": 13.22
+  },
+  {
+   "texto": "Siguieron con su sistema, Symbian, y con sus teclados, mientras el iPhone y Android crecían sin parar.",
+   "inicio": 13.53,
+   "fin": 19.1
+  },
+  {
+   "texto": "En solo seis años, Nokia pasó de líder a vender su negocio de móviles a Microsoft por unos 5.400 millones de euros.",
+   "inicio": 19.52,
+   "fin": 27.67
+  },
+  {
+   "texto": "Pero Nokia no desapareció.",
+   "inicio": 28.12,
+   "fin": 29.67
+  },
+  {
+   "texto": "Empezó en 1865 como una fábrica de papel, y hoy vive de antenas y redes 5G.",
+   "inicio": 30.06,
+   "fin": 36.51
+  },
+  {
+   "texto": "¿Tú tuviste un Nokia?",
+   "inicio": 36.98,
+   "fin": 38.19
+  }
+ ],
+ "duracion": 38.19,
+ "voz": "narraciones/nokia-caida.mp3",
+ "escenas": [
+  {
+   "tipo": "titulo",
+   "frase": 0,
+   "lineas": [
+    "2007: casi la MITAD",
+    "de los smartphones",
+    "eran Nokia"
+   ],
+   "resaltar": "MITAD",
+   "img": {
+    "src": "ia/s24/movil-clasico.png|ia/s24/globo-moviles.png",
+    "size": 600,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 1,
+   "img": {
+    "src": "ia/s24/notas-musicales.png|ia/s24/movil-clasico.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Su tono sonaba en todas partes"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 2,
+   "img": {
+    "src": "ia/s24/escenario-movil.png|ia/s24/pantalla-tactil.png",
+    "size": 800,
+    "y": 760
+   },
+   "texto": "2007: llega el iPhone"
+  },
+  {
+   "tipo": "imagen",
+   "frase": 3,
+   "img": {
+    "src": "ia/s24/ejecutivo-rie.png|ia/s16/k-ejecutivo-ignora.png",
+    "size": 780,
+    "y": 760
+   },
+   "texto": "No se lo tomaron en serio"
+  },
+  {
+   "tipo": "comparar",
+   "frase": 4,
+   "titulo": "Teclas vs. pantalla",
+   "a": {
+    "etiqueta": "Symbian",
+    "img": "ia/s24/movil-clasico.png",
+    "color": "#ff5d5d",
+    "altura": 0.4
+   },
+   "b": {
+    "etiqueta": "iPhone y Android",
+    "img": "ia/s24/pantalla-tactil.png",
+    "color": "#2ee59d",
+    "altura": 1
+   }
+  },
+  {
+   "tipo": "cifra",
+   "frase": 5,
+   "antes": "Vendió los móviles por",
+   "valor": 5400,
+   "prefijo": "€",
+   "sufijo": " M",
+   "etiqueta": "millones de euros (2013)",
+   "img": {
+    "src": "ia/s16/a-apreton-billetes.png|ia/s16/c-flecha-roja-cae.png",
+    "size": 540,
+    "y": 1080
+   }
+  },
+  {
+   "tipo": "imagen",
+   "frase": 6,
+   "img": {
+    "src": "ia/s24/antena-5g.png",
+    "size": 760,
+    "y": 760
+   },
+   "texto": "Pero no desapareció",
+   "color": "#2ee59d"
+  },
+  {
+   "tipo": "tarjeta",
+   "frase": 7,
+   "cabecera": "1865",
+   "titulo": "Fábrica de papel",
+   "lineas": [
+    "hoy: antenas y redes 5G"
+   ],
+   "img": {
+    "src": "ia/s24/fabrica-papel.png|ia/s24/antena-5g.png",
+    "size": 560
+   }
+  },
+  {
+   "tipo": "remate",
+   "frase": 8,
+   "pregunta": "¿Tú tuviste un Nokia?"
+  }
+ ]
+}

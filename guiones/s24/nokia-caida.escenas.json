@@ -1,0 +1,107 @@
+[
+ {
+  "tipo": "titulo",
+  "frase": 0,
+  "lineas": [
+   "2007: casi la MITAD",
+   "de los smartphones",
+   "eran Nokia"
+  ],
+  "resaltar": "MITAD",
+  "img": {
+   "src": "ia/s24/movil-clasico.png|ia/s24/globo-moviles.png",
+   "size": 600,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 1,
+  "img": {
+   "src": "ia/s24/notas-musicales.png|ia/s24/movil-clasico.png",
+   "size": 760,
+   "y": 760
+  },
+  "texto": "Su tono sonaba en todas partes"
+ },
+ {
+  "tipo": "imagen",
+  "frase": 2,
+  "img": {
+   "src": "ia/s24/escenario-movil.png|ia/s24/pantalla-tactil.png",
+   "size": 800,
+   "y": 760
+  },
+  "texto": "2007: llega el iPhone"
+ },
+ {
+  "tipo": "imagen",
+  "frase": 3,
+  "img": {
+   "src": "ia/s24/ejecutivo-rie.png|ia/s16/k-ejecutivo-ignora.png",
+   "size": 780,
+   "y": 760
+  },
+  "texto": "No se lo tomaron en serio"
+ },
+ {
+  "tipo": "comparar",
+  "frase": 4,
+  "titulo": "Teclas vs. pantalla",
+  "a": {
+   "etiqueta": "Symbian",
+   "img": "ia/s24/movil-clasico.png",
+   "color": "#ff5d5d",
+   "altura": 0.4
+  },
+  "b": {
+   "etiqueta": "iPhone y Android",
+   "img": "ia/s24/pantalla-tactil.png",
+   "color": "#2ee59d",
+   "altura": 1
+  }
+ },
+ {
+  "tipo": "cifra",
+  "frase": 5,
+  "antes": "Vendió los móviles por",
+  "valor": 5400,
+  "prefijo": "€",
+  "sufijo": " M",
+  "etiqueta": "millones de euros (2013)",
+  "img": {
+   "src": "ia/s16/a-apreton-billetes.png|ia/s16/c-flecha-roja-cae.png",
+   "size": 540,
+   "y": 1080
+  }
+ },
+ {
+  "tipo": "imagen",
+  "frase": 6,
+  "img": {
+   "src": "ia/s24/antena-5g.png",
+   "size": 760,
+   "y": 760
+  },
+  "texto": "Pero no desapareció",
+  "color": "#2ee59d"
+ },
+ {
+  "tipo": "tarjeta",
+  "frase": 7,
+  "cabecera": "1865",
+  "titulo": "Fábrica de papel",
+  "lineas": [
+   "hoy: antenas y redes 5G"
+  ],
+  "img": {
+   "src": "ia/s24/fabrica-papel.png|ia/s24/antena-5g.png",
+   "size": 560
+  }
+ },
+ {
+  "tipo": "remate",
+  "frase": 8,
+  "pregunta": "¿Tú tuviste un Nokia?"
+ }
+]

@@ -18,7 +18,7 @@ import { AMARILLO, BORDE, Escena, FPS, NARANJA, ROJO, RemateFinal, TARJETA, VERD
 // (titulo, cifra, comparar, barras, lista, tarjeta, imagen, donut, remate), imágenes de IA
 // animadas y empieza en una frase de la narración.
 
-export type Img_ = { src: string; size?: number; x?: number; y?: number; desde?: number; giro?: number };
+export type Img_ = { src: string; size?: number; x?: number; y?: number; desde?: number; giro?: number; cada?: number };
 export type EscenaDatos =
   | { tipo: "titulo"; frase: number; lineas: string[]; resaltar?: string; color?: string; img?: Img_; sub?: string }
   | { tipo: "cifra"; frase: number; antes?: string; valor: number; desdeValor?: number; decimales?: number; prefijo?: string; sufijo?: string; etiqueta?: string; color?: string; img?: Img_; dur?: number }
@@ -49,25 +49,42 @@ const formato = (v: number, dec = 0) => {
   return frac ? `${conPuntos},${frac}` : conPuntos;
 };
 
-// Imagen de IA: entra con muelle, flota y respira.
-const Imagen: React.FC<Img_ & { base?: number }> = ({ src, size = 620, x = 540, y = 900, desde = 0.15, giro = 3 }) => {
+// Imagen de IA: entra con muelle, flota y respira. Con "a.png|b.png|c.png" pasa por varias
+// imágenes (cada una `cada` segundos, con fundido y un pequeño salto) para que la escena no quede fija.
+const Imagen: React.FC<Img_ & { base?: number }> = ({ src, size = 620, x = 540, y = 900, desde = 0.15, giro = 3, cada = 1.7 }) => {
   const frame = useCurrentFrame();
   const e = useEntrada(desde, 11);
   const t = frame / FPS;
+  const lista = src.split("|");
+  const fundido = 0.25;
   return (
-    <Img
-      src={staticFile(src)}
-      style={{
-        position: "absolute",
-        width: size,
-        height: size,
-        objectFit: "contain",
-        left: x - size / 2,
-        top: y - size / 2 + 16 * Math.sin(t * 1.8),
-        transform: `scale(${e * (1 + 0.025 * Math.sin(t * 1.1))}) rotate(${giro * Math.sin(t * 1.3)}deg)`,
-        filter: "drop-shadow(0 30px 40px rgba(0,0,0,0.55))",
-      }}
-    />
+    <>
+      {lista.map((s, i) => {
+        const ini = i === 0 ? -99 : desde + i * cada;
+        const fin = i === lista.length - 1 ? 9999 : desde + (i + 1) * cada + fundido;
+        const op = interpolate(t, [ini, ini + fundido, fin - fundido, fin], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+        if (op <= 0) return null;
+        const pop = i === 0 ? 1 : interpolate(t, [ini, ini + 0.35], [0.82, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.back(1.6)) });
+        const lt = t - Math.max(0, ini);
+        return (
+          <Img
+            key={i}
+            src={staticFile(s)}
+            style={{
+              position: "absolute",
+              width: size,
+              height: size,
+              objectFit: "contain",
+              opacity: op,
+              left: x - size / 2,
+              top: y - size / 2 + 16 * Math.sin(t * 1.8),
+              transform: `scale(${e * pop * (1 + 0.025 * Math.sin(t * 1.1) + 0.04 * Math.min(lt, cada) / cada)}) rotate(${giro * Math.sin(t * 1.3)}deg)`,
+              filter: "drop-shadow(0 30px 40px rgba(0,0,0,0.55))",
+            }}
+          />
+        );
+      })}
+    </>
   );
 };
 

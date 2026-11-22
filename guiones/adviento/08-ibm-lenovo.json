@@ -1,0 +1,1055 @@
+{
+ "palabras": [
+  {
+   "texto": "Bienvenidos",
+   "inicio": 0.0,
+   "fin": 0.64,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 0.64,
+   "fin": 0.84,
+   "corte": false
+  },
+  {
+   "texto": "calendario",
+   "inicio": 0.84,
+   "fin": 1.43,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.43,
+   "fin": 1.63,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 1.63,
+   "fin": 2.17,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.17,
+   "fin": 2.37,
+   "corte": false
+  },
+  {
+   "texto": "Adviento:",
+   "inicio": 2.37,
+   "fin": 3.34,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 3.34,
+   "fin": 3.63,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 3.63,
+   "fin": 3.88,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.88,
+   "fin": 4.08,
+   "corte": false
+  },
+  {
+   "texto": "diciembre,",
+   "inicio": 4.08,
+   "fin": 4.62,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.62,
+   "fin": 4.87,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 4.87,
+   "fin": 5.36,
+   "corte": false
+  },
+  {
+   "texto": "real",
+   "inicio": 5.36,
+   "fin": 5.66,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.66,
+   "fin": 5.9,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 5.9,
+   "fin": 6.2,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 6.2,
+   "fin": 6.45,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 6.45,
+   "fin": 6.79,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.79,
+   "fin": 7.04,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 7.57,
+   "fin": 7.89,
+   "corte": false
+  },
+  {
+   "texto": "abrimos",
+   "inicio": 7.89,
+   "fin": 8.47,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.47,
+   "fin": 8.73,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 8.73,
+   "fin": 9.78,
+   "corte": false
+  },
+  {
+   "texto": "8:",
+   "inicio": 9.78,
+   "fin": 10.36,
+   "corte": false
+  },
+  {
+   "texto": "IBM",
+   "inicio": 10.36,
+   "fin": 10.69,
+   "corte": false
+  },
+  {
+   "texto": "vende",
+   "inicio": 10.69,
+   "fin": 11.14,
+   "corte": false
+  },
+  {
+   "texto": "sus",
+   "inicio": 11.14,
+   "fin": 11.47,
+   "corte": false
+  },
+  {
+   "texto": "PC",
+   "inicio": 11.47,
+   "fin": 11.72,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 11.73,
+   "fin": 11.92,
+   "corte": false
+  },
+  {
+   "texto": "Lenovo.",
+   "inicio": 11.92,
+   "fin": 12.44,
+   "corte": true
+  },
+  {
+   "texto": "8",
+   "inicio": 13.01,
+   "fin": 13.45,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 13.45,
+   "fin": 13.64,
+   "corte": false
+  },
+  {
+   "texto": "diciembre",
+   "inicio": 13.64,
+   "fin": 14.17,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.17,
+   "fin": 14.37,
+   "corte": false
+  },
+  {
+   "texto": "2004.",
+   "inicio": 14.37,
+   "fin": 14.95,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 15.49,
+   "fin": 15.68,
+   "corte": false
+  },
+  {
+   "texto": "inventor",
+   "inicio": 15.68,
+   "fin": 16.15,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 16.15,
+   "fin": 16.38,
+   "corte": false
+  },
+  {
+   "texto": "ordenador",
+   "inicio": 16.39,
+   "fin": 16.9,
+   "corte": false
+  },
+  {
+   "texto": "personal",
+   "inicio": 16.9,
+   "fin": 17.37,
+   "corte": false
+  },
+  {
+   "texto": "vendió",
+   "inicio": 17.37,
+   "fin": 17.75,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 17.75,
+   "fin": 17.98,
+   "corte": false
+  },
+  {
+   "texto": "negocio",
+   "inicio": 17.98,
+   "fin": 18.41,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 18.41,
+   "fin": 18.55,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 18.55,
+   "fin": 18.78,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 18.78,
+   "fin": 19.2,
+   "corte": false
+  },
+  {
+   "texto": "china",
+   "inicio": 19.21,
+   "fin": 19.53,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 19.53,
+   "fin": 19.82,
+   "corte": false
+  },
+  {
+   "texto": "desconocida.",
+   "inicio": 19.82,
+   "fin": 20.43,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 20.95,
+   "fin": 21.19,
+   "corte": false
+  },
+  {
+   "texto": "1981",
+   "inicio": 21.19,
+   "fin": 21.93,
+   "corte": false
+  },
+  {
+   "texto": "IBM",
+   "inicio": 21.93,
+   "fin": 22.24,
+   "corte": false
+  },
+  {
+   "texto": "lanzó",
+   "inicio": 22.24,
+   "fin": 22.67,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 22.67,
+   "fin": 22.91,
+   "corte": false
+  },
+  {
+   "texto": "IBM",
+   "inicio": 22.91,
+   "fin": 23.22,
+   "corte": false
+  },
+  {
+   "texto": "PC,",
+   "inicio": 23.22,
+   "fin": 23.47,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 23.47,
+   "fin": 23.65,
+   "corte": false
+  },
+  {
+   "texto": "cambió",
+   "inicio": 23.65,
+   "fin": 24.14,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 24.14,
+   "fin": 24.39,
+   "corte": false
+  },
+  {
+   "texto": "mundo:",
+   "inicio": 24.39,
+   "fin": 25.1,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 25.1,
+   "fin": 25.47,
+   "corte": false
+  },
+  {
+   "texto": "todos",
+   "inicio": 25.47,
+   "fin": 25.9,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 25.9,
+   "fin": 26.66,
+   "corte": false
+  },
+  {
+   "texto": "ordenadores",
+   "inicio": 26.66,
+   "fin": 27.45,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 27.45,
+   "fin": 27.7,
+   "corte": false
+  },
+  {
+   "texto": "hoy",
+   "inicio": 27.7,
+   "fin": 28.01,
+   "corte": false
+  },
+  {
+   "texto": "descienden",
+   "inicio": 28.01,
+   "fin": 28.74,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 28.74,
+   "fin": 28.99,
+   "corte": false
+  },
+  {
+   "texto": "él.",
+   "inicio": 28.99,
+   "fin": 29.23,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 29.65,
+   "fin": 29.95,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 29.95,
+   "fin": 30.2,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 30.2,
+   "fin": 30.45,
+   "corte": false
+  },
+  {
+   "texto": "años,",
+   "inicio": 30.45,
+   "fin": 30.75,
+   "corte": false
+  },
+  {
+   "texto": "otras",
+   "inicio": 30.75,
+   "fin": 31.09,
+   "corte": false
+  },
+  {
+   "texto": "marcas",
+   "inicio": 31.09,
+   "fin": 31.49,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 31.49,
+   "fin": 31.74,
+   "corte": false
+  },
+  {
+   "texto": "fabricaban",
+   "inicio": 31.74,
+   "fin": 32.33,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 32.33,
+   "fin": 32.58,
+   "corte": false
+  },
+  {
+   "texto": "baratos,",
+   "inicio": 32.58,
+   "fin": 33.29,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 33.3,
+   "fin": 33.44,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 33.44,
+   "fin": 33.59,
+   "corte": false
+  },
+  {
+   "texto": "IBM",
+   "inicio": 33.59,
+   "fin": 33.84,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 33.84,
+   "fin": 34.04,
+   "corte": false
+  },
+  {
+   "texto": "negocio",
+   "inicio": 34.04,
+   "fin": 34.48,
+   "corte": false
+  },
+  {
+   "texto": "le",
+   "inicio": 34.49,
+   "fin": 34.68,
+   "corte": false
+  },
+  {
+   "texto": "daba",
+   "inicio": 34.68,
+   "fin": 34.98,
+   "corte": false
+  },
+  {
+   "texto": "pérdidas.",
+   "inicio": 34.98,
+   "fin": 35.48,
+   "corte": true
+  },
+  {
+   "texto": "Entonces",
+   "inicio": 35.92,
+   "fin": 36.45,
+   "corte": false
+  },
+  {
+   "texto": "apareció",
+   "inicio": 36.45,
+   "fin": 36.97,
+   "corte": false
+  },
+  {
+   "texto": "Lenovo,",
+   "inicio": 36.97,
+   "fin": 37.39,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 37.39,
+   "fin": 37.65,
+   "corte": false
+  },
+  {
+   "texto": "empresa",
+   "inicio": 37.65,
+   "fin": 38.41,
+   "corte": false
+  },
+  {
+   "texto": "china",
+   "inicio": 38.42,
+   "fin": 38.78,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 38.78,
+   "fin": 39.04,
+   "corte": false
+  },
+  {
+   "texto": "fuera",
+   "inicio": 39.04,
+   "fin": 39.41,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 39.41,
+   "fin": 39.62,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 39.62,
+   "fin": 39.82,
+   "corte": false
+  },
+  {
+   "texto": "país",
+   "inicio": 39.83,
+   "fin": 40.14,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 40.14,
+   "fin": 40.45,
+   "corte": false
+  },
+  {
+   "texto": "nadie",
+   "inicio": 40.45,
+   "fin": 40.82,
+   "corte": false
+  },
+  {
+   "texto": "conocía.",
+   "inicio": 40.82,
+   "fin": 41.29,
+   "corte": true
+  },
+  {
+   "texto": "Ese",
+   "inicio": 41.76,
+   "fin": 42.01,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 42.01,
+   "fin": 42.26,
+   "corte": false
+  },
+  {
+   "texto": "anunció",
+   "inicio": 42.27,
+   "fin": 42.72,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 42.72,
+   "fin": 42.97,
+   "corte": false
+  },
+  {
+   "texto": "compraba",
+   "inicio": 42.97,
+   "fin": 43.48,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 43.48,
+   "fin": 43.78,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 43.78,
+   "fin": 43.98,
+   "corte": false
+  },
+  {
+   "texto": "división",
+   "inicio": 43.98,
+   "fin": 44.49,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 44.49,
+   "fin": 44.69,
+   "corte": false
+  },
+  {
+   "texto": "ordenadores",
+   "inicio": 44.69,
+   "fin": 45.34,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 45.34,
+   "fin": 45.55,
+   "corte": false
+  },
+  {
+   "texto": "IBM,",
+   "inicio": 45.55,
+   "fin": 46.06,
+   "corte": false
+  },
+  {
+   "texto": "incluidos",
+   "inicio": 46.06,
+   "fin": 46.62,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 46.62,
+   "fin": 46.87,
+   "corte": false
+  },
+  {
+   "texto": "famosos",
+   "inicio": 46.87,
+   "fin": 47.32,
+   "corte": false
+  },
+  {
+   "texto": "ThinkPad.",
+   "inicio": 47.32,
+   "fin": 47.83,
+   "corte": true
+  },
+  {
+   "texto": "Pagó",
+   "inicio": 48.2,
+   "fin": 48.58,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 48.58,
+   "fin": 48.97,
+   "corte": false
+  },
+  {
+   "texto": "1.750",
+   "inicio": 48.97,
+   "fin": 49.73,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 49.73,
+   "fin": 50.37,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 50.37,
+   "fin": 50.63,
+   "corte": false
+  },
+  {
+   "texto": "dólares,",
+   "inicio": 50.63,
+   "fin": 51.2,
+   "corte": false
+  },
+  {
+   "texto": "contando",
+   "inicio": 51.2,
+   "fin": 51.84,
+   "corte": false
+  },
+  {
+   "texto": "las",
+   "inicio": 51.84,
+   "fin": 52.16,
+   "corte": false
+  },
+  {
+   "texto": "deudas.",
+   "inicio": 52.16,
+   "fin": 52.67,
+   "corte": true
+  },
+  {
+   "texto": "Muchos",
+   "inicio": 53.06,
+   "fin": 53.44,
+   "corte": false
+  },
+  {
+   "texto": "pensaron",
+   "inicio": 53.44,
+   "fin": 53.91,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 53.91,
+   "fin": 54.14,
+   "corte": false
+  },
+  {
+   "texto": "era",
+   "inicio": 54.14,
+   "fin": 54.37,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 54.37,
+   "fin": 54.61,
+   "corte": false
+  },
+  {
+   "texto": "locura.",
+   "inicio": 54.61,
+   "fin": 54.98,
+   "corte": true
+  },
+  {
+   "texto": "Nueve",
+   "inicio": 55.52,
+   "fin": 55.86,
+   "corte": false
+  },
+  {
+   "texto": "años",
+   "inicio": 55.86,
+   "fin": 56.15,
+   "corte": false
+  },
+  {
+   "texto": "después,",
+   "inicio": 56.15,
+   "fin": 56.59,
+   "corte": false
+  },
+  {
+   "texto": "Lenovo",
+   "inicio": 56.59,
+   "fin": 56.97,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 56.97,
+   "fin": 57.17,
+   "corte": false
+  },
+  {
+   "texto": "convirtió",
+   "inicio": 57.17,
+   "fin": 57.7,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 57.7,
+   "fin": 57.89,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 57.89,
+   "fin": 58.09,
+   "corte": false
+  },
+  {
+   "texto": "mayor",
+   "inicio": 58.09,
+   "fin": 58.43,
+   "corte": false
+  },
+  {
+   "texto": "fabricante",
+   "inicio": 58.43,
+   "fin": 59.01,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 59.01,
+   "fin": 59.2,
+   "corte": false
+  },
+  {
+   "texto": "ordenadores",
+   "inicio": 59.2,
+   "fin": 59.83,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 59.83,
+   "fin": 60.07,
+   "corte": false
+  },
+  {
+   "texto": "mundo.",
+   "inicio": 60.07,
+   "fin": 60.41,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 60.94,
+   "fin": 61.12,
+   "corte": false
+  },
+  {
+   "texto": "tienes",
+   "inicio": 61.13,
+   "fin": 61.49,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 61.49,
+   "fin": 61.67,
+   "corte": false
+  },
+  {
+   "texto": "Lenovo",
+   "inicio": 61.67,
+   "fin": 62.03,
+   "corte": false
+  },
+  {
+   "texto": "o",
+   "inicio": 62.03,
+   "fin": 62.17,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 62.17,
+   "fin": 62.35,
+   "corte": false
+  },
+  {
+   "texto": "ThinkPad?",
+   "inicio": 62.35,
+   "fin": 62.8,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 63.29,
+   "fin": 63.64,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 63.64,
+   "fin": 63.81,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 63.81,
+   "fin": 64.07,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 64.07,
+   "fin": 64.25,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 64.25,
+   "fin": 64.59,
+   "corte": false
+  },
+  {
+   "texto": "9.",
+   "inicio": 64.59,
+   "fin": 64.98,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 65.33,
+   "fin": 65.81,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 65.81,
+   "fin": 66.14,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 66.14,
+   "fin": 66.35,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 66.36,
+   "fin": 67.0,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Bienvenidos al calendario de historias de Adviento: cada día de diciembre, una historia real que pasó ese mismo día.",
+   "inicio": 0.0,
+   "fin": 7.04
+  },
+  {
+   "texto": "Hoy abrimos la puerta 8: IBM vende sus PC a Lenovo.",
+   "inicio": 7.57,
+   "fin": 12.44
+  },
+  {
+   "texto": "8 de diciembre de 2004.",
+   "inicio": 13.01,
+   "fin": 14.95
+  },
+  {
+   "texto": "El inventor del ordenador personal vendió ese negocio a una empresa china casi desconocida.",
+   "inicio": 15.49,
+   "fin": 20.43
+  },
+  {
+   "texto": "En 1981 IBM lanzó el IBM PC, y cambió el mundo: casi todos los ordenadores de hoy descienden de él.",
+   "inicio": 20.95,
+   "fin": 29.23
+  },
+  {
+   "texto": "Pero con los años, otras marcas los fabricaban más baratos, y a IBM el negocio le daba pérdidas.",
+   "inicio": 29.65,
+   "fin": 35.48
+  },
+  {
+   "texto": "Entonces apareció Lenovo, una empresa china que fuera de su país casi nadie conocía.",
+   "inicio": 35.92,
+   "fin": 41.29
+  },
+  {
+   "texto": "Ese día anunció que compraba toda la división de ordenadores de IBM, incluidos los famosos ThinkPad.",
+   "inicio": 41.76,
+   "fin": 47.83
+  },
+  {
+   "texto": "Pagó unos 1.750 millones de dólares, contando las deudas.",
+   "inicio": 48.2,
+   "fin": 52.67
+  },
+  {
+   "texto": "Muchos pensaron que era una locura.",
+   "inicio": 53.06,
+   "fin": 54.98
+  },
+  {
+   "texto": "Nueve años después, Lenovo se convirtió en el mayor fabricante de ordenadores del mundo.",
+   "inicio": 55.52,
+   "fin": 60.41
+  },
+  {
+   "texto": "¿Tú tienes un Lenovo o un ThinkPad?",
+   "inicio": 60.94,
+   "fin": 62.8
+  },
+  {
+   "texto": "Mañana se abre la puerta 9.",
+   "inicio": 63.29,
+   "fin": 64.98
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 65.33,
+   "fin": 67.0
+  }
+ ],
+ "duracion": 67.0
+}

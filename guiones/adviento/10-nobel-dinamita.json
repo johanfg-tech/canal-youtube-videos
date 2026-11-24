@@ -1,0 +1,1120 @@
+{
+ "palabras": [
+  {
+   "texto": "Bienvenidos",
+   "inicio": 0.0,
+   "fin": 0.64,
+   "corte": false
+  },
+  {
+   "texto": "al",
+   "inicio": 0.64,
+   "fin": 0.83,
+   "corte": false
+  },
+  {
+   "texto": "calendario",
+   "inicio": 0.83,
+   "fin": 1.42,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 1.42,
+   "fin": 1.62,
+   "corte": false
+  },
+  {
+   "texto": "historias",
+   "inicio": 1.62,
+   "fin": 2.16,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 2.16,
+   "fin": 2.35,
+   "corte": false
+  },
+  {
+   "texto": "Adviento:",
+   "inicio": 2.35,
+   "fin": 3.29,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 3.29,
+   "fin": 3.59,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 3.59,
+   "fin": 3.83,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 3.83,
+   "fin": 4.03,
+   "corte": false
+  },
+  {
+   "texto": "diciembre,",
+   "inicio": 4.03,
+   "fin": 4.57,
+   "corte": false
+  },
+  {
+   "texto": "una",
+   "inicio": 4.57,
+   "fin": 4.81,
+   "corte": false
+  },
+  {
+   "texto": "historia",
+   "inicio": 4.81,
+   "fin": 5.3,
+   "corte": false
+  },
+  {
+   "texto": "real",
+   "inicio": 5.3,
+   "fin": 5.6,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 5.6,
+   "fin": 5.84,
+   "corte": false
+  },
+  {
+   "texto": "pasó",
+   "inicio": 5.84,
+   "fin": 6.13,
+   "corte": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 6.13,
+   "fin": 6.38,
+   "corte": false
+  },
+  {
+   "texto": "mismo",
+   "inicio": 6.38,
+   "fin": 6.72,
+   "corte": false
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.72,
+   "fin": 6.97,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 7.5,
+   "fin": 7.77,
+   "corte": false
+  },
+  {
+   "texto": "abrimos",
+   "inicio": 7.77,
+   "fin": 8.26,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 8.26,
+   "fin": 8.48,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 8.48,
+   "fin": 8.92,
+   "corte": false
+  },
+  {
+   "texto": "10:",
+   "inicio": 8.92,
+   "fin": 9.81,
+   "corte": false
+  },
+  {
+   "texto": "Nobel",
+   "inicio": 9.81,
+   "fin": 10.19,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 10.19,
+   "fin": 10.36,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 10.36,
+   "fin": 10.58,
+   "corte": false
+  },
+  {
+   "texto": "dinamita.",
+   "inicio": 10.58,
+   "fin": 11.12,
+   "corte": true
+  },
+  {
+   "texto": "10",
+   "inicio": 11.68,
+   "fin": 12.1,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.1,
+   "fin": 12.27,
+   "corte": false
+  },
+  {
+   "texto": "diciembre.",
+   "inicio": 12.27,
+   "fin": 12.73,
+   "corte": true
+  },
+  {
+   "texto": "Cada",
+   "inicio": 13.3,
+   "fin": 13.58,
+   "corte": false
+  },
+  {
+   "texto": "año,",
+   "inicio": 13.59,
+   "fin": 13.82,
+   "corte": false
+  },
+  {
+   "texto": "este",
+   "inicio": 13.82,
+   "fin": 14.11,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 14.11,
+   "fin": 14.35,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 14.35,
+   "fin": 14.54,
+   "corte": false
+  },
+  {
+   "texto": "entregan",
+   "inicio": 14.54,
+   "fin": 15.02,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 15.02,
+   "fin": 15.26,
+   "corte": false
+  },
+  {
+   "texto": "premios",
+   "inicio": 15.26,
+   "fin": 15.69,
+   "corte": false
+  },
+  {
+   "texto": "Nobel,",
+   "inicio": 15.69,
+   "fin": 16.03,
+   "corte": false
+  },
+  {
+   "texto": "pagados",
+   "inicio": 16.03,
+   "fin": 16.73,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 16.74,
+   "fin": 16.97,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 16.98,
+   "fin": 17.17,
+   "corte": false
+  },
+  {
+   "texto": "fortuna",
+   "inicio": 17.17,
+   "fin": 17.6,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 17.6,
+   "fin": 17.79,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 17.79,
+   "fin": 17.98,
+   "corte": false
+  },
+  {
+   "texto": "dinamita.",
+   "inicio": 17.98,
+   "fin": 18.46,
+   "corte": true
+  },
+  {
+   "texto": "Alfred",
+   "inicio": 18.96,
+   "fin": 19.36,
+   "corte": false
+  },
+  {
+   "texto": "Nobel",
+   "inicio": 19.36,
+   "fin": 19.71,
+   "corte": false
+  },
+  {
+   "texto": "fue",
+   "inicio": 19.71,
+   "fin": 19.95,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 19.96,
+   "fin": 20.15,
+   "corte": false
+  },
+  {
+   "texto": "químico",
+   "inicio": 20.15,
+   "fin": 20.6,
+   "corte": false
+  },
+  {
+   "texto": "sueco",
+   "inicio": 20.6,
+   "fin": 20.95,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 20.95,
+   "fin": 21.2,
+   "corte": false
+  },
+  {
+   "texto": "inventó",
+   "inicio": 21.2,
+   "fin": 21.64,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 21.64,
+   "fin": 21.84,
+   "corte": false
+  },
+  {
+   "texto": "dinamita",
+   "inicio": 21.84,
+   "fin": 22.34,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 22.34,
+   "fin": 22.49,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 22.49,
+   "fin": 22.69,
+   "corte": false
+  },
+  {
+   "texto": "hizo",
+   "inicio": 22.69,
+   "fin": 22.98,
+   "corte": false
+  },
+  {
+   "texto": "riquísimo",
+   "inicio": 22.98,
+   "fin": 23.53,
+   "corte": false
+  },
+  {
+   "texto": "vendiéndola",
+   "inicio": 23.53,
+   "fin": 24.17,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 24.18,
+   "fin": 24.47,
+   "corte": false
+  },
+  {
+   "texto": "minas,",
+   "inicio": 24.47,
+   "fin": 24.82,
+   "corte": false
+  },
+  {
+   "texto": "túneles…",
+   "inicio": 24.82,
+   "fin": 25.27,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 25.27,
+   "fin": 25.42,
+   "corte": false
+  },
+  {
+   "texto": "guerras.",
+   "inicio": 25.42,
+   "fin": 25.86,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 26.2,
+   "fin": 26.44,
+   "corte": false
+  },
+  {
+   "texto": "1888",
+   "inicio": 26.44,
+   "fin": 27.59,
+   "corte": false
+  },
+  {
+   "texto": "murió",
+   "inicio": 27.59,
+   "fin": 28.01,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 28.02,
+   "fin": 28.26,
+   "corte": false
+  },
+  {
+   "texto": "hermano,",
+   "inicio": 28.26,
+   "fin": 28.8,
+   "corte": false
+  },
+  {
+   "texto": "y",
+   "inicio": 28.8,
+   "fin": 28.98,
+   "corte": false
+  },
+  {
+   "texto": "un",
+   "inicio": 28.98,
+   "fin": 29.22,
+   "corte": false
+  },
+  {
+   "texto": "periódico",
+   "inicio": 29.22,
+   "fin": 30.14,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 30.14,
+   "fin": 30.38,
+   "corte": false
+  },
+  {
+   "texto": "equivocó:",
+   "inicio": 30.38,
+   "fin": 30.99,
+   "corte": false
+  },
+  {
+   "texto": "publicó",
+   "inicio": 30.99,
+   "fin": 31.53,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 31.53,
+   "fin": 32.13,
+   "corte": false
+  },
+  {
+   "texto": "necrológica",
+   "inicio": 32.13,
+   "fin": 32.91,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 32.91,
+   "fin": 33.15,
+   "corte": false
+  },
+  {
+   "texto": "Alfred.",
+   "inicio": 33.15,
+   "fin": 33.63,
+   "corte": true
+  },
+  {
+   "texto": "El",
+   "inicio": 33.98,
+   "fin": 34.17,
+   "corte": false
+  },
+  {
+   "texto": "titular",
+   "inicio": 34.17,
+   "fin": 34.62,
+   "corte": false
+  },
+  {
+   "texto": "decía",
+   "inicio": 34.62,
+   "fin": 34.97,
+   "corte": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 34.97,
+   "fin": 35.27,
+   "corte": false
+  },
+  {
+   "texto": "así:",
+   "inicio": 35.27,
+   "fin": 35.52,
+   "corte": false
+  },
+  {
+   "texto": "ha",
+   "inicio": 35.52,
+   "fin": 36.22,
+   "corte": false
+  },
+  {
+   "texto": "muerto",
+   "inicio": 36.22,
+   "fin": 36.61,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 36.62,
+   "fin": 36.81,
+   "corte": false
+  },
+  {
+   "texto": "mercader",
+   "inicio": 36.82,
+   "fin": 37.31,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.31,
+   "fin": 37.51,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 37.51,
+   "fin": 37.71,
+   "corte": false
+  },
+  {
+   "texto": "muerte.",
+   "inicio": 37.71,
+   "fin": 38.11,
+   "corte": true
+  },
+  {
+   "texto": "Se",
+   "inicio": 38.66,
+   "fin": 38.85,
+   "corte": false
+  },
+  {
+   "texto": "cuenta",
+   "inicio": 38.85,
+   "fin": 39.24,
+   "corte": false
+  },
+  {
+   "texto": "que",
+   "inicio": 39.24,
+   "fin": 39.48,
+   "corte": false
+  },
+  {
+   "texto": "leer",
+   "inicio": 39.48,
+   "fin": 39.77,
+   "corte": false
+  },
+  {
+   "texto": "cómo",
+   "inicio": 39.77,
+   "fin": 40.06,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 40.06,
+   "fin": 40.25,
+   "corte": false
+  },
+  {
+   "texto": "recordaría",
+   "inicio": 40.25,
+   "fin": 40.83,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 40.83,
+   "fin": 41.02,
+   "corte": false
+  },
+  {
+   "texto": "mundo",
+   "inicio": 41.02,
+   "fin": 41.36,
+   "corte": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 41.36,
+   "fin": 41.55,
+   "corte": false
+  },
+  {
+   "texto": "cambió.",
+   "inicio": 41.55,
+   "fin": 41.94,
+   "corte": true
+  },
+  {
+   "texto": "En",
+   "inicio": 42.38,
+   "fin": 42.58,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 42.58,
+   "fin": 42.78,
+   "corte": false
+  },
+  {
+   "texto": "testamento",
+   "inicio": 42.78,
+   "fin": 43.38,
+   "corte": false
+  },
+  {
+   "texto": "dejó",
+   "inicio": 43.38,
+   "fin": 43.68,
+   "corte": false
+  },
+  {
+   "texto": "casi",
+   "inicio": 43.68,
+   "fin": 43.98,
+   "corte": false
+  },
+  {
+   "texto": "toda",
+   "inicio": 43.98,
+   "fin": 44.28,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 44.28,
+   "fin": 44.48,
+   "corte": false
+  },
+  {
+   "texto": "fortuna,",
+   "inicio": 44.48,
+   "fin": 44.93,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 44.93,
+   "fin": 45.23,
+   "corte": false
+  },
+  {
+   "texto": "31",
+   "inicio": 45.23,
+   "fin": 45.73,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 45.73,
+   "fin": 46.23,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 46.23,
+   "fin": 46.43,
+   "corte": false
+  },
+  {
+   "texto": "coronas,",
+   "inicio": 46.43,
+   "fin": 46.88,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 46.88,
+   "fin": 47.18,
+   "corte": false
+  },
+  {
+   "texto": "premiar",
+   "inicio": 47.18,
+   "fin": 47.63,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 47.63,
+   "fin": 47.78,
+   "corte": false
+  },
+  {
+   "texto": "quienes",
+   "inicio": 47.78,
+   "fin": 48.23,
+   "corte": false
+  },
+  {
+   "texto": "más",
+   "inicio": 48.23,
+   "fin": 48.48,
+   "corte": false
+  },
+  {
+   "texto": "ayudaran",
+   "inicio": 48.48,
+   "fin": 48.98,
+   "corte": false
+  },
+  {
+   "texto": "a",
+   "inicio": 48.98,
+   "fin": 49.13,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 49.13,
+   "fin": 49.33,
+   "corte": false
+  },
+  {
+   "texto": "humanidad.",
+   "inicio": 49.34,
+   "fin": 49.88,
+   "corte": true
+  },
+  {
+   "texto": "Su",
+   "inicio": 50.28,
+   "fin": 50.47,
+   "corte": false
+  },
+  {
+   "texto": "familia",
+   "inicio": 50.47,
+   "fin": 50.89,
+   "corte": false
+  },
+  {
+   "texto": "intentó",
+   "inicio": 50.89,
+   "fin": 51.31,
+   "corte": false
+  },
+  {
+   "texto": "impedirlo.",
+   "inicio": 51.31,
+   "fin": 51.82,
+   "corte": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 52.21,
+   "fin": 52.51,
+   "corte": false
+  },
+  {
+   "texto": "en",
+   "inicio": 52.51,
+   "fin": 52.72,
+   "corte": false
+  },
+  {
+   "texto": "1901,",
+   "inicio": 52.72,
+   "fin": 53.33,
+   "corte": false
+  },
+  {
+   "texto": "justo",
+   "inicio": 53.33,
+   "fin": 53.69,
+   "corte": false
+  },
+  {
+   "texto": "el",
+   "inicio": 53.69,
+   "fin": 53.89,
+   "corte": false
+  },
+  {
+   "texto": "día",
+   "inicio": 53.89,
+   "fin": 54.15,
+   "corte": false
+  },
+  {
+   "texto": "del",
+   "inicio": 54.15,
+   "fin": 54.4,
+   "corte": false
+  },
+  {
+   "texto": "aniversario",
+   "inicio": 54.4,
+   "fin": 55.06,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 55.06,
+   "fin": 55.27,
+   "corte": false
+  },
+  {
+   "texto": "su",
+   "inicio": 55.27,
+   "fin": 55.47,
+   "corte": false
+  },
+  {
+   "texto": "muerte,",
+   "inicio": 55.47,
+   "fin": 55.88,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 55.88,
+   "fin": 56.08,
+   "corte": false
+  },
+  {
+   "texto": "entregaron",
+   "inicio": 56.08,
+   "fin": 56.69,
+   "corte": false
+  },
+  {
+   "texto": "los",
+   "inicio": 56.7,
+   "fin": 56.95,
+   "corte": false
+  },
+  {
+   "texto": "primeros",
+   "inicio": 56.95,
+   "fin": 57.46,
+   "corte": false
+  },
+  {
+   "texto": "premios",
+   "inicio": 57.46,
+   "fin": 57.92,
+   "corte": false
+  },
+  {
+   "texto": "Nobel.",
+   "inicio": 57.92,
+   "fin": 58.27,
+   "corte": true
+  },
+  {
+   "texto": "Hoy",
+   "inicio": 58.71,
+   "fin": 58.96,
+   "corte": false
+  },
+  {
+   "texto": "cada",
+   "inicio": 58.96,
+   "fin": 59.25,
+   "corte": false
+  },
+  {
+   "texto": "premio",
+   "inicio": 59.25,
+   "fin": 59.64,
+   "corte": false
+  },
+  {
+   "texto": "vale",
+   "inicio": 59.64,
+   "fin": 59.93,
+   "corte": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 59.93,
+   "fin": 60.22,
+   "corte": false
+  },
+  {
+   "texto": "11",
+   "inicio": 60.22,
+   "fin": 60.7,
+   "corte": false
+  },
+  {
+   "texto": "millones",
+   "inicio": 60.71,
+   "fin": 61.19,
+   "corte": false
+  },
+  {
+   "texto": "de",
+   "inicio": 61.19,
+   "fin": 61.38,
+   "corte": false
+  },
+  {
+   "texto": "coronas.",
+   "inicio": 61.39,
+   "fin": 61.82,
+   "corte": true
+  },
+  {
+   "texto": "¿Tú",
+   "inicio": 62.24,
+   "fin": 62.39,
+   "corte": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 62.39,
+   "fin": 62.57,
+   "corte": false
+  },
+  {
+   "texto": "harías",
+   "inicio": 62.57,
+   "fin": 62.85,
+   "corte": false
+  },
+  {
+   "texto": "con",
+   "inicio": 62.86,
+   "fin": 63.03,
+   "corte": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 63.04,
+   "fin": 63.18,
+   "corte": false
+  },
+  {
+   "texto": "fortuna?",
+   "inicio": 63.18,
+   "fin": 63.5,
+   "corte": true
+  },
+  {
+   "texto": "Mañana",
+   "inicio": 64.06,
+   "fin": 64.42,
+   "corte": false
+  },
+  {
+   "texto": "se",
+   "inicio": 64.42,
+   "fin": 64.6,
+   "corte": false
+  },
+  {
+   "texto": "abre",
+   "inicio": 64.6,
+   "fin": 64.87,
+   "corte": false
+  },
+  {
+   "texto": "la",
+   "inicio": 64.87,
+   "fin": 65.04,
+   "corte": false
+  },
+  {
+   "texto": "puerta",
+   "inicio": 65.05,
+   "fin": 65.4,
+   "corte": false
+  },
+  {
+   "texto": "11.",
+   "inicio": 65.4,
+   "fin": 65.85,
+   "corte": true
+  },
+  {
+   "texto": "Sígueme",
+   "inicio": 66.16,
+   "fin": 66.66,
+   "corte": false
+  },
+  {
+   "texto": "para",
+   "inicio": 66.66,
+   "fin": 66.99,
+   "corte": false
+  },
+  {
+   "texto": "no",
+   "inicio": 66.99,
+   "fin": 67.21,
+   "corte": false
+  },
+  {
+   "texto": "perdértela.",
+   "inicio": 67.21,
+   "fin": 67.87,
+   "corte": true
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Bienvenidos al calendario de historias de Adviento: cada día de diciembre, una historia real que pasó ese mismo día.",
+   "inicio": 0.0,
+   "fin": 6.97
+  },
+  {
+   "texto": "Hoy abrimos la puerta 10: Nobel y la dinamita.",
+   "inicio": 7.5,
+   "fin": 11.12
+  },
+  {
+   "texto": "10 de diciembre.",
+   "inicio": 11.68,
+   "fin": 12.73
+  },
+  {
+   "texto": "Cada año, este día se entregan los premios Nobel, pagados con la fortuna de la dinamita.",
+   "inicio": 13.3,
+   "fin": 18.46
+  },
+  {
+   "texto": "Alfred Nobel fue un químico sueco que inventó la dinamita y se hizo riquísimo vendiéndola para minas, túneles… y guerras.",
+   "inicio": 18.96,
+   "fin": 25.86
+  },
+  {
+   "texto": "En 1888 murió su hermano, y un periódico se equivocó: publicó la necrológica de Alfred.",
+   "inicio": 26.2,
+   "fin": 33.63
+  },
+  {
+   "texto": "El titular decía algo así: ha muerto el mercader de la muerte.",
+   "inicio": 33.98,
+   "fin": 38.11
+  },
+  {
+   "texto": "Se cuenta que leer cómo lo recordaría el mundo lo cambió.",
+   "inicio": 38.66,
+   "fin": 41.94
+  },
+  {
+   "texto": "En su testamento dejó casi toda su fortuna, unos 31 millones de coronas, para premiar a quienes más ayudaran a la humanidad.",
+   "inicio": 42.38,
+   "fin": 49.88
+  },
+  {
+   "texto": "Su familia intentó impedirlo.",
+   "inicio": 50.28,
+   "fin": 51.82
+  },
+  {
+   "texto": "Pero en 1901, justo el día del aniversario de su muerte, se entregaron los primeros premios Nobel.",
+   "inicio": 52.21,
+   "fin": 58.27
+  },
+  {
+   "texto": "Hoy cada premio vale unos 11 millones de coronas.",
+   "inicio": 58.71,
+   "fin": 61.82
+  },
+  {
+   "texto": "¿Tú qué harías con tu fortuna?",
+   "inicio": 62.24,
+   "fin": 63.5
+  },
+  {
+   "texto": "Mañana se abre la puerta 11.",
+   "inicio": 64.06,
+   "fin": 65.85
+  },
+  {
+   "texto": "Sígueme para no perdértela.",
+   "inicio": 66.16,
+   "fin": 67.87
+  }
+ ],
+ "duracion": 67.87
+}

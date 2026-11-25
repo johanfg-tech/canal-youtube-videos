@@ -7,8 +7,8 @@ export const chinaOmc: HistoriaFlow = {
   guion,
   adviento: { puerta: 11, fecha: "11 de diciembre", anio: "2001" },
   planos: [
-    { frase: 3, src: "v_etiqueta.mp4", video: true },
-    { frase: 3, parte: 0.55, src: "i06.jpg" },
+    { frase: 3, src: "i06.jpg" },
+    { frase: 3, parte: 0.4, src: "v_etiqueta.mp4", video: true },
     { frase: 4, src: "v_doha.mp4", video: true },
     { frase: 5, src: "i05.jpg" },
     { frase: 6, src: "i01.jpg" },

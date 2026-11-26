@@ -26,10 +26,11 @@ import { ibmLenovo } from "./ibmLenovo";
 import { viruela } from "./viruela";
 import { nobelDinamita } from "./nobelDinamita";
 import { chinaOmc } from "./chinaOmc";
+import { monaLisa } from "./monaLisa";
 import { rockefeller } from "./rockefeller";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, apolo17, ibmLenovo, viruela, nobelDinamita, chinaOmc, rockefeller,
+  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, apolo17, ibmLenovo, viruela, nobelDinamita, chinaOmc, monaLisa, rockefeller,
 ];

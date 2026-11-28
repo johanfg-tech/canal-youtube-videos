@@ -28,10 +28,11 @@ import { nobelDinamita } from "./nobelDinamita";
 import { chinaOmc } from "./chinaOmc";
 import { monaLisa } from "./monaLisa";
 import { drakeTesoro } from "./drakeTesoro";
+import { poyais } from "./poyais";
 import { rockefeller } from "./rockefeller";
 
 export const HISTORIAS_FLOW: HistoriaFlow[] = [
   apple, torre, pepsiAvion, pepsiFlota, loteria, clipRojo, blockbuster,
   mansaMusa, huntPlata, nauru, errorDedo, mcdonalds, manhattan, bitcoinsBasura,
-  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, apolo17, ibmLenovo, viruela, nobelDinamita, chinaOmc, monaLisa, drakeTesoro, rockefeller,
+  salvatorMundi, paseVuelos, fordCadena, enron, primerSms, panAm, leySeca, orangeCounty, apolo17, ibmLenovo, viruela, nobelDinamita, chinaOmc, monaLisa, drakeTesoro, poyais, rockefeller,
 ];
